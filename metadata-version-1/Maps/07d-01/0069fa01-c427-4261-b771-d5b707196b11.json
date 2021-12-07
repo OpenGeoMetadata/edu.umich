@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0069fa01-c427-4261-b771-d5b707196b11",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Philips' special large scale map of the North Western Frontier.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0069fa01-c427-4261-b771-d5b707196b11",
+  "solr_geom": "ENVELOPE(65.85,90,38,24)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Philip, George & Son."
+  ],
+  "dc_description_s": "Relief shown by spot heights and land forms. Includes 2 insets: \"Military map of Indian Empire\" and \"Overland routes to India\". 1 map: col.; 50 x 69 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003288557/39015091916562\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003288557\"}",
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

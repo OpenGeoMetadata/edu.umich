@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3df404d1-e852-4985-8ed2-c5e4499afcbb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ducatus Holsatiae nova tabula.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3df404d1-e852-4985-8ed2-c5e4499afcbb",
+  "solr_geom": "ENVELOPE(8.47,11.35,54.87,53.42)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Vignaud, Henry, 1830-1922, former owner.,Hondius, Hendrik, 1597-1651, cartographer.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix 1630."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships on the oceans and insets of Nord Friesische Inseln and of Barmer Zee and Megger Zee. Depths shown by soundings. This state was published in atlases by Jan Jansson and Henricus Hondius in 1630, 1631, and 1632. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 50 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012496037/39015091192362_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012496037\"}",
+  "dct_spatial_sm": [
+    "Schleswig-Holstein, Germany",
+    "Germany"
+  ],
+  "layer_modified_dt": "2021-05-08T16:42:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

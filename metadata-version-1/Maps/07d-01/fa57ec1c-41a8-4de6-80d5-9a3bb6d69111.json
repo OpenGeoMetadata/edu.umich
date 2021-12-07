@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fa57ec1c-41a8-4de6-80d5-9a3bb6d69111",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Rakuchū Rakugai machimachi kona taisei Kyō saiken ezu.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "fa57ec1c-41a8-4de6-80d5-9a3bb6d69111",
+  "solr_geom": "ENVELOPE(135.71,135.79,35.05,34.95)",
+  "solr_year_i": "1864",
+  "dc_creator_sm": [
+    "Takehara, Yoshibē."
+  ],
+  "dc_description_s": "Mounted cover title. Wood block print. Oriented with north at the top. In Japanese. Relief shown pictorially. Includes distance chart. Includes text and legend pasted on upper left corner. 1 map: col.; 88 x 57 cm., folded in cover 21 x 16 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002460148/39015091921554_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002460148\"}",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Genji 1 1864"
+  ]
+}

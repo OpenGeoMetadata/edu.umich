@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1ce4679e-2554-4c03-9f70-d822e950466a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The world on Mercator's projection.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1ce4679e-2554-4c03-9f70-d822e950466a",
+  "solr_geom": "ENVELOPE(-179.87,179.53,85.95,-83.57)",
+  "solr_year_i": "1823",
+  "dc_creator_sm": [
+    "Tanner, Henry Schenck, 1786-1858."
+  ],
+  "dc_description_s": "In Tanner's A new American atlas, containing maps of the several states of the North American union. Philadelphia, 1823. 1 map. 18 x 22 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004270384/39015091197049\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004270384\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1823"
+  ]
+}

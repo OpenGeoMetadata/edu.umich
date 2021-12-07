@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2c4a43db-b69e-4fbb-ac6d-b52bbe88faef",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bolonia et Guines comitatus.; Bolonia & Gvines comitatvs",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2c4a43db-b69e-4fbb-ac6d-b52bbe88faef",
+  "solr_geom": "ENVELOPE(1.51,2.4,51.07,50.37)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Hondius, Jodocus, 1594 or 1595-1629.,Vignaud, Henry, 1830-1922, former owner.,Jansson, Jan, 1588-1664. Appendix Atlas."
+  ],
+  "dc_description_s": "Relief shown pictorially. North is oriented to the right side of the map. Includes the French coat of arms and illustrations of ships on the ocean. This state was published in atlases by Jan Jansson between 1631 and 1633. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012543974/39015091191471_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012543974\"}",
+  "dct_spatial_sm": [
+    "Pas-de-Calais, Hauts-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

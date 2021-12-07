@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b485e47e-25f7-487c-9456-dfe75752b7cc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "[Detroit City Center plat map]",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b485e47e-25f7-487c-9456-dfe75752b7cc",
+  "solr_geom": "ENVELOPE(-83.0599,-83.06,42.3601,42.36)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "Scale not given. Includes blocks bounded by Kirby Ave on the north, Brush St. on the east, Warren Ave. on the south and John R. St. on the west. 1 map: blueprint; 40 x 24 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281322/39015091196322\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281322\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-10T15:11:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1910 and 1919"
+  ]
+}

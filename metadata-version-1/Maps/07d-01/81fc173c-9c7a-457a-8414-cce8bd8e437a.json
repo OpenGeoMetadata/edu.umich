@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "81fc173c-9c7a-457a-8414-cce8bd8e437a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the United States, the British provinces, Mexico &c.; drawn & engraved by J.M. Atwood.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "81fc173c-9c7a-457a-8414-cce8bd8e437a",
+  "solr_geom": "ENVELOPE(-127.13,-49.65,57.8,6.37)",
+  "solr_year_i": "1849",
+  "dc_creator_sm": [
+    "Atwood, John M., approximately 1818-,Colton, J. H. (Joseph Hutchins), 1800-1893."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. Shows California's gold region and western trails. \"Entered according to act of Congress in the year 1849 by J.H. Colton ...\" Prime meridians: Greenwich and Washington. \"Printed at Ackermans r[ooms 120?] Fulton St. N.Y.\" Includes 2 insets, ill., and distance table. 1 map: hand col.; 39 x 55 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006845029/39015091186224\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006845029\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ]
+}

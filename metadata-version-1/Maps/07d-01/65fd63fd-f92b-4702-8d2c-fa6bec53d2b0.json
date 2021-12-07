@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .O83 A3 1880 .S7|013533164|39015091897267",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Otsego, Allegan County, Michigan.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "65fd63fd-f92b-4702-8d2c-fa6bec53d2b0",
+  "solr_geom": "ENVELOPE(-85.7,-85.69,42.47,42.45)",
+  "solr_year_i": "1880",
+  "dc_creator_sm": [
+    "Beck & Pauli, lithographer."
+  ],
+  "dc_description_s": "1 map : 38 x 61 cm.|Relief shown pictorially.|North is oriented to the bottom of the map.|Bird's eyes view includes index of buildings and landmarks throughout the city. Also includes names of streets on the map.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013533164/39015091897267\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013533164\"}",
+  "dct_spatial_sm": [
+    "Otsego,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1880"
+}

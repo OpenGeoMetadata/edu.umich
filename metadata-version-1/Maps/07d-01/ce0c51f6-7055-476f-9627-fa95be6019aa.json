@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ce0c51f6-7055-476f-9627-fa95be6019aa",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ann Arbor, Michigan, general plan.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ce0c51f6-7055-476f-9627-fa95be6019aa",
+  "solr_geom": "ENVELOPE(-83.75,-83.71,42.3,42.26)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Olmsted Brothers."
+  ],
+  "dc_description_s": "Relief shown by contours. \"June 16, 1920.\" Shows existing and proposed parks, land use as parks, cemeteries, proposed streets, change in street profile or cross section, main thoroughfares, existing car lines and proposed car lines. \"File no. 3629, plan no. 7.\" 1 map: photocopy, mounted on linen; 79 x 95 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003188153/39015049936647\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003188153\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T19:42:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

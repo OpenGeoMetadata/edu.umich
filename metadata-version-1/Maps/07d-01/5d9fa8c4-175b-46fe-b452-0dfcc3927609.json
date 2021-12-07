@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3701 .E65 1957 .S3|003287892|39015091920754",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A Literary Map of the United States based on the United States in Literature",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5d9fa8c4-175b-46fe-b452-0dfcc3927609",
+  "solr_year_i": "1957",
+  "dc_description_s": "1 map : col.; 35 x 54 cm",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287892/39015091920754\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287892\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "approximately 1957 "
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b1838e9b-918b-4ffe-8262-edc854541b2c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geographical and historical map of China.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b1838e9b-918b-4ffe-8262-edc854541b2c",
+  "solr_geom": "ENVELOPE(97,135,43,18)",
+  "solr_year_i": "1821",
+  "dc_creator_sm": [
+    "Lavoisne, C. V.,Gros, C."
+  ],
+  "dc_description_s": "Map has border text. \"China and the tributary kingdom of Corea. For the elucidation of Lavoisne's Genealogical, historical, chronological & geographical atlas, by C. Gros. 1821.\" This map is no. 64 in Lavoisne's A complete genealogical, historical, chronological and geographical atlas...\"Third Philadelphia edition, 1821...from the London Edition of 1817.\" For the 2d ed., 1820, see D 21.5 .L41 1820. 1 map: hand col.; 21 x 26 cm on sheet 48 x 53 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282470/39015091916620\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282470\"}",
+  "dct_spatial_sm": [
+    "Eastern Asia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1821"
+  ]
+}

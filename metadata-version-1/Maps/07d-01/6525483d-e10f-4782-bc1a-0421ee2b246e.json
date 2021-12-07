@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6525483d-e10f-4782-bc1a-0421ee2b246e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Verschiedene prospecte der vornemsten stadten in Persien.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6525483d-e10f-4782-bc1a-0421ee2b246e",
+  "solr_geom": "ENVELOPE(41.18,65.92,46.43,26.97)",
+  "solr_year_i": "1762",
+  "dc_creator_sm": [
+    "Homann Erben (Firm)"
+  ],
+  "dc_description_s": "Views of 15 cities. Scales vary. 15 views: hand col.; on sheet 55 x 64 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282723/39015091916539\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282723\"}",
+  "dct_spatial_sm": [
+    "Iran"
+  ],
+  "layer_modified_dt": "2021-05-07T19:07:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1762"
+  ]
+}

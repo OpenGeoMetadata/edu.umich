@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4080 1832 .Y6|002590405|39015091905409",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Ohio and selected parts of Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "81608dd1-88f6-4263-bd00-bce1b87f94d1",
+  "solr_geom": "ENVELOPE(-85.08,-80.08,43.92,30.17)",
+  "solr_year_i": "1833",
+  "dc_creator_sm": [
+    "Finley, A. (Anthony)"
+  ],
+  "dc_description_s": "1 map : hand col., mounted on muslin ; 48 x 32 cm|Washington and Greenwich prime meridians.|Also shows parts of Indiana, Kentucy, Virginai, Pennsylvania, and Ontario.|Includes \"Profile of the Ohio and Erie Canal.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002590405/39015091905409\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002590405\"}",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "layer_modified_dt": "2021-05-18T15:02:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1833"
+}

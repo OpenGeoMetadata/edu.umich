@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4042 .M5H2 1829 .C5|003279017|39015091905730",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the United States lead mines on the upper Mississippi River",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "4c1e4176-99ff-49fa-a445-abdb2925fbfd",
+  "solr_geom": "ENVELOPE(-91.21,-89.07,43.55,41.41)",
+  "solr_year_i": "1829",
+  "dc_creator_sm": [
+    "Martin, E. B.",
+    "Colorado-Henkle Collection. IDeKN"
+  ],
+  "dc_description_s": "1 map : col. ; 38 x 45 cm, folded in cover 10 x 5 cm|Cover title: Map of lead mines.|Relief shown pictorially.|Includes an area bounded by the Wisconsin, Mississippi, and Rock Rivers.|In borders: text.|Folder title: Lead mines.|Colorado-Henkle Collection. IDeKN",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279017/39015091905730\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279017\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1829"
+}

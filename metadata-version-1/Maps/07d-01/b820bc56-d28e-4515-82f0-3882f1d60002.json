@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b820bc56-d28e-4515-82f0-3882f1d60002",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Provisional geological map of part of the Chippeway sand district of Wisconsin with part of Iowa & of Minnesota Terratory [sic]: to illustrate the report of a geological reconnoissance made in 1847; by David Dale Owen.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b820bc56-d28e-4515-82f0-3882f1d60002",
+  "solr_geom": "ENVELOPE(-93.83,-89,47.17,42.67)",
+  "solr_year_i": "1848",
+  "dc_creator_sm": [
+    "Owen, David Dale, 1807-1860."
+  ],
+  "dc_description_s": "Shows area north and west of Wisconsin River watershed and south and east of the Saint Louis River and the upper Mississippi River. From: Senate ex. doc., 30th Cong., 1st session, no. 57. 1 map: hand col.; 83 x 61 cm  e geological sections (14 sheets; 32 x 61 cm or smaller) This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003063750/39015091897218\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003063750\"}",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ]
+}

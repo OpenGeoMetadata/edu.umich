@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b1e9c2eb-d6bd-45e5-9831-235fff5e9558",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Chicago & Northwestern railway, and its connections.; Map of the Chicago and Northwestern Railway and its connections",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b1e9c2eb-d6bd-45e5-9831-235fff5e9558",
+  "solr_geom": "ENVELOPE(-104.07,-84.23,49.38,39.98)",
+  "solr_year_i": "1883",
+  "dc_creator_sm": [
+    "Chicago and North Western Railway Company.,Chicago and North Western Railway Company."
+  ],
+  "dc_description_s": "Relief shown by hachures. 1 map: col.; 43 x 66 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281614/39015091192594\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281614\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ]
+}

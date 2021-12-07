@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "71ebd0a1-461d-40af-8a12-649413a57eb2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Shinpan zōho Ōsaka no zu: zen.; Zōho Ōsaka no zu;Ōsaka no zu",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "71ebd0a1-461d-40af-8a12-649413a57eb2",
+  "solr_geom": "ENVELOPE(135.46,135.54,34.7,34.65)",
+  "solr_year_i": "1787",
+  "dc_creator_sm": [
+    "Kikuya, Shichirobē.,Harimaya, Kyūbē."
+  ],
+  "dc_description_s": "Mounted cover title. Wood block print. Oriented with north to the bottom. Includes text and distance chart. 1 map: col.; 49 x 38 cm., folded in cover 17 x 11 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003109974/39015091921612_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003109974\"}",
+  "dct_spatial_sm": [
+    "Osaka, Ōsaka, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Tenmei 7 1787"
+  ]
+}

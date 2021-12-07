@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/5c58f1f6b9074d7aa2cdcf28ba9981a0_0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Soils of the Arb: University of Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5c58f1f6b9074d7aa2cdcf28ba9981a0_0",
+  "solr_geom": "ENVELOPE(-83.7336,-83.7031,42.2925,42.2714)",
+  "solr_year_i": "2019",
+  "dc_creator_sm": [
+    "UM Matthaei Botanical Gardens and Nichols Arboretum"
+  ],
+  "dc_description_s": "Soils at Nichols Arboretum in Ann Arbor, Michigan from the Natural Resource Conservation Service SSURGO Soils Database. The SSURGO database contains information about soil as collected by the National Cooperative Soil Survey over the course of a century. The information can be displayed in tables or as maps and is available for most areas in the United States and the Territories, Commonwealths, and Island Nations served by the USDA-NRCS. The information was gathered by walking over the land and observing the soil. Many soil samples were analyzed in laboratories. The maps outline areas called map units. The map units describe soils and other components that have unique properties, interpretations, and productivity. The information was collected at scales ranging from 1:12,000 to 1:63,360. More details were gathered at a scale of 1:12,000 than at a scale of 1:63,360. The mapping is intended for natural resource planning and management by landowners, townships, and counties. Some knowledge of soils data and map scale is necessary to avoid misunderstandings.The maps are linked in the database to information about the component soils and their properties for each map unit. Each map unit may contain one to three major components and some minor components. The map units are typically named for the major components. Examples of information available from the database include available water capacity, soil reaction, electrical conductivity, and frequency of flooding; yields for cropland, woodland, rangeland, and pastureland; and limitations affecting recreational development, building site development, and other engineering uses.SSURGOdatasets consist of map data, tabular data, and information about how the maps and tables were created. The extent of aSSURGOdataset is a soil survey area, which may consist of a single county, multiple counties, or parts of multiple counties.SSURGOmap data can be viewed in the Web Soil Survey or downloaded in ESRI Shapefile format. The coordinate systems are Geographic. Attribute data can be downloaded in text format that can be imported into a Microsoft Access database.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://mbgna-umich.opendata.arcgis.com/datasets/5c58f1f6b9074d7aa2cdcf28ba9981a0_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/Arb_SOIL_SSURGO_py/FeatureServer/0\",\"http://schema.org/url\":\"https://mbgna-umich.opendata.arcgis.com/datasets/5c58f1f6b9074d7aa2cdcf28ba9981a0_0\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Washtenaw County, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T23:04:33Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2019-02-07",
+  "dct_temporal_sm": [
+    "2019"
+  ]
+}

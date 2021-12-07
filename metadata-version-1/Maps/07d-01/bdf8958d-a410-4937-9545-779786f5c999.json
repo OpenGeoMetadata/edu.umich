@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bdf8958d-a410-4937-9545-779786f5c999",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Archipel des Indes Orientales qui comprend les iles de la Sonde, Moluques et Philippines: tirées des cartes du Neptune Oriental; par le Sr. Robert.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "bdf8958d-a410-4937-9545-779786f5c999",
+  "solr_geom": "ENVELOPE(94.78,136.22,20.2,-16.02)",
+  "solr_year_i": "1750",
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Didier, 1723-1786."
+  ],
+  "dc_description_s": "Relief shown pictorially. 1 map: hand col.; 47 x 58 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004060251/39015091916695_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004060251\"}",
+  "dct_spatial_sm": [
+    "South Eastern Asia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ]
+}

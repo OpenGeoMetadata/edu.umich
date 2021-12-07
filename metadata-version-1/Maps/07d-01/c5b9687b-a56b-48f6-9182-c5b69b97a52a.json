@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c5b9687b-a56b-48f6-9182-c5b69b97a52a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Washington Territory; compiled and drawn by Robt. H. Morton.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c5b9687b-a56b-48f6-9182-c5b69b97a52a",
+  "solr_geom": "ENVELOPE(-125,-116.5,49,45)",
+  "solr_year_i": "1887",
+  "dc_creator_sm": [
+    "United States. General Land Office.,Morton, Robert H."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. \"Compiled from the official records of the General land Office and other sources ...\" Prime meridians: Greenwich and Washington. 1 map: col.; 54 x 70 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009674505/39015091914294\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009674505\"}",
+  "dct_spatial_sm": [
+    "Jammu and Kashmir, Kashmir, India",
+    "India"
+  ],
+  "layer_modified_dt": "2021-05-07T19:07:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ]
+}

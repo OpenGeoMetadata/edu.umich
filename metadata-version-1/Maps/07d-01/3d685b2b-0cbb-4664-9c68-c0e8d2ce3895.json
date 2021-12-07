@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 5834 .P3 1725 .R6|007507399|39015091910961_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nouveau plan de la ville, cité et université de Paris : Dedie a son Altesse Royale Monseigneur le Duc Dorleans petit fils de France. Regent du Royaume / gravé par Roussel",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3d685b2b-0cbb-4664-9c68-c0e8d2ce3895",
+  "solr_geom": "ENVELOPE(2.29,2.4,48.89,48.82)",
+  "solr_year_i": "1725",
+  "dc_creator_sm": [
+    "Vallée, L.-L. (Louis-Léger), 1784-1864."
+  ],
+  "dc_description_s": "1 map : hand col., mounted on linen ; 78 x 107 cm.|Inset map in upper left shows the area surrounding Paris.|An index has been added onto the outermost edges of the map sheet.|Along the left, bottom, and right borders of the map are small illustrations with descriptive text depicting: Veues de Paris du côté du faubourg St. Marceau, Versailles du cote de Paris, Trianon, Meudon, Chambord, Madrid, Vincennes, La porte St. Antoine, La porte St. Denis, Notre Dame, Hôtel de ville de Paris, Le Palais, Les Tuilleries du côté du Carousel, La Place Royale, Le Palais Royal cy-devant Palais Cardinal, La Place des Victoires, La place de Vendôme ou de Louis le Grand, le Val de Grace, l'Observatoire, Choisy, Le Jardin royal, Le College des 4 Nations, La Sorbonne, Le Luxembourg, La Samaritaine du Pont Neuf, La Machine de Marli, Marli, La Statue d'Henri III, La porte St. Bernard, La porte St. Martin, St. Cloud, St. Germain en Laye, Fontainebleau, St. Cyr, La Managerie, Versailles du côte du jardin, Veue de Paris du coté du Pont-Royal. In the upper left corner, \"Veues de Paris du côté du faubourg St Marceau\" is accompanied by the coat of arms of France and more descriptive text than most of the other illustrations. \"Veue de Paris du coté du Pont-Royal\" in the upper right has the coat of arms of Paris, and more descriptive text.|\"Se vend a Paris chez Roussel graveur Rue St. Iacques au-dessus de la Rue des Noyers.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007507399/39015091910961_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007507399\"}",
+  "dct_spatial_sm": [
+    "Paris,  Île-de-France,  France",
+    "Île-de-France,  France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:45Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1725"
+}

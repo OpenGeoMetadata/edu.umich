@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "afcbb8e5-7fd7-4290-a420-f2904122cc89",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of an exploring expedition to the Rocky Mountains in the year 1842: and to Oregon & North California in the years 1843-44 by J.C. Fremont ... under the orders of J.J. Abert, Chief of the Topographical Bureau.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "afcbb8e5-7fd7-4290-a420-f2904122cc89",
+  "solr_geom": "ENVELOPE(-125,-94,46,34)",
+  "solr_year_i": "1845",
+  "dc_creator_sm": [
+    "Frémont, John Charles, 1813-1890."
+  ],
+  "dc_description_s": "Includes: Profile of the route from the mouth of the Kansas to the Pacific by Capt. J.C. Fremont in 1843. Scale 1:3,000,000. Or 47,35 [i.e. 47.35] miles to one in. MiU copy mounted on chartex. From \"Report of the exploring expedition to the Rocky mountains inyear 1842, and to Oregon and north California in the years 1843-44\". 1 map on 2 sheets: col.; 76 x 127 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000079604/39015091905748_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000079604\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1845"
+  ]
+}

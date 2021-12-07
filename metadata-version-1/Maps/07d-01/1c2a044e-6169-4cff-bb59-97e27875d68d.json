@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1c2a044e-6169-4cff-bb59-97e27875d68d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Coste occidentale d'Afrique, depuis le XI dgr de latitude mridionale jusqu'au Cap de bonne Esprance...",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1c2a044e-6169-4cff-bb59-97e27875d68d",
+  "solr_geom": "ENVELOPE(-7.42,21.55,-9.55,-35.92)",
+  "solr_year_i": "1739",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "1 map; 25 x 27 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281119/39015091193667\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281119\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1739"
+  ]
+}

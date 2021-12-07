@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "96c99e2d-fb12-4649-b857-65d7ca5ea995",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Afrique: divisée suivant l'estendue ses principales parties ou sont distingués les uns des autres les empires, monarchies, royaumes, estats, et peuples qui partagent aujord'huy l'Afrique; Sur les relations les plus nouvelles par le Sr. Sanson, geographe ordinaire du roy. Presentée a Monseignur le Dauphin par son tres humble, tres obeissant, et tres fidele scruiteur Hubert Iaillot. Cordier, sculp.; Afrique distinguée en ses principales parties sçavoir la Barbarie, le Biledulgerid, L'Egypte, Le Saara ou le Desert, le pays des Negres",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "96c99e2d-fb12-4649-b857-65d7ca5ea995",
+  "solr_geom": "ENVELOPE(-57.65,58.62,39.85,-35.63)",
+  "solr_year_i": "1700",
+  "dc_creator_sm": [
+    "Jaillot, Alexis Hubert, 1632?-1712.,Sanson, Nicolas, 1600-1667."
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridian: [Ferro]. Shows political subdivisions in Africa. 5 written on verso. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004154344/39015091193550\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004154344\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ]
+}

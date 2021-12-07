@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ca5d1cc9-c662-40e8-a39d-eec63dd29ef5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Utriusque hemispherii delineatio",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ca5d1cc9-c662-40e8-a39d-eec63dd29ef5",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1597",
+  "dc_creator_sm": [
+    "Wytfliet, Corneille."
+  ],
+  "dc_description_s": "Relief shown pictorially. From: \"Descriptionis Ptolemaicae Augmentum\". 1 map; 2 hemispheres each 14 cm. diam., on sheet 30 x 38 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002879869/39015091198484\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002879869\"}",
+  "dct_spatial_sm": [
+    "Earth"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1597?"
+  ]
+}

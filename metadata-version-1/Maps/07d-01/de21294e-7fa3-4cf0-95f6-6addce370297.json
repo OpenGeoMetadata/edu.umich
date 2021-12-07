@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "de21294e-7fa3-4cf0-95f6-6addce370297",
+  "dc_rights_s": "Public",
+  "dc_title_s": "America Septentrionalis.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "de21294e-7fa3-4cf0-95f6-6addce370297",
+  "solr_geom": "ENVELOPE(-128,-32.95,67.72,4.23)",
+  "solr_year_i": "1641",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Hondius, Hendrik, 1597-1651."
+  ],
+  "dc_description_s": "Relief shown pictorially. Covers North America, Central America, and northern part of South America. California shown as an island. State 2, according to Burden. 1 map: hand col.; 44 x 53 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003781032/39015091197429\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003781032\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1641"
+  ]
+}

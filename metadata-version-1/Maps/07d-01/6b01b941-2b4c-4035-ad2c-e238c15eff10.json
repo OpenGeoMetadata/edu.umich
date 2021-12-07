@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6b01b941-2b4c-4035-ad2c-e238c15eff10",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tōkyō shiku kaisei shukuzu zen; Tōkyō Fuchō.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6b01b941-2b4c-4035-ad2c-e238c15eff10",
+  "solr_geom": "ENVELOPE(139.7,139.87,35.78,35.6)",
+  "solr_year_i": "1889",
+  "dc_creator_sm": [
+    "Tokyo (Japan : Fu)"
+  ],
+  "dc_description_s": "Mounted cover title. Lithograph In Japanese. Relief shown by hachures. Oriented with north to the upper right. Includes 2 insets and legend. 4 sheets joined. 1 map: col.; 64 x 81 cm, folded in cover 21 x 14 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002457628/39015091193147_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002457628\"}",
+  "dct_spatial_sm": [
+    "Tokyo, Tokyo, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 22 1889"
+  ]
+}

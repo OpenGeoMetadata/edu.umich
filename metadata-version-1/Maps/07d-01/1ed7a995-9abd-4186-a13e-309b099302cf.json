@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1ed7a995-9abd-4186-a13e-309b099302cf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Michigan and Wisconsin for the eclectic geographies by Russell Hinman.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1ed7a995-9abd-4186-a13e-309b099302cf",
+  "solr_geom": "ENVELOPE(-93.07,-79.53,47.65,41.5)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Hinman, Russell, 1853-1912."
+  ],
+  "dc_description_s": "Washington and Greenwich prime meridians. Shows major cities and towns. Shows counties in Michigan and Wisconsin. Inset maps: Map of Isle Royale Co., Mich. -- The vicinity of Milwaukee. -- The Vicinity of Detroit, Mich., and Detroit River. 1 map: col., mounted on cloth; 27 x 45 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081015/39015091880156\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081015\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

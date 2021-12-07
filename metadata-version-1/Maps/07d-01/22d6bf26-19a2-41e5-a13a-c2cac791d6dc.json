@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "22d6bf26-19a2-41e5-a13a-c2cac791d6dc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Manpō o-Edo ezu; Takashiba San'yū.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "22d6bf26-19a2-41e5-a13a-c2cac791d6dc",
+  "solr_geom": "ENVELOPE(139.68,139.95,35.76,35.57)",
+  "solr_year_i": "1852",
+  "dc_creator_sm": [
+    "Takashiba, San'yū, 19th cent."
+  ],
+  "dc_description_s": "Cover title. Wood block print. Oriented with north to the right. Relief shown pictorially. Cadastral map. Includes list of points of interest. Extension pasted on the bottom of map. 1 map: col.; 76 x 89 cm, folded in covers 18 x 13 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003100490/39015091193287_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003100490\"}",
+  "dct_spatial_sm": [
+    "Tokyo, Tokyo, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Kaei 5 1852"
+  ]
+}

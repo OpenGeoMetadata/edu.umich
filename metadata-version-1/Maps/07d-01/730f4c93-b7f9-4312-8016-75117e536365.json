@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .Y6G46 18-- .W6|013476986|39015091897051",
+  "dc_rights_s": "Public",
+  "dc_title_s": "H.W. Larzelere Addition",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "730f4c93-b7f9-4312-8016-75117e536365",
+  "solr_year_i": "1800",
+  "dc_description_s": "1 map ; 58 x 88 cm|Shows the H.W. Larzelere Addition. Includes street dimensions.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013476986/39015091897051\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013476986\"}",
+  "dct_spatial_sm": [
+    "Ypsilanti,  Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

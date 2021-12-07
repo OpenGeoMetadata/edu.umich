@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3300 1719 .L3|003278749|39015091886682",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte particuliere du fleuve Saint Louis",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2911d63b-cbb8-4282-ba56-ef079a0015b4",
+  "solr_geom": "ENVELOPE(-93.67,-58.95,54.34,35.92)",
+  "solr_year_i": "1719",
+  "dc_creator_sm": [
+    "Chatelain, Henri Abraham.",
+    "Chatelain, Henri Abraham. Atlas historique."
+  ],
+  "dc_description_s": "1 map ; 27 x 31 cm., on sheet 46 x 51 cm.|Prime meridian: [Ferro]|Text, listing Indian tribes, natural resources, and trade good values, surrounds map.|From: Atlas historique, Tom. VI, between p. 90-91. [Amsterdam : Chatelain, 1715-1720?]|Chatelain copy of Lahontan's 1703 map of Canada.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003278749/39015091886682\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003278749\"}",
+  "dct_spatial_sm": [
+    "Great Lakes"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-14T22:11:44Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1719"
+}

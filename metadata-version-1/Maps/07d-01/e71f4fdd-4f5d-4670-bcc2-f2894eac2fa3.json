@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e71f4fdd-4f5d-4670-bcc2-f2894eac2fa3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Michigan; published by S. Wangersheim.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e71f4fdd-4f5d-4670-bcc2-f2894eac2fa3",
+  "solr_geom": "ENVELOPE(-87.92,-82.28,47.17,41.5)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Wangersheim, S."
+  ],
+  "dc_description_s": "Shows county and township boundaries. Includes continuation inset of upper peninsula. Pp. 64-65 from an atlas. 1 map: col.; 63 x 40 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010563905/39015091880511\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010563905\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

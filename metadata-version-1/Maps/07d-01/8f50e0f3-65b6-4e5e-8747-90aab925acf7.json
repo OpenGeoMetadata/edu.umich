@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8f50e0f3-65b6-4e5e-8747-90aab925acf7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A map of the British and French settlements in North America; J. Lodge, delin. et sculp.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8f50e0f3-65b6-4e5e-8747-90aab925acf7",
+  "solr_geom": "ENVELOPE(-96.88,-51.68,52.57,28.85)",
+  "solr_year_i": "1755",
+  "dc_creator_sm": [
+    "Lodge, John, -1796.,Dahl, James, former owner."
+  ],
+  "dc_description_s": "Covers the eastern half of North America from Hudson Bay to the Gulf of Mexico. Relief shown pictorially. Shows boundaries, cities and towns, forts, Indian villages and tribal territory, and \"Earl Granville's Property.\" \"Longitude w. from London.\" \"The French Incroachments are shewn by Oblique strokes, and their Forts with two Strokes, the English Forts by a single Stroke.\" Includes a brief historical note on the English claim to North America and the origins of several colonies. Appeared in Gentleman's Magazine in July, 1755. 1 map; 28 x 39 cm., folded to 18 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003566121/39015095390566\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003566121\"}",
+  "dct_spatial_sm": [
+    "Northern America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1755?"
+  ]
+}

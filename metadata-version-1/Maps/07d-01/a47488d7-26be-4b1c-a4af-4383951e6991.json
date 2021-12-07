@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a47488d7-26be-4b1c-a4af-4383951e6991",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Orbis vetus in utrâque continente: juxta mentem Sansonianam distinctus, nec non observationibus astronomicis redactus, accurante; Robert de Vaugondy, geographo regis ordinario.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a47488d7-26be-4b1c-a4af-4383951e6991",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1752",
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Gilles, 1688-1766.,Boudet, Antoine, 1715?-1787 engraver.,Dahl, James, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes two latin inscriptions about the author and mapseller. Also includes a decorative cartouche framed by an angel and two cherubs. A decorative cartouche frames the \"Monitum.\" [In Atlas universal, Paris, 1752. Map no. 1.] 1 map: hand col.; 48 x 72 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003286864/39015091197825\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003286864\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1752"
+  ]
+}

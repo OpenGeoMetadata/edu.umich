@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "62909ea6-3206-4c35-a4b9-9b688ef2a630",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of London: made from an actual survey in the years 1824, 1825, & 1826",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "62909ea6-3206-4c35-a4b9-9b688ef2a630",
+  "solr_year_i": "1824",
+  "dc_creator_sm": [
+    "C. & J. Greenwood",
+    "Neele, Josiah.,Greenwood, C. (Christopher), 1786-1855",
+    "Greenwood, J. (John), 1791-1867."
+  ],
+  "dc_description_s": "By C. & J. Greenwood, extended and comprising the various improvements to 1830 |engraved By Josiah Neele. |Covers central London as well surrounding counties. Shows city and county boundaries, names of streets, drainage, names of churches, and other points of interest. Relief shown By hachures. Dedication below title: \"Humbly dedicated to His Most Gracious Majesty King William the Fourth By the proprietors. Green Wood & Co., Regent Street, Pall Mall.\" Engravings on sheet 4: [Westminster Cathedral] -- Sheet 6: [St. Paul's Cathedral]. Includes \"Explanation\" table for points of interest & \"References to the Parishes &c.\" 1 map on 6 sheets: col.; 124 x 158 cm., each sheet 72 x 66 cm.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011266018/39015091186851\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011266018\"}",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-27T14:44:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1830",
+  "dct_temporal_sm": [
+    "1824-1826"
+  ]
+}

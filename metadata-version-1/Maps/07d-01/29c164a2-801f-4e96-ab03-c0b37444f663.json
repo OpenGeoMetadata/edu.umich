@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4081 .F2 1835 .H77|003560564|39015091901754_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ohio Boundary",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "29c164a2-801f-4e96-ab03-c0b37444f663",
+  "solr_geom": "ENVELOPE(-82.55,-82.38,41.42,41.35)",
+  "solr_year_i": "1835",
+  "dc_creator_sm": [
+    "Lee, Robert E. (Robert Edward), 1807-1870.",
+    "Talcott, Andrew."
+  ],
+  "dc_description_s": "map ; 47 x 116 cm|Relief shown by hachures.|Includes inset \"Point Pelé, upper Canada. Map exhibiting the second position occupied in the determination of the most southwardly point of the boundary line between the United States & Canada,\" 1:12,000.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003560564/39015091901754_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003560564\"}",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "layer_modified_dt": "2021-05-18T15:03:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1835"
+}

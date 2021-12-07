@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e6b7f4e3-0334-45e5-a3a3-bcc249edb3a2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "La Perse, la Georgie, la Natolie, les Arabies, l'Egipte: et le cours du Nil ou se trouve aussi le Pont Euxin, la Mer Caspienne, la Mer Rouge et les golfes de Perse et d'Ormus; par N. de Fer.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e6b7f4e3-0334-45e5-a3a3-bcc249edb3a2",
+  "solr_geom": "ENVELOPE(25.83,66,44,12.15)",
+  "solr_year_i": "1720",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720."
+  ],
+  "dc_description_s": "Same map is no. 8 in vol. 7 of \"Atlas maior\" by R. Ottens. Relief shown pictorially. 1 map: hand col.; 43 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281701/39015091183643\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281701\"}",
+  "dct_spatial_sm": [
+    "Middle East"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1720"
+  ]
+}

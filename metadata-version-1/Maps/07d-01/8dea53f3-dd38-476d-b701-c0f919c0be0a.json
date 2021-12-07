@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .D4 1830 .M8 1969|000079750|39015095416163",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of Detroit, 1830",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8dea53f3-dd38-476d-b701-c0f919c0be0a",
+  "solr_year_i": "1860",
+  "dc_creator_sm": [
+    "Historic Urban Plans (Firm) http://id.loc.gov/authorities/names/n81127555 http://viaf.org/viaf/132445125"
+  ],
+  "dc_description_s": "1 map ; 45 x 36 cm|Facsimile.|\"Reproduced ... from the original in the Cornell University Library.\"|\"This is number 112 of an edition limited to 500 copies.\"|\"Vol. VI, PL-No. 900b.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000079750/39015095416163\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000079750\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1860",
+  "dct_temporal_sm": [
+    "1860"
+  ]
+}

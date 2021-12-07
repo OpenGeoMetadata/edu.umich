@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "71996d69-780a-4086-a202-877aef21c2b7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Higo kokusei saikenzu: tsuketari ryakushi; Kashihara Yoshinaga seizu.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "71996d69-780a-4086-a202-877aef21c2b7",
+  "solr_geom": "ENVELOPE(129.95,131.2,33.08,32.05)",
+  "solr_year_i": "1877",
+  "dc_creator_sm": [
+    "Kashihara, Yoshinaga.,Ōju."
+  ],
+  "dc_description_s": "Copperplate print. Oriented with north to the left. Relief shown pictorially. Inset: Kumamoto no zu, 1:18,000. Includes distance chart, list of population and number of households, area geography, etc. Engraved by Ōju. 1 map: col.; 47 x 66 cm., folded to 17 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003109972/39015091921364\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003109972\"}",
+  "dct_spatial_sm": [
+    "Kumamoto, Kumamoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:38Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 10 1877"
+  ]
+}

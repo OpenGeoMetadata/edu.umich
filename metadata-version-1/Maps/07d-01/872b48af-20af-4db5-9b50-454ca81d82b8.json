@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "872b48af-20af-4db5-9b50-454ca81d82b8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Ypsilanti, Mich.; drawn from actual surveys & official records by C. S. Woodard.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "872b48af-20af-4db5-9b50-454ca81d82b8",
+  "solr_geom": "ENVELOPE(-83.6199,-83.62,42.2301,42.23)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Woodard, C. S. (Charles Sherman)"
+  ],
+  "dc_description_s": "Blueline negative copy. Cadastral map showing some land ownership. 1 map on 2 sheets: photocopy.; 114 x 80 cm., sheets 58 x 81 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005824069/39015091897036\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005824069\"}",
+  "dct_spatial_sm": [
+    "Ypsilanti, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

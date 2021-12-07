@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "430333e0-9264-4458-b70e-bbad40179146",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nova totius Livoniae accurata descriptio.; Nova totivs Livoniae accvrata descriptio",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "430333e0-9264-4458-b70e-bbad40179146",
+  "solr_geom": "ENVELOPE(17.93,28.25,60.45,55.58)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Vignaud, Henry, 1830-1922, former owner.,Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes ship illustrations on the ocean and fruits around the title cartouche. This state was published in atlases by Jan Jansson in 1636 and 1637. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 55 x 44 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284869/39015091192115_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284869\"}",
+  "dct_spatial_sm": [
+    "Estonia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

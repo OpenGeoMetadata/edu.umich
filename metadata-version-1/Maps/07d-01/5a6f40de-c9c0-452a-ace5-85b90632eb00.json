@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3701 .C9 1900 .G35|013655505|39015091194954",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Distribution of the Magnetic Declination in the United States in 1900",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5a6f40de-c9c0-452a-ace5-85b90632eb00",
+  "solr_geom": "ENVELOPE(-126.9,-66.93,49.78,24.13)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "1 map : col. ; 45 x 72 cm on sheet 51 x 78 cm|At top of sheet: U.S. Geological survey. Seventeenth annual report, Part I, Pl. II.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013655505/39015091194954\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013655505\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1900"
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f0d137b9-8481-4482-af50-ec0ee80f899f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Genoese world map, 1457, facsimile and critical text incorporating in free translation the studies of Professor Theobald Fischer.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f0d137b9-8481-4482-af50-ec0ee80f899f",
+  "solr_geom": "ENVELOPE(-23.13,159.88,67.2,-32.9)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Stevenson, Edward Luther, 1858-1944.,Fischer, Theobald."
+  ],
+  "dc_description_s": "5 p. 1., 66 p., 1 l.: ill., 5 maps (incl. front.) This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001272145/39015091198476\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001272145\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .O6G46 18-- .N4 1942|009557301|39015091900996",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New [Alpochester?] :is situated on the south bend of the Kalamazoo River at the mouth of Pine Creek.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c282eada-32e8-4df9-a669-1e8ee7353aca",
+  "solr_geom": "ENVELOPE(-85.75,-85.72,42.47,42.44)",
+  "solr_year_i": "1830",
+  "dc_description_s": "1 map ; 38 x 53 cm.|Photocopy.|Possibly shows the village of New Rochester (aka Sherwood's Mills), previously located near Otsego, Michigan.|North oriented to upper right.|Shows lands and properties.|On verso: From original manuscript on cowhide [deerskin] - courtesy Mich. Hist. Coll. which borrowed the map from private owner 3/20/42.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009557301/39015091900996\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009557301\"}",
+  "dct_spatial_sm": [
+    "Otsego, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1830"
+}

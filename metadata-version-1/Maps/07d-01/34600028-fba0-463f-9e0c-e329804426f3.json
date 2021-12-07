@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "34600028-fba0-463f-9e0c-e329804426f3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Genkon kaisei Ōsaka shigai meisai zenzu zen; Hōryū Jōjun cho.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "34600028-fba0-463f-9e0c-e329804426f3",
+  "solr_geom": "ENVELOPE(135.43,135.57,34.7,34.47)",
+  "solr_year_i": "1887",
+  "dc_creator_sm": [
+    "Hōryū, Jōjun."
+  ],
+  "dc_description_s": "Mounted cover title. Title on map: Ōsaka shigai meisai zenzu. Copperplate print. In Japanese. 2 sheets joined. Relief shown by hachures. Includes 5 insets, distance chart, address chart, timetable of trains, and legend. 1 map: col.; 46 x 70 cm, folded in cover 16 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002457623/39015091921588_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002457623\"}",
+  "dct_spatial_sm": [
+    "Osaka, Ōsaka, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 20 1887"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0105a6f6-a3cc-425f-9f64-667bc4def638",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Political, commercial, and historical sketch maps of the British Empire: designed to illustrate Mr. G. R. parkin's address on \"The geographical unity of the British empire\".",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0105a6f6-a3cc-425f-9f64-667bc4def638",
+  "solr_geom": "ENVELOPE(-180,180,80,-67)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Edinburgh Geographical Institute."
+  ],
+  "dc_description_s": "5 maps: col.; on sheet 39 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281472/39015091197247\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281472\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

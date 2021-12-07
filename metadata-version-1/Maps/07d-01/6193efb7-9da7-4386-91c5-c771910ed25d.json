@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6193efb7-9da7-4386-91c5-c771910ed25d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Comitatus Lancastrensis: The countie palatine of Lancaster; Amstelodami, apud Ioan. Ianssonium.; Comitatvs Lancastrensis: The covntie palatine of Lancaster;County of Lancaster;Lancashire",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6193efb7-9da7-4386-91c5-c771910ed25d",
+  "solr_geom": "ENVELOPE(-3.53,-2.08,54.35,53.32)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Decorative title cartouche with fruits in upper right corner. In lower right corner, a blank cartouche. Includes illustrations of a ship and sea monster in the ocean. Also includes extensive printing flourishes. Vignette in lower left shows Posiedon bearing a trident and standing in a shell-carriage drawn by two hippocamps. This state was published in atlases by Jan Jansson, in 1636 and 1637. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010349265/39015091191745_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010349265\"}",
+  "dct_spatial_sm": [
+    "Lancashire, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

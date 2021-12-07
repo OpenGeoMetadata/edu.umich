@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "957d52b2-5cba-4596-8603-b62e8c77a98e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plat of grounds, Botanical Garden Ann Arbor, Mich.; O.C. Simonds & Co., Landscape gardeners, Chicago, Ill.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "957d52b2-5cba-4596-8603-b62e8c77a98e",
+  "solr_geom": "ENVELOPE(-83.73,-83.72,42.29,42.28)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "O.C. Simonds & Co."
+  ],
+  "dc_description_s": "Map shows layout of botanical garden, noting types of vegetation. Library's copy has pencilled-notes and is on what appears to be a specially treated rag paper. 1 map: 85 x 62 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000524460/39015049936670\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000524460\"}",
+  "dct_spatial_sm": [
+    "University of Michigan Nichols Arboretum, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7b425b2d-b627-48f6-8612-11ecb394c274",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sabaudia ducatus: Savoye.; Sabavdia dvcatvs",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7b425b2d-b627-48f6-8612-11ecb394c274",
+  "solr_geom": "ENVELOPE(5.63,7.42,46.48,45.06)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Title cartouche includes two cherubs holding the coat of arms of Switzerland. Was printed in Jansson's Atlas Novus in 1680. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 38 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004074008/39015091191281_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004074008\"}",
+  "dct_spatial_sm": [
+    "Savoie, Auvergne-Rhône-Alpes, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

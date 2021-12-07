@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "64149ef6-f1d0-48e7-8c81-ed413f5a9d43",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte très curieuse de la Mer du Sud: contenant des remarques nouvelles & trés utiles non seulement sur les ports et isles de cette mer, mais aussi sur les principaux pais de l'Amérique tant Septentrionale, que Méridionale, avec les noms & la route des voyageurs par qui la decouverte en a été faite. Le tout pour intelligence des dissertations suivantes.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "64149ef6-f1d0-48e7-8c81-ed413f5a9d43",
+  "solr_geom": "ENVELOPE(9.4,115.78,57.52,0)",
+  "solr_year_i": "1732",
+  "dc_creator_sm": [
+    "Chatelain, Henri Abraham.,Chatelain, Henri Abraham. Atlas Historique."
+  ],
+  "dc_description_s": "1732 reissue of 1719 map. Northern 2 sheets of 4 sheet map. \"Tom: VI. No. 30. Pag:117.\" Includes vignettes depicting indigenous peoples and animals. 1 map; 37 x 142 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279585/39015091197817_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279585\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1732?"
+  ]
+}

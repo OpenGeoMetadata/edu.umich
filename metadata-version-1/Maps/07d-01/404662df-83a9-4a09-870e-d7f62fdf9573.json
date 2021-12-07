@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "404662df-83a9-4a09-870e-d7f62fdf9573",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Washtenaw County, Michigan from actual surveys by G. R. Bechler & E. Wenig.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "404662df-83a9-4a09-870e-d7f62fdf9573",
+  "solr_geom": "ENVELOPE(-84.13,-83.54,42.43,42.07)",
+  "solr_year_i": "1856",
+  "dc_creator_sm": [
+    "Bechler, Gustavus R.,Wenig, E.,Matthias, Benjamin I.,Bechler, Wenig & Company."
+  ],
+  "dc_description_s": "Shows property ownership. \"Engraved by B. Matthias.\" Insets: Chelsea--Saline--Ann Arbor--Ypsilanti--Manchester--Milan--Dexter. Includes business directories, subscribers' names for insets, and 13 vignettes. With vignette of \"Barn of Genl. A. Williams, Lima Centre\" at lower left. Includes revised land ownership in Lima Township. 1 map: col.; 111 x 120 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002745875/39015091184773_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002745875\"}",
+  "dct_spatial_sm": [
+    "Washtenaw County, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ]
+}

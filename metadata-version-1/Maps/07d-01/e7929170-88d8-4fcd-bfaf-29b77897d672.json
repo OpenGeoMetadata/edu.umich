@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3701 .F3 1886|008459398|39015091195308",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the United States :showing the extent of the peoples land grabbed by corporations",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e7929170-88d8-4fcd-bfaf-29b77897d672",
+  "solr_geom": "ENVELOPE(-125.45,-66.93,50,19.4)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "Norton, S. F.",
+    "Sentinel (Newspaper : Chicago, Ill.)"
+  ],
+  "dc_description_s": "1 map ; 41 x 28 cm.|From vol. 8 no. 37 of \"the Sentinel\" newpaper distributed Thursday, August 5, 1886.|Map accompanies article \"the land thieves.\"|Shows lands claimed by corporations and the English and lists equivalent masses of land.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008459398/39015091195308\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008459398\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1886"
+}

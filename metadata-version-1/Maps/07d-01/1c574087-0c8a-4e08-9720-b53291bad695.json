@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1c574087-0c8a-4e08-9720-b53291bad695",
+  "dc_rights_s": "Public",
+  "dc_title_s": "[Map of Northern Ireland].; Ultonia",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1c574087-0c8a-4e08-9720-b53291bad695",
+  "solr_geom": "ENVELOPE(-10.48,-4.92,55.35,53.23)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Vignaud, Henry, 1830-1922, former owner.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe."
+  ],
+  "dc_description_s": "Relief shown pictorially. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 50 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012444204/39015091193915_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012444204\"}",
+  "dct_spatial_sm": [
+    "Northern Ireland, United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

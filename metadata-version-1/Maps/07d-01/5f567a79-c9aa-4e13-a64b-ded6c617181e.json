@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5f567a79-c9aa-4e13-a64b-ded6c617181e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Portugallia et Algarbia quae olim Lusitania; auctore Vernando Alvero Secco.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5f567a79-c9aa-4e13-a64b-ded6c617181e",
+  "solr_geom": "ENVELOPE(-10,-6,42,37)",
+  "solr_year_i": "1645",
+  "dc_creator_sm": [
+    "Seco, Fernando Alvares.,Blaeu, Willem Janszoon, 1571-1638.,Blaeu, Joan, 1596-1673."
+  ],
+  "dc_description_s": "Relief shown pictorially. North oriented toward the right. Text on verso in French. Plate L 12 from his \"Theatre du Monde\". 1 map: hand col.; 49 x 37 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003609981/39015091883515_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003609981\"}",
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1645"
+  ]
+}

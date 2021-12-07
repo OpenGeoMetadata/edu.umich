@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8df0eb46-93fb-4cc3-8950-eb1158d7e202",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Typus Hispaniae; ab Hesselo Gerardo delineata.; Typvs Hispaniae;Spain",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8df0eb46-93fb-4cc3-8950-eb1158d7e202",
+  "solr_geom": "ENVELOPE(-9.77,4.1,44,35.78)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Almada, André Alvares d', fl. 1594,Gerritsz., Hessel, approximately 1581-1632.,Hondius, Hendrik, 1597-1651.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes coat of arms of Spain and illustrations of ships in the ocean. This state was published in the Atlantis Maioris Appendix atlas by Henricus Hondius in 1631. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 35 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003288928/39015091191687_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003288928\"}",
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "layer_modified_dt": "2021-05-07T19:07:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

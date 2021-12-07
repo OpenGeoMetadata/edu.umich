@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4030 1882 .S6|004198404|39015091905862",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Official map of the state of Texas",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "45e89565-6e42-439c-bb09-398474aa9ee9",
+  "solr_geom": "ENVELOPE(-106.63,-93.48,36.53,25.75)",
+  "solr_year_i": "1882",
+  "dc_creator_sm": [
+    "Rand McNally and Company http://id.loc.gov/authorities/names/n79150315 http://viaf.org/viaf/137487244"
+  ],
+  "dc_description_s": "1 map : col. ; 78 x 83 cm|Tables giving statistics about population, finances & climate.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004198404/39015091905862\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004198404\"}",
+  "dct_spatial_sm": [
+    "Texas"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1882"
+}

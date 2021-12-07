@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4113 .K5C5 1863 .S73|013915415|39015091898836_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geological Map of the Trap Range of Keweenaw Point Lake Superior",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "649baa90-599f-4fc0-89c9-eb557c50a5e5",
+  "solr_year_i": "1863",
+  "dc_creator_sm": [
+    "Hill, Samuel W.",
+    "Williams, C. P.",
+    "Barnes, Rufus L."
+  ],
+  "dc_description_s": "1 map : color ; 50.2 x 130 cm|Shows geological features by color.|Section displays geological strata.|Sectioned and affixed to linen.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013915415/39015091898836_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013915415\"}",
+  "dct_spatial_sm": [
+    "Keweenaw Peninsula, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1863",
+  "dct_temporal_sm": [
+    "1863"
+  ]
+}

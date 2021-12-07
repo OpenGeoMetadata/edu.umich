@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/c28bf123e1d449c983bc9a0817af31d3_0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Matthaei-Nichols Properties, Inverse: University of Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c28bf123e1d449c983bc9a0817af31d3_0",
+  "solr_geom": "ENVELOPE(-84.1834,-83.4971,42.5132,42.0648)",
+  "solr_year_i": "2019",
+  "dc_creator_sm": [
+    "UM Matthaei Botanical Gardens and Nichols Arboretum"
+  ],
+  "dc_description_s": "A polygon of the general Washtenaw County, MI area with the boundaries of Matthaei-Nichols Properties \"cut out\". These properties include: Matthaei Botanical Gardens, Nichols Arboretum, Mud Lake Bog, Horner-McLaughlin Woods.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://mbgna-umich.opendata.arcgis.com/datasets/c28bf123e1d449c983bc9a0817af31d3_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/MBGNA_BND_AllBoundaries_Inverse_py/FeatureServer/0\",\"http://schema.org/url\":\"https://mbgna-umich.opendata.arcgis.com/datasets/c28bf123e1d449c983bc9a0817af31d3_0\"}",
+  "dct_spatial_sm": [
+    "Manchester, Michigan",
+    "Monroe County, Michigan",
+    "Barton Hills, Michigan",
+    "South Lyon, Michigan",
+    "Pinckney, Michigan",
+    "Livingston County, Michigan",
+    "Oakland County, Michigan",
+    "Chelsea, Michigan",
+    "Dexter, Michigan",
+    "Ypsilanti, Michigan",
+    "Milan, Michigan",
+    "Ann Arbor, Michigan",
+    "Washtenaw County, Michigan",
+    "Saline, Michigan",
+    "Whitmore Lake, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T22:58:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2019-01-21",
+  "dct_temporal_sm": [
+    "2019"
+  ]
+}

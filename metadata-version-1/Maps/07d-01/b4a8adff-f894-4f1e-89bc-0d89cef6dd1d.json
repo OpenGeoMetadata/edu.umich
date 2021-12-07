@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b4a8adff-f894-4f1e-89bc-0d89cef6dd1d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan routier de la ville de Paris et de ses faubourgs: ou se trouvent indiqués tous les changemens opérés jusqu'a ce jour avec les projets d'embellissemens, les nouvles. rues et pts. pour servir de guide aux voyageurs, divise en 12 mairies municipales et par quartiers; revu et corrigé par Adée. Martin.; Nouveau plan de Paris",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b4a8adff-f894-4f1e-89bc-0d89cef6dd1d",
+  "solr_geom": "ENVELOPE(2.29,2.39,48.88,48.84)",
+  "solr_year_i": "1818",
+  "dc_creator_sm": [
+    "Martin, Amédée."
+  ],
+  "dc_description_s": "Includes index of streets. 1 map: col.; 55 x 78 cm. folded to 16 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006776371/39015091186349_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006776371\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1818"
+  ]
+}

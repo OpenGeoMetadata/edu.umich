@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3701 .R4 1861 .C6|003280960|39015091195423",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Colton's United States",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "9072e622-bd1f-434d-8022-923d291f578f",
+  "solr_year_i": "1861",
+  "dc_description_s": "1 map : col. ; 36 x 44 cm|Relief shown by hachures.|Prime meridians: Washington and Greenwich.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280960/39015091195423\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280960\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1861",
+  "dct_temporal_sm": [
+    "1861"
+  ]
+}

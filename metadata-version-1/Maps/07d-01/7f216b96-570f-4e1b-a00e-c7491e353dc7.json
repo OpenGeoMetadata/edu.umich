@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7f216b96-570f-4e1b-a00e-c7491e353dc7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Karte von Michigan nach den neuesten Vermessungen bearbeitet und herausgegeben von J. Farmer und Tr. Bromme.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7f216b96-570f-4e1b-a00e-c7491e353dc7",
+  "solr_geom": "ENVELOPE(-86.83,-82.37,43.78,41.43)",
+  "solr_year_i": "1834",
+  "dc_creator_sm": [
+    "Farmer, John, 1798-1859.,Bromme, Traugott, 1802-1866."
+  ],
+  "dc_description_s": "Greenwich and Washington prime meridians. Negative photostat. Townships and rangelines indicated for surveyed areas. 1 map: 37 x 54 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081764/39015091921976\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081764\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "91aa101f-0bc8-4976-95aa-230aad53f43f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Detroit; Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "91aa101f-0bc8-4976-95aa-230aad53f43f",
+  "solr_geom": "ENVELOPE(-83.1,-83.01,42.37,42.32)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Rand McNally and Company."
+  ],
+  "dc_description_s": "Alternate titles of Detroit map: Rand, McNally & Co's map of the main portion of Detroit; Rand, McNally & Co.'s new 11 x 14 map of the main portion of Detroit. Alternate title of Michigan map: Rand, McNally & Co.'s new 11 x 14 map of Michigan. Title at head of maps: Atlas of the world. Includes indexes. Gives population figures for 1890 and 1895. Insets: Outline map of Detroit -- Northern portion of Michigan [scale ca. 1:2,788,000] with inset of Isle Royale. \"41.\" \"42.\" 2 maps on 1 sheet: both sides, col.; 23 x 31 cm, and 31 x 29 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002724542/39015091196231_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002724542\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "c1895"
+  ]
+}

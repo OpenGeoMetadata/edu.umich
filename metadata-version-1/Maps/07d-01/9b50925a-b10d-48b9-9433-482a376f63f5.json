@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9b50925a-b10d-48b9-9433-482a376f63f5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Outline of the geology of the globe.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "9b50925a-b10d-48b9-9433-482a376f63f5",
+  "solr_geom": "ENVELOPE(-180,180,80,-75)",
+  "solr_year_i": "1853",
+  "dc_creator_sm": [
+    "Hitchcock, O.H."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes diagramatic view of the world's major mountains and map of \"supposed Antarctic continent.\" 1 map: col.; 46 x 59 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282589/39015091197221\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282589\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ]
+}

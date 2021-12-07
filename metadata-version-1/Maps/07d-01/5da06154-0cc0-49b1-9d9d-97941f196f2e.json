@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5da06154-0cc0-49b1-9d9d-97941f196f2e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Michigan and Wisconsin.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5da06154-0cc0-49b1-9d9d-97941f196f2e",
+  "solr_geom": "ENVELOPE(-93.33,-81,47.5,41.67)",
+  "solr_year_i": "1874",
+  "dc_creator_sm": [
+    "Taintor Bros. & Merrill."
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridians: Greenwich and Washington. From: American household and commercial atlas of the world. No. 15-16. 1 map: hand col.; 53 x 75 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003833794/39015091905300\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003833794\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a40c112a-e108-4045-b4cb-869ac8b6969d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "[Insurance maps of Ann Arbor, Washtenaw Co., Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a40c112a-e108-4045-b4cb-869ac8b6969d",
+  "solr_year_i": "1916",
+  "dc_creator_sm": [
+    "Sanborn Map Company."
+  ],
+  "dc_description_s": "Sanborn Map Company, June 1916]. |Negative photostat of University of Michigan central campus area. 1 map: photstat; sheets 49 x 40 cm.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Real property"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004269067/39015091184716\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004269067\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:44:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ]
+}

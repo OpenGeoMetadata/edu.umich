@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c24e42d2-8aa4-44ea-8ff6-7804548589fe",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kaisei dōsen Shimōsa no kuni zenzu: zen; Sakai Sutehiko.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c24e42d2-8aa4-44ea-8ff6-7804548589fe",
+  "solr_geom": "ENVELOPE(139.83,141.25,36.33,35.58)",
+  "solr_year_i": "1879",
+  "dc_creator_sm": [
+    "Sakai, Sutehiko."
+  ],
+  "dc_description_s": "Mounted cover title. Copperplate print. In Japanese. Relief shown by hachures. Includes list of district names and legend. Inset: Chiba shigai no zu. 1 map: col.; 33 x 46 cm., folded in cover 13 x 8 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887416/39015091921307_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887416\"}",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 12 1879"
+  ]
+}

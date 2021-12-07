@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "13cc823d-5644-4769-9423-1ac3563b0e75",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Floridae Americae provinciae: recens and exactissima descriptio; auctore Jacobo le Moyne.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "13cc823d-5644-4769-9423-1ac3563b0e75",
+  "solr_geom": "ENVELOPE(-86.58,-70.52,33.7,19.5)",
+  "solr_year_i": "1564",
+  "dc_creator_sm": [
+    "Le Moyne de Morgues, Jacques, 1533?-1588."
+  ],
+  "dc_description_s": "To accompany Le Moyne's narrative 979 F6L. Reproduction, probably late 19th cent. 1 map; 37 x 46 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282492/39015091197403\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282492\"}",
+  "dct_spatial_sm": [
+    "Florida"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1564"
+  ]
+}

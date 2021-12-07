@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 6513 .B6 1742 .M8|000081056|39015095413343",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Le royaume de Boheme",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "037a8e4f-2a62-4cd1-88c4-ea2904cf776f",
+  "solr_geom": "ENVELOPE(30.08,36.03,51.2,48.08)",
+  "solr_year_i": "1742",
+  "dc_creator_sm": [
+    "Le Rouge, Georges-Louis http://id.loc.gov/authorities/names/n80036562 http://viaf.org/viaf/96626979"
+  ],
+  "dc_description_s": "1 map : col., mounted on linen ; 50 x 63 cm|Shows parts of Austria, Czechoslovakia, Hungary, Germany and Poland.|Relief shown pictorially.|Cartouche in upper right hand corner.|Reduced from a map of Bohemia by Johann Christoph Müller, Austrian engineer and cartographer, drawn in 1720 on 25 sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081056/39015095413343\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081056\"}",
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:59Z",
+  "dc_language_sm": [
+    "lat"
+  ],
+  "dct_issued_s": "1742"
+}

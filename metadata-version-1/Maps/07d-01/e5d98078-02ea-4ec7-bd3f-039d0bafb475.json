@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e5d98078-02ea-4ec7-bd3f-039d0bafb475",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Le plan de Paris, ses faubourgs et ses environs; par N. de Fer.; Plan de la ville et faubourgs de Paris",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e5d98078-02ea-4ec7-bd3f-039d0bafb475",
+  "solr_geom": "ENVELOPE(2.3,2.38,48.88,48.83)",
+  "solr_year_i": "1717",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720."
+  ],
+  "dc_description_s": "Relief shown by hachures. Includes notes. 1 map: col.; 47 x 60 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011349206/39015091186539\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011349206\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1717"
+  ]
+}

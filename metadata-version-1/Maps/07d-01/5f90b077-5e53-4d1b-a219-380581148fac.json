@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4070 1795 .S3|008860028|39015095414515",
+  "dc_rights_s": "Public",
+  "dc_title_s": "N.W. Territory.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5f90b077-5e53-4d1b-a219-380581148fac",
+  "solr_year_i": "1795",
+  "dc_creator_sm": [
+    "Scott, Joseph (Geographer). United States gazetteer.",
+    "Francis & Robert Bailey (Firm)"
+  ],
+  "dc_description_s": "1 map ; 18 x 15 cm.|Published in: The United States gazetteer / Joseph Scott. Philadelphia: Printed by F. and R. Bailey, 1795.|Title in lower left corner, below bar scale and compass rose with fleur-de-lis.|Prime meridian: Philadelphia.|Shows rivers, lakes, forts, and settlements.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008860028/39015095414515\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008860028\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1795?"
+}

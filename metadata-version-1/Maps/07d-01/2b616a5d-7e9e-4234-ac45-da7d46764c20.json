@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2b616a5d-7e9e-4234-ac45-da7d46764c20",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Europe en Janvier 1808.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2b616a5d-7e9e-4234-ac45-da7d46764c20",
+  "solr_geom": "ENVELOPE(-28.03,50.05,71.42,33.88)",
+  "solr_year_i": "1808",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "Relief shown pictorially. Border contains descriptive and statistical information. \"No. XXX de l'Europe géographique, politique, statist. en 1808.\" 1 map: hand col.; 37 x 45 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281640/39015091196546\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281640\"}",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1808"
+  ]
+}

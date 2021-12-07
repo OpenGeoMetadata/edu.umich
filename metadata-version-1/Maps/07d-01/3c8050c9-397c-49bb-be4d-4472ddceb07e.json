@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3c8050c9-397c-49bb-be4d-4472ddceb07e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of Detroit Woodward,Augustus Brevoort.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3c8050c9-397c-49bb-be4d-4472ddceb07e",
+  "solr_geom": "ENVELOPE(-83.0499,-83.05,42.3301,42.33)",
+  "solr_year_i": "1860",
+  "dc_creator_sm": [
+    "Woodward, Augustus B. (Augustus Brevoort), 1774-1827.,Historic Urban Plans (Firm)"
+  ],
+  "dc_description_s": "Facsimile. \"Reproduced ... from the original in the Cornell University Library.\" \"This is number 125 of an edition limited to 500 copies.\" 1 map; 26 x 21 cm, on sheet 48 x 38 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000079284/39015091916026\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000079284\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ]
+}

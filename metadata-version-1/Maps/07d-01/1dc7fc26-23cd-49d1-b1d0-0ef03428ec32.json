@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3701 .P3 1848 .U5|000887818|39015091195357_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Skeleton map showing the rail roads completed and in progress in the United States and their connection as proposed with the harbor of Pensacola",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1dc7fc26-23cd-49d1-b1d0-0ef03428ec32",
+  "solr_geom": "ENVELOPE(-98,-68,47,7)",
+  "solr_year_i": "1848",
+  "dc_description_s": "1 map : hand col., mounted on cloth ; 123 x 92 cm",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887818/39015091195357_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887818\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1848"
+}

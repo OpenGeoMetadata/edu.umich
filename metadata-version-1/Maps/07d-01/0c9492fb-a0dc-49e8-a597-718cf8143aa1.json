@@ -1,0 +1,20 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3271 .S12 1859 .W93|005402012|39015091192917",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sketch of the recent discoveries on the northern coast of America by Daptain McClintock R.N. in search of Sir John Franklin",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0c9492fb-a0dc-49e8-a597-718cf8143aa1",
+  "solr_year_i": "1859",
+  "dc_description_s": "1 map : hand col. ; 48 x 36 cm., folded in cover 17 x 10 cm.|Relief shown by hachures.|Includes inset map showing the probable route of the Franklin Expedition.|Shows the routes of other search expeditions and places where where relics of the Franklin Expedition have been found.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005402012/39015091192917\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005402012\"}",
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "layer_modified_dt": "2021-05-27T14:35:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1859?"
+}

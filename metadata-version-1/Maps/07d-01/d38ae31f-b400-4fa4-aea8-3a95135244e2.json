@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d38ae31f-b400-4fa4-aea8-3a95135244e2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Silesiae ducatus: nova et accurata descriptio.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d38ae31f-b400-4fa4-aea8-3a95135244e2",
+  "solr_geom": "ENVELOPE(14.05,19.97,52.45,49.48)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Atlantic Maioris Appendix, 1630.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes German coat of arms above the title cartouche. From \"Atlantis Maioris Appendix\", Johannes Janssonius, 1630. 1 map; 37 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284878/39015091191836_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284878\"}",
+  "dct_spatial_sm": [
+    "Lower Silesian Voivodeship, Poland",
+    "Poland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f9af603d-16fb-4727-bfa2-7ddc907e9ac8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Atlantis insula à Nicolao Sanson antiquitati restituta; nunc demum majori forma delineata, et in decem regna, iuxta decem Neptuni filios distributa: Praeterea insualae, nostraeqr. contenentis regiones quibus imperavere Atlantici reges; aut quas armis tentavere ex conatibus geographicus; Gulielmi Sanson Nicolai filii.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f9af603d-16fb-4727-bfa2-7ddc907e9ac8",
+  "solr_geom": "ENVELOPE(36.55,124.45,80,-57)",
+  "solr_year_i": "1669",
+  "dc_creator_sm": [
+    "Sanson, Nicolas, 1600-1667.,Sanson, Guillaume."
+  ],
+  "dc_description_s": "Relief shown pictorially. State 1. 1 map: hand col.; 40 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005415668/39015091197874\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005415668\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1669"
+  ]
+}

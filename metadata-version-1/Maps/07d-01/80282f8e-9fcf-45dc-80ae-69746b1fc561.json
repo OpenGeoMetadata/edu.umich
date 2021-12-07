@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "80282f8e-9fcf-45dc-80ae-69746b1fc561",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sketch of the public surveys in Michigan; Surveyor General's Office, Detroit, November 1st, 1855, Leander Chapman, Surveyor General.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "80282f8e-9fcf-45dc-80ae-69746b1fc561",
+  "solr_geom": "ENVELOPE(-90.4,-82.28,47.62,41.5)",
+  "solr_year_i": "1855",
+  "dc_creator_sm": [
+    "Chapman, Leander."
+  ],
+  "dc_description_s": "At head of title: G. Removed from: U.S. 34th Congress, 1st Session, 1855-56. S. Ex. Doc. 1. Inset: [Isle Royale]. 1 map; 54 x 55 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003557878/39015091880602\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003557878\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ]
+}

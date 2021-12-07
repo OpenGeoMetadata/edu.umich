@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3700 1882 .C6|003287906|39015091195167",
+  "dc_rights_s": "Public",
+  "dc_title_s": "[The New Southwestmap of the United States of America]",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "85cfbbb2-d25e-428d-b8ac-f4cf179eb705",
+  "solr_geom": "ENVELOPE(-125.15,-66.65,49.58,24.85)",
+  "solr_year_i": "1882",
+  "dc_creator_sm": [
+    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+  ],
+  "dc_description_s": "1 map : col. ; 20 x 32 cm|G.W. Colton, son of Cartographer Joseph Hutchins Colton (1800-1873)",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287906/39015091195167\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287906\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1882"
+}

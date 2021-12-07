@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "748a15b7-e1b1-410e-96d7-805b6a7fa4f3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte de l'Afrique: corrigeé et augmentée dessus toutes les autres cy devant faictes l'anneé.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "748a15b7-e1b1-410e-96d7-805b6a7fa4f3",
+  "solr_geom": "ENVELOPE(-26,60,38,-36)",
+  "solr_year_i": "1646",
+  "dc_creator_sm": [
+    "Bertius, Petrus, 1565-1629.,Lochom, Michel van, 1601-1647, engraver.,Mariette, Pierre, 1603-1657."
+  ],
+  "dc_description_s": "Relief shown pictorially. From Pierre Mariette's \"Theatre geographique de France contenant les cartes particulieres de ses provinces\". 1 map; 38 x 50 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280677/39015091193485\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280677\"}",
+  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1646"
+  ]
+}

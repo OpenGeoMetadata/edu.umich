@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "25791eeb-a79d-4e61-bbdd-2a4871c7ac17",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cambriae typus: Auctore Humfredo Lhuydo Denbigiense Cambrobritanno.; Cambriae typvs: Auctore Humfredo Lhuydo Denbigiense Cambrobritanno.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "25791eeb-a79d-4e61-bbdd-2a4871c7ac17",
+  "solr_geom": "ENVELOPE(-4.77,-3.07,53.44,52.71)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Vignaud, Henry, 1830-1922, former owner.,Llwyd, Humphrey, 1527-1568, cartographer."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of a sea monster in ocean and fruit around the title cartouche. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 54x 44 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010349131/39015091191810_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010349131\"}",
+  "dct_spatial_sm": [
+    "Wales, United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

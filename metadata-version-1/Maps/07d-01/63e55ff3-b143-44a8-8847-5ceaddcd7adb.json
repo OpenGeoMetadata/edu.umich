@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4111 .A5 194- .M6|003843154|39015091916356",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A Friendly Service Map of the Commonwealth of Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "63e55ff3-b143-44a8-8847-5ceaddcd7adb",
+  "solr_year_i": "1940",
+  "dc_description_s": "1 map : col ; 53 x 45 cm|Map has historical illustrations.|Includes cartouche with Michigan State motto.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003843154/39015091916356\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003843154\"}",
+  "dct_spatial_sm": [
+    "Michigan,  Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "between 1940 and 1949"
+  ]
+}

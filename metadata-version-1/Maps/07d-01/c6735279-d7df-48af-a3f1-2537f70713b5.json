@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c6735279-d7df-48af-a3f1-2537f70713b5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nouveau plan de Paris divise en 20 Arrondissements: dans un rayon de 10 kilometres; publie par Aug. Logerot Editeur.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c6735279-d7df-48af-a3f1-2537f70713b5",
+  "solr_geom": "ENVELOPE(2.2,2.45,48.91,48.8)",
+  "solr_year_i": "1860",
+  "dc_creator_sm": [
+    "Logerot, A. (Auguste)"
+  ],
+  "dc_description_s": "Relief shown pictorially. Colored to show the annexations of the surrounding suburbs and the 20 new arrondissements created in 1860. Shows roads in progress and planned roads. Overlaid by grid of 266 numbered squares. Cover title: \"Paris et ses environs dan un rayon de dix kilometres.\" 1 map: hand col. 66 x 100 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005112384/39015091186273\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005112384\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "unknown",
+  "dct_temporal_sm": [
+    "approximately 1860"
+  ]
+}

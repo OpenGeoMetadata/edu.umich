@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .O85 A3 1881 .S7|013533193|39015091896970",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Panoramic view of Ovid Clinton Co. Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a9f8f915-3e8a-4287-b323-1660d04cc6cb",
+  "solr_geom": "ENVELOPE(-84.38,-84.36,43.01,43)",
+  "solr_year_i": "1881",
+  "dc_creator_sm": [
+    "Beck & Pauli, lithographer."
+  ],
+  "dc_description_s": "1 map : 38 x 61 cm.|Relief shown pictorially.|North is oriented to the upper right corner of the map.|Bird's eyes view includes index of buildings and landmarks throughout the city. Also includes names of streets on the map.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013533193/39015091896970\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013533193\"}",
+  "dct_spatial_sm": [
+    "Ovid,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1881"
+}

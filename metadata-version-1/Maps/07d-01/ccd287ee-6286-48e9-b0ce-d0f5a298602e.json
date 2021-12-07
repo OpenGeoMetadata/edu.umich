@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ccd287ee-6286-48e9-b0ce-d0f5a298602e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ceretica sive Cardiganensis comitatus: Cardigan schire.; Ceretica sive Cardiganensis comitatvs: Cardigan schire;Ceredigion;Cardiganshire",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ccd287ee-6286-48e9-b0ce-d0f5a298602e",
+  "solr_geom": "ENVELOPE(-4.71,-3.72,52.58,52.03)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships in the ocean and a decorative title cartouche topped with a blank coat of arms in the top right corner, as well as a blank cartouche with a sphere atop it in the lower right corner. Printing includes extensive flourishes. Does not match any states listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010349190/39015091192255_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010349190\"}",
+  "dct_spatial_sm": [
+    "Ceredigion, Wales, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

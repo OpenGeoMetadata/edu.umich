@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3271 .S12 1896 .U5|005560376|39015091195621_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The arctic region with the tracks of search parties and the progress of discovery",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "65fcdf30-e588-440a-a31c-bb639fae3ca6",
+  "solr_geom": "ENVELOPE(-179.93,179.83,85.2,62.48)",
+  "solr_year_i": "1896",
+  "dc_creator_sm": [
+    "United States. Hydrographic Office."
+  ],
+  "dc_description_s": "col. map 101 cm. in diameter.|Relief shown by spot heights. \"Soundings in fathoms.\"|\"The information concerning Nansen's expedition was added to this chart subsequent to its original publication.\"|\"No. 1531.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005560376/39015091195621_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005560376\"}",
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1896"
+}

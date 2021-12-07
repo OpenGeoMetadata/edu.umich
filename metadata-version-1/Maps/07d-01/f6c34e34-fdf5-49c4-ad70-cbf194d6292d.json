@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G4381 .A6 1946 .D7|003288808|39015091887946",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Oahu, Hawaii Mem-O-Map",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f6c34e34-fdf5-49c4-ad70-cbf194d6292d",
+  "solr_year_i": "1946",
+  "dc_description_s": "1 map : col. ; 32 x 24 cm.|Relief shown pictorially.|North oriented toward upper right.|Legend shows symbols for arrival and departure dates and quarters so that map may be personalized.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003288808/39015091887946\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003288808\"}",
+  "dct_spatial_sm": [
+    "Oahu,  Hawaii",
+    "Hawaii"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1946",
+  "dct_temporal_sm": [
+    "1946"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4110 1892 .M5|000081938|39015091880180",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the state of Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c37408e4-dd36-49ff-ac56-20dbadaae08f",
+  "solr_geom": "ENVELOPE(-90.32,-81.98,47.77,41.15)",
+  "solr_year_i": "1892",
+  "dc_creator_sm": [
+    "Whitman, Charles Rudolphus, b. 1847.",
+    "George F. Cram Company."
+  ],
+  "dc_description_s": "1 map : col. ; 88 x 82 cm., folded to 10 x 9 cm., in cover.|\"Examined and approved, Chas. R. Whitman, Commissioner of Railroads\".|Manuscript notes on cover: \"Scott Turner\"--\"Map of the state of Michigan 1892\"--\"E.B. Wood, Lansing, Michigan\".|Table lists state institutions, population, county seats, and state lands subject to purchase.|Inset: Isle Royale.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081938/39015091880180\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081938\"}",
+  "dct_spatial_sm": [
+    "Michigan,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1892"
+}

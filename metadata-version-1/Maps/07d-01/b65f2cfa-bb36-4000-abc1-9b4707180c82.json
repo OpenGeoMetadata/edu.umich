@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b65f2cfa-bb36-4000-abc1-9b4707180c82",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bird's eye view of Charleston, South Carolina, and its environs, showing the scene of General Gilmore's [sic] operations.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b65f2cfa-bb36-4000-abc1-9b4707180c82",
+  "solr_geom": "ENVELOPE(-79.9699,-79.97,32.8001,32.8)",
+  "solr_year_i": "1863",
+  "dc_creator_sm": [
+    "Harper & Brothers."
+  ],
+  "dc_description_s": "Pages 515-6 of the August 15, 1863 issue of Harper's Weekly. Text on verso. 1 view: col.; 23 x 35 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010690125/39015091898463\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010690125\"}",
+  "dct_spatial_sm": [
+    "Charleston, South Carolina",
+    "South Carolina"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-10T15:11:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3450 1763 .C36|005825252|39015091195811",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new map of the province of Quebec according to the royal proclamation, of the 7th of October 1763",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0ca1b79e-28f8-4bd9-954b-8969819ff564",
+  "solr_geom": "ENVELOPE(-80.95,-60.03,55.08,44.27)",
+  "solr_year_i": "1776",
+  "dc_creator_sm": [
+    "Jefferys, Thomas, -1771.",
+    "Robert Sayer and John Bennett (Firm)"
+  ],
+  "dc_description_s": "1 map ; hand col. ; 48 x 66 cm.|Includes inset maps: A Particular survey of the Isles of Montreal -- Plan of Montreal, or Villemarie -- City of Quebec -- Course of the River St. Laurence from la Valterie to Quebec.|State 1 with original title.|Insets show detailed city plans with tables of references to major features.|Manuscript note on verso: Major André depty. adjt. genl.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005825252/39015091195811\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005825252\"}",
+  "dct_spatial_sm": [
+    "Quebec,  Canada",
+    "Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:04Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1776"
+}

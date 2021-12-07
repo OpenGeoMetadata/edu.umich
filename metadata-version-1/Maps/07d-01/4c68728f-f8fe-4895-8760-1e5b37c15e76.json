@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4701 .H1 1860 .F3|003557947|39015091905383",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Michigan and Wisconsin embracing a great part of Iowa...",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "4c68728f-f8fe-4895-8760-1e5b37c15e76",
+  "solr_year_i": "1858",
+  "dc_description_s": "1 map : hand col. ; 164 x 179 cm|Relief shown by hachures; depths shown by soundings.|\"Entered according to act of Congress ... this 18th day of May, A.D. 1853 ... \"|Includes county census tables for 1837, 1840, 1845, and 1850.|Insets: A geological map of Isle Royale, Lake Superior -- Connection of the private claims with the public surveys at Pte. Ste. Ignace -- Chart of Port Colier -- Chart of Detroit River -- Connection of the private claims with the public surveys at Detroit -- Connection of private claims with the public surveys at Monroe -- Connection of private claims with the public surveys at Green Bay -- Map of the surveyed part of Minnesota -- Geological map of portions of Minnesota and Wisconsin -- Geological map|of the north shore of Lake Superior -- Map of the northwest angle of Michigan -- Public surveys on Isle Bois Blanc in the Straits of Mackinaw -- Connection of the private claims with the public surveys adjoining St. Clair lake -- Map and a profile of the canal at Sault Ste. Marie -- Map of Beaver Islands from actual survey.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Census"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003557947/39015091905383\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003557947\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1860",
+  "dct_temporal_sm": [
+    "1860"
+  ]
+}

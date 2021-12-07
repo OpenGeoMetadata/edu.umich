@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1dbe9fed-60db-4b4f-994c-0d57e40bb845",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carta general de la republica mexicana; formada por Antonio Garcia y Cubas.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1dbe9fed-60db-4b4f-994c-0d57e40bb845",
+  "solr_geom": "ENVELOPE(-121.08,-85.4,33.87,13.98)",
+  "solr_year_i": "1863",
+  "dc_creator_sm": [
+    "García y Cubas, Antonio, 1832-1912."
+  ],
+  "dc_description_s": "Relief shown by hachures. \"J.M. Munozguren grabo en piedra en Mexico.\" Inset: Plano de los caminos de Mexico a Vera Cruz con el rayecto del ferrocarril formado...por Talcott y Almazan. Engraved vignettes in upper corners: \"Acueducto de la hacienda de Matlala\" and \"Valle de Mexico\". 1 map: col., mounted on cloth and dissected into 4 sheets; 91 x 138 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282108/39015091200736_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282108\"}",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ]
+}

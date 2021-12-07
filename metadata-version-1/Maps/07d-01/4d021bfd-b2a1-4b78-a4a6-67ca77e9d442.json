@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4d021bfd-b2a1-4b78-a4a6-67ca77e9d442",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Afrique: divisée suivant l'estendüe de ses principales parties ou sont distingués les uns de autres les empires monarchies, royaumes, estats, et peuples, qui partagent aujourd huy l'Afrique. Sur les relations les plus nouvelles; par le Sr. Sanson, Geographe Ordinaire du Roy. Dedié au Roy par son tres humble tres obeissant tres fidele sujet et seruiteur Hubert Iaillot Geographe du Roy.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "4d021bfd-b2a1-4b78-a4a6-67ca77e9d442",
+  "solr_geom": "ENVELOPE(-45.52,58.62,40.95,-35.48)",
+  "solr_year_i": "1690",
+  "dc_creator_sm": [
+    "Jaillot, Alexis Hubert, 1632?-1712.,Sanson, Nicolas, 1600-1667."
+  ],
+  "dc_description_s": "Prime meridian: [Ferro]. Shows political subdivisions in Africa. 8 written on verso. 1 map: hand col.; 44 x 62 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284854/39015091193535\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284854\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "169-"
+  ]
+}

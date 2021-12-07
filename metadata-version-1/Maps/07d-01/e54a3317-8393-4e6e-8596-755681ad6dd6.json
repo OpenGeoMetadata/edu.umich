@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3290 1660 .W5|003289029|39015091199235",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nova totius Americae descriptio",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e54a3317-8393-4e6e-8596-755681ad6dd6",
+  "solr_geom": "ENVELOPE(-162.82,0.87,74.33,-56.58)",
+  "solr_year_i": "1660",
+  "dc_description_s": "1 map : hand col. ; 45 x 55 cm|Relief shown pictorially.|Top border has views of Cuzco, Mexico City, Olinda, Havanna, Santo Domingo and Cartagena.|Left and right borders have images of indigenous peoples.|Decorative cartouche with a native person riding an armadillo.|Lower left has image of Neptune and his queen riding sea horses.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003289029/39015091199235\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003289029\"}",
+  "dct_spatial_sm": [
+    "Americas"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:59Z",
+  "dc_language_sm": [
+    "lat"
+  ],
+  "dct_issued_s": "1660"
+}

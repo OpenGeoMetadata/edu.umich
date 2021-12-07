@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 A8: 2U551 1971 .M6|003161627|39015095416130_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Chronological development of U of M Campus",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c7e0cf34-dea8-4611-b8b1-b923217bcafe",
+  "solr_year_i": "1817",
+  "dc_description_s": "1 map on 2 sheets : photocopy ; 193 x 123 cm, sheets 215 x 93 cm|Shows development of buildings.|Blue line print.|\"M-189.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003161627/39015095416130_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003161627\"}",
+  "dct_spatial_sm": [
+    "University of Michigan, Ann Arbor, Michigan",
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "between 1817 and 1971"
+  ]
+}

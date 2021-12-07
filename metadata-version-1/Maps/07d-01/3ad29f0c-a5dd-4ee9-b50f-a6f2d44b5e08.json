@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3ad29f0c-a5dd-4ee9-b50f-a6f2d44b5e08",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Yamato zenkoku chizu Henshû nin Nakajima Kahê.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3ad29f0c-a5dd-4ee9-b50f-a6f2d44b5e08",
+  "solr_geom": "ENVELOPE(135.5,136.25,34.75,33.75)",
+  "solr_year_i": "1882",
+  "dc_creator_sm": [
+    "Nakajima, Kahê."
+  ],
+  "dc_description_s": "In Japanese. Includes legend. Includes distance chart and list of local products. Relief shown by hachures. 1 map: col.; 101 x 70 cm., folded to 22 x 16 cm., in envelope 70 x 22 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887351/39015091921406_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887351\"}",
+  "dct_spatial_sm": [
+    "Nara, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:07:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 15 1882"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9eccb622-8fe3-4f94-9a5c-e166585eb597",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A correct map of the Pacific Northwest showing rail & steamer lines of the O. R. & N. Co.; Title on map: Map of the Oregon Railroad and Navigation Co.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "9eccb622-8fe3-4f94-9a5c-e166585eb597",
+  "solr_geom": "ENVELOPE(-125,-116,49,42)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Oregon Railway and Navigation Company."
+  ],
+  "dc_description_s": "Cover title. Copyright, 1898, by Poole Bros., Chicago. 1 map: col.; 59 x 55 cm, folded in cover 16 x 11 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003190210/39015091904360\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003190210\"}",
+  "dct_spatial_sm": [
+    "Pacific Northwest, Oregon"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ]
+}

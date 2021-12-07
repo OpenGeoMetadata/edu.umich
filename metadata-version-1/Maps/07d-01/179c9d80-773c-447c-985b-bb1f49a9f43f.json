@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3701 .F9 1878 .P4|007809714|39015091195316_01",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Congressional district vote map of the United States",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "179c9d80-773c-447c-985b-bb1f49a9f43f",
+  "solr_geom": "ENVELOPE(-125.45,-66.93,50,24.85)",
+  "solr_year_i": "1880",
+  "dc_creator_sm": [
+    "Whitman & Breck."
+  ],
+  "dc_description_s": "1 map : col. ; 53 x 90 cm., folded in envelope 13 x 18 cm.|Includes list of votes by state, district and party affiliation in the Congressional election of 1878.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Election districts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007809714/39015091195316_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007809714\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1880"
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "380212b8-db97-4904-b977-f418b82c37cd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nouveau plan de Paris fortifié",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "380212b8-db97-4904-b977-f418b82c37cd",
+  "solr_geom": "ENVELOPE(2.3301,2.33,48.8701,38.87)",
+  "solr_year_i": "1851",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "Includes Table of \"Nomenclature des Rues, Bureaux Principaux & Suite des Passages\". Fortifications and some streets colored. 1 map: hand col., mounted on cloth; 58 x 45 cm, folded to 5 x 10 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081007/39015091186257\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081007\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "680d43d8-eb9c-41dc-9bee-ee8f665f5b1f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "China, Japan, &c.; China, Japan, etc.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "680d43d8-eb9c-41dc-9bee-ee8f665f5b1f",
+  "solr_geom": "ENVELOPE(93,143,40,20)",
+  "solr_year_i": "1835",
+  "dc_creator_sm": [
+    "Bradford, T. G. (Thomas Gamaliel), 1802-1887."
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridians: London and Washington. Appears in Bradford's A Comprehensive atlas geographical, historical & commercial. Boston: American Stationers' Company, 1835. \"125\". This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006814646/39015091916638\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006814646\"}",
+  "dct_spatial_sm": [
+    "Eastern Asia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ]
+}

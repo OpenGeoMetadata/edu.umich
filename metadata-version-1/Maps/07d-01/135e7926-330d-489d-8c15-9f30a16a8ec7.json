@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "135e7926-330d-489d-8c15-9f30a16a8ec7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Hudson: compiled expressly for the Lenawee Co. atlas.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "135e7926-330d-489d-8c15-9f30a16a8ec7",
+  "solr_geom": "ENVELOPE(-84.3499,-84.35,41.8501,41.83)",
+  "solr_year_i": "1892",
+  "dc_creator_sm": [
+    "George B. Cadwell & Co.,George B. Cadwell & Co. Atlas of Lenawee County, Michigan."
+  ],
+  "dc_description_s": "Cadastral map showing some land ownership. From George B Cadwell & Co. Atlas of Lenawee County, Michigan. [Adrian, Mich.?]: George B. Cadwell & Co., 1893. 1 map: hand col.; 90 x 72 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003931632/39015091900806\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003931632\"}",
+  "dct_spatial_sm": [
+    "Hudson, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ]
+}

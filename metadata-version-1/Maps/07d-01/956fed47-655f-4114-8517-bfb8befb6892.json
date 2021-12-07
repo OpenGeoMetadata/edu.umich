@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 5833 .I6 16-- .J3|012536134|39015091191232_01",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Touraine",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "956fed47-655f-4114-8517-bfb8befb6892",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Vignaud, Henry, 1830-1922, former owner.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas."
+  ],
+  "dc_description_s": "1 map 36 x 47 cm.|Relief shown pictorially.|Vignette in upper right corner depicts a woman holding a cornucopia of fruits and vegetables and a list of islands in the Loire river in the upper left.|This state was published in atlases by Jan Jansson in 1637 and 1680.|From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012536134/39015091191232_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012536134\"}",
+  "dct_spatial_sm": [
+    "Touraine,  Centre,  France",
+    "Centre,  France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:47Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1636?.",
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

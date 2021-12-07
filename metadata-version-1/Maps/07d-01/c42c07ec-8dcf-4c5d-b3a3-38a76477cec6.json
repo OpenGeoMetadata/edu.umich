@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c42c07ec-8dcf-4c5d-b3a3-38a76477cec6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tenpō kaisei shūchū Kyō ezu Ikeda Tōritei kōsei.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c42c07ec-8dcf-4c5d-b3a3-38a76477cec6",
+  "solr_geom": "ENVELOPE(135.5,135.83,35.07,34.83)",
+  "solr_year_i": "1841",
+  "dc_creator_sm": [
+    "Ikeda, Tōri.,Takehara, Yoshibē."
+  ],
+  "dc_description_s": "Mounted cover title. Wood block print. Oriented with north to the left. In Japanese. Relief shown pictorially. Includes legend. 1 map: col.; 32 x 43 cm., folded in cover 16 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887657/39015091921505_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887657\"}",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Tenpō 12 1841"
+  ]
+}

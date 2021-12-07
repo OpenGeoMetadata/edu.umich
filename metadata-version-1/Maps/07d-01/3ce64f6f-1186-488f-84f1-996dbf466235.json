@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3ce64f6f-1186-488f-84f1-996dbf466235",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the boundary between Massachusetts & New York: showing the ancient colonial and provincial grants and settlements; by Franklin Leonard Pope, member of the Berkshire Historical and Scientific Society.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3ce64f6f-1186-488f-84f1-996dbf466235",
+  "solr_geom": "ENVELOPE(-73.92,-73.08,42.83,41.92)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "Pope, Frank L. (Franklin Leonard), 1840-1895.,Pope, Frank L. (Franklin Leonard), 1840-1895. Western boundary of Massachusetts.,Old Corner Bookstore (Springfield, Mass.),Berkshire Historical and Scientific Society (Pittsfield, Mass.)"
+  ],
+  "dc_description_s": "Extends west to Schenectady and the Hudson River, covering Columbia County and most of Rensselaer County. Extend east to cover most of Berkshire County. Shows the Commissioners boundary, 1787. Relief shown by hachures. Publisher from front cover. Probably also published to accompany: The western boundary of Massachusetts: a study of Indian and colonial history / by Franklin Leonard Pope. Pittsfield, Mass.: Privately printed, 1886. 1 map; 37 x 28 cm., folded in cover 22 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009554752/39015091910482\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009554752\"}",
+  "dct_spatial_sm": [
+    "New York State, New York"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1886?"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "35f4a4c5-808b-4ed3-a188-fcba0afd89c4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Londini Angliæ regni metropolis novissima & accuratissima; autore Joanne de Ram.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "35f4a4c5-808b-4ed3-a188-fcba0afd89c4",
+  "solr_geom": "ENVELOPE(-0.14,-0.04,51.53,51.49)",
+  "solr_year_i": "1690",
+  "dc_creator_sm": [
+    "Ram, Joannes de."
+  ],
+  "dc_description_s": "Includes index, illus. and portraits of William III and Mary II. Includes panoramic view from the south of London. 1 map; 49 x 58 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005103471/39015060933689\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005103471\"}",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1690?"
+  ]
+}

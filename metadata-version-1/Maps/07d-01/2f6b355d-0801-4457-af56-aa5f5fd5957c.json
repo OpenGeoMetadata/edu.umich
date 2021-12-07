@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2f6b355d-0801-4457-af56-aa5f5fd5957c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "[Map of part of northeastern Virginia] This map is the result of horseback surveys made by the writer and donor and other members.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2f6b355d-0801-4457-af56-aa5f5fd5957c",
+  "solr_geom": "ENVELOPE(-78.33,-77.53,38.7,38.28)",
+  "solr_year_i": "1864",
+  "dc_creator_sm": [
+    "Alexander, Samuel.,Schedler, J. (Joseph),United States. Army. Corps of Engineers."
+  ],
+  "dc_description_s": "Relief shown by contours. \"Engraved by J. Schedler 120 Pearl St. N.York.\" Manuscript note reads \"This map is the result of horseback surveys made by the writer and donor and other members of the Topograhical Department of the Army of the Potomac and was used by Gen'l Hancock in Grant's first campaign in Virginia in the Sring of 1864. S. Alexander, Topographic Engineer, 3rd Corps Army of the Potomac. 822 Oakland Ave, Ann Arbor, Mich., Oct. 18th, 1905.\" 1 map: mounted on cloth; 72 x 91 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081817/39015091898182_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081817\"}",
+  "dct_spatial_sm": [
+    "Culpeper County, Virginia",
+    "Virginia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ]
+}

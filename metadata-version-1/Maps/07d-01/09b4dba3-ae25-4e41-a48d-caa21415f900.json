@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4071 .C5 1897 .L4|003287143|39015091905458",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geological formations of Ohio and Indiana.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "09b4dba3-ae25-4e41-a48d-caa21415f900",
+  "solr_geom": "ENVELOPE(-88.03,-80.5,41.55,37.63)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "1 map : col. ; 24 x 35 cm.|Eighteenth Annual Report Part IV PL. XXXIV. J. Ottmon Lith. Co., NY.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287143/39015091905458\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287143\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:11Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1897"
+}

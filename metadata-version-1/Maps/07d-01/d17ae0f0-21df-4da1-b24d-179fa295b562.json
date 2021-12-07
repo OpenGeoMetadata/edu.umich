@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G6081 .A6 1936 .R5|003287778|39015091887854",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Germany, the beautiful travel country",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d17ae0f0-21df-4da1-b24d-179fa295b562",
+  "solr_geom": "ENVELOPE(5.5,23.02,55.48,47.05)",
+  "solr_year_i": "1936",
+  "dc_description_s": "1 map : col. ; 55 x 76 cm|On verso: Communications in Germany.|On verso: [General Hints for Travelers.]|Pictorial map of Germany showing historical people and places.|Map contains images on Nazi soldiers in various locations.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287778/39015091887854\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287778\"}",
+  "dct_spatial_sm": [
+    "Germany,  Germany",
+    "Germany"
+  ],
+  "layer_modified_dt": "2021-05-08T16:42:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1936"
+}

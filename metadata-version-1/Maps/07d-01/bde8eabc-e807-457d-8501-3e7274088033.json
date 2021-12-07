@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bde8eabc-e807-457d-8501-3e7274088033",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sketch of public surveys in New Mexico to accompany report of Surveyor General, 1856; Surveyor General's Office, Santa Fe, New Mexico, William Pelham , Surveyor General.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "bde8eabc-e807-457d-8501-3e7274088033",
+  "solr_geom": "ENVELOPE(-114.55,-101,39,31)",
+  "solr_year_i": "1856",
+  "dc_creator_sm": [
+    "United States. Surveyor General of New Mexico."
+  ],
+  "dc_description_s": "Relief shown by hachures. Shows inhabited settlements, drainage, and survey lines. Includes signature of Wm. Pelham, Surveyor General of N. M. 1 map: mounted on cloth; 57 x 83 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000952290/39015095422096\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000952290\"}",
+  "dct_spatial_sm": [
+    "New Mexico"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3d928eb3-5217-42f9-9b57-08fe61c6a28f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Amerique divisée en ses principaux etats; par le Sr. Janvier.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3d928eb3-5217-42f9-9b57-08fe61c6a28f",
+  "solr_geom": "ENVELOPE(-144.6,-1.03,57.78,-56.73)",
+  "solr_year_i": "1784",
+  "dc_creator_sm": [
+    "Janvier, Jean."
+  ],
+  "dc_description_s": "Relief shown pictorially. Map 43 from vol. 2 of Atlas Universel by P. Santini. 1 map: hand col.; 45 x 63 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284884/39015091197379\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284884\"}",
+  "dct_spatial_sm": [
+    "Americas"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1784?"
+  ]
+}

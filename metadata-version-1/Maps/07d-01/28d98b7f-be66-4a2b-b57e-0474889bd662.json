@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "28d98b7f-be66-4a2b-b57e-0474889bd662",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tableau synoptique et abrégé du systême magnétique terrestre, ou résumé des observations recueillies à la surface de la terre dans différentes contrées, pour déterminer les diverses variations de l'aiguille aimantée sur tous les points du globe.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "28d98b7f-be66-4a2b-b57e-0474889bd662",
+  "solr_geom": "ENVELOPE(-180,180,80,-61)",
+  "solr_year_i": "1860",
+  "dc_creator_sm": [
+    "Garnier, F. A., 1803-1863."
+  ],
+  "dc_description_s": "From his \"Atlas spheroidal & universel de geographie\". 1 map: col.; 50 x 70 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282128/39015091197213\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282128\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ]
+}

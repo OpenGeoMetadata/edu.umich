@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7be042b3-9556-4f68-ba7c-7d8674efded3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "City of Ann Arbor, Washtenaw County, Michigan; surveyed & published by S. Pettibone.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7be042b3-9556-4f68-ba7c-7d8674efded3",
+  "solr_geom": "ENVELOPE(-83.76,-83.73,42.3,42.27)",
+  "solr_year_i": "1870",
+  "dc_creator_sm": [
+    "Pettibone, S."
+  ],
+  "dc_description_s": "Relief shown by hachures. Map shows six city wards, township sections, lot boundaries, buildings and other cultural features, and sections of land annexed by the city. Chronological list of additions provided. 1 map: photostatic copy; 102 x 82 cm. on 4 sheets 65 x 46 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000524468/39015091198187\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000524468\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ]
+}

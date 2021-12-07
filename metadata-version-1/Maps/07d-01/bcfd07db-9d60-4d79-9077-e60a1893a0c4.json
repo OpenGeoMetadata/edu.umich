@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bcfd07db-9d60-4d79-9077-e60a1893a0c4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mapa de los estados unidos de Méjico ségun lo organizado y definido por las varias actas del Congreso de dicha República y construido por las mejores autoridades.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "bcfd07db-9d60-4d79-9077-e60a1893a0c4",
+  "solr_geom": "ENVELOPE(-126,-75,40,13)",
+  "solr_year_i": "1848",
+  "dc_creator_sm": [
+    "Disturnell, John, 1801-1877."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. Area covered includes the southwestern part of the present United States. Prime meridian: Wahington. Insets: Tabla de distaucias -- Tabla estadistica -- Carta de los caminos &c. desde Vera Cruz y Alvorado a Méjico -- Profile of the route between Mexico and Vera Cruz - Profile of the route btween [sic] Mexico and Acapulco -- Map showing the battle grounds of the 8th and 9th May 1846 -- Chart of the bay of Vera Cruz -- Tampico and its environs -- Plan of Monterey and its environs -- Map of the Battleground Feb. 22 and 23, 1847. Statistical table attached to inside front cover. 1 map: hand col., mounted on cloth; 74 x 104 cm, folded in cover 27 x 20 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002645002/39015091200801\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002645002\"}",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ]
+}

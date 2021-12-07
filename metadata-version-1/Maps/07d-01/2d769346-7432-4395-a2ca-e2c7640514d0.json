@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2d769346-7432-4395-a2ca-e2c7640514d0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the village of Ada: situated on section 34. T.7.N. R.10.W., county of Kent, Michigan; drawn by R. Andrewes, Detroit 1836.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2d769346-7432-4395-a2ca-e2c7640514d0",
+  "solr_geom": "ENVELOPE(-85.53,-85.46,42.97,42.93)",
+  "solr_year_i": "1836",
+  "dc_creator_sm": [
+    "Andrewes, R. (Robert),Stone, William James, 1798-1865."
+  ],
+  "dc_description_s": "Cadastral map. Includes location map. 1 map; 42 x 60 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003928274/39015095398874\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003928274\"}",
+  "dct_spatial_sm": [
+    "Ada, Ohio",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2021-05-18T15:03:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1836"
+  ]
+}

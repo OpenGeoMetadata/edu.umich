@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dad0b617-bceb-4937-9735-832bb76ddd1c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte contenant le Duché de Limbourg et partie du dioecese de Liege; par M. van Medtman.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "dad0b617-bceb-4937-9735-832bb76ddd1c",
+  "solr_geom": "ENVELOPE(3.95,6.1,51.72,50.45)",
+  "solr_year_i": "1748",
+  "dc_creator_sm": [
+    "Medtman, Matthias van."
+  ],
+  "dc_description_s": "Relief shown by hachures. 1 map: dissected and mounted on linen; 114 x 118 cm., folding to 20 x 17 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005842590/39015049960324_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005842590\"}",
+  "dct_spatial_sm": [
+    "Belgium",
+    "Belgium"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1748"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3647020c-2f6c-4b1a-a2ba-2dbc7507319b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "America Septentrionalis novissima: America Meridionalis accuratissima.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3647020c-2f6c-4b1a-a2ba-2dbc7507319b",
+  "solr_year_i": "1709",
+  "dc_creator_sm": [
+    "Schenk, Peter, 1660-1718 or 1719."
+  ],
+  "dc_description_s": "America Meridionalis accuratissima |Relief shown pictorially. Title is divided into two decorative cartouches one for North America and the other for South America. Cartouches contain vignettes portraying explorers and native peoples. From his \"Atlas Contractus\". 1 map: hand col.; 47 x 56 cm.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005551929/39015091198096\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005551929\"}",
+  "dct_spatial_sm": [
+    "Americas"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:44:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "Appoximately 1709"
+  ]
+}

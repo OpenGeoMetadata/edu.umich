@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c6f44b88-c6e6-4379-ba90-3ce4a9a9167d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Afrique: selon les relations les plus nouvelles, dressée sur les memoires du sr. de Tillemont, divisée en tousses royaumes et grands etats avec un discour sur la nouvelle decouverte de la situation des sources du Nil.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c6f44b88-c6e6-4379-ba90-3ce4a9a9167d",
+  "solr_geom": "ENVELOPE(-26.58,60.55,39.7,-37.53)",
+  "solr_year_i": "1704",
+  "dc_creator_sm": [
+    "Nolin, Jean Baptiste, 1648-1708.,Du Tralage, Jean Nicolas, -1699."
+  ],
+  "dc_description_s": "24 written on verso. Prime meridian: Ferro. J.C. van Loon sculp. Shows political or tribal divisions in Africa. Includes note about the latest discovery about the source of the Nile River. 1 map: hand col.; 44 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003152810/39015091193568\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003152810\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1704"
+  ]
+}

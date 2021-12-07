@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "55479623-44ca-4004-84fc-78908f7f32e5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of part of the county of Ottawa showing the phosphate district; The Dept.of Crown Lands.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "55479623-44ca-4004-84fc-78908f7f32e5",
+  "solr_geom": "ENVELOPE(-76,-75.33,46.33,45.42)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Ontario. Department of Crown Lands."
+  ],
+  "dc_description_s": "1 map: col.; 92 x 47 cm, folded to 27 x 12 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001543040/39015091888167_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001543040\"}",
+  "dct_spatial_sm": [
+    "Ottawa, Ontario, Canada"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ]
+}

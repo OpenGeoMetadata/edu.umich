@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "83b2f9b1-bad2-46c2-ab57-e438c177cea5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte chorographique du comte d'Avignon et la prinicipaute d'Orenge.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "83b2f9b1-bad2-46c2-ab57-e438c177cea5",
+  "solr_geom": "ENVELOPE(4.62,5.51,44.27,43.85)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Hondius, Jodocus, 1594 or 1595-1629.,Hondius, Hendrik, 1597-1651, cartographer.,Hamersveldt, Everard Symonsz, 1591-1653, engraver.,Vignaud, Henry, 1830-1922, former owner, Composite Atlas of France."
+  ],
+  "dc_description_s": "Relief shown pictorially. North is oriented to the bottom of the map. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004077747/39015091192172_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004077747\"}",
+  "dct_spatial_sm": [
+    "Avignon, Provence-Alpes-Côte d'Azur, France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

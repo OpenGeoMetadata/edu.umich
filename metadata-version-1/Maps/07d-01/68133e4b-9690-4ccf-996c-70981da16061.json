@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "68133e4b-9690-4ccf-996c-70981da16061",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nihon kaizan choriku zu/ zukō Ishikawa Tomonobu.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "68133e4b-9690-4ccf-996c-70981da16061",
+  "solr_geom": "ENVELOPE(128.68,146.73,41.6,29.97)",
+  "solr_year_i": "1691",
+  "dc_creator_sm": [
+    "Ishikawa, Tomonobu.,Sagamiya, Tahē.,Variant reading of author's name Ryūsen, Ishikawa,"
+  ],
+  "dc_description_s": "Wood block print. Mounted cover title. Covers from Mutsu to Satsuma, with daimyo's administrative divisions and fief yieldings. Places of interest shown pictorially. Insets include list of provinces, shrines, distance charts, zodiac diagrs. with movable paper rings attached, etc. Author's name also read as Ishikawa Ryūsen. 1 map: col.; 81 x 168 cm., folded to 25 x 18 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003111039/39015091921281_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003111039\"}",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Genroku 4 1691"
+  ]
+}

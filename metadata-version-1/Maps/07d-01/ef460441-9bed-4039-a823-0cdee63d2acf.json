@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ef460441-9bed-4039-a823-0cdee63d2acf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Oregon; compiled from the official records of the General Land Office and other sources under the direction of Harry King, chief of Drafting Division, G.L.O.; compiled, lettered and drawn by M. Hendges.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ef460441-9bed-4039-a823-0cdee63d2acf",
+  "solr_geom": "ENVELOPE(-125,-116,46.5,42)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "United States. General Land Office.,King, Harry, (Harold G. R.),Hendges, M."
+  ],
+  "dc_description_s": "Shows rail roads completed, rail roads proposed, life saving stations, county seats, light houses, military roads and trails and roads. Relief shown by shading and spot heights. Also available via the Internet. 1 map: col.; 70 x 89 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009674503/39015095421932\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009674503\"}",
+  "dct_spatial_sm": [
+    "Oregon"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

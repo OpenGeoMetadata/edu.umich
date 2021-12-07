@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "71d4012f-5615-4f70-9257-9357316bfdaf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Settsu no Kuni Ōsaka-fu kubun shin saizu; Hashimoto Chōgetsu hen.; Ōsaka-fu kubun shin saizu",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "71d4012f-5615-4f70-9257-9357316bfdaf",
+  "solr_geom": "ENVELOPE(135.31,135.55,34.78,34.59)",
+  "solr_year_i": "1879",
+  "dc_creator_sm": [
+    "Hashimoto, Chōgetsu."
+  ],
+  "dc_description_s": "Copperplate print. Oriented with north to the left. Relief shown pictorially. Includes distance chart, and lists of town names. Includes 2 insets: 1. Kyōto -- 2. Settsu no Kuni zen ryakuzu. 1 map: col.; 48 x 72 cm., folded in covers 17 x 13 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003109971/39015091921455_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003109971\"}",
+  "dct_spatial_sm": [
+    "Osaka, Ōsaka, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 12 1879"
+  ]
+}

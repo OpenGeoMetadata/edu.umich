@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "82d72596-f519-4d23-b328-9c6afc47172f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Asher & Adams' Michigan.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "82d72596-f519-4d23-b328-9c6afc47172f",
+  "solr_geom": "ENVELOPE(-89.33,-82.28,47.67,41.5)",
+  "solr_year_i": "1872",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "Washington and Greenwich prime meridians. Inset map: \"Northwestern portion of Michigan. Scale 20 miles to an inch.\" \"Entered according to Act of Congress in the year 1872 by Asher and Adams' in the office of the Librarian of congress.\" Shows parts of Wisc. and Ill. and small parts of northern Ind. and Ohio. Shows railroad routes. Shows major cities and towns along rail lines. Plate no. 63-64 in Asher and Adams' New Columbian railroad and pictorial album of American industry. 1 map: col.; 55 x 38 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000080979/39015091880016\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000080979\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ]
+}

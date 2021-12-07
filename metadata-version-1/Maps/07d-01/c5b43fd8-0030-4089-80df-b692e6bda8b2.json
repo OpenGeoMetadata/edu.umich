@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4282 .G7A5 1937 .L74|003287211|39015091920739",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A cockeyed hysterical map of the Grand Coulee Dam",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c5b43fd8-0030-4089-80df-b692e6bda8b2",
+  "solr_year_i": "1937",
+  "dc_description_s": "1 map : col. ; 40 x 56 cm..|Relief shown pictorially.|Inset: An idea of the completed high dam to produce 2,100,000 horse power.|North oriented toward lower right.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287211/39015091920739\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287211\"}",
+  "dct_spatial_sm": [
+    "Grand Coulee,  Washington",
+    "Washington"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1937",
+  "dct_temporal_sm": [
+    "1937"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dd57b6ce-85de-4907-9d8e-e221f677f992",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Amérique, méridionale et septentrionale: dressée selon les dernieres rélations et suivant les nouvelles découvertes dont les points principaux sont placez sur les observations de mrs. de l'Académie Royale des Sciences; par N. de Fer.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "dd57b6ce-85de-4907-9d8e-e221f677f992",
+  "solr_geom": "ENVELOPE(-169.55,2.73,56.9,-56.53)",
+  "solr_year_i": "1717",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720."
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Dressee et dediee a nosseigneurs les enfans de France, par leur tres humble et tres obeissant serviteur de Fer. geog. de mgr. le Dauphin.\" Title and dedication in decorative cartouches. 1 map: hand col.; 23 x 32 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008781196/39015091197320\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008781196\"}",
+  "dct_spatial_sm": [
+    "Americas"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1717"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2ece81ca-a3dc-4e5a-b84c-82d9e7ddc98c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan de Tournay: Ville episcopale située sur l'Escaut; à Paris, Chez le Sr. le Rouge ingr. géographe du Roy ruë des Augustins.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2ece81ca-a3dc-4e5a-b84c-82d9e7ddc98c",
+  "solr_geom": "ENVELOPE(3.3801,3.38,50.6001,50.6)",
+  "solr_year_i": "1745",
+  "dc_creator_sm": [
+    "Le Rouge."
+  ],
+  "dc_description_s": "Shows military operations during siege of 1745. Show public and outlying buildings, city streets, fortifications, fields, marshes, etc. Relief by hachures. Text written in French. Scale measured in Toises. 1 map: hand col., dissected and mounted on linen; 49 x 58 cm, folded in slipcase 18 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005681455/39015049953600\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005681455\"}",
+  "dct_spatial_sm": [
+    "Tournai, Wallonia, Belgium",
+    "Belgium"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1745"
+  ]
+}

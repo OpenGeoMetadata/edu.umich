@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3312 .S44 1854 .M3|009557218|39015091196959",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Re-examination of the outlet of the south channel of the river St. Clair",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "89427170-a235-4125-972b-dc0f90af3e38",
+  "solr_geom": "ENVELOPE(-82.71,-82.58,42.61,42.48)",
+  "solr_year_i": "1854",
+  "dc_creator_sm": [
+    "Chillas, David.",
+    "Gunnison, J. W. (John Williams), 1812-1853.",
+    "Hearding, W. N."
+  ],
+  "dc_description_s": "1 map ; 393 x 484 mm.|In: Message from the President of the United States to the Two Houses of Congress at the Commencement of the Second Session of the Thirty-Third Congress. Part 3.|Map 25 to illustrations accompanying the Report of the Colonel of Topographical Engineers.|\"Sen. Ex. Doc. No. 1, 1st. session, 33rd Congress.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009557218/39015091196959\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009557218\"}",
+  "dct_spatial_sm": [
+    "South Channel Saint Clair River"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1854"
+}

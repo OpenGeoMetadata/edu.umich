@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3464 .W7 1923 .D6|003281371|39015091891567",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the border cities of Windsor, Walkerville, Ford City, Sandwich, and Ojibway",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "26322a5f-0056-4825-912c-d82ff1d56261",
+  "solr_year_i": "1923",
+  "dc_description_s": "1 map : col. ; 47 x 84 cm|North oriented to upper right corner of map.|Locates industrial, educational and public institutions.|Includes portions of downtown and riverside Detroit and of Essex County, Ontario.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281371/39015091891567\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281371\"}",
+  "dct_spatial_sm": [
+    "Detroit River,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ]
+}

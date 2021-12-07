@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4113 .C4G4 1922 .M5|003283741|39015095410620_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Charlevoix County",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "9a9c807c-5f81-4022-9c89-e255a4cf8cde",
+  "solr_geom": "ENVELOPE(-85.43,-84.72,45.38,45.1)",
+  "solr_year_i": "1922",
+  "dc_description_s": "2 sheets ; sizes vary.|Blue line print.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003283741/39015095410620_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003283741\"}",
+  "dct_spatial_sm": [
+    "Charlevoix County, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1922"
+}

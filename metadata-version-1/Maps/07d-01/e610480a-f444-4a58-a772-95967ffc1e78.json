@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e610480a-f444-4a58-a772-95967ffc1e78",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Stanton: Montcalm county, Michigan.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e610480a-f444-4a58-a772-95967ffc1e78",
+  "solr_geom": "ENVELOPE(-85.09,-85.07,43.3,43.29)",
+  "solr_year_i": "1880",
+  "dc_creator_sm": [
+    "Stoner, J. J.,Beck & Pauli, lithographer."
+  ],
+  "dc_description_s": "Relief shown pictorially. North is oriented to bottom right corner of the map. Bird's eyes view includes index of public buildings, churches, and businesses. Also includes names of streets on the map. Includes inset of the courthouse of Montcalm county. 1 map: 41 x 71 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013538278/39015091897010\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013538278\"}",
+  "dct_spatial_sm": [
+    "Montcalm County, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ]
+}

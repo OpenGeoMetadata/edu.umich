@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "64b4e587-91e4-4b62-acc6-11e34b001674",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Post's Addition to Ypsilanti; Surveyed and platted by C. S. Woodard.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "64b4e587-91e4-4b62-acc6-11e34b001674",
+  "solr_geom": "ENVELOPE(-83.6199,-83.62,42.2301,42.23)",
+  "solr_year_i": "1875",
+  "dc_creator_sm": [
+    "Woodard, C. S. (Charles Sherman)"
+  ],
+  "dc_description_s": "Shows Post's Addition subdivison to the City of Ypsilanti, Michigan. Official notarized record of the addition. Surveyed and platted January, 1875 by C. S. Woodard. 1 map: 44 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006492042/39015091897192\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006492042\"}",
+  "dct_spatial_sm": [
+    "Ypsilanti, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ]
+}

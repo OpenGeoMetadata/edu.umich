@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5d0f0202-218c-40e1-b5e5-5744ff87f8cd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Guide map of the city of Detroit; drawn by Eugene Robinson, city surveyor.; Guide map of the city of Detroit showing location of hotels, churches, schools, railroad depots and all places of interest;Hand book and guide map of the city of Detroit",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5d0f0202-218c-40e1-b5e5-5744ff87f8cd",
+  "solr_geom": "ENVELOPE(-83.09,-83.01,42.38,42.31)",
+  "solr_year_i": "1870",
+  "dc_creator_sm": [
+    "Silas Farmer & Co.,Robinson, Eugene."
+  ],
+  "dc_description_s": "North oriented toward upper right. \"Entered according to act of Congress...12th day of August, 1863...\" Accompanied by booklet entitled Hand book and guide map of the city of Detroit. Detroit, Mich.: S. Farmer & Co., [1870]. 28 p.; 14 cm. The booklet is continued on the verso of the map (p. 29-69). The title, Guide map of the city of Detroit showing location of hotels, churches, schools, railroad depots and all places of interest has been covered by the new title. Inset: Junction of Grand Trunk, Michigan Central, and Michigan Southern railroads. Includes text and index. Arc distances measured from Campus Martius. Shows ferry lines to Windsor, railroad lines, points of interest. Text and advertisements on verso. 1 map; 59 x 66 cm. folded to 13 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003820943/39015091183676\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003820943\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ]
+}

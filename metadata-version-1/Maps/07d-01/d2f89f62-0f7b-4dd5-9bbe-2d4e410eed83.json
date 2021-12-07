@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d2f89f62-0f7b-4dd5-9bbe-2d4e410eed83",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Le plan de la ville, cité, et université de Paris: capitale du Royaume de France.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d2f89f62-0f7b-4dd5-9bbe-2d4e410eed83",
+  "solr_geom": "ENVELOPE(2.27,2.45,48.89,48.83)",
+  "solr_year_i": "1705",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720."
+  ],
+  "dc_description_s": "In: N. de Fer's Atlas curieux ... 1705, p. [22]. 1 map; 22 x 33 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009449625/39015091186554\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009449625\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ]
+}

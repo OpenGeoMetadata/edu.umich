@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "360f5be6-54cf-4ebb-aa09-5f46f817e274",
+  "dc_rights_s": "Public",
+  "dc_title_s": "North London; Ordnance Survey of England.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "360f5be6-54cf-4ebb-aa09-5f46f817e274",
+  "solr_geom": "ENVELOPE(-0.42,-0.03,51.68,51.52)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Great Britain. Ordnance Survey."
+  ],
+  "dc_description_s": "Relief shown by contours, hachures and spot heights. Sheet 256. 1 map: col.; 31 x 46 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081009/39015091186992\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081009\"}",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ]
+}

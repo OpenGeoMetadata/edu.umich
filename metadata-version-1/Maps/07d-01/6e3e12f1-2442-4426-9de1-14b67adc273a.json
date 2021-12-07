@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6e3e12f1-2442-4426-9de1-14b67adc273a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Farmer's rail road & township map of Michigan and chart of the lakes",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6e3e12f1-2442-4426-9de1-14b67adc273a",
+  "solr_geom": "ENVELOPE(-90.52,-82.4,48.22,41.43)",
+  "solr_year_i": "1866",
+  "dc_creator_sm": [
+    "Farmer, John, 1798-1859.,Silas Farmer & Co."
+  ],
+  "dc_description_s": "Shows steamship routes. Twonship and range lines shown. Includes text and tables. 1 map: hand col.; 59 x 58 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013662149/39015091881006\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013662149\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ]
+}

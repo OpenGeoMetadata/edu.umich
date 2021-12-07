@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8689bce2-88a5-4d7c-a9a5-4c0e48a7f5e7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the state of New York with part of Upper Canada engraved & printed by Fenner Sears & Co.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8689bce2-88a5-4d7c-a9a5-4c0e48a7f5e7",
+  "solr_geom": "ENVELOPE(-81,-71,45,40)",
+  "solr_year_i": "1831",
+  "dc_creator_sm": [
+    "Hinton, Isaac Taylor, 1799-1847.,Simpkin, Marshall and Co.,Fenner, Sears & Co."
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridians: Greenwich and Washington. Inset: New York. 1 map; 23 x 38 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002881238/39015091910755\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002881238\"}",
+  "dct_spatial_sm": [
+    "New York State, New York"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ]
+}

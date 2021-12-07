@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b0898389-5773-4497-ab7e-f866ac87625e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A plain map for the geographical game of Asia, Africa, America, and newly discovered islands: according to the method of the Abbé Gaultier.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b0898389-5773-4497-ab7e-f866ac87625e",
+  "solr_geom": "ENVELOPE(-180,180,83,-75)",
+  "solr_year_i": "1792",
+  "dc_creator_sm": [
+    "Gaultier, abbé (Aloisius Edouard Camille), 1746?-1818.,David Rumsey Collection.,Cartography Associates."
+  ],
+  "dc_description_s": "Relief shown pictorially. Outline map showing continents, rivers, mountains, etc. Prime meridian: Ferro. 1 map: hand col.; 31 x 39 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006857987/39015091197866\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006857987\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1792"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a19bae50-883c-4e2d-bfb5-5ad124aa6bc9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "District of Columbia",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a19bae50-883c-4e2d-bfb5-5ad124aa6bc9",
+  "solr_geom": "ENVELOPE(-77.18,-76.9,39,38.78)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "U.S. Coast and Geodetic Survey."
+  ],
+  "dc_description_s": "North oriented to upper left. 1 map on 6 sheets: mounted on cloth; 166 x 168 cm, sheets 62 x 88 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887366/39015091897911\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887366\"}",
+  "dct_spatial_sm": [
+    "Washington DC, Washington, D.C."
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c9fc596e-1bb8-4d01-a879-2bd53c7b26a0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte de l'Indo-Chine Orientale; dressée par Mr. J.L. Dutreuil de Rhins, révisée det complétée au Dépôt de la Guerre en 1886.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c9fc596e-1bb8-4d01-a879-2bd53c7b26a0",
+  "solr_geom": "ENVELOPE(98.68,110.03,23.48,8.3)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "France. Armée. Service géographique.,Dutreuil, J.L."
+  ],
+  "dc_description_s": "Relief shown by hachures. Publiée au Dépôt de Cartes et Plans de la Marine en 1881. \"1088\" printed in lower corner of each sheet. 1 map on 4 sheets: col.; 114 x 82 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282026/39015091916653\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282026\"}",
+  "dct_spatial_sm": [
+    "South Eastern Asia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ]
+}

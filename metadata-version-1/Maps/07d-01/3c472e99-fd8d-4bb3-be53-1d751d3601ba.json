@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3c472e99-fd8d-4bb3-be53-1d751d3601ba",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Orbis terrarum nova et accuratissima tabula auctore Nicolao Visscher, J. de Visscher sculpsit, N.P. Berchem invent.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3c472e99-fd8d-4bb3-be53-1d751d3601ba",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1658",
+  "dc_creator_sm": [
+    "Visscher, Nicolaes, 1618-1679.,Berchem, Nicolaas Pietersz, 1620-1683."
+  ],
+  "dc_description_s": "Two hemispheres surrounded by mythological figures, with polus articus at top center and polus antarcticus at bottom center. 1 map: hand col.; 2 hemispheres each 28 cm in diam., on sheet 54 x 62 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000075181/39015091183510\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000075181\"}",
+  "dct_spatial_sm": [
+    "Earth"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1658"
+  ]
+}

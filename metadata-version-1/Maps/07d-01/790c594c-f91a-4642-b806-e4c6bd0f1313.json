@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "790c594c-f91a-4642-b806-e4c6bd0f1313",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Menominee Iron Range, Mich..",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "790c594c-f91a-4642-b806-e4c6bd0f1313",
+  "solr_geom": "ENVELOPE(-88.08,-87.75,45.92,45.75)",
+  "solr_year_i": "1926",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.),Renshawe, John H."
+  ],
+  "dc_description_s": "Relief shown by contours. Contour interval 20 feet. \"Jno. H. Renshawe, Geographer in charge; Topography by E.C. Bebb; surveyed in 1898.\" \"Reprinted 1926.\" 1 map: col.; 33 x 51 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003784958/39015091898810_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003784958\"}",
+  "dct_spatial_sm": [
+    "Dickinson County, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1926"
+  ]
+}

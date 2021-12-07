@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "185d0644-40b8-4199-98b1-713e012f4653",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Amerique Septentrionale dressée sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens; par G. de L'Isle, geographe; N. Guerard, im. et fec.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "185d0644-40b8-4199-98b1-713e012f4653",
+  "solr_geom": "ENVELOPE(-126.42,-19.5,78.47,6.47)",
+  "solr_year_i": "1700",
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726.,Guérard, Nicolas, approximately 1648-1719."
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Avec privilege du Roy pour 20 ans.\" Second state of first ed. according to The Map Collector, 26:2-6. 1st State has Mississippi River entering Gulf near Galveston. Includes \"Avertissement and decorative cartouche.\" 1 map: hand col.; 43 x 61 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003879426/39015091185911\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003879426\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ]
+}

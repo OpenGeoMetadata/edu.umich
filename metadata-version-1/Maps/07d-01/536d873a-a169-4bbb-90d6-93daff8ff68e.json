@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "536d873a-a169-4bbb-90d6-93daff8ff68e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pictaviæ Ducatus descriptio, vulgo le Pais de Poictou.; Pictavia Ducatus descriptio vulgo le Pais de Poictou",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "536d873a-a169-4bbb-90d6-93daff8ff68e",
+  "solr_geom": "ENVELOPE(-2.63,0.44,47.43,45.63)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Illustrations include two cherubs and a barrell of wine and grapes framing the scale cartouche, ships on the ocean, and the French coat of arms in the upper right corner of the map. Does not match any states listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 35 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005549335/39015091191414_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005549335\"}",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

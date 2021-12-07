@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b0d316f0-1f4b-4454-922d-d1067bc23290",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Survey of the military road from the town of Monroe, River Raisin to the Miami River; [by] Col. Anderson, topl. engrs.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b0d316f0-1f4b-4454-922d-d1067bc23290",
+  "solr_geom": "ENVELOPE(-83.77,-83.28,41.98,41.45)",
+  "solr_year_i": "1819",
+  "dc_creator_sm": [
+    "Anderson, John."
+  ],
+  "dc_description_s": "Positive photocopy of ms. in the National Archives. Indicates mileage, houses and some names of owners, lot lines, drainage, some vegetation, some stylized relief from Monroe to south of Perrysburg along the Maumee River. map on 3 sheets; 18 x 25 1/2 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280277/39015091898869\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280277\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1819?"
+  ]
+}

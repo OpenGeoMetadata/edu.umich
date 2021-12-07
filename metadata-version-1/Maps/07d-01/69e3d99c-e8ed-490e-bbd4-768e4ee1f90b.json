@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3700 1849 .N4|000077415|39015091195092",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new map for travelers through the United States of America showing the railroads, canals & stage roads : with the distances",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "69e3d99c-e8ed-490e-bbd4-768e4ee1f90b",
+  "solr_year_i": "1846",
+  "dc_description_s": "1 map : col., encapsulated in Mylar ; 51 x 66 cm|Surrounded by decorative border.|Washington prime meridian.|Insets: Railroad & canal routes from Albany to Buffalo -- Map showing the rail roads between the cities of New York, Boston & Albany, and the Hudson R. from N. York to Albany -- Railroad route from New York to Philadelphia -- Railroad route from Philadelphia to Washington -- Map or Oregon, Northern California, Santa Fé & c.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000077415/39015091195092\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000077415\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1849",
+  "dct_temporal_sm": [
+    "between 1846 and 1849"
+  ]
+}

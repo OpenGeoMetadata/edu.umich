@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3463 .T5 1869 .G41|003285142|39015091910086",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Thunder Bay and Lake Nipigon Regions",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0eb8143b-26be-4525-b30f-876008a325ad",
+  "solr_year_i": "1869",
+  "dc_creator_sm": [
+    "Bell, Robert http://id.loc.gov/authorities/names/n92009195 http://viaf.org/viaf/26451924",
+    "Barlow, R. http://viaf.org/viaf/273921256"
+  ],
+  "dc_description_s": "1 map on 3 sheets; 109 x 100 cm..|Longitude west from Greenwich",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285142/39015091910086\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285142\"}",
+  "dct_spatial_sm": [
+    "Thunder Bay District,  Ontario,  Canada",
+    "Ontario,  Canada",
+    "Canada"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1869",
+  "dct_temporal_sm": [
+    "1869"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8e4dab71-59b8-43d5-806e-4403f4711707",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Oriens; Oswald Lindley, del.; George Welland, sculpt.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8e4dab71-59b8-43d5-806e-4403f4711707",
+  "solr_geom": "ENVELOPE(45,75,40,25)",
+  "solr_year_i": "1847",
+  "dc_creator_sm": [
+    "Lindley, Oswald.,Welland, George."
+  ],
+  "dc_description_s": "Relief shown by hachures. 1 map: hand col., encapsulated in Mylar; 30 x 38 cm, on sheet 36 x 44 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003595012/39015091916505\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003595012\"}",
+  "dct_spatial_sm": [
+    "Iran"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1847 and 1865?"
+  ]
+}

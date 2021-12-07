@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4fab754b-d64e-485b-8e01-8c54c1ac7501",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The south Appalachian region; by J.A. Maher & Co., 1890; compiled from the maps of the U.S. Geological Survey and other authentic sources; drawn by Jno. W. Hays; Henry S. Selden, draftsman; photo-lith. by A. Hoen & Co.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "4fab754b-d64e-485b-8e01-8c54c1ac7501",
+  "solr_geom": "ENVELOPE(-85.5,-81,38.5,35)",
+  "solr_year_i": "1890",
+  "dc_creator_sm": [
+    "Hays, John W. (John Willis),Selden, Henry S.,J.A. Maher & Co.,A. Hoen & Co."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. 1 map: col.; 136 x 135 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279348/39015091910326\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279348\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3310 1749 .R6|004058478|39015091196850",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Les lacs du Canada et Nouvelle Angleterre",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0eea8833-5e33-420f-a4a5-df2b68c0ffa4",
+  "solr_geom": "ENVELOPE(-93.15,-69.57,49.13,36.57)",
+  "solr_year_i": "1749",
+  "dc_description_s": "1 map ; 16 x 21 cm|No. 193 of Robert de Vaugondy, G. \"Atlas universel portatif et militaire\".",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004058478/39015091196850\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004058478\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-14T22:11:45Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1749"
+}

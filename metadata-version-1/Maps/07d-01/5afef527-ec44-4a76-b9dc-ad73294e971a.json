@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5afef527-ec44-4a76-b9dc-ad73294e971a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Africae nova descriptio; Auct: Guiljelmo Blaeuw.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5afef527-ec44-4a76-b9dc-ad73294e971a",
+  "solr_geom": "ENVELOPE(-34.1,66.03,40.08,-39.12)",
+  "solr_year_i": "1643",
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638."
+  ],
+  "dc_description_s": "Note: Map highly colored. See Phillips, no. 455. Images of cities and peoples of Africa around map border. Has images of animals and sea creatures on map. 1 map: col.; 36 x 46 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281287/39015091193428\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281287\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1643"
+  ]
+}

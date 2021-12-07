@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .D4 1919 .S252|004182122|39015095390343",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sauer's map of the city of Detroit and environs Michigan :a general map of Detroit and suburbs including the entire metropolitan area",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "551553c5-d7fc-46fd-b2ba-ea037be2bb7d",
+  "solr_geom": "ENVELOPE(-83.33,-82.85,42.51,42.22)",
+  "solr_year_i": "1919",
+  "dc_creator_sm": [
+    "American loan and trust co."
+  ],
+  "dc_description_s": "1 map : col. ; 69 x 101 cm.|Printed on face of map: \"Compliments of American loan and trust company.\"|Shows steam and electric railways.|Includes index to public buildings and lists latest street changes.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004182122/39015095390343\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004182122\"}",
+  "dct_spatial_sm": [
+    "Detroit,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1919"
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "befb25e9-1e60-451a-9b25-901cb51e04b3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new pocket plan of the cities of London & Westminster with the borough of Southwark, comprehending the new buildings and other alterations to the year 1790.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "befb25e9-1e60-451a-9b25-901cb51e04b3",
+  "solr_geom": "ENVELOPE(-0.16,-0.04,51.53,51.49)",
+  "solr_year_i": "1790",
+  "dc_creator_sm": [
+    "Faden, William, 1749-1836."
+  ],
+  "dc_description_s": "Label on case reads: London, engrav'd & sold by W. Faden, (successor to the late Mr. Jefferys) Charing Cross. \"Printed for Willm. Faden, Geographer to the King, Charing Cross, London. Includes lists of parishes. Very little color. Dissected into 20 sections. 1 map: hand col., dissected and mounted on cloth; 43 x 87 cm., folded in case 20 x 13 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002601354/39015091186810\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002601354\"}",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1790?"
+  ]
+}

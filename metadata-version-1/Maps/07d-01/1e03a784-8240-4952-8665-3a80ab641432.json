@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3801 .C5 1844 .C5|003288009|39015091903859_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Agricultural and geological map of the state of New York by legislative authority",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1e03a784-8240-4952-8665-3a80ab641432",
+  "solr_geom": "ENVELOPE(-79.87,-71.4,45.5,40.38)",
+  "solr_year_i": "1844",
+  "dc_description_s": "1 map : color ; 93 x 108 cm|Includes four cross sections.|Also shows townships, towns roads rivers, and the Erie Canal.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003288009/39015091903859_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003288009\"}",
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:04Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1844"
+}

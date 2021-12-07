@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4041 .P3 189- .J2|003579057|39015091905870",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Ann Arbor railroad and steamship lines",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "30494f64-dc24-41cf-ae63-e54aae368939",
+  "solr_geom": "ENVELOPE(-94,-78,47,38)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Ann Arbor Railroad Company http://id.loc.gov/authorities/names/n92044044 http://viaf.org/viaf/140862819"
+  ],
+  "dc_description_s": "1 map : hand col. ; 39 x 56 cm|Shows railroads between Buffalo and Minneapolis, and from Duluth to Cincinnati.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003579057/39015091905870\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003579057\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1898"
+}

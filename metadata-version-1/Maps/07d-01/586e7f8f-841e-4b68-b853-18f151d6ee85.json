@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .A8:2U5S1 1940 .U5|003591165|39015095396357",
+  "dc_rights_s": "Public",
+  "dc_title_s": "University of Michigan physical plant development, 1840-1940.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "586e7f8f-841e-4b68-b853-18f151d6ee85",
+  "solr_geom": "ENVELOPE(-83.75,-83.73,42.28,42.26)",
+  "solr_year_i": "1940",
+  "dc_description_s": "9 maps on 1 sheet : photocopy ; sheet 39 x 28 cm",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003591165/39015095396357\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003591165\"}",
+  "dct_spatial_sm": [
+    "University of Michigan,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1940"
+}

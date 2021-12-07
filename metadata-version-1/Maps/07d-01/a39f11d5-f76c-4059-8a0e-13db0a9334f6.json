@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3480 1896 .M3|003287790|39015091910979",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Manitoba",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a39f11d5-f76c-4059-8a0e-13db0a9334f6",
+  "solr_geom": "ENVELOPE(-101.75,-94.87,52.93,48.85)",
+  "solr_year_i": "1896",
+  "dc_description_s": "1 map : col. ; 60 x 62 cm.|Shows the southern portion of Manitoba. Shows railroads, schools, post offices, trails and Provinicial lands.|Litho. by Bulman Bros. & Co., Winnipeg.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287790/39015091910979\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287790\"}",
+  "dct_spatial_sm": [
+    "Manitoba,  Canada",
+    "Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1896"
+}

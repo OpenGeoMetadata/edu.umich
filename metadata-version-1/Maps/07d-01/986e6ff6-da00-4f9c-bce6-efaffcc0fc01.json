@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "986e6ff6-da00-4f9c-bce6-efaffcc0fc01",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Niigata-ken kannai jissokuzu; Kuribayashi Saichirō.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "986e6ff6-da00-4f9c-bce6-efaffcc0fc01",
+  "solr_geom": "ENVELOPE(137,140,39.33,36.1)",
+  "solr_year_i": "1881",
+  "dc_creator_sm": [
+    "Kuribayashi, Saichirō."
+  ],
+  "dc_description_s": "Mounted cover title. Copperplate print. In Japanese. Oriented with north to the upper right. Relief shown by hachures. Includes 6 insets, address chart and distance chart. Includes preface and legend. Includes list of mileage, rivers and district names. 1 map; 106 x 145 cm., folded in cover 25 x 19 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932318/39015091921489_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932318\"}",
+  "dct_spatial_sm": [
+    "Niigata-ken, Niigata, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 14 1881"
+  ]
+}

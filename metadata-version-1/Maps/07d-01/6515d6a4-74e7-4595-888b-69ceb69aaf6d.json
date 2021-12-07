@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6515d6a4-74e7-4595-888b-69ceb69aaf6d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Description du pais de Beauce.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6515d6a4-74e7-4595-888b-69ceb69aaf6d",
+  "solr_geom": "ENVELOPE(0.79,2.53,49.09,47.57)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Templeux, Damien de, Sieur de Frestoy.,Leclerc, Jean, 1560-1621. Théatre géographique du Royaume de France.,Boisseau, Jean, active 1637-1658. Theatre des Gaules.,Vignaud, Henry, 1830-1922, former owner Composite Atlas of France."
+  ],
+  "dc_description_s": "Relief shown pictorially. North oriented toward the right of the map. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 32 x 45 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004256897/39015091192198_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004256897\"}",
+  "dct_spatial_sm": [
+    "Beauce, Centre, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

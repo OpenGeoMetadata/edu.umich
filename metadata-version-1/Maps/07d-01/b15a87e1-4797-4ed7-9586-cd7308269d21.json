@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3461 .F7 1888 .C3|003285701|39015091883606_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Part of the Huron and Ottawa Territory",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b15a87e1-4797-4ed7-9586-cd7308269d21",
+  "solr_geom": "ENVELOPE(-80.43,-77.05,46.4,44.15)",
+  "solr_year_i": "1888",
+  "dc_description_s": "1 map : col. ; 78 x 90 cm.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285701/39015091883606_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285701\"}",
+  "dct_spatial_sm": [
+    "Ontario,  Canada",
+    "Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1888"
+}

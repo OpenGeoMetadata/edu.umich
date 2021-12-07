@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3700 1773 .B4|010557986|39015091195001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte de la Louisiane et pays voisins",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "29f7a92e-5baa-4d25-90da-9d12d931221e",
+  "solr_geom": "ENVELOPE(-96.93,-78.4,45.67,28.77)",
+  "solr_year_i": "1773",
+  "dc_description_s": "1 map : hand col. ; 20 x 29 cm.|Relief shown pictorially.|In lower right: 33.|Likely from Atlas portatif pour servir à l'intelligence de l'histoire philosophique et politique des etablissements et du commerce de Européens dans les deux Indes.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010557986/39015091195001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010557986\"}",
+  "dct_spatial_sm": [
+    "Louisiana"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:44Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1773"
+}

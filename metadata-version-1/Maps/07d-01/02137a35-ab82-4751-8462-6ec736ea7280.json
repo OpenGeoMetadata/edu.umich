@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "02137a35-ab82-4751-8462-6ec736ea7280",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Apographon descriptionis orbis terrae, figuris et narratiunculus distinctae, manee Germanica opere nigelliari discolorio circa medium Saec XV: Tabula aeneae Musee Borgiani Velitris consignatae, quod Camillus Joh. Paulli F. Borgia--proponit.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "02137a35-ab82-4751-8462-6ec736ea7280",
+  "solr_geom": "ENVELOPE(-168.35,-19.62,77.9,-35.77)",
+  "solr_year_i": "1797",
+  "dc_creator_sm": [
+    "Borgia, Camillo Giovanni Paolo, 1777-1817."
+  ],
+  "dc_description_s": "Engraving from a copper plate made by an unknown cartographer about 1410. For a history and description of the map see Nordenskild, A.E., \"An account of a copy from the 15th century of a map of the world, and references therein.\" A later printing from same plate is in Gesellschaft der wissenschaften zu Gttingen. Commentationes, v.16, p.284. 1808. 1 map; 27 x 26 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281554/39015091197577\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281554\"}",
+  "dct_spatial_sm": [
+    "Earth"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1797"
+  ]
+}

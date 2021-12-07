@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a1feb552-d1ad-48c7-9b36-aa59a82d61d9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ann Arbor, Michigan; drawn & published by A. Ruger.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a1feb552-d1ad-48c7-9b36-aa59a82d61d9",
+  "solr_geom": "ENVELOPE(-83.76,-83.73,42.29,42.27)",
+  "solr_year_i": "1866",
+  "dc_creator_sm": [
+    "Ruger, A.,Chicago Lithographing Co."
+  ],
+  "dc_description_s": "Bird's-eye view. Relief shown by shading. \"Chicago Lithographing Co.\" Oriented with north to the upper right. Includes index to points of interest and 10 ill. 1 view: hand col.; 46 x 72 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003928522/39015091198260\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003928522\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ]
+}

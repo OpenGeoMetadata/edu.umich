@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8c558071-ff26-42d9-aefd-70010a549823",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte de la Nouvelle France ou se voit le cours des grandes rivieres de S. Laurens & de Mississipi aujour d'hui S. Louis...; J. Kayser, sculp.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8c558071-ff26-42d9-aefd-70010a549823",
+  "solr_geom": "ENVELOPE(-110.58,-45.93,55.13,16.72)",
+  "solr_year_i": "1720",
+  "dc_creator_sm": [
+    "Keulen, Gerard van.,Kyser, J."
+  ],
+  "dc_description_s": "Relief shown pictorially. From his De Groote nieuve vermeerderde zee-atlas, ofte Waterwaereld. T'Amsterdam, By Gerard van Keulen [1720] no. [82]; see Phillips no. 5693 and Keoman v. 4, Keu 31, p. 301; Keu 113B p. 351 and p. 387. Includes insets of the Gulf of Mexico coast and of the Mississippi River delta. 1 map: col.; 57 x 97 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285990/39015091185952\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285990\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1720"
+  ]
+}

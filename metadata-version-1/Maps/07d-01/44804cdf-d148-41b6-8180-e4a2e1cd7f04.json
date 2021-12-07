@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "44804cdf-d148-41b6-8180-e4a2e1cd7f04",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Payne's illustrated plan of London.; London in 1851",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "44804cdf-d148-41b6-8180-e4a2e1cd7f04",
+  "solr_geom": "ENVELOPE(-0.18,0,51.54,51.48)",
+  "solr_year_i": "1851",
+  "dc_creator_sm": [
+    "Payne, A.H."
+  ],
+  "dc_description_s": "Street map. Includes vignettes of \"London from Hampstead Heath\" and the Parliamentary building. 1 map: hand col.; 38 x 73 cm., folded to 18 x 12 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287496/39015091186893_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287496\"}",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ]
+}

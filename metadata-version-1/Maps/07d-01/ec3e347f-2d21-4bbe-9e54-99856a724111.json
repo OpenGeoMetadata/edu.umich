@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ec3e347f-2d21-4bbe-9e54-99856a724111",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan detaillé du quartier de Ste. Genevieve; levé géométriquement par feu M. l'abbé de La Grive; fini et publié par Al. Fr. Hugnin.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ec3e347f-2d21-4bbe-9e54-99856a724111",
+  "solr_geom": "ENVELOPE(2.3501,2.35,48.8501,48.85)",
+  "solr_year_i": "1757",
+  "dc_creator_sm": [
+    "Lagrive, Jean de, 1689-1757."
+  ],
+  "dc_description_s": "Shows individual buildings. Shows part of the 5th arrondissement, around the Latin Quarter. \"J. P. Ogaer scripsit.\" 1 map; 49 x 68 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011349235/39015091186240\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011349235\"}",
+  "dct_spatial_sm": [
+    "Quartier latin, Île-de-France, France"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1757"
+  ]
+}

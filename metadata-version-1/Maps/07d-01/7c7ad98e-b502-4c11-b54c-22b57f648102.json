@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7c7ad98e-b502-4c11-b54c-22b57f648102",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cette carte de Californie et du Nouveau Mexique: est tiréé de celle quia êté envoyée par un grand d'Espagne pour êtré communiquée a Mrs. de l' Acadmie royale des Sciences; par N. de Fer.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7c7ad98e-b502-4c11-b54c-22b57f648102",
+  "solr_geom": "ENVELOPE(-126.77,-91.8,48.88,20.25)",
+  "solr_year_i": "1700",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720.,Fer, Nicolas de, 1646-1720. Atlas curieux.,Inselin, C., engraver."
+  ],
+  "dc_description_s": "Colored outline; place name index in upper right corner. From Átlas curieux or Cartes et descriptions. \"67\" or \"69\" handwritten in upper right corner. Index with place names in upper right corner of map. Possibly the first map to show the discoveries of Father Kino. \"C. Inselin Sculps\" 1 map: col.; 22 x 33 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279840/39015091185903\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279840\"}",
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ]
+}

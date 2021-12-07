@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1ed4ce33-8526-44e2-b575-89641350b6ac",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Quercy: Cadurcium.; Quercy: Cadvrcivm",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1ed4ce33-8526-44e2-b575-89641350b6ac",
+  "solr_geom": "ENVELOPE(1.09,1.85,45.19,43.96)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Vignaud, Henry, 1830-1922, former owner Composite Atlas of France."
+  ],
+  "dc_description_s": "Relief shown pictorially. North is oriented to the left. Illustrations include a dog, compass, and coat of arms around the scale cartouche and fruit around the title cartouche. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012527796/39015091193121_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012527796\"}",
+  "dct_spatial_sm": [
+    "Quercy, Occitania, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

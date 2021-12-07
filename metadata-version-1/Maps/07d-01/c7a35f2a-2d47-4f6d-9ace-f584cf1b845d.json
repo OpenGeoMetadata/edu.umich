@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c7a35f2a-2d47-4f6d-9ace-f584cf1b845d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sketch of the fort at Michilimackinac; Perks. Magra.; Title in margin: Magra map.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c7a35f2a-2d47-4f6d-9ace-f584cf1b845d",
+  "solr_geom": "ENVELOPE(-84.7299,-84.73,45.7801,45.78)",
+  "solr_year_i": "1938",
+  "dc_creator_sm": [
+    "Magra, Perkins."
+  ],
+  "dc_description_s": "Relief shown by hachures and shading. Facsimile. \"From the original in the Clements library.\" Reproduced from ms. original dated 1766? Oriented with north to the bottom. Includes index of buildings. 1 map: col.; 20 x 23 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003929910/39015091900814\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003929910\"}",
+  "dct_spatial_sm": [
+    "Fort Michilimackinac Historical Marker, Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ]
+}

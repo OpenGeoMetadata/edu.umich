@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "841cb60b-9561-4eba-8e9d-09aa0bb29225",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Detroit 1818: historically correct in every point of detail.; Detroit 1908: same area as view above.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "841cb60b-9561-4eba-8e9d-09aa0bb29225",
+  "solr_geom": "ENVELOPE(-83.06,-83.04,42.34,42.33)",
+  "solr_year_i": "1907",
+  "dc_creator_sm": [
+    "Hurd-Martin Co. (Formerly Hurd-Wheeler Co.)"
+  ],
+  "dc_description_s": "Bird's-eye view of Detroit in 1818 and 1908. 2 picture maps mounted on 1 sheet; 54 x 39 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282856/39015049936886\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282856\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ]
+}

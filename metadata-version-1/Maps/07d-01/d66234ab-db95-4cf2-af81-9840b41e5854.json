@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G4111 .A5 1940 .M51|005090802|39015091916315",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d66234ab-db95-4cf2-af81-9840b41e5854",
+  "solr_geom": "ENVELOPE(-87.5,-81.75,47,41.5)",
+  "solr_year_i": "1940",
+  "dc_description_s": "1 map : col ; 50 x 52 cm.|Relief shown pictorially.|Map has historical, cultural and recreational illustrations.|Includes compass rose with Michigan State symbol.|Includes inset letter from Governor Luren D. Dickinson, dated March 8, 1940.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005090802/39015091916315\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005090802\"}",
+  "dct_spatial_sm": [
+    "Michigan,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1940"
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "13309351-31db-4b00-87ef-501e67e8ebd3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte de la Barbarie, de la Nigrite et de la Guinée; par Guillaume De l'Isle... Ph. Buache gendre de l'auteur, avec priv. du 30 Av. 1745.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "13309351-31db-4b00-87ef-501e67e8ebd3",
+  "solr_geom": "ENVELOPE(-26.58,25.92,39.12,-0.15)",
+  "solr_year_i": "1745",
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726.,Buache, Philippe, 1700-1773."
+  ],
+  "dc_description_s": "Charles Inselin engraver. Relief shown pictorially. 1745 reprint of L'Isle's 1707 map. Prime meridian: Ferro. 1 map: hand col.; 48 x 59 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282593/39015091193584\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282593\"}",
+  "dct_spatial_sm": [
+    "Western Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1745"
+  ]
+}

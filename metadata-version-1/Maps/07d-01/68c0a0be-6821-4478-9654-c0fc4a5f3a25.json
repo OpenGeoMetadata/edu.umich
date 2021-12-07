@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 7962 .B45 1856 .N7|003109825|39015091921158_01",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kosui ura meguri meisho jisha benran zuseki (湖水浦廻り名所寺社便覧圖跡)",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "68c0a0be-6821-4478-9654-c0fc4a5f3a25",
+  "solr_year_i": "1856",
+  "dc_creator_sm": [
+    "Tozenʼan Tetsu, active 19th century. http://id.loc.gov/authorities/names/n81006442",
+    "Seiadō Yūzō, active 19th century. http://id.loc.gov/authorities/names/n81006394",
+    "Subaraya, Mohē."
+  ],
+  "dc_description_s": "1 map : color ; on sheet 88 x 142 cm folded in cover 26 x 18 cm folded in case 27 x 19 cm|Cover title: Saiken shimpō Ōmi no Kuni ōezu : zen.|Title on label on case: Ōmi no Kuni ōezu.|Wood block print.|Oriented with north to the left.|Relief shown pictorially.|Includes text and distance chart.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003109825/39015091921158_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003109825\"}",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "dc_language_sm": [
+    "jpn"
+  ],
+  "dct_issued_s": "1856",
+  "dct_temporal_sm": [
+    "1856"
+  ]
+}

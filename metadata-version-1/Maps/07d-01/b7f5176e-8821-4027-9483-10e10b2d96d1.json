@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3271 .S12 1855 .U5|003279950|39015091192925",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Chart exhibiting the discoveries of the American Arctic expedition in search of Sir John Franklin",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b7f5176e-8821-4027-9483-10e10b2d96d1",
+  "solr_geom": "ENVELOPE(-82.12,-50.2,82.4,70.32)",
+  "solr_year_i": "1855",
+  "dc_creator_sm": [
+    "Kane, Elisha Kent, 1820-1857.",
+    "United States. Congress. Senate (34th, 1st Session : 1855)",
+    "Ackerman Lithr."
+  ],
+  "dc_description_s": "1 map ; 25 x 16 cm|\"Senate Ex. Doc. No. 1, lst Session, 34th Congress.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279950/39015091192925\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279950\"}",
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1855"
+}

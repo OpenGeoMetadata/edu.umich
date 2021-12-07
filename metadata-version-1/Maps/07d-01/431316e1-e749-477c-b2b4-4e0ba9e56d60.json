@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3301 .F1 1842 .H4|003287535|39015091196769",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Disputed territory in North America",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "431316e1-e749-477c-b2b4-4e0ba9e56d60",
+  "solr_geom": "ENVELOPE(-72.28,-65.95,48.21,44.7)",
+  "solr_year_i": "1839",
+  "dc_creator_sm": [
+    "Lithographic Establishment, Quarter Master Generals Office Horse Guards."
+  ],
+  "dc_description_s": "1 map : hand col. ; 77 x 96 cm|Relief shown by hachures.|Shows disputed boundaries claimed by Great Britain and U.S. in Maine, New Brunswick and Quebec.|Shows roads, rivers including portages, county boundaries, British posts, United States posts, and mountains.|Annotations show boundary given by the King of Holland, British posts and United States posts.|\"Drawn in Transfer Lithography by L.J. Hebert, and Printed the Lithographic Establishment, Quarter Master Generals Office Horse Guards. June 1839.\"|Date from note on map \"Conventional line as agreed upon by Lord Ashburton and Mr. Daniel Wedster, 1842.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287535/39015091196769\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287535\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-12-07T19:43:04Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

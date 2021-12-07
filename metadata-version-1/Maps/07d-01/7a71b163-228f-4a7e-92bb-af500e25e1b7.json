@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7a71b163-228f-4a7e-92bb-af500e25e1b7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ann Arbor quadrangle, Michigan: topography; Jno. H. Renshawe, geographer in charge.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7a71b163-228f-4a7e-92bb-af500e25e1b7",
+  "solr_geom": "ENVELOPE(-83.98,-83.51,42.5,42)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Renshawe, John H.,Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Relief indicated by contours and spot heights. Dated: April 1904. Surveyed in 1901-02. 1 map: col.; 45 x 35 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010599420/39015091197536\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010599420\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

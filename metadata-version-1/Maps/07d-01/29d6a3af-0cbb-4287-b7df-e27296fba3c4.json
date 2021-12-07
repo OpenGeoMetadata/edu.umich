@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3311 .P57 1894 .U5|003277927|39015091196934",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Wreck and casualty chart of the Great Lakes, 1894",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "29d6a3af-0cbb-4287-b7df-e27296fba3c4",
+  "solr_geom": "ENVELOPE(-92.47,-76.05,49.05,41.25)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Husson, William M."
+  ],
+  "dc_description_s": "col. map ; 59 x 87 cm|Includes text and descriptive index to 109 wreck locations.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003277927/39015091196934\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003277927\"}",
+  "dct_spatial_sm": [
+    "Great Lakes"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1895"
+}

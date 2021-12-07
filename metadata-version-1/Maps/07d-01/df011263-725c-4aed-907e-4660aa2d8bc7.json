@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "df011263-725c-4aed-907e-4660aa2d8bc7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Nebraska and Dakota and portions of the states and territories bordering thereon; compiled by G. K. Warren.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "df011263-725c-4aed-907e-4660aa2d8bc7",
+  "solr_geom": "ENVELOPE(-106.5,-93.5,50,38.5)",
+  "solr_year_i": "1867",
+  "dc_creator_sm": [
+    "Warren, G. K. (Gouverneur Kemble), 1830-1882."
+  ],
+  "dc_description_s": "March, 1867. 1 map: dissected and mounted on cloth; 108 x 80 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000889523/39015095388693\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000889523\"}",
+  "dct_spatial_sm": [
+    "South Dakota"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ]
+}

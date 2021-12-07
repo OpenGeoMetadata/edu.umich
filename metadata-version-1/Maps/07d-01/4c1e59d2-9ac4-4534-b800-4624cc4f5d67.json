@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3211 .S12 1784 .R6|004171111|39015091195522",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Chart of the N. W. Coast of America and the N. E. Coast of Asia, explored in the years 1778 and 1779",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "4c1e59d2-9ac4-4534-b800-4624cc4f5d67",
+  "solr_geom": "ENVELOPE(152.27,-137.319,72.55,49.75)",
+  "solr_year_i": "1784",
+  "dc_creator_sm": [
+    "Palmer, W.",
+    "Faden, William, 1749-1836."
+  ],
+  "dc_description_s": "1 map : hand col. ; 39 x 67 cm|Relief shown pictorially. Soundings in fathoms.|Also shows Pacific routes of Capt. James Cook in 1778 and 1779, with dates showing the distances covered.|Engraved by W. Palmer.|\"July 24, 1784.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004171111/39015091195522\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004171111\"}",
+  "dct_spatial_sm": [
+    "Pacific Ocean"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1784"
+}

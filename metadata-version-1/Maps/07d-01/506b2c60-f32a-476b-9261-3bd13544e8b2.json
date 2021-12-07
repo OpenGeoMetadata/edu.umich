@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3400 1834 .S6|004070497|39015091195696",
+  "dc_rights_s": "Public",
+  "dc_title_s": "British North America",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "506b2c60-f32a-476b-9261-3bd13544e8b2",
+  "solr_geom": "ENVELOPE(167.88,-12.619,80,37.65)",
+  "solr_year_i": "1834",
+  "dc_creator_sm": [
+    "J. & C. Walker (Firm)",
+    "Baldwin & Cradock."
+  ],
+  "dc_description_s": "1 map ; 12 1/2 x 15 1/2 in.|\"Engraved by J. & C. Walker.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004070497/39015091195696\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004070497\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1834"
+}

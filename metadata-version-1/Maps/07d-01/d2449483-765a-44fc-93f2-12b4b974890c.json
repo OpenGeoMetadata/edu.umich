@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 8200 1861 .J6|003285240|39015091883549",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Johnson's Africa",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d2449483-765a-44fc-93f2-12b4b974890c",
+  "solr_year_i": "1861",
+  "dc_description_s": "1 map : col. ; 58 x 43 cm|Includes inset of St. Helena.|Nos. 89-90 in Johnson, A.J. Johnson's new illustrated (steel plate) family atlas... comp., drawn and engraved under the supervision of J.H. Colton and A.J. Johnson. 1861.|Relief shown by hachures. Depths shown by soundings.|Prime meridians: Washington and Greenwich.|Shows land and sea routes of various explorers.|Includes images of Cape Town and Port Natal.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285240/39015091883549\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285240\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1861",
+  "dct_temporal_sm": [
+    "1861"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3d401351-5c09-4eac-8116-3b7cb5f761c1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Osaka shichû chômei kaisei ezu Fukutomi Tansui shukuzu gutô.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3d401351-5c09-4eac-8116-3b7cb5f761c1",
+  "solr_geom": "ENVELOPE(135.42,135.57,34.7,34.63)",
+  "solr_year_i": "1872",
+  "dc_creator_sm": [
+    "Fukutomi, Tansui."
+  ],
+  "dc_description_s": "In Japanese. 4 sheets, joined. Includes list of mileage. 1 map: hand col.; 52 x 68 cm., folded in cover 18 x 11 cm., in envelope 30 x 22 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887401/39015091921638_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887401\"}",
+  "dct_spatial_sm": [
+    "Osaka, Ōsaka, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 5 1872"
+  ]
+}

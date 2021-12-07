@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c3daaeec-993b-4c32-a12c-c77ec7327df6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tokyô oyobi Yokohama fukkô chizu Jiji Shinpôsha.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c3daaeec-993b-4c32-a12c-c77ec7327df6",
+  "solr_geom": "ENVELOPE(139.62,139.67,35.62,35.55)",
+  "solr_year_i": "1924",
+  "dc_creator_sm": [
+    "Jiji Shinpōsha.,Ishikawa, Renjo."
+  ],
+  "dc_description_s": "Jiji Shinpô furoku. [Appendix to Jiji Shinpô.] \"Fukkôkyoku kônin.\" [Authorized by Restoration Bureau.] In Japanese. North oriented toward right. Includes inset, legend and rebuilding plan list. On verso: 18 maps collectively entitled \"Tokyô-shi sûyô chiku shindôro kakudaizu.\" Edited by Ishikawa Renjô. 1 map: col.; 74 x 91 cm., in wrapper 28 x 21 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887415/39015091920218\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887415\"}",
+  "dct_spatial_sm": [
+    "Tokyo, Tokyo, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Taishô 13 1924"
+  ]
+}

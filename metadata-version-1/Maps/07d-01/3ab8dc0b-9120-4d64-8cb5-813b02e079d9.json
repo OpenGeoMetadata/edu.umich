@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3ab8dc0b-9120-4d64-8cb5-813b02e079d9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Chicago, West Michigan Railway.: Detroit, Grand Rapids & Western Railroad and Milwaukee Car Ferry.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3ab8dc0b-9120-4d64-8cb5-813b02e079d9",
+  "solr_geom": "ENVELOPE(-87.95,-82.68,46.13,41.25)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Rand McNally and Company, engravers."
+  ],
+  "dc_description_s": "Includes connecting railroads and names of many small villages. 1 map 9 1/2 x 7 1/2 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004050482/39015091881113\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004050482\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "ca. 1898?"
+  ]
+}

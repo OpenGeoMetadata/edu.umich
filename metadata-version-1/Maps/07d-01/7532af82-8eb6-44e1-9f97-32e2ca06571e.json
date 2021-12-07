@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7532af82-8eb6-44e1-9f97-32e2ca06571e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New railroad and county map of Michigan and Wisconsin.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7532af82-8eb6-44e1-9f97-32e2ca06571e",
+  "solr_geom": "ENVELOPE(-93.57,-80.68,47.55,41.48)",
+  "solr_year_i": "1882",
+  "dc_creator_sm": [
+    "Cram, George Franklin, 1841-1928."
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridians: Greenwich and Washington. Pages 54-55 from Cram's Unrivaled Family Atlas of the World. 1 map: color; 30 x 47 cm on sheet 35 x 54 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013014110/39015091905318\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013014110\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ]
+}

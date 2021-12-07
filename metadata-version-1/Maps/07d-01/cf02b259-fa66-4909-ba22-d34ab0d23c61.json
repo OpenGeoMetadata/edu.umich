@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "cf02b259-fa66-4909-ba22-d34ab0d23c61",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Nun-kun massif and surrounding region in Suru Kashmir explored by the Bullock Workman Expedition 1906.; Nun-Kun Massif Bullock Workman",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "cf02b259-fa66-4909-ba22-d34ab0d23c61",
+  "solr_geom": "ENVELOPE(75.72,76.43,34.13,33.82)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Workman, Fanny Bullock, 1859-1925.,Workman, William Hunter, 1847-1937.,Royal Geographical Society (Great Britain)"
+  ],
+  "dc_description_s": "Relief shown by shading, landform drawings, hachures, and spot heights. Includes area map and inset: \"Facsimile of central part of the same district, enlarged to the scale of 1:175,000 from sheet no. 45 (S.W.) of the Indian Atlas and inset of S.W. Asia.\" \"Made from prismatic compass survey and photographs, and adapted to the Indian Atlas Sheet no. 45 (S. W.).\" Routes of expedition shown in red. From the Geographical Journal, 1908. 1 map: col.; 27 x 37 cm, folded to 22 x 11 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003288137/39015091914427\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003288137\"}",
+  "dct_spatial_sm": [
+    "Jammu and Kashmir, Kashmir, India",
+    "India"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

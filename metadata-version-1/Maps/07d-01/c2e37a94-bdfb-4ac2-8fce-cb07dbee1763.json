@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c2e37a94-bdfb-4ac2-8fce-cb07dbee1763",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Afrique divisée suivant l'estendüe de ses principales parties ou sont, distingués les uns des autres: Les Empires, monarchies, royaumes, estats et peuples qui partagent aujour d'huij l'Afrique sur les relations les plus nouvelles; G. Valck.; Afrique distingueé en ses principales parties sçavoir la Barbarie",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c2e37a94-bdfb-4ac2-8fce-cb07dbee1763",
+  "solr_geom": "ENVELOPE(-25.78,58.62,42.37,-35.48)",
+  "solr_year_i": "1680",
+  "dc_creator_sm": [
+    "Valck, G. (Gerard), 1651 or 1652-1726."
+  ],
+  "dc_description_s": "Relief shown pictorially. Decorative cartouche and scale bars with animals. Prime meridian: [Ferro]. 1 map; 46 x 57 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284685/39015091193519\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284685\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1680"
+  ]
+}

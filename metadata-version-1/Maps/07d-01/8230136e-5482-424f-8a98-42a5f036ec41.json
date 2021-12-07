@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8230136e-5482-424f-8a98-42a5f036ec41",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New York Sheet, New York -New Jersey.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8230136e-5482-424f-8a98-42a5f036ec41",
+  "solr_geom": "ENVELOPE(-74.26,-73.75,41,40.49)",
+  "solr_year_i": "1892",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Surveyed 1888-89. \"Henry Gannett, Chief Geographer. Marcus Baker, Geographer in Charge.\" 1 map: col.; 90 x 68 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004258498/39015091186638\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004258498\"}",
+  "dct_spatial_sm": [
+    "New York, New York",
+    "New York State, New York"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ]
+}

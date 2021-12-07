@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "50536acb-d36d-428e-be26-b8bf23b21c4f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the states of Ohio, Indiana and Illinois with the settled part of Michigan; engraved by J. H. Young.; Title on cover: Mitchell's map of Ohio, Indiana, Illinois & Michigan MiU",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "50536acb-d36d-428e-be26-b8bf23b21c4f",
+  "solr_geom": "ENVELOPE(-92,-80,44,37)",
+  "solr_year_i": "1834",
+  "dc_creator_sm": [
+    "Young, J. H. (James Hamilton),Mitchell, S. Augustus (Samuel Augustus), 1792-1868.,Mitchell & Hinman."
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington. \"Sold by Mitchell & Hinman.\" Insets: Vicinity of Detroit -- Vicinity of Cincinnati -- Falls of Ohio -- Lead region east of the Mississippi River. Includes table of steamboat routes. 1 map: hand col.; 42 x 54 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003931133/39015091916190_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003931133\"}",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ]
+}

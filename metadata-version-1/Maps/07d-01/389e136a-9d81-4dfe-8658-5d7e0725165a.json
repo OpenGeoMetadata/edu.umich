@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "389e136a-9d81-4dfe-8658-5d7e0725165a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Zōho saihan Kyō ōezu: Kita-sanjō yori Minami-fushimi made: Kon; Kyō ōezu",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "389e136a-9d81-4dfe-8658-5d7e0725165a",
+  "solr_geom": "ENVELOPE(135.7,135.8,35.02,34.95)",
+  "solr_year_i": "1741",
+  "dc_creator_sm": [
+    "Hayashi, Yoshinaga."
+  ],
+  "dc_description_s": "Wood block print, hand colored. Cover title. Relief and major temples shown pictorially. Originally published: Jōkyō 3 [1686] Includes zodiac chart, residences of daimyo, descriptions of points of interest, etc. 1 map: col.; 88 x 121 cm., folded in covers 23 x 16 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003111041/39015091921471_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003111041\"}",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:07:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Kanpō 1 1741"
+  ]
+}

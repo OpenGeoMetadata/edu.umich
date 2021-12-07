@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .B63 1892 .C3|003928939|39015095398957",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Blissfield",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "df9b3beb-a39a-4455-b461-6c10d3840522",
+  "solr_geom": "ENVELOPE(-83.89,-83.84,41.84,41.82)",
+  "solr_year_i": "1892",
+  "dc_description_s": "1 map : hand col. ; 70 x 91 cm|Cadastral map showing land ownership.|Removed from: George B. Cadwell & Co. Atlas of Lenawee County, Michigan. [S.l.] : George B. Cadwell & Co., 1893.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003928939/39015095398957\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003928939\"}",
+  "dct_spatial_sm": [
+    "Blissfield,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1892"
+}

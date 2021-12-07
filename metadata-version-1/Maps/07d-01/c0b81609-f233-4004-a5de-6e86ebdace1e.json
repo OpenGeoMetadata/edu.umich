@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c0b81609-f233-4004-a5de-6e86ebdace1e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "City of Ann Arbor, Washtenaw Coty. Michigan; surveyed & published by S. Pettibone.; City of Ann Arbor, Washtenaw County Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c0b81609-f233-4004-a5de-6e86ebdace1e",
+  "solr_geom": "ENVELOPE(-83.7499,-83.75,42.2801,42.28)",
+  "solr_year_i": "1869",
+  "dc_creator_sm": [
+    "Pettibone, S.,Worley & Bracher."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. Cadastral map. Includes ill. of the Detroit Obervatory on lower portion of map. \"Engd. by Worley & Bracher.\" Map shows six city wards, township sections, lot boundaries, buildings and other cultural features, and sections of land annexed by the city. Chronological list of additions provided. 1 map:; 115 x 191 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005025786/39015091897044_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005025786\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ]
+}

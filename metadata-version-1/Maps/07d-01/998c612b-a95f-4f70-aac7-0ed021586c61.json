@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "998c612b-a95f-4f70-aac7-0ed021586c61",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New York City and vicinity; H.M. Wilson, geographer in charge; triangulation by U.S. Coast and Geodetic Survey; topography by S.H. Bodfish ... [et al. and] U.S. Coast and Geodetic Survey, N.Y. City Government and the Geological Survey of New Jersey.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "998c612b-a95f-4f70-aac7-0ed021586c61",
+  "solr_geom": "ENVELOPE(-74.25,-73.67,41,40.38)",
+  "solr_year_i": "1899",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.),Wilson, Herbert M. (Herbert Michael), 1860-1920.,U.S. Coast and Geodetic Survey."
+  ],
+  "dc_description_s": "Shows streets and railroads. Relief shown by contours and spot heights. 1 map: col.; 111 x 81 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003491305/39015091186695\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003491305\"}",
+  "dct_spatial_sm": [
+    "New York, New York",
+    "New York State, New York"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ]
+}

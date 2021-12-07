@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4080 1878 .U5|013681838|39015091905417",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Ohio",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a962f404-7d14-4290-b66a-e7e544789d2f",
+  "solr_year_i": "1878",
+  "dc_creator_sm": [
+    "Roeser, C. (Charles), compiler.",
+    "Dinsmore, A. F., drawer.",
+    "Bien, Julius, 1826-1909, lithographer."
+  ],
+  "dc_description_s": "1 map : color ; 63 x 72 cm|Shows county boundaries, cities and villages, railroads, and canals.|\"J. A. Williamson, Commissioner.\"|Prime meridians: Greenwich and Washington.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013681838/39015091905417\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013681838\"}",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "layer_modified_dt": "2021-05-27T14:35:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1878",
+  "dct_temporal_sm": [
+    "1878"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f43c9fd3-94c5-44a4-800a-e1b1675fdf8c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Austria Archiducatus; Auctore Wolfgango Lazio; Amstelodami Joannes Janssonius Excudit.; Avstria Archidvcatvs",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f43c9fd3-94c5-44a4-800a-e1b1675fdf8c",
+  "solr_geom": "ENVELOPE(13.38,17.2,48.67,46.8)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Lazius, Wolfgang, 1514-1565, engraver.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. The title cartouche includes a coat of arms topped with a crown and two eagle heads with each holding a flowering vine in their beak. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 35 x 49 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003563768/39015091191968_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003563768\"}",
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ]
+}

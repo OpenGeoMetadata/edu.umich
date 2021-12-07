@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .A8:2U5 197- .K4|012198555|39015091885841",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The University",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b3911043-f465-4a87-b909-f834a7f494c3",
+  "solr_year_i": "1971",
+  "dc_description_s": "1 print : col. lithograph ; 45 x 58 cm.|Title in pencil on lower left of leaf under image \"The University 68/120\".|Date based on inclusion of image of The Power Center for the Performing Arts which opened in 1971.|Shows Angell Hall surrounded by many other mainly campus b\\uildings.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012198555/39015091885841\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012198555\"}",
+  "dct_spatial_sm": [
+    "University of Michigan, Ann Arbor, Michigan",
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "between 1971 and 1979"
+  ]
+}

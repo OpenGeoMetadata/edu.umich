@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "960174b5-b962-44b2-b017-23634b70cd2f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hakodate shigai zenzu Shikano Chūbē.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "960174b5-b962-44b2-b017-23634b70cd2f",
+  "solr_geom": "ENVELOPE(140.68,140.73,41.78,41.73)",
+  "solr_year_i": "1887",
+  "dc_creator_sm": [
+    "Shikano, Chūbē."
+  ],
+  "dc_description_s": "3 sheets joined. Wood block print. In Japanese. Oriented with north to the upper right. Relief shown pictorially. Includes lists of block names, schools, shrines, temples, and banks. Includes the national flags, distance chart and legend. 1 map: col., mounted on paper; 34 x 60 cm., folded in cover 28 x 20 cm., in envelope 30 x 22 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887983/39015091887243_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887983\"}",
+  "dct_spatial_sm": [
+    "Hakodate-shi, Hokkaido, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 20 1887"
+  ]
+}

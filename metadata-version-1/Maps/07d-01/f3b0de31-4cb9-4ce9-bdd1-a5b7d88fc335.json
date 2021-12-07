@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f3b0de31-4cb9-4ce9-bdd1-a5b7d88fc335",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Germaniae veteris, typus; Joannes Janssonius excud.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f3b0de31-4cb9-4ce9-bdd1-a5b7d88fc335",
+  "solr_geom": "ENVELOPE(5.85,20.15,54.92,45.03)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630.,Keere, Pieter van den, 1571-approximately 1646, engraver.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes a dedication to Iacobus Monavius Silesius patricius by Abraham Ortelius. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 36 x 46 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284863/39015091194129_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284863\"}",
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "layer_modified_dt": "2021-05-08T16:42:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ]
+}

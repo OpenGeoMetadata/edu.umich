@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3764 .B6 1894 .B6|008563620|39015091903768",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of the city of Boston : showing system of parallel meridians and progress of work / made under the direction of S. C. Ellis, Chief Engineer",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5ad11c79-0371-4ce8-9fea-b54256aa4a6a",
+  "solr_geom": "ENVELOPE(-71.19,-70.99,42.4,42.26)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Cromack, Irwin C., delineator."
+  ],
+  "dc_description_s": "1 map : col. ; 76 x 80 cm.|Publisher name obscured.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008563620/39015091903768\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008563620\"}",
+  "dct_spatial_sm": [
+    "Boston,  Massachusetts",
+    "Massachusetts"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1894"
+}

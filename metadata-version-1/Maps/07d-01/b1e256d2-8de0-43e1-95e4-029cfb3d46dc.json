@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4030 1861 .J6|003285774|39015091905714",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Johnson's new map of the state of Texas",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b1e256d2-8de0-43e1-95e4-029cfb3d46dc",
+  "solr_year_i": "1861",
+  "dc_description_s": "1 map : col. ; 41 x 58 cm|Relief shown by hachures.|Insets: Plan of Sabine Lake -- Plan of the northern part of Texas -- Plan of Galveston Bay.|Nos. 39-40 in Johnson, A.J. Johnson's new illustrated (steel plate) family atlas... comp., drawn and engraved under the supervision of J.H. Colton and A.J. Johnson. 1861.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Texas political divisions"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285774/39015091905714\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285774\"}",
+  "dct_spatial_sm": [
+    "Texas"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1861",
+  "dct_temporal_sm": [
+    "1861"
+  ]
+}

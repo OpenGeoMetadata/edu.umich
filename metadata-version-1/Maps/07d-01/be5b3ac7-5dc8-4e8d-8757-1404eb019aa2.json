@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3312 .S9 1672 .S8 1883|000861982|39015091196967",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lac Superieur et autres lieux ou sont les Missions des Peres de la Compagnie de Jesus comprises sous le nom D'outaouacs",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "be5b3ac7-5dc8-4e8d-8757-1404eb019aa2",
+  "solr_geom": "ENVELOPE(-93,-83,80,43)",
+  "solr_year_i": "1883",
+  "dc_creator_sm": [
+    "Dablon, Claude, 1619-1697."
+  ],
+  "dc_description_s": "1 map ; 35 x 46 cm|Copy 2: \"Facsimile of map of Lake Superior made by Jesuit Missionaries in 1670-71, and first published at Paris in 1672. Presented to the subscribers of the Mining Journal, with compliments of A.P. Swineford & Co.\" Accession no. 7825.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000861982/39015091196967\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000861982\"}",
+  "dct_spatial_sm": [
+    "Lake Superior"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-14T22:11:45Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1883"
+}

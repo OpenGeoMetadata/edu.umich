@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ffb59d5f-a243-4de8-9909-6d980a25b936",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Westmorlandia, Lancastria, Cestria, Caernarvan, Denbigh, Flint, Merionidh, Montgomery, Salopia/ cum Insulis Mania et Anglesey.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ffb59d5f-a243-4de8-9909-6d980a25b936",
+  "solr_geom": "ENVELOPE(-4.97,-1.83,54.67,52.2)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships on the ocean. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. Does not match any states listed in Van der Krogt. 1 map: 54x 44 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012452480/39015091192420_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012452480\"}",
+  "dct_spatial_sm": [
+    "England, United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:07:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

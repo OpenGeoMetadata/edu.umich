@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3400 1853 .P4|000861437|39015091195704",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the eastern portion of British North America, including the Gulf of St. Lawrence, and part of the New England states",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "bd0a29cb-1182-4e06-b85c-8347bccecc9c",
+  "solr_geom": "ENVELOPE(-73.32,-51.9,52.95,42.12)",
+  "solr_year_i": "1853",
+  "dc_description_s": "1 map : hand col., dissected in 3 pieces and mounted on cloth ; 64 x 115 cm|In upper left margin: House Ex. Doc., no. 136.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000861437/39015091195704\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000861437\"}",
+  "dct_spatial_sm": [
+    "New England"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1853"
+}

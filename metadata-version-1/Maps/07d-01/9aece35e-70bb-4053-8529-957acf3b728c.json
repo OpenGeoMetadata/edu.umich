@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9aece35e-70bb-4053-8529-957acf3b728c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "America Settentrionale Colle Nuove Scoperti fin all' Anno 1688 Piuisa nelle fue parti Secondo lo Stato presente, e Descritta dal P. Mro Coronelli M.C. Cosmografo della Serenisma Repubca di Venezia.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "9aece35e-70bb-4053-8529-957acf3b728c",
+  "solr_geom": "ENVELOPE(-120,-87,68,10)",
+  "solr_year_i": "1695",
+  "dc_creator_sm": [
+    "Coronelli, Vincenzo, 1650-1718."
+  ],
+  "dc_description_s": "Relief shown pictorially. Dedicata All'Illmo, et Reumo Monsigr Felic Antonio Marsily, Archidiacono della Catedrale di Bologna. From: Atlantic Veneto, v.1 Title surrounded by allegorical figures with coat of arms at top. Note explaining California as an island in cartouche at lower left. 1 map on 2 sheets; 59 x 86 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000082224/39015091198526\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000082224\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1695?"
+  ]
+}

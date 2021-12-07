@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "470d2d37-fe79-4fdb-a367-c8a509aacca8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of n. eastern Virginia and vicinity of Washington surveys for military defenses; compiled at Topographical Engineers office at Division headquarters ofGeneral Irvin McDowell.; Map of north eastern Virginia and vicinity of Washington",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "470d2d37-fe79-4fdb-a367-c8a509aacca8",
+  "solr_geom": "ENVELOPE(-78.42,-76.93,39.33,38.33)",
+  "solr_year_i": "1862",
+  "dc_creator_sm": [
+    "United States. Army. Corps of Engineers.,Schedler, J. (Joseph),Alexander, Samuel."
+  ],
+  "dc_description_s": "Relief shown by hachures. \"Arlington, January 1st 1862 from published and manuscript maps corrected by recent Surveys and Reconnaissances.\" \"Engraved on stone by J. Schedler No. 120 Pearl St. N.Y.\" Includes table of \"Elevations above tide water\", \"Geological profile of Loudoun County\" and list of \"Data used in compilation.\" 1 map: mounted on cloth; 167 x 127 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081818/39015091898117_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081818\"}",
+  "dct_spatial_sm": [
+    "Washington DC, Washington, D.C."
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ]
+}

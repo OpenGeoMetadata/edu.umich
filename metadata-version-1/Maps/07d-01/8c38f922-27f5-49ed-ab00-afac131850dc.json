@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .M4A3 1880 .S7|013533037|39015091900970",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bird's eye view of the village of Mendon",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8c38f922-27f5-49ed-ab00-afac131850dc",
+  "solr_geom": "ENVELOPE(-85.47,-85.45,42.01,42)",
+  "solr_year_i": "1880",
+  "dc_creator_sm": [
+    "Beck & Pauli, lithographer."
+  ],
+  "dc_description_s": "1 map : 35.5 x 56 cm.|Relief shown pictorially.|Bird's eyes view includes index of buildings and landmarks throughout the village. Also includes names of streets on the map.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013533037/39015091900970\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013533037\"}",
+  "dct_spatial_sm": [
+    "Mendon,  Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1880"
+}

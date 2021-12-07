@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/026c06de0e7b49188a3e277dc8b35010_1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Physiographic Systems of the Nichols Arboretum: University of Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "026c06de0e7b49188a3e277dc8b35010_1",
+  "solr_geom": "ENVELOPE(-83.7270,-83.7113,42.2839,42.2756)",
+  "solr_year_i": "2019",
+  "dc_creator_sm": [
+    "UM Matthaei Botanical Gardens and Nichols Arboretum"
+  ],
+  "dc_description_s": "The Physiographic Systems of the Nichols Arboretum were defined by Alan Tepley in his2001 Master's Thesisat the University of Michigan. Physiographic Systems are complexes of landforms typically of one recognizable, generic kind (e.g. moraine, outwash plain, ice-contact terrain, or lake plain).The boundaries were defined by using field reconnaissance, the establishment of sample plots and soil pits, laboratory work and data analysis. Overall, a total of 3 Physiographic Systems, 9 Landform Level Ecosystems, and 19 Landscape Ecosystem Types were identified, described, and mapped.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://mbgna-umich.opendata.arcgis.com/datasets/026c06de0e7b49188a3e277dc8b35010_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/Arb_ECO_PhysiographicSystems_py/FeatureServer/1\",\"http://schema.org/url\":\"https://mbgna-umich.opendata.arcgis.com/datasets/026c06de0e7b49188a3e277dc8b35010_1\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Washtenaw County, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T22:58:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2019-03-19",
+  "dct_temporal_sm": [
+    "2019"
+  ]
+}

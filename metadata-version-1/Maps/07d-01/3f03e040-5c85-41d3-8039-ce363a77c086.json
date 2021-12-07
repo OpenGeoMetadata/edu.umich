@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3791 .H8 1885 .A8|003285711|39015091903750",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the oil regions of western Pennsylvania and south western New York showing the general ...",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3f03e040-5c85-41d3-8039-ce363a77c086",
+  "solr_geom": "ENVELOPE(-80.48,-76.72,42.27,39.93)",
+  "solr_year_i": "1885",
+  "dc_description_s": "1 map : color ; 76 x 67 cm|From, \"Map Oil and Gas Regions, Annual Report 1885, page 12.\"|Report of progress 1885.|\"Copyright 1885, by William A. Ingham, Secretary Board of Commissioners, Second Geological Survey of Pennsylvania.\"|Includes \"List of oil producing areas outlined on map.\"|Drawn by O.B. Harden.|A portion of the data for this map was furnished by John F. Carll.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285711/39015091903750\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285711\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1885"
+}

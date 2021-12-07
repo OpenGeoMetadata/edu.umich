@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G3463 .S5S1 1944 .K4|003287671|39015091887912",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Historical map of Simcoe County",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f7dbc58b-dc33-410f-b771-0b81a20b9d76",
+  "solr_year_i": "1944",
+  "dc_description_s": "1 map : col. ; 41 x 34 cm|Pictorial map of Simcoe County, Ontario portraying historical events and people.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287671/39015091887912\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287671\"}",
+  "dct_spatial_sm": [
+    "Simcoe County,  Ontario,  Canada",
+    "Ontario,  Canada",
+    "Canada"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ]
+}

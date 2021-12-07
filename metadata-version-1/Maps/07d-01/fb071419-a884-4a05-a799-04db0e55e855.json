@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fb071419-a884-4a05-a799-04db0e55e855",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Afrique: reueuë et augmenteé; par P. Du Val.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "fb071419-a884-4a05-a799-04db0e55e855",
+  "solr_geom": "ENVELOPE(-25.78,54.65,37.58,-35.48)",
+  "solr_year_i": "1676",
+  "dc_creator_sm": [
+    "Duval, P. (Pierre), 1619-1682."
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridian: Ferro. 1 map: hand col.; 40 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281434/39015091193501\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281434\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1676"
+  ]
+}

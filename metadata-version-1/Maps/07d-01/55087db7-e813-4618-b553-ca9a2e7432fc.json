@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "55087db7-e813-4618-b553-ca9a2e7432fc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Erpach comitatus; Petrus Kaerius Caelavit.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "55087db7-e813-4618-b553-ca9a2e7432fc",
+  "solr_geom": "ENVELOPE(8.33,9.37,50.02,49.4)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix 1630.,Keere, Pieter van den, 1571-approximately 1646, engraver.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes coat of arms in upper left hand corner and fruit around the title cartouche. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 34 x 45 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003278734/39015091191711_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003278734\"}",
+  "dct_spatial_sm": [
+    "Erbach, Hesse, Germany",
+    "Germany"
+  ],
+  "layer_modified_dt": "2021-05-08T16:42:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ]
+}

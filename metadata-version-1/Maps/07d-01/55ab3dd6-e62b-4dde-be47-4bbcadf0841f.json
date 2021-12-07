@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "55ab3dd6-e62b-4dde-be47-4bbcadf0841f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "North part of Ann Arbor and environs: County seat of Washtenaw Co., Mich., Ann Arbor and Pittsfield twps.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "55ab3dd6-e62b-4dde-be47-4bbcadf0841f",
+  "solr_geom": "ENVELOPE(-83.77,-83.72,42.3,42.25)",
+  "solr_year_i": "1915",
+  "dc_creator_sm": [
+    "Geo. A. Ogle & Co."
+  ],
+  "dc_description_s": "Negative photostat, reduced. 1 map 17 x 18 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003983125/39015091184740\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003983125\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ]
+}

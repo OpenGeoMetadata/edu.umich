@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d32cfc53-7365-4e8c-8cda-2984b6a4ee94",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Topographical plan of the river Bonnechere & s.w. branch of the Madawaska with a sketch of the headwaters of the Ottonabee by A. Murray Esqr.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d32cfc53-7365-4e8c-8cda-2984b6a4ee94",
+  "solr_geom": "ENVELOPE(-78.82,-76.53,45.67,44.73)",
+  "solr_year_i": "1853",
+  "dc_creator_sm": [
+    "Geological Survey of Canada."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. G. Matthews, Lith., Montreal. 1 map on 4 sheets; sheets 63 x 95 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004914970/39015091888266\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004914970\"}",
+  "dct_spatial_sm": [
+    "Bonnechere River, Ontario, Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ]
+}

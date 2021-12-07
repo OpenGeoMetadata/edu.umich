@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "177ad2bd-a5ea-43ab-8d36-f12ada86bd4b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new and correct map of the world: laid down according to the newest discoveries and from the most exact observations; by Herman Moll, geographer. To his Royal Highness, George, Prince of Denmark, Lord High Admiral, Great Britain and Ireland.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "177ad2bd-a5ea-43ab-8d36-f12ada86bd4b",
+  "solr_geom": "ENVELOPE(-179.87,179.53,85,-79.68)",
+  "solr_year_i": "1709",
+  "dc_creator_sm": [
+    "Moll, Herman, -1732."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes images of the planets, sun and moon. 1 map: hand col.; 48 x 95 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004280137/39015091197031\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004280137\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1709"
+  ]
+}

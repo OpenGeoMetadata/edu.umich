@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "71360b38-14c4-4604-88cc-96152ac3d16f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nova orbis tabvla in lvcem edita, a F. de Wit.; Nova orbis tabula",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "71360b38-14c4-4604-88cc-96152ac3d16f",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1670",
+  "dc_creator_sm": [
+    "Wit, Frederik de."
+  ],
+  "dc_description_s": "Includes ancillary maps of north and south polar regions. Scenes in 4 corners with images of the seasons, the elements and signs of the Zodiac. 1 map: hand col.; 2 hemispheres 27 cm. in diam., on sheet 54 x 63 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002965440/39015091197882\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002965440\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1670"
+  ]
+}

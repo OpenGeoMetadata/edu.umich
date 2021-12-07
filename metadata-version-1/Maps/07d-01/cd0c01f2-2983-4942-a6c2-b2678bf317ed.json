@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "cd0c01f2-2983-4942-a6c2-b2678bf317ed",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The city of Ann Arbor drawn and compiled by F. Krause.; South half of the city of Ann Arbor;North half of the city of Ann Arbor",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "cd0c01f2-2983-4942-a6c2-b2678bf317ed",
+  "solr_geom": "ENVELOPE(-83.76,-83.72,42.3,42.28)",
+  "solr_year_i": "1874",
+  "dc_creator_sm": [
+    "Krause, Frank."
+  ],
+  "dc_description_s": "Shows plats, some land ownership, buildings, ward boundaries. Maps of Dexter, Delhi, Mooreville, Milan, Chelsea and Salem on verso. 1 map on 2 sheets: col., encapsulated in mylar; 77 x 66 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004728297/39015091198195\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004728297\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ]
+}

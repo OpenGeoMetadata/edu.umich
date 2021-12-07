@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6a1c31c9-d82f-4314-82d6-0704157e5a4b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Detroit and Vicinity.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6a1c31c9-d82f-4314-82d6-0704157e5a4b",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Rand McNally and Company."
+  ],
+  "dc_description_s": "North is oriented towards top right corner of the map. Title at head of map: Rand McNally & Co.'s Detroit. Includes two copyright dates, 1895 and 1898. Includes index on verso, \"Rand, McNally & Co.'s Michigan\" includes county seats and location of money order P.O. Inset: Detroit and Vicinity, includes Grosse Isle. Page no. 229-232. 1 map: col.; 52 x 69 cm",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013014050/39015095413020_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013014050\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-27T14:35:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1898",
+  "dct_temporal_sm": [
+    "1898"
+  ]
+}

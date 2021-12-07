@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .D4 195- .M8|007814506|39015095416155",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Downtown Business Center of Detroit, Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "879ce97a-9ab7-4b83-9e3b-951fed007c6a",
+  "solr_year_i": "1950",
+  "dc_creator_sm": [
+    "Homer Warren and Company."
+  ],
+  "dc_description_s": "1 map ; 76 x 38 cm.|Oriented with north to the upper right.|Shows locations and names of businesses and buildings.|Maps shows the City County Building which was completed in 1954.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007814506/39015095416155\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007814506\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "n.d.",
+  "dct_temporal_sm": [
+    "between 1950 and 1959"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3700 1862 .P458|003569710|39015091195126",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Perrine's New military map illustrating the seat of war",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c26b095c-ac47-4088-94c9-54c4e137c299",
+  "solr_year_i": "1862",
+  "dc_description_s": "1 map : col. ; 55 x 71 cm, folded in cover 14 x 9 cm|Relief shown by hachures.|\"Entered according to Act of Congress, in the year 1862, by C.O. Perrine ...\"|Prime meridians: Greenwich and New York.|Inset: Southern part of Florida.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003569710/39015091195126\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003569710\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1862",
+  "dct_temporal_sm": [
+    "1862"
+  ]
+}

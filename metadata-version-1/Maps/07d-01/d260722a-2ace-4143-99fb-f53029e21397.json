@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4114 .S65P55 1857 .M6|001552267|39015091897309",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mouth of South Black River, Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d260722a-2ace-4143-99fb-f53029e21397",
+  "solr_year_i": "1856",
+  "dc_creator_sm": [
+    "Graham, J. D. (James Duncan), 1799-1865.",
+    "Mayer, John T.",
+    "United States. Army. Corps of Topographical Engineers."
+  ],
+  "dc_description_s": "1 map ; 51 x 70 cm|\"Soundings are in feet and tenths of a foot.\"|\"The figures on land express the elevations above the lake surface in feet and decimals. The horizontal curves or contour lines are drawn at intervals of 5 feet of perpendicular elevation.\"|\"Accompanying Lt. Colonel Graham's annual report (no. 200) to the Chief Top. Engineer, dated Chicago September 30th 1857.\"|\"Map G no. 50.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001552267/39015091897309\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001552267\"}",
+  "dct_spatial_sm": [
+    "Black River"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1857",
+  "dct_temporal_sm": [
+    "1856-1857"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3200 1807 .B6 (folio)|005247144|39015095421411_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bowles's new four-sheet map of the world on Mercator's projection",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d5221d78-e27c-4344-80f8-06ae77eca3cf",
+  "solr_geom": "ENVELOPE(-180,180,83.93,-80)",
+  "solr_year_i": "1807",
+  "dc_creator_sm": [
+    "Bowles & Carver."
+  ],
+  "dc_description_s": "1 map : hand col., dissected and mounted on canvas ; 101 x 117 cm., folded in slipcase 21 x 14 cm.|Relief shown pictorially.|Prime meridian: London.|Includes latitudinary and longitudinary scale.|Shows routes and years of 10 voyages.|Engraved by B. Baker.|Decorative title cartouche depicting voyaging supplies, a ship, and two explorers holding a map and a sextant.|Includes notes on finding the distance betwixt two places.|Top border shows hours, east from London.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005247144/39015095421411_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005247144\"}",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1807"
+}

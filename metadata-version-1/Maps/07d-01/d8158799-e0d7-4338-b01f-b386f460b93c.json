@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d8158799-e0d7-4338-b01f-b386f460b93c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan de la ville, cité, université et fauxbourgs de Paris: comme il est aujourdhuy, avec ses nouvelles rues, places, enceintes et cazernes; dressé sur les lieux, et sur les mémoires de Mr. Iouvin de Rochefort; N. de Fer.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d8158799-e0d7-4338-b01f-b386f460b93c",
+  "solr_geom": "ENVELOPE(2.224122,2.46976,48.902156,48.815575)",
+  "solr_year_i": "1694",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720.,Jouvin, Albert, active 1672."
+  ],
+  "dc_description_s": "Includes table alphabetique, description, dedication to the Dauphin, decorative cartouches with ill. of buildings and allegorical figures, and inset of Plan des Cazernes. 1 map; 54 x 69 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011349270/39015091186521\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011349270\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-10T14:56:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1694"
+  ]
+}

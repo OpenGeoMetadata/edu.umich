@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4e2a2d52-0157-49d9-957e-13754d4abfd0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Japan roads & railways, 1891.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "4e2a2d52-0157-49d9-957e-13754d4abfd0",
+  "solr_geom": "ENVELOPE(129.25,142.47,42.8,30.98)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Nozaki, S."
+  ],
+  "dc_description_s": "Relief shown by hachures. North oriented to upper left. Maps show lines opened and lines surveyed or under construction. 1 map on 3 sheets: col.; 166 x 33 cm., folded in cover 16 x 12 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009362117/39015091921414_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009362117\"}",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1891?"
+  ]
+}

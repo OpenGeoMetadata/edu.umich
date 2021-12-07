@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "611d19b9-c380-4ea1-8a90-6816e335b95c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Yokohama yokuran no shinkei; Hashimoto Gyokuransai zukaku; Ōizumi Kanegorō chōkō.; Title from text: Yokohama ichiran no shinkei",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "611d19b9-c380-4ea1-8a90-6816e335b95c",
+  "solr_geom": "ENVELOPE(139.63,139.99,35.53,35.31)",
+  "solr_year_i": "1871",
+  "dc_creator_sm": [
+    "Utagawa, Sadahide, 1807-1873.,Ōizumi, Kanegorō."
+  ],
+  "dc_description_s": "Author's name on map is Hashimoto Gyokuransai. Birds-eye view. Relief, buildings and ships shown pictorially. Oriented with north to the upper left. Includes text. Printed on 10 sections joined. Inset: railroad bridge in detail. 1 view: hand col.; 63 x 210 cm., folded in covers 24 x 19 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003101173/39015091920291_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003101173\"}",
+  "dct_spatial_sm": [
+    "Yokohama-shi, Kanagawa, Japan",
+    "Japan"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-08T17:18:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 4 1871"
+  ]
+}

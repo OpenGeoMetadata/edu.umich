@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "13bb56f3-bde9-4ae6-89ac-dab412119bc4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plat of the United States road from Detroit to Chicago; as surveyed and marked by James McClosky, Jonah Baldwin and Laureat Durocher, commissioners; copied by John Farmer.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "13bb56f3-bde9-4ae6-89ac-dab412119bc4",
+  "solr_geom": "ENVELOPE(-87.75,-83,42.4,41.5)",
+  "solr_year_i": "1825",
+  "dc_creator_sm": [
+    "McClosky, James.,Baldwin, Jonah.,Durocher, Laureat.,Farmer, John, 1798-1859.,United States. War Department. Engineer Bureau."
+  ],
+  "dc_description_s": "Shows rivers, lakes, and Native American villages. 11 sections on 4 sheets; sheets 48 x 64 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013633349/39015091880974\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013633349\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ]
+}

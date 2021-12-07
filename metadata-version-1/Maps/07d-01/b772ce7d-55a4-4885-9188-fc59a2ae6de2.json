@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b772ce7d-55a4-4885-9188-fc59a2ae6de2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Ann Arbor showing campus and buildings of the University of Michigan prepared by Wickes Brothers.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b772ce7d-55a4-4885-9188-fc59a2ae6de2",
+  "solr_geom": "ENVELOPE(-83.76,-83.72,42.3,42.27)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Wickes Brothers."
+  ],
+  "dc_description_s": "Concentric radii drawn every quarter-mile. Verso: Key to University and other buildings, description of University buildings, and a bird's-eye view of the campus. MiU copy mounted on chartex. 1 map.: 44 x 36 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000074519/39015091184575\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000074519\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ]
+}

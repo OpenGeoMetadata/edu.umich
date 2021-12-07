@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ced868c7-92db-4060-9b2c-03aa8b0ae807",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte de l'empire de Turquie en Europe et en Asie; dressée par Hérisson, Géog'e.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ced868c7-92db-4060-9b2c-03aa8b0ae807",
+  "solr_geom": "ENVELOPE(13,44,49,34)",
+  "solr_year_i": "1854",
+  "dc_creator_sm": [
+    "Hérisson."
+  ],
+  "dc_description_s": "Relief show by hachures. Paris prime meridian. Dissected into 18 sections. Inset: Environs de Constantinople. 1 map: hand col., dissected and mounted on linen; 50 x 74 cm., folded in cover 23 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003102807/39015091183551\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003102807\"}",
+  "dct_spatial_sm": [
+    "Turkey",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ]
+}

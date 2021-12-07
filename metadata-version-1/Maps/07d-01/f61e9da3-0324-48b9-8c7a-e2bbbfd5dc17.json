@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f61e9da3-0324-48b9-8c7a-e2bbbfd5dc17",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lionnois, Forest, Beavolois et Masconnois.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f61e9da3-0324-48b9-8c7a-e2bbbfd5dc17",
+  "solr_geom": "ENVELOPE(3.43,4.95,46.62,45.38)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. North oriented to the right side of the map. Includes the French coat of arms and the title cartouche includes three cherubs and another face. Does not match any states listed in Van der Krogt. 1 map; 35 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005549315/39015091191273_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005549315\"}",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

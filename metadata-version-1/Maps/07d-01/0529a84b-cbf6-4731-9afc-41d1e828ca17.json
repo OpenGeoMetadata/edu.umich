@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0529a84b-cbf6-4731-9afc-41d1e828ca17",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new description of the Shyres Lothian and Linlitquo; Be. T. Pont.; New description of the Shyres Lothian and Linlitqvo;A new description of the Shyres Lothian and Linlitquo",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0529a84b-cbf6-4731-9afc-41d1e828ca17",
+  "solr_geom": "ENVELOPE(-3.69,-2.5,56.07,55.76)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Hondius, Hendrik, 1597-1651.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe.,Vignaud, Henry, 1830-1922, former owner.,Pont, Timothy, 1560?-1614?, cartographer."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes pictorial representation of ships in the ocean. In decorative cartouche flanked by two cherubim with large open books and topped with the British coat of arms, \"Serenissimo Potentissimoque Iacobo. I. Magnae Britanniae monarchae Franciae Hiberniae Regi D.D. T. Pont. Auct.\" This state was published in atlases by Jan Jansson and Henricus Hondius in 1630, 1636, and 1637. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 44 x 54 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010349238/39015091192008_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010349238\"}",
+  "dct_spatial_sm": [
+    "Lothian, Scotland, United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

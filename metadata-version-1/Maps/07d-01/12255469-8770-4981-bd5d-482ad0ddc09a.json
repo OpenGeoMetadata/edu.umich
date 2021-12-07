@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "12255469-8770-4981-bd5d-482ad0ddc09a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tabula Prussiae: exima cura conscripta per Casparum Henneberch Erlichensem; et denuo edita per Nicolaum Johannidem Piscatorem.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "12255469-8770-4981-bd5d-482ad0ddc09a",
+  "solr_geom": "ENVELOPE(18.15,23.15,55.77,52.95)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Visscher, Claes Jansz., 1586 or 1587-1652.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630.,Goos, Abraham, engraver.,Henneberger, Kaspar.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes inset view of Konigsberg. Includes illustrations of ships on the ocean and a face in the cartouche. Does not match any states listed in Van der Krogt. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 44 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282400/39015091193949_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282400\"}",
+  "dct_spatial_sm": [
+    "East Prussia, Poland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ]
+}

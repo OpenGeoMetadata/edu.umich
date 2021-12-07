@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "07614151-9dad-401e-8918-316fc817dcf8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Meiji kaisei Tōkyō zenzu Sagano Hikotarō.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "07614151-9dad-401e-8918-316fc817dcf8",
+  "solr_geom": "ENVELOPE(139.67,139.87,35.75,35.62)",
+  "solr_year_i": "1888",
+  "dc_creator_sm": [
+    "Sagano, Hikotarō."
+  ],
+  "dc_description_s": "Cover title. In Japanese. Oriented with north to the right. Includes address charts by ward (ku), guide for tourists and legend. Shows views of tourist attractions. 1 map: col.; 33 x 46 cm.,folded in cover 15 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932472/39015091920150_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932472\"}",
+  "dct_spatial_sm": [
+    "Tokyo, Tokyo, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 26 i.e. Meiji 21 = 1888"
+  ]
+}

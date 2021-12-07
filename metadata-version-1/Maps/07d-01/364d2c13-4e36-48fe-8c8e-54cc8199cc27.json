@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "364d2c13-4e36-48fe-8c8e-54cc8199cc27",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Shinsen jissoku Tōkyō zu: zen Nagamatsu Sakunosuke.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "364d2c13-4e36-48fe-8c8e-54cc8199cc27",
+  "solr_geom": "ENVELOPE(139.62,140,35.62,35.5)",
+  "solr_year_i": "1889",
+  "dc_creator_sm": [
+    "Nagamatsu, Sakunosuke."
+  ],
+  "dc_description_s": "Cover title. Copperplate print. In Japanese. Oriented with north to the right. Relief shown by hachures. Shows views of tourist attractions. Includes address chart and legend. 1 map: col.; 46 x 62 cm.,folded in cover 18 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887658/39015091920168_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887658\"}",
+  "dct_spatial_sm": [
+    "Tokyo, Tokyo, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 22 1889"
+  ]
+}

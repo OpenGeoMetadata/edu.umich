@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9e905670-4ec8-4263-ab8f-c58af91511c7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "City of Ann Arbor, Washtenaw County. Michigan; surveyed & published by Henry Hart.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "9e905670-4ec8-4263-ab8f-c58af91511c7",
+  "solr_geom": "ENVELOPE(-83.76,-83.73,42.29,42.27)",
+  "solr_year_i": "1853",
+  "dc_creator_sm": [
+    "Hart, Henry.,Miller & Co."
+  ],
+  "dc_description_s": "Cadastral map showing land ownership and buildings. \"Miller's Lith., N.Y.\" Includes inset of Phoenix block of subdivision of block 1 south, range 4 east. 1 map: hand col.; 77 x 104 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003928321/39015091198211\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003928321\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ]
+}

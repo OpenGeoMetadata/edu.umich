@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c1499d6e-cf51-4cc1-ad51-dc4800a96a2d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Partie occidentale de l'Afrique: ou se trouve la Barbarie diviseé en royaumes de Maroc, de Fez, d'Alger, de Tripoli, et de Tunis & le Sara ou le Desert de Barbarie, la Nigritie ou le Pais de Negres et la Guinée, les Isles du Cap Verd, Les canaries et les Acores, ses dernieres sont estimées de l'Amerique; par N. de Fer.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c1499d6e-cf51-4cc1-ad51-dc4800a96a2d",
+  "solr_geom": "ENVELOPE(-26.58,27.43,39.7,-0.33)",
+  "solr_year_i": "1705",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720."
+  ],
+  "dc_description_s": "See Phillips, no. 546. Relief shown pictorially. Prime meridian: Ferro. Inset table of longitudes and latitudes of principal places on the map. 1 map: col.; 46 x 59 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281699/39015091193576\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281699\"}",
+  "dct_spatial_sm": [
+    "Western Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ]
+}

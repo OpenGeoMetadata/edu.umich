@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "84e3daae-4f8c-4b95-ad55-561a9b660ee5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mappe - monde: pour la geographie de M.M. Achille Meissas et A. Michelot; dressée par Charle géographe.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "84e3daae-4f8c-4b95-ad55-561a9b660ee5",
+  "solr_geom": "ENVELOPE(-179.87,179.53,84.97,-84.75)",
+  "solr_year_i": "1854",
+  "dc_creator_sm": [
+    "Charle, Jean Baptiste Louis."
+  ],
+  "dc_description_s": "Relief shown pictorially. Shows international boundaries, major rivers and mountains. Gravé par Moisy. 1 map: col. 28 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281761/39015091197072\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281761\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ]
+}

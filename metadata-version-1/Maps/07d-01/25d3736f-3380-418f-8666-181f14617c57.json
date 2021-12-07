@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "25d3736f-3380-418f-8666-181f14617c57",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Okayama-ken shichōson-sei kuiki sangoku zenzu Yamamoto Shinʼichirō.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "25d3736f-3380-418f-8666-181f14617c57",
+  "solr_geom": "ENVELOPE(133.27,134.4,35.35,34.4)",
+  "solr_year_i": "1889",
+  "dc_creator_sm": [
+    "Yamamoto, Shinʼichirō."
+  ],
+  "dc_description_s": "Mounted cover title. Copperplate print. In Japanese. Relief shown by hachures. Includes 1 inset: Okayama shigaizu. Includes list of district names, distance chart, and legend. Engraved by Fujii Kōzaburō. 4 pieces joined 1 map: col.; 96 x 71 cm., folded in cover 17 x 11 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002457621/39015091921448_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002457621\"}",
+  "dct_spatial_sm": [
+    "Okayama Shi, Okayama, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 22 1889"
+  ]
+}

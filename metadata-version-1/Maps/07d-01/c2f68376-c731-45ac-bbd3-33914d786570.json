@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1777|003286894|39015091194889",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Utah Tintic mining map",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c2f68376-c731-45ac-bbd3-33914d786570",
+  "solr_geom": "ENVELOPE(-112.14,-112.09,39.97,39.9)",
+  "solr_year_i": "1898",
+  "dc_description_s": "1 map : col. ; 77 x 44 cm.|Contour interval 20 ft.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003286894/39015091194889\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003286894\"}",
+  "dct_spatial_sm": [
+    "Juab County, Utah",
+    "Utah"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1898"
+}

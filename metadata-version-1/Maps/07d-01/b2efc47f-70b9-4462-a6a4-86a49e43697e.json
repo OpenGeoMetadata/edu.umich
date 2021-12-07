@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b2efc47f-70b9-4462-a6a4-86a49e43697e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Washington and vicinity, Maryland-District of Columbia-Virginia H.M. Wilson, geographer in charge; topography by J.D. Hoffman ... [et al.] and U.S. Coast and Geodetic Survey.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b2efc47f-70b9-4462-a6a4-86a49e43697e",
+  "solr_geom": "ENVELOPE(-77.25,-76.75,39,38.75)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.),Wilson, Herbert M. (Herbert Michael), 1860-1920.,Hoffman, J. D.,U.S. Coast and Geodetic Survey."
+  ],
+  "dc_description_s": "Relief shown by contours. Contour interval 20 ft. \"Surveyed in 1885-86 and 95-97.\" Text, \"Description of the topographic map of the United States,\" on verso. 1 map: col.; 46 x 69 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002701243/39015091897986\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002701243\"}",
+  "dct_spatial_sm": [
+    "Washington DC, Washington, D.C."
+  ],
+  "layer_modified_dt": "2021-05-07T19:07:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ]
+}

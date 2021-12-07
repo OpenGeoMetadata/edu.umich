@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "40756cc5-11cf-4579-a736-ae6d92afa932",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sabaudia ducatus la Savoié.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "40756cc5-11cf-4579-a736-ae6d92afa932",
+  "solr_geom": "ENVELOPE(5.66,7.54,46.46,45.02)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix. 1630.,Hondius, Jodocus, 1594 or 1595-1629, cartographer.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004077734/39015091194178_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004077734\"}",
+  "dct_spatial_sm": [
+    "Savoie, Auvergne-Rhône-Alpes, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ]
+}

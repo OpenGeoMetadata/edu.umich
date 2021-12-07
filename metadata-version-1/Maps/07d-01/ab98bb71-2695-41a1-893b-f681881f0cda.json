@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ab98bb71-2695-41a1-893b-f681881f0cda",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Campus Flower Garden: M. Blanchard.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ab98bb71-2695-41a1-893b-f681881f0cda",
+  "solr_geom": "ENVELOPE(-83.7399,-83.74,42.2801,42.28)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Blanchard, M."
+  ],
+  "dc_description_s": "Map shows layout of campus flower garden. Cataloging agency could not determine exact location of flower garden. 1 map: 55 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012388730/39015091198344\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012388730\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d332fc1f-8d22-4563-b129-6749a25a4ff8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lionnois, Forest et Beavolois.; Lionnois, Forest, et Beauiolois",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d332fc1f-8d22-4563-b129-6749a25a4ff8",
+  "solr_geom": "ENVELOPE(3.37,5.05,46.62,45.28)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Vignaud, Henry, 1830-1922, former owner, Composite Atlas of France."
+  ],
+  "dc_description_s": "Relief shown pictorially. North oriented to the right of map. Includes the French coat of arms and two faces in the title cartouche, and a ram's head in the scale cartouche. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 35 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012523589/39015091193881_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012523589\"}",
+  "dct_spatial_sm": [
+    "Rhône-Alpes, FR.B9, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

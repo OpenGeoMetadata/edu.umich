@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "69378872-035c-4010-9a59-67e54848b47c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kyōto-fu kannai chizu zen.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "69378872-035c-4010-9a59-67e54848b47c",
+  "solr_geom": "ENVELOPE(134.83,136.17,35.83,34.75)",
+  "solr_year_i": "1868",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "Mounted cover title. Copperplate print. Oriented with north to the upper left. Relief shown by hachures. 1 inset: Kyōto Shigai Zenzu. Include distance chart and legend. Title on map: Kyōto-fu kannai chizu. 1 map: col.; 63 x 92 cm., folded in cover 22 x 16 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932471/39015091921372_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932471\"}",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "after 1868"
+  ]
+}

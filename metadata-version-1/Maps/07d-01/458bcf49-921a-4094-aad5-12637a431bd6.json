@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "458bcf49-921a-4094-aad5-12637a431bd6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nova totius terrarum orbis geographica ac hydrographica tabula; auct. Guiljelmo Blaeuw.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "458bcf49-921a-4094-aad5-12637a431bd6",
+  "solr_geom": "ENVELOPE(-180,180,80,-70)",
+  "solr_year_i": "1642",
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638.,Ende, Josua van den, engraver."
+  ],
+  "dc_description_s": "Relief shown pictorially. Text on verso in Dutch. Two circular insets of the polar regions. Ornamental border: Upper shows allegorical images of the Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn. Lower shows the Seven wonders of the world - Hanging Gardens of Babylon, Colossus of Rhodes, Pyramids of Egypt, Mausoleum of Halicarnassus at Caria, Temple of Diana at Ephesus, Statue of Jupiter of Olympicus, Pharos or Lighthouse of Alexandria. Left shows allegorical figures of the four seasons. Right shows allegorical figures of the four elements. Three decorative cartouches. From his \"Toonneel des Aerdriicx\", 1642. 1 map: 40 x 53 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281373/39015091197783\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281373\"}",
+  "dct_spatial_sm": [
+    "Earth"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1642"
+  ]
+}

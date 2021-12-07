@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "aafc1bad-806d-431d-8148-4e3368354848",
+  "dc_rights_s": "Public",
+  "dc_title_s": "South Carolina, Charleston quadrangle",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "aafc1bad-806d-431d-8148-4e3368354848",
+  "solr_geom": "ENVELOPE(-80,-79.88,32.88,32.75)",
+  "solr_year_i": "1919",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.),Marshall, R. B. (Robert Bradford), 1867-1949.,United States. Army. Corps of Engineers."
+  ],
+  "dc_description_s": "Relief shown by contours. Contour interval 5 feet. \"R.B. Marshall, Chief Geographer, W.H. Herron, Geographer in charge; Topography by C.B. Childs ... [et al.]; Surveyed in 1918.\" \"Surveyed in cooperation with the War Department.\" Text and ill. on verso. 1 map: col.; 66 x 56 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887429/39015091194079_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887429\"}",
+  "dct_spatial_sm": [
+    "Charleston, South Carolina",
+    "South Carolina"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ]
+}

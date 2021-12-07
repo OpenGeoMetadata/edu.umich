@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3850 1898 .E|000889675|39015091194962",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Territory of Columbia, no. 3059",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8a917034-9769-447d-8d12-e9e2d45105bd",
+  "solr_geom": "ENVELOPE(-77.15,-76.91,39.01,38.78)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "U.S. Coast and Geodetic Survey."
+  ],
+  "dc_description_s": "1 map ; 55 x 55 cm|Facsimile.|\"No. 3059.\"|\"Reproduced by the U.S. Coast and Geodetic Survey in February 1898 from a print in the Hall of Maps and Charts of the Library of Congress.\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000889675/39015091194962\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000889675\"}",
+  "dct_spatial_sm": [
+    "Washington D"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1898"
+}

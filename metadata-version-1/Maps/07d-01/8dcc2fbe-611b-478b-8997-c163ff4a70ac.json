@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8dcc2fbe-611b-478b-8997-c163ff4a70ac",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mutsu Dewa kokugun kōtei zenzu; Hashimoto Gyokuransai.; Cover title has subtitle: Tsuketari Echigo hangoku",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8dcc2fbe-611b-478b-8997-c163ff4a70ac",
+  "solr_geom": "ENVELOPE(138.62,142.15,41.9,37.38)",
+  "solr_year_i": "1868",
+  "dc_creator_sm": [
+    "Utagawa, Sadahide, 1807-1873."
+  ],
+  "dc_description_s": "Wood block print. Shows shipping routes. Oriented with north to the right. Relief shown pictorially. Includes descriptive list of daimyo. 1 map: col.; on sheet 91 x 145 cm., folded in covers 26 x 19 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003101695/39015091921240\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003101695\"}",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ]
+}

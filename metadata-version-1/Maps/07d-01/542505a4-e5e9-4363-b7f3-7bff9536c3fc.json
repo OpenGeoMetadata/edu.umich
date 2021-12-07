@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "542505a4-e5e9-4363-b7f3-7bff9536c3fc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new map of the empire of Persia D. Anville.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "542505a4-e5e9-4363-b7f3-7bff9536c3fc",
+  "solr_geom": "ENVELOPE(60,90,45,20)",
+  "solr_year_i": "1794",
+  "dc_creator_sm": [
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782.,Laurie & Whittle."
+  ],
+  "dc_description_s": "Relief shown by hachues. Prime meridian: Ferro. 1 map col.; 50 x 56 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081077/39015091916513\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081077\"}",
+  "dct_spatial_sm": [
+    "Iran"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ]
+}

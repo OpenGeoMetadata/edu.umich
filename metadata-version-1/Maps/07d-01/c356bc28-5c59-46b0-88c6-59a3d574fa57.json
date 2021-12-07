@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c356bc28-5c59-46b0-88c6-59a3d574fa57",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the lands of the Michigan Land & Iron Co. Limited in the counties of Marquette, Baraga and Houghton, northern peninsula, Michigan.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c356bc28-5c59-46b0-88c6-59a3d574fa57",
+  "solr_geom": "ENVELOPE(-88.78,-86.77,47.63,45.62)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Heliotype Printing Co.,Michigan Land & Iron Company."
+  ],
+  "dc_description_s": "Also shows parts of Iron, Dickinson, and Menominee Counties. Includes inset of Grand Island. 1 map: col.; 86 x 70 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002890970/39015091192735\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002890970\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

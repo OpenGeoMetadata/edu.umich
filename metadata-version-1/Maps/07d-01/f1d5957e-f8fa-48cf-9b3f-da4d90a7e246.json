@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f1d5957e-f8fa-48cf-9b3f-da4d90a7e246",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the states of Indiana, and Ohio, with part of Michigan Territory.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f1d5957e-f8fa-48cf-9b3f-da4d90a7e246",
+  "solr_geom": "ENVELOPE(-89,-79,42.5,37.83)",
+  "solr_year_i": "1832",
+  "dc_creator_sm": [
+    "Hinton, Isaac Taylor, 1799-1847.,Fenner Sears  Co.,Simpkin, Marshall and Co."
+  ],
+  "dc_description_s": "Shows counties, roads, populated places, and water features. Washington and Greenwich prime meridians. Inset: \"Plan of Cincinnati.\" Engraved and printed by Fenner Sears  Co. 1 map; 23 x 38 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000862081/39015091905474\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000862081\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1832"
+  ]
+}

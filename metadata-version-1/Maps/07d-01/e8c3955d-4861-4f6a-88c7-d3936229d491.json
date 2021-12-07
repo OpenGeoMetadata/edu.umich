@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e8c3955d-4861-4f6a-88c7-d3936229d491",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Ann Arbor.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e8c3955d-4861-4f6a-88c7-d3936229d491",
+  "solr_geom": "ENVELOPE(-83.76,-83.72,42.3,42.26)",
+  "solr_year_i": "1901",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "blue print. 1 map; 84 x 72 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003283813/39015091184831\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003283813\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ]
+}

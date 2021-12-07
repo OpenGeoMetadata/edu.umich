@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e2a7df72-a2d3-495f-9554-0d0296ace2a8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Normandia ducatus; Henricus Hondius excudit.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e2a7df72-a2d3-495f-9554-0d0296ace2a8",
+  "solr_geom": "ENVELOPE(-2.04,1.88,50.29,48.18)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Duysend, Cornelius Claeszoon, fl. 1640, engraver.,Hondius, Hendrik, 1597-1651, cartographer.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes the coat of arms of France and Normandy while the title cartouche is framed by vines of fruit and the scale cartouche is framed by two cherubs. This state was published in atlases by Jan Jansson in 1636 and 1637. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 51 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282763/39015091191257_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282763\"}",
+  "dct_spatial_sm": [
+    "Normandy, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

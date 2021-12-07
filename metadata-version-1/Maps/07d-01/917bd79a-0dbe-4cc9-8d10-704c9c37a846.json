@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "917bd79a-0dbe-4cc9-8d10-704c9c37a846",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Railway terminal map of Chicago.; Rand McNally & Co.'s indexed atlas of the world railway terminal map of Chicago;Rand, McNally & Co.'s new business atlas map of Chicago",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "917bd79a-0dbe-4cc9-8d10-704c9c37a846",
+  "solr_geom": "ENVELOPE(-87.83,-87.42,42.02,41.62)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "Includes inset of central city at ca. 1:25,000 scale. At head of title: Rand, McNally & Co.'s indexed atlas of the world. Running title in margin: Rand, McNally & Company's indexed atlas of the world. Verso of map has pages 361, 364 of the Atlas including tables: Miles of Railroads in the United States, 1830-1893; Freight Traffic on the Great Lakes, by Ports, 1889; Social Statistics of 22 of the Largest Cities in the United States, 1890. 1 map: col.; 65 x 47 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006776509/39015091899313_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006776509\"}",
+  "dct_spatial_sm": [
+    "Chicago, Illinois",
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "00d7004f-8664-4e4a-a86f-8f8a05273bfc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Recentissima novi orbis sive Americae septentrionalis et meridionalis tabula; ex officina Caroli Allard, cum privilegio ordinum Hollandiae et Westfrisiae; Ph. Tideman, del.; G. v. Gouwen, sculp.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "00d7004f-8664-4e4a-a86f-8f8a05273bfc",
+  "solr_geom": "ENVELOPE(5.62,165,73.6,-50.03)",
+  "solr_year_i": "1696",
+  "dc_creator_sm": [
+    "Allard, Carel, 1648-approximately 1709.,Tideman, Philip.,Gouwen, Gilliam van der."
+  ],
+  "dc_description_s": "Relief shown pictorially. Inset of New Zealand. Decorative cartouche showing native woman adorned in gold jewelry, native man with a bowl of gold nuggets, and various animals. 1 map: hand col., mounted on cloth; 49 x 58 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002609499/39015060932442\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002609499\"}",
+  "dct_spatial_sm": [
+    "Americas"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1696?"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b10de73a-238b-4f07-9769-10090a5c5724",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Manitowoc harbor, Wisconsin from survey made betweenteh 14th & 19th of August 1856 by assistant John O'Donoghue, under the direction of Brevet Lieut. Col. J.D. Graham, Major, U.S. Top. Engineers. Superintending Engineer of Lake Michigan Works.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b10de73a-238b-4f07-9769-10090a5c5724",
+  "solr_geom": "ENVELOPE(-87.6599,-87.66,44.0901,44.09)",
+  "solr_year_i": "1856",
+  "dc_creator_sm": [
+    "Graham, J. D. (James Duncan), 1799-1865.,O'Donoghue, John, 1946-,United States. Army. Corps of Topographical Engineers (Corps of Topographical Engineers)"
+  ],
+  "dc_description_s": "The soundings are in feet & decimals of a foot. \"Accompanying Lt. Colonel J.D. Graham's annual report (no. 161) to the Chief Topographical Engineer, dated Chicago, November 15th 1857.\" \"Map G. No. 46.\" 1 map; 51 x 61 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001291842/39015095388685\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001291842\"}",
+  "dct_spatial_sm": [
+    "Manitowoc Harbor, Wisconsin",
+    "Wisconsin"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ]
+}

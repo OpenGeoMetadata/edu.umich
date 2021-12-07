@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e416a481-874b-4b13-9eb9-b76372a6cf1c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bresse",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e416a481-874b-4b13-9eb9-b76372a6cf1c",
+  "solr_geom": "ENVELOPE(4.7,6.18,46.57,45.75)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Vignaud, Henry, 1830-1922, former owner, Composite Atlas of France."
+  ],
+  "dc_description_s": "Relief shown pictorially. The title cartouche includes branches of fruit and is topped with a vase of flowers and fruit. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map 36 x 47 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012536209/39015091193824_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012536209\"}",
+  "dct_spatial_sm": [
+    "Bresse, Bourgogne-Franche-Comté, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

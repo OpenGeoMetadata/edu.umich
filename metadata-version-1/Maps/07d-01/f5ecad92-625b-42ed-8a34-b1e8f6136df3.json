@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f5ecad92-625b-42ed-8a34-b1e8f6136df3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Amérique Septentrionale: divisée en ses principales parties ou sont distingués les uns des autres les Estats suivant qu'ils appartiennent presentemet aux Franc̜ois Castillans, Anglois, Suedois, Danois, Hollandois; Tirée des Relations de toutes ces Nations. Par le Sr. Sanson, geographe ordinaire du Roy. Presentée à monseigneur le Davin par son tres-humble, tres-obeissant, et tres-fidéle serviteur, Hubert Iaillot. (And in 2d cartouche).",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f5ecad92-625b-42ed-8a34-b1e8f6136df3",
+  "solr_geom": "ENVELOPE(3.87,142.08,78.67,5.77)",
+  "solr_year_i": "1674",
+  "dc_creator_sm": [
+    "Sanson, Nicolas, 1600-1667."
+  ],
+  "dc_description_s": "Relief shown pictorially. Shows California as an island. Decorative cartouche. 1 map: hand col.; 52 x 86 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004154347/39015091199656\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004154347\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1674?"
+  ]
+}

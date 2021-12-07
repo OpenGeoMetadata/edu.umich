@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8aa0983e-20c2-498e-826b-561e05875b2d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of the city of New York: the greater part from actual survey made expressly for the purpose (the rest from authentic documents); by Thos. H. Poppleton, city surveyor.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8aa0983e-20c2-498e-826b-561e05875b2d",
+  "solr_geom": "ENVELOPE(-74.02,-73.97,40.75,40.7)",
+  "solr_year_i": "1852",
+  "dc_creator_sm": [
+    "Poppleton, Thomas H.,Hayward, George, approximately 1800-"
+  ],
+  "dc_description_s": "Facsimile. Relief shown by hachures. Engraved from the original map by G. Hayward for D.T. Valentines manual for 1852. Shows wards, ferry lines, slip numbers and selected places of interest. Includes key to places of interest. Originally published by Prior & Dunning. 1 map: dissected to fold, mounted on linen; 45 x 36 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003560934/39015091186646\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003560934\"}",
+  "dct_spatial_sm": [
+    "New York, New York",
+    "New York State, New York"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ]
+}

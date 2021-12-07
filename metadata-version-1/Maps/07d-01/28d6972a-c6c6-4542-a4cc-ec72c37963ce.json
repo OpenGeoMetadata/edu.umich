@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "28d6972a-c6c6-4542-a4cc-ec72c37963ce",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The state of Florida compiled in the Bureau of Topographical Engineers, from the best authorities; by J. Goldsborough Bruff; D. McClelland, sc., 1846.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "28d6972a-c6c6-4542-a4cc-ec72c37963ce",
+  "solr_geom": "ENVELOPE(-87,-80.5,31,24.5)",
+  "solr_year_i": "1846",
+  "dc_creator_sm": [
+    "United States. Army. Corps of Topographical Engineers.,Bruff, Joseph Goldsborough, 1804-1889.,McClelland, D."
+  ],
+  "dc_description_s": "Relief shown by hachures. Insets: Key West -- Mouths of the Suwanee River and the Cedar Keys -- General map of part of Florida included between Cedar Keys and St. John's River. Map indicates townships. 1 map; 105 x 101 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001838564/39015091905110_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001838564\"}",
+  "dct_spatial_sm": [
+    "Florida"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ]
+}

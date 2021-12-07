@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2c8e0745-7ce6-4255-beb4-250c4d5b56a8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "North America, Sheet V, the Northwest and Michigan Territories.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2c8e0745-7ce6-4255-beb4-250c4d5b56a8",
+  "solr_geom": "ENVELOPE(-91.75,-86.67,46.25,42.42)",
+  "solr_year_i": "1833",
+  "dc_creator_sm": [
+    "Society for the Diffusion of Useful Knowledge (Great Britain),J. & C. Walker (Firm)"
+  ],
+  "dc_description_s": "Michigan townships shown. Michigan counties outlined. \"Tanner\" Printed by Russel, Penge. J. & C. Walker. 1 map: col.; 30 x 36 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081780/39015091905250\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081780\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1833"
+  ]
+}

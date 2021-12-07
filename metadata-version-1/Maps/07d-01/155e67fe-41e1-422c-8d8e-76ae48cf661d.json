@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3701 .G6 1985 .G6|001956892|39015016336854",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Native American lands and communities, 1985",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "155e67fe-41e1-422c-8d8e-76ae48cf661d",
+  "solr_year_i": "1985",
+  "dc_creator_sm": [
+    "Native American Science Education Association."
+  ],
+  "dc_description_s": "1 map : col. ; 47 x 72.|Based on 1980 census data.|Insets: Alaska and Hawaii.|Includes text to the left of the map titled, \"Rightfully and Legally OURS\".",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Census"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001956892/39015016336854\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001956892\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ]
+}

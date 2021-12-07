@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "226d1876-1fbc-43ea-8097-ff9a248f47dd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of the city of Detroit.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "226d1876-1fbc-43ea-8097-ff9a248f47dd",
+  "solr_geom": "ENVELOPE(-83.1,-83.01,42.38,42.31)",
+  "solr_year_i": "1884",
+  "dc_creator_sm": [
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868."
+  ],
+  "dc_description_s": "Shows ward boundaries. Shows railroads and public buildings. Oriented with north to the upper right. Plate 80 from Mitchell's New General Atlas. On verso: plate 79, map of Michigan, (western part of Upper Peninsula not shown). 1 map: col.; 29 x 36 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003884450/39015091196157\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003884450\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:38Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ]
+}

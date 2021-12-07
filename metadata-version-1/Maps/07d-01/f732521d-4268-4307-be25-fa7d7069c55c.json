@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f732521d-4268-4307-be25-fa7d7069c55c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Amerique septentrionale Dressée sur les observations de Mrs. de l'Academie Royale des Sciences & quelques autres, & sur les memoires les plus recens; par G. de L'Isle.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f732521d-4268-4307-be25-fa7d7069c55c",
+  "solr_geom": "ENVELOPE(-125,-35,70,5)",
+  "solr_year_i": "1708",
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726.,Schenk, Pierre.,De La Vergne, Earl W."
+  ],
+  "dc_description_s": "Shows routes of explorers of the Pacific Ocean. Relief shown pictorially. Prime meridian: [Ferro]. Includes \"Avertissement.\" 1 map hand col.; 43 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003879373/39015091185812\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003879373\"}",
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1708"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fcab7766-7cca-4c6a-9b90-74c04f3d0130",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nouvelle carte particulière de l'Amérique où sont exactement marquées une partie de la baye d'Hudson le pays des Kilostinons, la source de la grande riviere de Mississippi, le pays des Illinois &c.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "fcab7766-7cca-4c6a-9b90-74c04f3d0130",
+  "solr_geom": "ENVELOPE(-107,-79,55,34)",
+  "solr_year_i": "1734",
+  "dc_creator_sm": [
+    "Popple, Henry, -1743."
+  ],
+  "dc_description_s": "Inset: Endoresement by Edmund Halley. From Covens, J. & Mortier, C. Atlas nouveau contenant toutes les parties du monde... Amsterdam, 1683-1761. v. 9, no. 41. In lower right margin: J. 1 map: hand col.; 55 x 50 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003011281/39015091185879\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003011281\"}",
+  "dct_spatial_sm": [
+    "Great Lakes"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "ca.1734?"
+  ]
+}

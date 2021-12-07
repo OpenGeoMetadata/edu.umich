@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "13b4f358-d358-4ea7-a99e-89b066944502",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of a reconnoissance between Fort Leavenworth on the Missouri river and the Great Salt Lake in the Territory of Utah, made in 1849 and 1850 under the orders of Col. J.J. Abert ...; by Capt. Howard Stansbury aided by Lieut. J.W. Gunnison ... and Albert Carrington; drawn by Lieut. Gunnison and Charles Preuss.; Map of a reconnaissance between Fort Leavenworth on the Missouri river and the Great Salt Lake in the Territory of Utah, made in 1849 and 1850 under the orders of Col. J.J. Abert, by Capt. Howard Stansbury aided by Lieut. J.W. Gunnison ... and Albert Carrington; drawn by Lieut. Gunnison and Charles Preuss",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "13b4f358-d358-4ea7-a99e-89b066944502",
+  "solr_geom": "ENVELOPE(-115,-94,44,38)",
+  "solr_year_i": "1850",
+  "dc_creator_sm": [
+    "Stansbury, Howard, 1806-1863.,Gunnison, J. W. (John Williams), 1812-1853.,Preuss, Charles, 1803-1854.,United States. Army. Corps of Engineers."
+  ],
+  "dc_description_s": "Relief shown by hachures. Outline color. 1 map: hand col., dissected into 18 sections and mounted on linen; 71 x 174 cm, folded to 25 x 29 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003060822/39015091905789_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003060822\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ]
+}

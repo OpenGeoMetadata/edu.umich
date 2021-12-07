@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6e238992-730c-466c-85d2-d831bfd43936",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan de Mons: ville forte capitale du Comté d'Hainaut; Baillieu.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6e238992-730c-466c-85d2-d831bfd43936",
+  "solr_geom": "ENVELOPE(3.85478,4.085104,50.513811,50.377753)",
+  "solr_year_i": "1708",
+  "dc_creator_sm": [
+    "Baillieul, Gaspard, [fl. 1700-1744]."
+  ],
+  "dc_description_s": "Shows military operations during siege of 1706. Show public and outlying buildings, city streets, fortifications, fields, marshes, etc. Relief by hachures. Text written in French. Scale measured in toises. Dissected in 8 sections. 1 map, dissected and mounted on linen; 38 x 51 cm, folded in slipcase 22 x 15 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005666662/39015049959805\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005666662\"}",
+  "dct_spatial_sm": [
+    "Mons, Wallonia, Belgium",
+    "Belgium"
+  ],
+  "layer_modified_dt": "2021-05-10T15:00:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1708"
+  ]
+}

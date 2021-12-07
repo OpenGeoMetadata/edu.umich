@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 8200 1762 .J35|003284883|39015091883564",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Afrique divisee en ses principaux etats",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "22d8fcb7-c476-4c63-bfb1-7742d8fdb204",
+  "solr_geom": "ENVELOPE(-27.02,74.82,38.85,-37.03)",
+  "solr_year_i": "1762",
+  "dc_description_s": "1 map : hand col. ; 30 x 43 cm.|Relief shown pictorially.|Plate \"No. 28\".|Includes decorative cartouche with trees, leopard and crocodile.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284883/39015091883564\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284883\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:45Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1762"
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "222de267-b38a-41d3-ac1b-d2010571e299",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the world on Mercator's Projection: showing the direction of the ocean currents.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "222de267-b38a-41d3-ac1b-d2010571e299",
+  "solr_geom": "ENVELOPE(-180,180,85,-70)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Rand McNally and Company."
+  ],
+  "dc_description_s": "Maps on verso: Map of the West Indies -- Jamaica -- Puerto Rico -- Map of Cuba -- Map of Havana Harbor. From \"Indexed Atlas of the World\". 1 map: col.; 87 x 65 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004018628/39015091197122_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004018628\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ]
+}

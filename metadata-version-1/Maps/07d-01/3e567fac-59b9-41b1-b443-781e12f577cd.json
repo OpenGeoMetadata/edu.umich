@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3e567fac-59b9-41b1-b443-781e12f577cd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing the distribution of the Indian tribes of Washington Territory",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3e567fac-59b9-41b1-b443-781e12f577cd",
+  "solr_geom": "ENVELOPE(-125,-121,49,45)",
+  "solr_year_i": "1876",
+  "dc_creator_sm": [
+    "Dall, William Healey, 1845-1927.,Powell, John Wesley, 1834-1902.,Geographical and Geological Survey of the Rocky Mountain Region (U.S.)"
+  ],
+  "dc_description_s": "Relief shown by hachures. \"U.S. Geographical and Geological Survey of the Rocky Mountain Region J.W. Powell in charge.\" From: Contributions to North American Ethnology, vol. 1. 1 map: col., mounted on cloth; 50 x 39 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000889503/39015091914450\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000889503\"}",
+  "dct_spatial_sm": [
+    "Washington State, Washington"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ]
+}

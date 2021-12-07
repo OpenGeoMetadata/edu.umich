@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2c0b8775-4548-4295-909f-9e2e82081ba8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Biscaia et Gvipvscoa: Cantabriae Veteris Pars Amstelodami, Apud Ioannem Iassonium.; Biscaia et Guipiscoa: Cantabria Veteris Pars",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2c0b8775-4548-4295-909f-9e2e82081ba8",
+  "solr_geom": "ENVELOPE(-3.95,-1.27,43.67,42.27)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Vignaud, Henry, 1830-1922, former owner.,Jansson, Jan, 1588-1664. Appendix Atlas."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships in the ocean and a coats of arms. This state was published in the Atlas Novus by Jan Jansson circa 1680. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284871/39015091191984_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284871\"}",
+  "dct_spatial_sm": [
+    "País Vasco, Basque Country, Spain",
+    "Spain"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

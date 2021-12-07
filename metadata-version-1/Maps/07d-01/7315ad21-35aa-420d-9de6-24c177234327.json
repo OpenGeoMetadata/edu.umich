@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7315ad21-35aa-420d-9de6-24c177234327",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kyōto ezu zen; Fukutomi Seisui.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7315ad21-35aa-420d-9de6-24c177234327",
+  "solr_geom": "ENVELOPE(135.72,135.8,35.97,35.07)",
+  "solr_year_i": "1874",
+  "dc_creator_sm": [
+    "Fukutomi, Seisui."
+  ],
+  "dc_description_s": "Mounted cover title. Copperplate print in green. First copperplate printed map from the Meiji era (Kyōto Zu Sōmokuroku p. 80, #7) In Japanese. Oriented with north to the left. Relief shown pictorially. Includes index. 1 map; 43 x 58 cm., folded in cover 16 x 8 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932473/39015091921562_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932473\"}",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Meiji 7 1874"
+  ]
+}

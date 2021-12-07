@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3464 .W7 192- .W7|003286844|39015091891583_0001",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Parts of the City of Windsor and Town of Sandwich",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0dd7453a-f20c-41dc-8050-004067ea7ce2",
+  "solr_geom": "ENVELOPE(-83.08,-83.05,42.32,42.29)",
+  "solr_year_i": "1920",
+  "dc_description_s": "1 map : blueprint ; 70 x 130 cm|Oriented to the southeast.|Shows lot numbers for many blocks and location of proposed Ambassador Bridge and Canadian customs area.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003286844/39015091891583_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003286844\"}",
+  "dct_spatial_sm": [
+    "Ontario,  Canada",
+    "Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1920"
+}

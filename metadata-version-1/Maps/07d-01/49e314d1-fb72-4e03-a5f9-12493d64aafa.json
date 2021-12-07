@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "49e314d1-fb72-4e03-a5f9-12493d64aafa",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kaei kaisei Sakai ōezu zen; Hosokawa Minamoto Yasuyoshi.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "49e314d1-fb72-4e03-a5f9-12493d64aafa",
+  "solr_geom": "ENVELOPE(135.43,135.52,34.6,34.53)",
+  "solr_year_i": "1863",
+  "dc_creator_sm": [
+    "Hosokawa, Yasuyoshi.,Suharaya, Mohē, 1731-1782."
+  ],
+  "dc_description_s": "Title from mounted label on verso. Wood block print. In Japanese. Oriented with north to the upper right. Includes distance chart, products legend, temple names and kokudaka. Relief shown pictorially. Calligraphed by Shishi Kōsai. 2 sheets joined. 1 map: col.; 69 x 46 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002457606/39015091193295_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002457606\"}",
+  "dct_spatial_sm": [
+    "Sakai-shi, Ōsaka, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Bunkyū 3 1863"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8e14c82a-5f93-4573-8a3e-e154f2cb7f32",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Platte grondt de verbrande stadt London.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8e14c82a-5f93-4573-8a3e-e154f2cb7f32",
+  "solr_geom": "ENVELOPE(-0.15,-0.05,51.53,51.49)",
+  "solr_year_i": "1666",
+  "dc_creator_sm": [
+    "Doornick, Marcus Willemsz."
+  ],
+  "dc_description_s": "Includes inset plan for a new city: \"Modell der ab gebrandten stadt London new zu bawen\", and inset view of the London fire of 1666: \"Londons brandt\". 1 map; 30 x 54 cm., folded to 18 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005103536/39015091186745\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005103536\"}",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1666"
+  ]
+}

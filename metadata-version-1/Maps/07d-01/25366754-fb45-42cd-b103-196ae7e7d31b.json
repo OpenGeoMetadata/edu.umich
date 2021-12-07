@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "25366754-fb45-42cd-b103-196ae7e7d31b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The environs of Paris; J. & C. Walker, Sculpt.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "25366754-fb45-42cd-b103-196ae7e7d31b",
+  "solr_geom": "ENVELOPE(18,24,52.5,49.5)",
+  "solr_year_i": "1852",
+  "dc_creator_sm": [
+    "Society for the Diffusion of Useful Knowledge (Great Britain),J. & C. Walker (Firm)"
+  ],
+  "dc_description_s": "Relief shown by hachures. 1 map: col.; 29 x 37 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009451359/39015091186315\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009451359\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "ca. 1852"
+  ]
+}

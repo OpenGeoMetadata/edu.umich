@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1b115b92-783a-450a-acda-723768cfb58e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte réduite des côtes orientales de l'Amérique septentrionale: contenant partie du Nouveau Jersey, la Pen-sylvanie, le Mary-land, la Virginie, la Caroline septentrionale, la Caroline méridionale et la Georgie: assujettie aux observations les plus récentes et aux cartes de détail les plus estimées; dressée au Dépôt géneŕal des cartes, plans et journaux de la Marine, pour le service des Vaisseux Français; par ordre de M. de Sartine, conseiller dʹEtat, ministre et secretaire d'Etat, ayant le Départment de la Marine; gravé par Petit.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1b115b92-783a-450a-acda-723768cfb58e",
+  "solr_geom": "ENVELOPE(-92,-74,40,30.25)",
+  "solr_year_i": "1778",
+  "dc_creator_sm": [
+    "France. Dépôt des cartes et plans de la marine.,Sartine, Antoine de, comte d'Alby, 1729-1801.,Petit, Sculp.,France. Dépôt des cartes et plans de la marine."
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings. Prime meridian: Paris. In upper right margin: No. 2. (Hyd. No. 62). 1 map; 57 x 84 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279326/39015091910383\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279326\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ]
+}

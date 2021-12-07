@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5fcb3f01-2d9b-40ea-9306-fdf9e1953f4c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Deliniatio cartae trium navigationum per Batavos auctore Wilhelmo Bernardo; Cornelius Nicolai excudebat; Baptista a Doetechum sculp. Ao. 1598.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5fcb3f01-2d9b-40ea-9306-fdf9e1953f4c",
+  "solr_geom": "ENVELOPE(-172.08,-172.00,81.25,49.45)",
+  "solr_year_i": "1598",
+  "dc_creator_sm": [
+    "Barentsz, Willem, approximately 1550-1597.,Duetecum, Baptista.,Claesz, Cornelis, ca. 1546-1609."
+  ],
+  "dc_description_s": "1 map; 42 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006858587/39015091199631\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006858587\"}",
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:33Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1598"
+  ]
+}

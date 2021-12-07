@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7e473de4-535a-49de-af07-63c064ec2df8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Washington; compiled from the official records of the General Land Office and other sources under the direction of chief of Drafting Division, G.L.O.; revised and drawn by Daniel O'Hare; compiled by Robt. H. Morton.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7e473de4-535a-49de-af07-63c064ec2df8",
+  "solr_geom": "ENVELOPE(-48,-40,49,46)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "United States. General Land Office. Drafting Division.,O'Hare, Daniel.,Morton, Robert H."
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. Also shows public lands. \"The Friedenwald Co. Photo-Lith. Balto.\" Longitude \"West from Washington.\" 1 map: col.; 58 x 87 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000861707/39015091914443\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000861707\"}",
+  "dct_spatial_sm": [
+    "Washington State, Washington"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

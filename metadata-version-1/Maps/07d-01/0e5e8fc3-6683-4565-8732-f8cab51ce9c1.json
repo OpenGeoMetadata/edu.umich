@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0e5e8fc3-6683-4565-8732-f8cab51ce9c1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New York.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0e5e8fc3-6683-4565-8732-f8cab51ce9c1",
+  "solr_geom": "ENVELOPE(-79,-74,45,41)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Bradley & Company."
+  ],
+  "dc_description_s": "Shows railroads and county boundaries. Relief shown by hachures. Inset: Northern part of New York. In upper right corner: \"39.\" From Bradley's atlas of the world for commercial and library reference. 1 map: col.; 39 x 54 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "County boundaries",
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007933355/39015091910789\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007933355\"}",
+  "dct_spatial_sm": [
+    "New York State, New York"
+  ],
+  "layer_modified_dt": "2021-05-08T19:27:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

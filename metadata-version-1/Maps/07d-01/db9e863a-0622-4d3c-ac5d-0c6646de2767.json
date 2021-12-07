@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "db9e863a-0622-4d3c-ac5d-0c6646de2767",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Territorium Metense; auctore Ab. Fabert.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "db9e863a-0622-4d3c-ac5d-0c6646de2767",
+  "solr_geom": "ENVELOPE(5.96,6.51,49.37,48.89)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. North oriented to the right side of the map. Includes the French coat of arms and two additional coat of arms. The title cartouche is surrounded by boughs of fruit and includes a face. Does not match states listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 38 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004078062/39015091191513_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004078062\"}",
+  "dct_spatial_sm": [
+    "Metz, Grand-Est, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

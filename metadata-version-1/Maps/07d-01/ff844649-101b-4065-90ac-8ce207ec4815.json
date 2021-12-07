@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ff844649-101b-4065-90ac-8ce207ec4815",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nord-Amerika und West Indien; entworfen und gezeichmet von Dr. F. W. Streit.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ff844649-101b-4065-90ac-8ce207ec4815",
+  "solr_geom": "ENVELOPE(172.6,4.9,85,7)",
+  "solr_year_i": "1833",
+  "dc_creator_sm": [
+    "Streit, Friedrich Wilhelm."
+  ],
+  "dc_description_s": "Relief shown by hachures. 1 map: hand col.; 38 x 45 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004082320/39015091186182\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004082320\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1833"
+  ]
+}

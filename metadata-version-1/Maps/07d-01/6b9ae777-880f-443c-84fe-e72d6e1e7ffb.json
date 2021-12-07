@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6b9ae777-880f-443c-84fe-e72d6e1e7ffb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Musashi Toshima-kōri Sakuda-ryō Edo Momiji-gawa Yoroinowatashi koseki kō; Eisen Ikeda Gishin utsusu.; Momiji-gawa Yoroinowatashi koseki kō;Momiji-yoroi koseki kō: zen",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "6b9ae777-880f-443c-84fe-e72d6e1e7ffb",
+  "solr_geom": "ENVELOPE(139.7801,139.78,35.6801,35.67)",
+  "solr_year_i": "1845",
+  "dc_creator_sm": [
+    "Ikeda, Eisen, 1790-1848."
+  ],
+  "dc_description_s": "Wood block print. Oriented with north to the lower left. Includes historical descriptions. 1 map: col.; 37 x 67 cm., folded in covers 19 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003101174/39015091921679_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003101174\"}",
+  "dct_spatial_sm": [
+    "Hatchobori, Tokyo, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Kōka 2 1845"
+  ]
+}

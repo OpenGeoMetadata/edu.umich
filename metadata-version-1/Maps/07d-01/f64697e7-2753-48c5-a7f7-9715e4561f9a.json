@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f64697e7-2753-48c5-a7f7-9715e4561f9a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "South Carolina, (Charleston county), James Island quadrangle",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f64697e7-2753-48c5-a7f7-9715e4561f9a",
+  "solr_geom": "ENVELOPE(-80,-79.88,32.75,32.63)",
+  "solr_year_i": "1919",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.),Marshall, R. B. (Robert Bradford), 1867-1949.,United States. Army. Corps of Engineers."
+  ],
+  "dc_description_s": "Relief shown by contours. Contour interval 5 feet. \"R.B. Marshall, Chief Geographer, W.H. Herron, Geographer in charge; Topography by J.F. McCook and C.W. Stump, Jr.; Control by H.L. Hudson and E.L. McNair; surveyed in 1918.\" \"Surveyed in cooperation with the War Department.\" Text and ill. on verso. 1 map: col.; 74 x 56 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887428/39015091194087_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887428\"}",
+  "dct_spatial_sm": [
+    "James Island, South Carolina",
+    "South Carolina"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ]
+}

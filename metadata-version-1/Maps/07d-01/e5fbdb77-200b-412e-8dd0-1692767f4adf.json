@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e5fbdb77-200b-412e-8dd0-1692767f4adf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bunkyū kaisei shinzō saiken Kyō ezu taizen: Kan; Also published under this title: Rakuchū Rakugai Shinzō Saiken Kyō Ezu Taizen: Kan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e5fbdb77-200b-412e-8dd0-1692767f4adf",
+  "solr_geom": "ENVELOPE(135.72,135.78,35.05,34.83)",
+  "solr_year_i": "1862",
+  "dc_creator_sm": [
+    "Takehara, Yoshibē."
+  ],
+  "dc_description_s": "5 sheets joined. Mounted cover title. Wood block print. Oriented with north to the left. In Japanese. Relief shown pictorially. Includes legend. 1 map: col; 68 x 98 cm.,folded in cover 21 x 15 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887578/39015091921521_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887578\"}",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Bunkyū 2 1862"
+  ]
+}

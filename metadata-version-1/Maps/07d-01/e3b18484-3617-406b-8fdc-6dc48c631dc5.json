@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e3b18484-3617-406b-8fdc-6dc48c631dc5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Provincia Oxoniensis: Oxfordshire; Amstelodami, Apud Ioannem Ianssonium.; Province of Oxford",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e3b18484-3617-406b-8fdc-6dc48c631dc5",
+  "solr_geom": "ENVELOPE(-1.73,-0.7,52.19,51.45)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of cherubims around the scale cartouche. Does not match any state listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 47 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010348370/39015091192388_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010348370\"}",
+  "dct_spatial_sm": [
+    "Oxfordshire, England, United Kingdom"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

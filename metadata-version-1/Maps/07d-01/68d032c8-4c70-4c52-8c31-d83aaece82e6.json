@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3271 .S12 1822 .H4|010016200|39015091195571",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Algemeene kaart, der ontdekkingen van W. E. Parry en O. Von Kotzebue",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "68d032c8-4c70-4c52-8c31-d83aaece82e6",
+  "solr_geom": "ENVELOPE(-169.4,-34.98,89.98,55)",
+  "solr_year_i": "1822",
+  "dc_creator_sm": [
+    "Baarsel, C. van (Cornelius)"
+  ],
+  "dc_description_s": "1 map : hand col. ; 30 x 62 cm.|Relief shown with hachures.|Prime meridian: Greenwich.|General map of the discoveries of W. E. Parry and O. von Kotzebue, on their journeys in search of a north-westerly and north-east passage from the Atlantic to the Pacific from 1815 to 1820.|\"Uit de Originele kaarten te zamengesteld en gegraveerd door C. van Baarsel & Zoon.\" The original maps composed and engraved by C. van Baarsel & Son.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010016200/39015091195571\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010016200\"}",
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:40Z",
+  "dc_language_sm": [
+    "dut"
+  ],
+  "dct_issued_s": "1822"
+}

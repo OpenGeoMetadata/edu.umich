@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3d46ec65-7df4-4c28-ab7d-dbd180e2c2a6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan de la ville et des faubourgs de Paris, divisé en ses vingt quartiers; par le Sr. Robert de Vaugondy.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3d46ec65-7df4-4c28-ab7d-dbd180e2c2a6",
+  "solr_geom": "ENVELOPE(2.31,2.39,48.88,48.83)",
+  "solr_year_i": "1760",
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Didier, 1723-1786."
+  ],
+  "dc_description_s": "Includes indexes. Color outlines the cité, ville, and univers. 1 map: hand col.; 49 x 61 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009749914/39015091186356\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009749914\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "86f8745a-a703-47d6-921f-7d48aa4dd4ce",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Michigan Ter drawn & published by F. Lucas, Jr.; B. T. Welch, sc.; Michigan Territory",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "86f8745a-a703-47d6-921f-7d48aa4dd4ce",
+  "solr_geom": "ENVELOPE(-98,-81,50,41)",
+  "solr_year_i": "1823",
+  "dc_creator_sm": [
+    "Lucas, Fielding, Jr., 1781-1854.,Welch, B. T. (Bartholomew Trow), 1794-1871."
+  ],
+  "dc_description_s": "Meridians: Washington.--Greenwich. Relief shown pictorially. 1 map: hand col.; 23 x 30 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081905/39015091905227\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081905\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1823?"
+  ]
+}

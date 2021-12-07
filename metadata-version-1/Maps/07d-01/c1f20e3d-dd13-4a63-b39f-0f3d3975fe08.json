@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c1f20e3d-dd13-4a63-b39f-0f3d3975fe08",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kingdom of Hungary principality of Transylvania, Sclavonia, Croatia, with a part of Valakia, Bulgaria, Bosnia and Servia from the latest surveys ascertained by astronomical observations.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "c1f20e3d-dd13-4a63-b39f-0f3d3975fe08",
+  "solr_geom": "ENVELOPE(15,25.5,50,44)",
+  "solr_year_i": "1794",
+  "dc_creator_sm": [
+    "Laurie & Whittle."
+  ],
+  "dc_description_s": "Shows upper and lower Hungary, Croatia, Sclavonia and Transylvania. Relief shown by hachures. Prime meridian: Ferro. 1 map: hand col.; 45 x 53 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081174/39015091915705\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081174\"}",
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ]
+}

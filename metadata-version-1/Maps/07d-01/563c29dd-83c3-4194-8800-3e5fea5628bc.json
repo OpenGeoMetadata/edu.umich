@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "563c29dd-83c3-4194-8800-3e5fea5628bc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Michigan; compiled and drawn by A.F. Dinsmore.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "563c29dd-83c3-4194-8800-3e5fea5628bc",
+  "solr_geom": "ENVELOPE(-90.4,-82.07,48.82,41.5)",
+  "solr_year_i": "1888",
+  "dc_creator_sm": [
+    "Dinsmore, A. F.,Stockslager, S.M.,Mayo, Geo. U. (George U.),United States. General Land Office."
+  ],
+  "dc_description_s": "Department of Interior, General Land Office, Hon. S.M. Stockslager, Commissioner. \"Compiled from the official records of the General Land Office and other sources under the supervision of Geo. U. Mayo, Civil Engineer-Chief of Draughting Division G.L.O.\". Shows counties. Shows major cities and towns. Shows railroads. 1 map: col.; 80 x 69 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081017/39015091880198\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081017\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ]
+}

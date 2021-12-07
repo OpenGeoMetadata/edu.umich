@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3461 .E1 1807 .B7|003287638|39015091883507",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan of Indian Reserve Garden River",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a8056fd5-9125-4844-a5d0-eca538d17e9a",
+  "solr_geom": "ENVELOPE(-84.24,-83.92,46.65,46.47)",
+  "solr_year_i": "1907",
+  "dc_description_s": "1 map : col. ; 60 x 90 cm.|Department of Indian Affairs stamp on map with manuscript date of \"3rd May 1807\". This is an official hand drawn copy whose information, technology and style all point to the date being closer to 1907.|Shows the \"Approximate routesof the Canadian Pacific and Ontario and Sault Ste. Marie Railways.\" Delineates the ceded and unceded portions of the Reserve.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287638/39015091883507\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287638\"}",
+  "dct_spatial_sm": [
+    "Garden River Indian Reserve 14,  Ontario,  Canada",
+    "Ontario,  Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1907"
+}

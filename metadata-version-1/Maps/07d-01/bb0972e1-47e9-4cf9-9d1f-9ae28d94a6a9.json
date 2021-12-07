@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3200 1542 .V6 1892|003284952|39015091197627",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Caspar Vopell's erdglobus von 1542",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "bb0972e1-47e9-4cf9-9d1f-9ae28d94a6a9",
+  "solr_geom": "ENVELOPE(-180,180,10.6,-90)",
+  "solr_year_i": "1892",
+  "dc_description_s": "1 map : col. ; 28 cm diam.|[Festschrift der Hamburgischne Amerika Feier. Vopell, Tafel II.)",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284952/39015091197627\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284952\"}",
+  "dct_spatial_sm": [
+    "Southern Hemisphere"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-07-14T22:11:54Z",
+  "dc_language_sm": [
+    "ger"
+  ],
+  "dct_issued_s": "1892"
+}

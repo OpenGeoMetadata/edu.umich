@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5899dcee-a633-45b9-893c-c1489045b9bc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bunken Edo ōezu: kan.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5899dcee-a633-45b9-893c-c1489045b9bc",
+  "solr_geom": "ENVELOPE(139.69,139.85,35.76,35.6)",
+  "solr_year_i": "1865",
+  "dc_creator_sm": [
+    "Mori, Fūsai.,Suharaya, Mohē, 1731-1782.,Ochikochi, Dōin, 17th cent.,Kanamaru, Hikogorō."
+  ],
+  "dc_description_s": "Mounted cover title. Wood block print. Oriented with north to the right. Relief and selected landmarks shown pictorially. Cadastral map showing landowners. Based on map by Ochikochi Dōin. \"Maigetsu aratame.\" Includes distance chart, lists of tides, stars, temples, points of interest, places of pilgrimage, and cultivated fields. 1 map: col.; 180 x 199 cm., fold in covers 32 x 21 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003107156/39015091920267_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003107156\"}",
+  "dct_spatial_sm": [
+    "Tokyo, Tokyo, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-08T19:42:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Keiō 1 1865"
+  ]
+}

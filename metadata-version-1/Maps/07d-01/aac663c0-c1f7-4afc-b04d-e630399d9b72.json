@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "aac663c0-c1f7-4afc-b04d-e630399d9b72",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Ann Arbor, Michigan and vicinity showing scenic boulevard and park system.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "aac663c0-c1f7-4afc-b04d-e630399d9b72",
+  "solr_geom": "ENVELOPE(-83.76,-83.71,42.3,42.26)",
+  "solr_year_i": "1911",
+  "dc_creator_sm": [
+    "Ann Arbor (Mich.). Board of Commerce."
+  ],
+  "dc_description_s": "Relief shown by hachures. Printed by The Ann Arbor Press. Radial distances shown. Includes key to selected buildings. 1 map: mounted on cloth; 48 x 42 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002655304/39015091184708\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002655304\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ]
+}

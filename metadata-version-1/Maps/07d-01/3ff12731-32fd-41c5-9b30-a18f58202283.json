@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3ff12731-32fd-41c5-9b30-a18f58202283",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Post route map of the states of Michigan and Wisconsin: with adjacent parts of Ohio, Indiana, Illinois, Iowa, and Minnesota; designed and constructed under the orders of John A.J. Creswell and Giles A. Smith by W.L. Nicholson.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3ff12731-32fd-41c5-9b30-a18f58202283",
+  "solr_geom": "ENVELOPE(-93,-82,47,41)",
+  "solr_year_i": "1871",
+  "dc_creator_sm": [
+    "Nicholson, W. L.,Poole, C. H.,McClelland, D.,United States. Post Office Department."
+  ],
+  "dc_description_s": "Prime meridian: Washington. Shows railroad lines. \"Drawn by C.H. Poole. Engraved by D. McClelland.\" \"The service on this diagram brought up to date of [April 1st, 1874].\" Includes \"General statistics,\" \"Explanation of mail service,\" and table of distances. 1 map: hand color; 105 x 141 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013664818/39015091881139\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013664818\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ]
+}

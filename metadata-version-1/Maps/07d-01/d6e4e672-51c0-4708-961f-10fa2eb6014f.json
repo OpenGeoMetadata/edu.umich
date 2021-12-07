@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d6e4e672-51c0-4708-961f-10fa2eb6014f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the United States road from Ohio to Detroit as lately located by Messrs. A. Edwards, S. Vance and Philu E. Judd (the last of whom died before the survey was completed), commissioners appointed by the president of the U.S. agreeable to act of Congress; drawn by J. Farmer of Detroit, 1825.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d6e4e672-51c0-4708-961f-10fa2eb6014f",
+  "solr_geom": "ENVELOPE(-83.57,-82.88,42.38,41.33)",
+  "solr_year_i": "1825",
+  "dc_creator_sm": [
+    "Farmer, John, 1798-1859.",
+    "Edwards, A.,Vance, S.",
+    "Judd, Philu E."
+  ],
+  "dc_description_s": "Prime meridian: Washington. Oriented with north toward the upper right. 1 map: photocopy; 21 x 79 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002881891/39015091880966\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002881891\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1825",
+  "dct_temporal_sm": [
+    "1825"
+  ]
+}

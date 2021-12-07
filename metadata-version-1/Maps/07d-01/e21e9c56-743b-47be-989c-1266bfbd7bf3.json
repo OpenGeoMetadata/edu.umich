@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e21e9c56-743b-47be-989c-1266bfbd7bf3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte particuliere du fleuve Saint Louis dressée sur les lieux avec les noms des sauvages du pais, des marchandises qu'on y porte &qu'on en reçoit & des animaux, insectes poissons, oiseaux, arbres & fruits des parties septentrioes & méridiones de ce pais.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "e21e9c56-743b-47be-989c-1266bfbd7bf3",
+  "solr_geom": "ENVELOPE(-93.68,-58.08,58.02,38.85)",
+  "solr_year_i": "1719",
+  "dc_creator_sm": [
+    "Lahontan, baron de, 1666-1716.,Chatelain, Zacharias."
+  ],
+  "dc_description_s": "Photostatic copy. Map bordered by tables listing Indian nations and animals of Canada. Chatelain copy of Lahontan's 1703 map of Canada. Above neat line at right: Tom VI. no. 21 pag: 90. Copy 2 in: Chatelain, Zacharias. Atlas historique ..., [1708-1720], vol. 6, p. 90. 1 map: photostat; 32 x 37 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005411691/39015091197445\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005411691\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1719"
+  ]
+}

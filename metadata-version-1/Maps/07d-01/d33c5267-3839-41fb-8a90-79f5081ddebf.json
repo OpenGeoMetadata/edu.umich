@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d33c5267-3839-41fb-8a90-79f5081ddebf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sketch map of the province of British Columbia; Lands and Works Department.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d33c5267-3839-41fb-8a90-79f5081ddebf",
+  "solr_geom": "ENVELOPE(-141,-111,61,48)",
+  "solr_year_i": "1899",
+  "dc_creator_sm": [
+    "British Columbia. Department of Lands and Works.,Cookson, Cecil H."
+  ],
+  "dc_description_s": "Printed by Richard Wolfenden, printer to the queen's most excellent majesty. 1 map: col.; 47 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010328793/39015091911092\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010328793\"}",
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ]
+}

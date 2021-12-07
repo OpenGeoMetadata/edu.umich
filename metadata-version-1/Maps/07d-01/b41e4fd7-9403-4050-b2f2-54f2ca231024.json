@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b41e4fd7-9403-4050-b2f2-54f2ca231024",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Civitas Londinum.; Publisher's title: Plan of London (circa 1560-1570) by Ralph Agas",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b41e4fd7-9403-4050-b2f2-54f2ca231024",
+  "solr_geom": "ENVELOPE(-0.14,-0.07,51.52,51.49)",
+  "solr_year_i": "1905",
+  "dc_creator_sm": [
+    "Agas, Ralph, 1545-1621."
+  ],
+  "dc_description_s": "Relief shown pictorially. Bird's-eye-view. Includes ill., text and coats-of-arms. 1 view on 8 sheets; 70 x 182 cm, sheets 59 x 44 cm and 44 x 59 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003023238/39015091194210\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003023238\"}",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom",
+    "United Kingdom"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:06:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ]
+}

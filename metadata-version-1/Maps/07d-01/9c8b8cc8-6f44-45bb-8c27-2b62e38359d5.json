@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3706 .P3 1887 .M3|002644260|39015091910318",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map shewing railway systems & mines in connection with the property of the American Coal & Coke Corporation Limited",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "9c8b8cc8-6f44-45bb-8c27-2b62e38359d5",
+  "solr_year_i": "1887",
+  "dc_creator_sm": [
+    "American Coal & Coke Corporation."
+  ],
+  "dc_description_s": "1 map : col. ; 46 x 59 cm|Inset: Enlarged plan of the Knoxville & Ohio Railroad, Tennessee, U.S.A., shewing coal companies mines in the great coal field of the south.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002644260/39015091910318\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002644260\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1887",
+  "dct_temporal_sm": [
+    "1887"
+  ]
+}

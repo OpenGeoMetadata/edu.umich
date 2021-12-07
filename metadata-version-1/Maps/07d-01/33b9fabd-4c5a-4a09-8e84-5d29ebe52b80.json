@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "33b9fabd-4c5a-4a09-8e84-5d29ebe52b80",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Gallia: Nova Galliae descriptio multis in locis de integro emendata simulquae effigies principum, praecipuas Gallorum urbés ac habitus exhibens; excudebat Ioannes Ianssonius Anno 1627.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "33b9fabd-4c5a-4a09-8e84-5d29ebe52b80",
+  "solr_geom": "ENVELOPE(-5.13,12.83,53.02,41.55)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix. 1630.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Border contains views of cities and images of regional costumes. The title cartouche includes the french coat of arms and the date of original publication date of 1627. 1 map; 47 x 56 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284861/39015091191596_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284861\"}",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ]
+}

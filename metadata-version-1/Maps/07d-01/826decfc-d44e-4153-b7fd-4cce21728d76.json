@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "826decfc-d44e-4153-b7fd-4cce21728d76",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Provincia Connachtiae: The province of Connaugt; Amstelodami Excudebat Joannes Janssonius.; Provincia Connachtiae: The province of Connavgt;Province of Connacht;Province of Connaught",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "826decfc-d44e-4153-b7fd-4cce21728d76",
+  "solr_geom": "ENVELOPE(-10.3,-7.95,54.4,52.52)",
+  "solr_year_i": "1636",
+  "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Map is oriented with North to the right. Drawings of ships are in the ocean, and a sea monster. This state was published in atlases by Jan Jansson in 1636, 1637, and 1680. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 47 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010344028/39015091192099_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010344028\"}",
+  "dct_spatial_sm": [
+    "Connacht, Connaught, Ireland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1636"
+  ]
+}

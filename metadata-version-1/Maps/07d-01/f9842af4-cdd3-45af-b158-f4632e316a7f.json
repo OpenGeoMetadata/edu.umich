@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f9842af4-cdd3-45af-b158-f4632e316a7f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Topographical survey of grounds for botanical garden O. C. Simonds & Co., Landscape gardeners, Chicago, Ill.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f9842af4-cdd3-45af-b158-f4632e316a7f",
+  "solr_geom": "ENVELOPE(-83.73,-83.72,42.29,42.28)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "O. C. Simonds & Co."
+  ],
+  "dc_description_s": "Vegetation indicated pictorially. Contour interval 5 ft. Photocopy mounted on cloth. 1 map: hand col.; 83 x 61 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000524478/39015049936688\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000524478\"}",
+  "dct_spatial_sm": [
+    "University of Michigan Nichols Arboretum, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

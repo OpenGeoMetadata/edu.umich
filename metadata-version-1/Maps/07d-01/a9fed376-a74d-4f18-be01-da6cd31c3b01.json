@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a9fed376-a74d-4f18-be01-da6cd31c3b01",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Dernières explorations en Asie et dans les régions polaires 1880; dessinée par J. Hansen.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a9fed376-a74d-4f18-be01-da6cd31c3b01",
+  "solr_geom": "ENVELOPE(-180,180,90,0)",
+  "solr_year_i": "1881",
+  "dc_creator_sm": [
+    "Hansen, Jules, 1849-1931."
+  ],
+  "dc_description_s": "Relief shown by hachures. Names of explorers are in red. Shows the routes of explorers in the Arctic region and Asia. 1 map: col.; 26 x 26 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282332/39015091197189\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282332\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ]
+}

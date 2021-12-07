@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "abc098b3-6383-41ad-aae1-3626a4f7ba37",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Les états de la couronne de Pologne sous les quels sont compris la grande et la petite Pologne, le grand duch de Lithuanie, les Prusses et la curlande divisez en provinces et Palatinats.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "abc098b3-6383-41ad-aae1-3626a4f7ba37",
+  "solr_geom": "ENVELOPE(13.62,32.77,59.8,46.15)",
+  "solr_year_i": "1716",
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720."
+  ],
+  "dc_description_s": "1 map; 47 x 85 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281687/39015091186364\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281687\"}",
+  "dct_spatial_sm": [
+    "Poland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1716"
+  ]
+}

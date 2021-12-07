@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "066b9275-cddd-42df-99f3-effa04212364",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nieuwe kaart van de Grootbrittannische volkplantingen in Noord America waar in tevens de Fransche bezittingen en de Landen, tusschen die beide volken in geschil staande en de wederzydsche pretensien duidelyk aangewezen worden.; Getrokken uit de beste kaarten van de Hr. Mitchell en anderen.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "066b9275-cddd-42df-99f3-effa04212364",
+  "solr_geom": "ENVELOPE(-90,-52.3,51.95,29.45)",
+  "solr_year_i": "1755",
+  "dc_creator_sm": [
+    "Tirion, Isaak.,Mitchell, John, 1711-1768."
+  ],
+  "dc_description_s": "Hand colored. Prime meridian: Ferro and London. Relief shown pictorially. \"Ter opheldering van de Hedendaagsche historie van Groot Brittanje.\" 1 map: hand col.; 36 x 46 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003879289/39015091186059\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003879289\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ]
+}

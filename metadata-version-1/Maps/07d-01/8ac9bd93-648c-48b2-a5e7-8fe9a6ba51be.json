@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3271 .S12 1881 .T7|009662627|39015091195613",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Track chart of U. S. S. Yantic and Str Proteus, 1883, Arctic Sea",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "8ac9bd93-648c-48b2-a5e7-8fe9a6ba51be",
+  "solr_geom": "ENVELOPE(-91.42,-35.65,79.62,43.47)",
+  "solr_year_i": "1883",
+  "dc_creator_sm": [
+    "United States. Congress. Senate (48th, 1st Session : 1883)"
+  ],
+  "dc_description_s": "1 map : col. ; 64 x 34 cm.|\"Corrected to 1881.\"|\"S[enate] Ex. [Doc. No.] 100, 1[st Session], 48[th Congress].\"",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009662627/39015091195613\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009662627\"}",
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1883"
+}

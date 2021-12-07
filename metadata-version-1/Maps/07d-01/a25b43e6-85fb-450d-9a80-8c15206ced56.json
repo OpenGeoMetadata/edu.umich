@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a25b43e6-85fb-450d-9a80-8c15206ced56",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the village of Ann Arbor; by J. F. Stratton.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a25b43e6-85fb-450d-9a80-8c15206ced56",
+  "solr_geom": "ENVELOPE(-83.75,-83.74,42.29,42.27)",
+  "solr_year_i": "1836",
+  "dc_creator_sm": [
+    "Stratton, J. F. (Jonathan F.),N. Currier (Firm)"
+  ],
+  "dc_description_s": "Cadastral map. 1 map; 56 x 44 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004989505/39015095398890\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004989505\"}",
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1836"
+  ]
+}

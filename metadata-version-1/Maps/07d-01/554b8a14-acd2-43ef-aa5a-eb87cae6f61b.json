@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 3310 1835 .B6|002514039|39015091196884",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Michigan and the Great Lakes",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "554b8a14-acd2-43ef-aa5a-eb87cae6f61b",
+  "solr_geom": "ENVELOPE(-91,-77,48.5,41.5)",
+  "solr_year_i": "1835",
+  "dc_description_s": "1 map : col. ; 19 x 26 cm|Relief shown pictorially.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002514039/39015091196884\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002514039\"}",
+  "dct_spatial_sm": [
+    "Great Lakes"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1835"
+}

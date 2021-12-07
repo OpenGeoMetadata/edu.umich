@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b41b54f5-db78-4501-b373-e9b451468841",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the canal at the Saut Ste. Mary from a survey by Captain Canfield and Judge Burt; John Holcroft, assistant; drawn by John Holcroft.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b41b54f5-db78-4501-b373-e9b451468841",
+  "solr_geom": "ENVELOPE(-84.3499,-84.35,46.5001,46.5)",
+  "solr_year_i": "1852",
+  "dc_creator_sm": [
+    "Canfield, Augustus, d. 1854.,Burt, William Austin, 1792-1858.,Holcroft, John.,Burger, R. (Robert),R. Burger & Company."
+  ],
+  "dc_description_s": "Bathymetry shown by soundings and contours in feet. Shows \"proposed canal\" and surrounding cultural features. Includes profile. Vertical scale [ca. 1:245]. 1 map; 31 x 45 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002742806/39015091897150\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002742806\"}",
+  "dct_spatial_sm": [
+    "Sault Sainte Marie, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2b40dbac-b2ae-4e20-ba52-1d4b72a99993",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte routiere des environs de Paris: indiquant les differentes especes de routes et les distances d'un lieu a l'autre pour l'intelligence des voyageurs; par F.V.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "2b40dbac-b2ae-4e20-ba52-1d4b72a99993",
+  "solr_geom": "ENVELOPE(1.7,3.07,49.18,48.48)",
+  "solr_year_i": "1839",
+  "dc_creator_sm": [
+    "unknown"
+  ],
+  "dc_description_s": "18 views of chateaux, eglises, etc. in border. 1 map, dissected and mounted on canvas: hand col.; 40 x 58 cm., folded to 20 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005112392/39015091186596\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005112392\"}",
+  "dct_spatial_sm": [
+    "Paris, Île-de-France, France",
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ]
+}

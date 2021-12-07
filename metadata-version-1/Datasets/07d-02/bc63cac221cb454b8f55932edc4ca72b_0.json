@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/bc63cac221cb454b8f55932edc4ca72b_0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Prescribed Burn Boundaries: University of Michigan",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "bc63cac221cb454b8f55932edc4ca72b_0",
+  "solr_geom": "ENVELOPE(-83.7264,-83.6565,42.3084,42.2774)",
+  "solr_year_i": "1989",
+  "dc_creator_sm": [
+    "UM Matthaei Botanical Gardens and Nichols Arboretum"
+  ],
+  "dc_description_s": "Prescribed Burn boundaries at Matthaei-Nichols by year (1989-2018) and season.If you have any questions about this data, pleaseContact Us.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://mbgna-umich.opendata.arcgis.com/datasets/bc63cac221cb454b8f55932edc4ca72b_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/MBGNA_PrescribedBurnsView/FeatureServer/0\",\"http://schema.org/url\":\"https://mbgna-umich.opendata.arcgis.com/datasets/bc63cac221cb454b8f55932edc4ca72b_0\"}",
+  "dct_spatial_sm": [
+    "Washtenaw County, Michigan",
+    "Michigan"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T22:58:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2018-10-22",
+  "dct_temporal_sm": [
+    "1989-2018"
+  ]
+}

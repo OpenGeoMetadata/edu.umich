@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5c378809-6860-452b-9004-ab9856643ee9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "North America.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "5c378809-6860-452b-9004-ab9856643ee9",
+  "solr_geom": "ENVELOPE(15,170,80,5)",
+  "solr_year_i": "1832",
+  "dc_creator_sm": [
+    "Hinton, John Howard, 1791-1873.,I.T. Hinton & Simpkin & Marshall."
+  ],
+  "dc_description_s": "Relief shown by hachures. \"Engraved & printed by Fenner, Sears & Co.\" Map no. 14 from the atlas \"The history and topography of the United States\" ed. by John Howard Hinton. 1 map: hand col.; 48 x 40 cm., folded to 16 x 21 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005416912/39015091186232\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005416912\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1832"
+  ]
+}

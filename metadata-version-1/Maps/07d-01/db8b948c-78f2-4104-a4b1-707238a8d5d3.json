@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "db8b948c-78f2-4104-a4b1-707238a8d5d3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte des etats de la couronne de Pol[ogne] et; publiee par les heritiers [Homann].",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "db8b948c-78f2-4104-a4b1-707238a8d5d3",
+  "solr_geom": "ENVELOPE(14.03,34.2,57.83,46.08)",
+  "solr_year_i": "1773",
+  "dc_creator_sm": [
+    "Homann Erben (Firm)"
+  ],
+  "dc_description_s": "Mutilated. 1 map; 43 x 37 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282681/39015091186398\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282681\"}",
+  "dct_spatial_sm": [
+    "Poland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1773"
+  ]
+}

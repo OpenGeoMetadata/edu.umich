@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3e95e855-13fc-41fc-a138-ca22efca923e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the states of North & South Carolina engraved & printed by Fenner Sears & Co.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3e95e855-13fc-41fc-a138-ca22efca923e",
+  "solr_geom": "ENVELOPE(-84,-75,36,32)",
+  "solr_year_i": "1831",
+  "dc_creator_sm": [
+    "Hinton, Isaac Taylor, 1799-1847.,Fenner, Sears & Co.,Simpkin, Marshall and Co."
+  ],
+  "dc_description_s": "Relief shown by hachures. Greenwich and Washington prime meridians. Shows roads, towns, and county boundaries. Inset: Plan of Charleston (scale [ca. 1:31,000]). 1 map; 24 x 39 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "County boundaries"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002880006/39015091898422\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002880006\"}",
+  "dct_spatial_sm": [
+    "South Carolina",
+    "South Carolina"
+  ],
+  "layer_modified_dt": "2021-05-08T19:27:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ]
+}

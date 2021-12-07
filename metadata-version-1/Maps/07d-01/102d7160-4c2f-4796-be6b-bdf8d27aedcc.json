@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "102d7160-4c2f-4796-be6b-bdf8d27aedcc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A map of the United States of North America drawn from a number of critical researches; by A. Arrowsmith, hydrographer to H.R.H. the Prince of Wales;",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "102d7160-4c2f-4796-be6b-bdf8d27aedcc",
+  "solr_geom": "ENVELOPE(-92.3,-66.2,48.95,29.78)",
+  "solr_year_i": "1796",
+  "dc_creator_sm": [
+    "Arrowsmith, Aaron, 1750-1823.,Smith, C., mapseller.,Dahl, James, former owner."
+  ],
+  "dc_description_s": "Relief shown pictorially. Publisher's address changed to Soho Square. Publisher's title now hydrographer to H.R.H. the Prince of Wales. Cartouche incorporates view and text describing the falls of Niagara. On verso: \"Sold by C. Smith, Mapseller, No. 172, Strand. 850\" Labels indicating sector on verso. 1 map on 4 sheets: hand col., dissected and mounted on linen; 122 x 142 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012472564/39015095433358_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012472564\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Jan 1st, 1796, additions in 1802"
+  ]
+}

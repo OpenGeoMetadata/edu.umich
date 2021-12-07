@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "62360cb7-84e6-4105-9840-1b54560a9c2c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Partie occidentale du Canada ou de la Nouvelle France: ou sont les Nations des Ilinois, de Tracy, les Iroquois, et plusieurs autres peuples; avec la Louisiane ...; Par le P. Coronelli ...; Corrigée et augmentée par le Sr. Tillemon.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "62360cb7-84e6-4105-9840-1b54560a9c2c",
+  "solr_geom": "ENVELOPE(-94,-74,53,33)",
+  "solr_year_i": "1688",
+  "dc_creator_sm": [
+    "Du Tralage, Jean Nicolas, -1699.,Nolin, Jean Baptiste, 1648-1708.,Coronelli, Vincenzo, 1650-1718."
+  ],
+  "dc_description_s": "Relief shown pictorially. 1 map: hand col.; 43 x 58 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279617/39015091185762\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279617\"}",
+  "dct_spatial_sm": [
+    "Great Lakes"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1688"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 8200 1922 .N3|003286687|39015091883531",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Africa and adjoining portions of Europe and Asia",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "d0b08401-4b5e-4011-9cd7-e8fb59266f87",
+  "solr_year_i": "1922",
+  "dc_description_s": "1 map : col. ; 79 x 70 cm|Legend.|Shows national and imperial boundaries.|Relief shown by shading and spot heights.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003286687/39015091883531\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003286687\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2021-05-27T14:35:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

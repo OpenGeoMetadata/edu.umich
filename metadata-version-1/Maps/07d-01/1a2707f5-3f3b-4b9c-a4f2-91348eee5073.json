@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1a2707f5-3f3b-4b9c-a4f2-91348eee5073",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the central portion of the Upper Peninsula, Michigan.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "1a2707f5-3f3b-4b9c-a4f2-91348eee5073",
+  "solr_geom": "ENVELOPE(-88.9,-86.33,47,45.05)",
+  "solr_year_i": "1873",
+  "dc_creator_sm": [
+    "Brooks, T. B. (Thomas Benton), 1836-1900."
+  ],
+  "dc_description_s": "With legend. Julius Bien, lithographer. Copy 2 has manuscript red coloring annotated to show iron ore deposits. \"Pl.II.\" from the Atlas accompanying reports on Upper Peninsula of Michigan 1869-1873. 1 map; 85 x 69 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287265/39015091898919\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287265\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ]
+}

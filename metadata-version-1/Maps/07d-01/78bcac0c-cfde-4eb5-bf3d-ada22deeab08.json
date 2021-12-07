@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 4104 .C6 1871 .R2|000082565|39015091899214",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing the burnt district in Chicago",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "78bcac0c-cfde-4eb5-bf3d-ada22deeab08",
+  "solr_year_i": "1871",
+  "dc_description_s": "1 map : mounted on cloth, hand col. 55 x 88 cm.|Oriented with North to right.|Shows the burnt district.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000082565/39015091899214\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000082565\"}",
+  "dct_spatial_sm": [
+    "Chicago,  Illinois",
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1871",
+  "dct_temporal_sm": [
+    "1871"
+  ]
+}

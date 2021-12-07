@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0f09358b-ca8e-4b56-ab52-dfd33a8764ad",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Archipel des Indes orientales, qui comprend les Isles de la Sonde,Moluques et Philippines, tirées des cartes du Neptune Oriental par le Sr. Robert; par P. Santini.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "0f09358b-ca8e-4b56-ab52-dfd33a8764ad",
+  "solr_geom": "ENVELOPE(94.78,136.22,20.2,-16.02)",
+  "solr_year_i": "1778",
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Didier, 1723-1786."
+  ],
+  "dc_description_s": "Inset: Isles Marianes on de Larons. Map 37 from vol. 2 of Atlas Universel by P. Santini. Relief shown pictorially. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004170948/39015091916703\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004170948\"}",
+  "dct_spatial_sm": [
+    "South Eastern Asia"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ]
+}

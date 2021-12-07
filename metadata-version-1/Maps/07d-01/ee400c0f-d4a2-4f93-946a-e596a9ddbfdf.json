@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ee400c0f-d4a2-4f93-946a-e596a9ddbfdf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "[Plan des terreins appartenant aux francais autour de Fort de Pontchartrain].",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ee400c0f-d4a2-4f93-946a-e596a9ddbfdf",
+  "solr_geom": "ENVELOPE(-83.12,-83.07,42.32,42.27)",
+  "solr_year_i": "1731",
+  "dc_creator_sm": [
+    "[Deschamps de Boishébert, Henri Louis, 1679-1736]."
+  ],
+  "dc_description_s": "Negative photostatic copy of a 1912 copy from the Burton Historical Collection, Detroit, Michigan. Burton call no. 977.4 D4 F77H [1707?]. MiU copy varies slightly from ill. in Dunnigan. \"True copy of plan in the Dominion Archives, Ottawa, Nicole R. Trudeau, 31 March, 1912.\" Dominion Archives copy may be a manuscript copy of the original at the Center des Archives d'outre mer, Aix-en-Provence, Archives nationales, France. Shows lands near Fort Pontchartrain allotted to French settlers of Detroit, with names of some noted on properties. Shows relationship of village and lands of Huron Indians to those of French settlers. 1 map: photostat; 43 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287189/39015091200140\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287189\"}",
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1731"
+  ]
+}

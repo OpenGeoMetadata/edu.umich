@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bf0e245c-759c-4063-9261-a376fda2d5d5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kaisei Settsu Ōsaka no zu",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "bf0e245c-759c-4063-9261-a376fda2d5d5",
+  "solr_geom": "ENVELOPE(135.42,135.57,34.7,34.63)",
+  "solr_year_i": "1830",
+  "dc_creator_sm": [
+    "Ishikawaya, Wasuke."
+  ],
+  "dc_description_s": "3 sheets joined. Wood block print. In Japanese. Oriented with north to the left. Includes distance chart. Title from envelope. Publication date on envelope: \"mukan'nen tadashi Tenpô ikô.\" Relief shown pictorially. Extension pasted on bottom of map. 1 map: col.; 84 x 46 cm., in envelope 29 x 22 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887341/39015091921620_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887341\"}",
+  "dct_spatial_sm": [
+    "Osaka, Ōsaka, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "after 1830"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3d8a2657-0ade-4681-a8f3-005c1fbe016c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tenpō kaisei shinzō saiken Kyō ezu taizen: kan; Ikeda Tōritei Shujin kōsei.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "3d8a2657-0ade-4681-a8f3-005c1fbe016c",
+  "solr_geom": "ENVELOPE(135.73,135.78,35.05,34.97)",
+  "solr_year_i": "1834",
+  "dc_creator_sm": [
+    "Ikeda, Tōri.,Takehara, Yoshibē."
+  ],
+  "dc_description_s": "Printed on 4 sheets joined. Mounted cover title. Wood block print. Oriented with north to the left. In Japanese. Relief shown pictorially. Drawn by Nakamura Yūrakusai. Includes legend. 1 map: col.; 70 x 104 cm., folded in cover 22 x 15 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000903111/39015091921497_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000903111\"}",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ]
+}

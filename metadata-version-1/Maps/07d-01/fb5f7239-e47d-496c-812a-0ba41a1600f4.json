@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fb5f7239-e47d-496c-812a-0ba41a1600f4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "City of Ypsilanti, Washtenaw County, Michigan; surveyed & drawn by C. S. Woodard.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "fb5f7239-e47d-496c-812a-0ba41a1600f4",
+  "solr_geom": "ENVELOPE(-83.6199,-83.62,42.2301,42.23)",
+  "solr_year_i": "1859",
+  "dc_creator_sm": [
+    "Woodard, C. S. (Charles Sherman),Shober, Charles."
+  ],
+  "dc_description_s": "Relief shown by hachures. Cadastral map showing some land ownership and wards. Includes index of additions and 8 ill. 1 map: hand col.; 141x106 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003931121/39015091897325_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003931121\"}",
+  "dct_spatial_sm": [
+    "Ypsilanti, Michigan",
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-10T15:11:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1859"
+  ]
+}

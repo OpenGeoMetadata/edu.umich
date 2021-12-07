@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a7d6381d-9353-4cab-aeda-ef1c42dd2b86",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Handbook Map of Constantinople.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "a7d6381d-9353-4cab-aeda-ef1c42dd2b86",
+  "solr_geom": "ENVELOPE(28.91,29.01,41.04,40.99)",
+  "solr_year_i": "1875",
+  "dc_creator_sm": [
+    "Murray, John, 1807-1882."
+  ],
+  "dc_description_s": "[A photostat from] Handbook for Travelers in Turkey in Asia. Rev. London, 1875. [positive photostat] 1 map; 39 x 44 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003288569/39015091199334\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003288569\"}",
+  "dct_spatial_sm": [
+    "Istanbul, Istanbul, Turkey"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:38Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ]
+}

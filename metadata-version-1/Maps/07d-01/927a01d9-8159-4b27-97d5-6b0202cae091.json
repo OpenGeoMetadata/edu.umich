@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "927a01d9-8159-4b27-97d5-6b0202cae091",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Galliae veteris typus.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "927a01d9-8159-4b27-97d5-6b0202cae091",
+  "solr_geom": "ENVELOPE(-5.85,8.98,51.43,43.15)",
+  "solr_year_i": "1630",
+  "dc_creator_sm": [
+    "Hondius, Jodocus, 1563-1612.,Hondius, Jodocus, 1594 or 1595-1629, cartographer.,Vignaud, Henry, 1830-1922, former owner, Composite Atlas of France."
+  ],
+  "dc_description_s": "Relief shown pictorially. Text in cartouche in upper right corner of map, \"Nomenclaturae et positionis locorum huius tabulae testimonia, pete en Thesauro nostro geographico.\" From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map:; 38 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004077729/39015091192487_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004077729\"}",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ]
+}

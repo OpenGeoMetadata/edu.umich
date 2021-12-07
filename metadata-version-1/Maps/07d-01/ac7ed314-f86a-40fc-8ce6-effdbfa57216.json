@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ac7ed314-f86a-40fc-8ce6-effdbfa57216",
+  "dc_rights_s": "Public",
+  "dc_title_s": "La Guinee de meme que la plus grand Partie du Pais des Negres, appellées par des geographes modernes Ethiopie Inferieure & meridionale: tirées des morceaux geographiques de Mr. d'Anville, qu'il a inferes au Voyage du Chev. de Marchais, & puis defines suivant les Loix de la nouvelle projection de feu Mr. le Prof. Has; par les Heritiers d'Homan.; Guinea propria nec non Nigritiae vel Terrae Nigrorum maxima pars, geographis, hodiernis dicta utraq Aethiopia Inferior",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "ac7ed314-f86a-40fc-8ce6-effdbfa57216",
+  "solr_geom": "ENVELOPE(-17.97,15.35,25.35,-5.32)",
+  "solr_year_i": "1743",
+  "dc_creator_sm": [
+    "Homann Erben (Firm),Anville, Jean Baptiste Bourguignon d', 1697-1782.,Haas, Johann Mathias."
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridian: [Ferro]. Engraved illustration in lower left of map shows indigenous village and people with scale bars on elephant tusks. 1 map: hand col.; 45 x 55 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282702/39015091916729\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282702\"}",
+  "dct_spatial_sm": [
+    "Guinea"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1743"
+  ]
+}

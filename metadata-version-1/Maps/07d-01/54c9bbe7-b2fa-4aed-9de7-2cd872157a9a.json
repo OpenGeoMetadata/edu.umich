@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "54c9bbe7-b2fa-4aed-9de7-2cd872157a9a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Michigan compiled from the official records of the General Land Office and other sources by C. Roser, principal draughtsman G.L.O.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "54c9bbe7-b2fa-4aed-9de7-2cd872157a9a",
+  "solr_geom": "ENVELOPE(-90.47,-82.28,48.48,41.5)",
+  "solr_year_i": "1878",
+  "dc_creator_sm": [
+    "Roser, C.,Williamson, J.,United States. General Land Office."
+  ],
+  "dc_description_s": "At head of title: Department of the Interior. General Land Office. J.A. Williamson, Commissioner. Greenwich and Washington prime meridians. 1 map: col.; 75 x 63 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000080678/39015091880032\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000080678\"}",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ]
+}

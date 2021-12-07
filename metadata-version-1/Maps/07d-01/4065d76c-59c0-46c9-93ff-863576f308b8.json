@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4065d76c-59c0-46c9-93ff-863576f308b8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Gray's atlas map of North America.; Central America.;West Indies.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "4065d76c-59c0-46c9-93ff-863576f308b8",
+  "solr_geom": "ENVELOPE(-173.23,-54.68,76.12,5.57)",
+  "solr_year_i": "1874",
+  "dc_creator_sm": [
+    "Gray, O. W. (Ormando Wyllis), 1829-1912.,Stedman, Brown & Lyon, publisher, Gray's Atlas of the United States 1873.,Dahl, James, former owner."
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington and Greenwich. On verso: maps of Central America and West Indies with insets of Isthmus of Panama and City & Harbor of Havana. Plates 83 and 84 in Gray's Atlas Of The United States, With General Maps Of The World. Accompanied By Descriptions Geographical, Historical, Scientific and Statistical...Philadelphia. Published By Stedman, Brown & Lyon, No. 10 North Fifth Street, Philadelphia. 1873. 1 map: hand col.; 32 x 32 cm and 37 x 33 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012523210/39015095391358_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012523210\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ]
+}

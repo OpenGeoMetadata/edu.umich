@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7d4460f4-6b2b-4374-b060-1dd765a4cfe8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Europe; drawn by Abigail L. Baldwin.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "7d4460f4-6b2b-4374-b060-1dd765a4cfe8",
+  "solr_geom": "ENVELOPE(-20,70,70,30)",
+  "solr_year_i": "1819",
+  "dc_creator_sm": [
+    "Baldwin, Abigail L."
+  ],
+  "dc_description_s": "1 map: ms., col.; 37 x 46 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003595623/39015091196488\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003595623\"}",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1819"
+  ]
+}

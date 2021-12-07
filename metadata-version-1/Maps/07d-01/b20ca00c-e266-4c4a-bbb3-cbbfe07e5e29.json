@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b20ca00c-e266-4c4a-bbb3-cbbfe07e5e29",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Topographical plan of the river Meganatawan by A. Murray Esqr.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "b20ca00c-e266-4c4a-bbb3-cbbfe07e5e29",
+  "solr_geom": "ENVELOPE(-80.63,-79.28,45.77,45.5)",
+  "solr_year_i": "1853",
+  "dc_creator_sm": [
+    "Geological Survey of Canada."
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. G. Matthews, Lith., Montreal. 1 map on var. sheets; sheets 63 x 95 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004914768/39015091888316\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004914768\"}",
+  "dct_spatial_sm": [
+    "Magnetawan River, Ontario, Canada",
+    "Ontario, Canada"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ]
+}

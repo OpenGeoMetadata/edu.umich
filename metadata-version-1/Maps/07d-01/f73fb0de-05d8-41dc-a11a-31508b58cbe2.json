@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f73fb0de-05d8-41dc-a11a-31508b58cbe2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Carte de Nigritie et Guinee; par P. du Val d'Abbeville, geographe du Roy.",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "f73fb0de-05d8-41dc-a11a-31508b58cbe2",
+  "solr_geom": "ENVELOPE(-18.63,18.85,24.38,-9.03)",
+  "solr_year_i": "1653",
+  "dc_creator_sm": [
+    "Duval, P. (Pierre), 1619-1682."
+  ],
+  "dc_description_s": "Relief shown pictorially. Shows western Africa and the west coast of central Africa south to Luanda, Angola. I. Somer sculp. 1 map: hand col.; 38 x 54 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281438/39015091193493\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281438\"}",
+  "dct_spatial_sm": [
+    "Western Africa"
+  ],
+  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1653"
+  ]
+}

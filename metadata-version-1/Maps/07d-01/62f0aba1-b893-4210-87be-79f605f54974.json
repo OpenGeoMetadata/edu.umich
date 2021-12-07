@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "G 6232 B74 1749 B56|003282759|39015091914179",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Perspectivische vorstellung des berühmten Blocken",
+  "dct_provenance_s": "University of Michigan",
+  "layer_slug_s": "62f0aba1-b893-4210-87be-79f605f54974",
+  "solr_geom": "ENVELOPE(10.3,11.08,52.04,51.65)",
+  "solr_year_i": "1749",
+  "dc_creator_sm": [
+    "Homann Erben (Firm)"
+  ],
+  "dc_description_s": "1 view : hand col. ; 48 x 56 cm.|Relief shown pictorially.|Decorative cartouche held by mythical birds.|Includes index to some physical features and places.|From Homann Heirs, \"Atlas Selectus\".|View has two figures dancing on mountain and witches flying on goats and brooms above the mountain.|According to popular legend Brocken Mountain is the meeting place of the Walpurgis Night or Witches' Sabbath, the \"Brocken scene\" in Goethe's Faust is set here, it is often referred to as Blocksberg.|View of Brocken Mountain from the Northeast looking Southwest.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282759/39015091914179\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282759\"}",
+  "dct_spatial_sm": [
+    "The Brocken,  Saxony-Anhalt,  Germany",
+    "Saxony-Anhalt,  Germany",
+    "Germany"
+  ],
+  "layer_modified_dt": "2021-07-14T22:11:47Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dct_issued_s": "1749"
+}
