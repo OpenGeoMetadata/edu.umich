@@ -1,0 +1,51 @@
+{
+  "dct_title_s": "Deliniatio cartae trium navigationum per Batavos auctore Wilhelmo Bernardo; Cornelius Nicolai excudebat; Baptista a Doetechum sculp. Ao. 1598.",
+  "dct_description_sm": [
+    "1 map; 42 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Barentsz, Willem, approximately 1550-1597.,Duetecum, Baptista.,Claesz, Cornelis, ca. 1546-1609."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Discovery and exploration",
+    "Polar regions",
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1598"
+  ],
+  "gbl_indexYear_im": [
+    "1598"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1598 TO 1598]"
+  ],
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "locn_geometry": "ENVELOPE(-172.08,-172.00,81.25,49.45)",
+  "dcat_bbox": "ENVELOPE(-172.08,-172.00,81.25,49.45)",
+  "dcat_centroid": "65.35,-172.04000000000002",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006858587/39015091199631\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006858587\"}",
+  "id": "5fcb3f01-2d9b-40ea-9306-fdf9e1953f4c",
+  "dct_identifier_sm": [
+    "5fcb3f01-2d9b-40ea-9306-fdf9e1953f4c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:09Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

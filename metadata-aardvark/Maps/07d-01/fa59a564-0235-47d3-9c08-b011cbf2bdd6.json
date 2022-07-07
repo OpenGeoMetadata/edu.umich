@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Panoramic view of the city of Ann Arbor, Washtenaw Co., Michigan 1880; Beck & Pauli Lith.",
+  "dct_description_sm": [
+    "Bird's-eye view. Indexed for points of interest. col. map: photocopy; 37 x 69 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Ruger, A.,Stoner, J. J.,Beck & Pauli."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Aerial views"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "gbl_indexYear_im": [
+    "1880"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-83.76,-83.73,42.29,42.27)",
+  "dcat_bbox": "ENVELOPE(-83.76,-83.73,42.29,42.27)",
+  "dcat_centroid": "42.28,-83.745",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003123965/39015091198278\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003123965\"}",
+  "id": "fa59a564-0235-47d3-9c08-b011cbf2bdd6",
+  "dct_identifier_sm": [
+    "fa59a564-0235-47d3-9c08-b011cbf2bdd6"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:59Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

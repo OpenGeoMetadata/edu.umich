@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Europe; J. & G. Menzies sculpt.",
+  "dct_description_sm": [
+    "Relief shown pictorially. Greenwich prime meridian. Bar scales in British statute miles, Common French leagues and German, Dutch & Polish miles. \"No. 8\" from Thomson's new general atlas. 1 map: hand col.; 43 x 51 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Thomson, John, active 19th century.,J. & G. Menzies."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
+  "gbl_indexYear_im": [
+    "1815"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1815 TO 1815]"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "locn_geometry": "ENVELOPE(-25,65,70,30)",
+  "dcat_bbox": "ENVELOPE(-25,65,70,30)",
+  "dcat_centroid": "50.0,20.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003160170/39015091196470\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003160170\"}",
+  "id": "e324341a-1cf8-4790-996c-5668dd5dbf83",
+  "dct_identifier_sm": [
+    "e324341a-1cf8-4790-996c-5668dd5dbf83"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:24Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

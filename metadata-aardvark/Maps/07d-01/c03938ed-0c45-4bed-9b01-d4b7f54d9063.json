@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Geological map of part of Nortern Alberta and portions of the Districts of Assiniboia and Saskatchewan, Northwest Territory; by J.B. Tyrrell; Geological and Natural History Survey of Canada.",
+  "dct_description_sm": [
+    "Relief shown by contours, hachures and spot heights. Includes cross section. Panel title: Geological map of part of Northern Alberta, N.W.T. To accompany Part E., Annual Report, 1886. No. 3. 1 map: col.; 65 x 72 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Tyrrell, Joseph Burr, 1858-1957.,Geological and Natural History Survey of Canada."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Geological maps"
+  ],
+  "dcat_keyword_sm": [
+    "Geology",
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "dct_spatial_sm": [
+    "Alberta, Canada"
+  ],
+  "locn_geometry": "ENVELOPE(-115,-110,54,51.5)",
+  "dcat_bbox": "ENVELOPE(-115,-110,54,51.5)",
+  "dcat_centroid": "52.75,-112.5",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001291824/39015091911027\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001291824\"}",
+  "id": "c03938ed-0c45-4bed-9b01-d4b7f54d9063",
+  "dct_identifier_sm": [
+    "c03938ed-0c45-4bed-9b01-d4b7f54d9063"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:30Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

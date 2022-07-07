@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Ann Arbor.",
+  "dct_description_sm": [
+    "blue print. 1 map; 84 x 72 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "unknown"
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    "1901"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-83.76,-83.72,42.3,42.26)",
+  "dcat_bbox": "ENVELOPE(-83.76,-83.72,42.3,42.26)",
+  "dcat_centroid": "42.28,-83.74000000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003283813/39015091184831\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003283813\"}",
+  "id": "e8c3955d-4861-4f6a-88c7-d3936229d491",
+  "dct_identifier_sm": [
+    "e8c3955d-4861-4f6a-88c7-d3936229d491"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:54Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

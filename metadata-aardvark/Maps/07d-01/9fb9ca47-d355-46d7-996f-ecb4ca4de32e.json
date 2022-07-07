@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map showing wooded and prairie tracts, etc., in part of northern Alberta ... by J.B. Tyrrell.",
+  "dct_description_sm": [
+    "1 map: col.; 64 x 72 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Tyrrell, Joseph Burr, 1858-1957."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Land use",
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "dct_spatial_sm": [
+    "Alberta, Canada"
+  ],
+  "locn_geometry": "ENVELOPE(-115,-110,54,51.17)",
+  "dcat_bbox": "ENVELOPE(-115,-110,54,51.17)",
+  "dcat_centroid": "52.585,-112.5",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000861739/39015091911035\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000861739\"}",
+  "id": "9fb9ca47-d355-46d7-996f-ecb4ca4de32e",
+  "dct_identifier_sm": [
+    "9fb9ca47-d355-46d7-996f-ecb4ca4de32e"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

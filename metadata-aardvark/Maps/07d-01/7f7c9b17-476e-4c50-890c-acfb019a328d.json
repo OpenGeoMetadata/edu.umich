@@ -1,0 +1,51 @@
+{
+  "dct_title_s": "Detroit in 1898",
+  "dct_description_sm": [
+    "Supplement to the Detroit journal, September 1st, 1898. Donor: 2240 1 print: halftone; image 14 x 111 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Detroit Photographic Co."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Ships",
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "gbl_indexYear_im": [
+    "1898"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-83.09,-83,42.35,42.3)",
+  "dcat_bbox": "ENVELOPE(-83.09,-83,42.35,42.3)",
+  "dcat_centroid": "42.325,-83.045",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002747366/39015091200637\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002747366\"}",
+  "id": "7f7c9b17-476e-4c50-890c-acfb019a328d",
+  "dct_identifier_sm": [
+    "7f7c9b17-476e-4c50-890c-acfb019a328d"
+  ],
+  "gbl_mdModified_dt": "2022-06-24T02:43:11Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Geological Map No. 2; prepared by J. S. Newberry M.D. geologist to the expedition.; Rio Colorado of the West.;Explorations and Surveys, War Department, map no. 2.",
+  "dct_description_sm": [
+    "Relief shown by shading and hachures. \"Explorations and Surveys, War Department, map no. 2. Explored by 1st. Lieut. Joseph C. Ives, Topl. Engrs. under the direction of the Office of Explorations and Surveys, A.A. Humphreys, Capt. Topl. Engrs. in charge, by order of the Hon. John B. Floyd, Secretary of War; drawn by Frhr. F.W. v. Egloffstein, topographer to the expedition.\" Colored to show different geological areas, with key along bottom border. Also shows routes of exploration. 1 map: col.; 38 x 89 cm, folds to 27 x 18cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Newberry, J. S. (John Strong), 1822-1892, geologist.,Ives, J. C., explorer.,Egloffstein, F. W., 1824-1885, topographer.,Humphreys, A. A. (Andrew Atkinson), 1810-1883, director.,Floyd, John B. (John Buchanan), 1806-1863, orderer.,Sartain, Samuel, 1830-1906, ruler.,Courtenay, F., letterer.,Dahl, James, former owner.,United States. Office of Explorations and Surveys, director."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "gbl_indexYear_im": [
+    "1858"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "dct_spatial_sm": [
+    "Colorado River, Texas",
+    "Texas"
+  ],
+  "locn_geometry": "ENVELOPE(-115.55,-108.45,37.25,34.5)",
+  "dcat_bbox": "ENVELOPE(-115.55,-108.45,37.25,34.5)",
+  "dcat_centroid": "35.875,-112.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012536000/39015095391135\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012536000\"}",
+  "id": "458fb173-e5ef-44be-9f5f-364923ee033f",
+  "dct_identifier_sm": [
+    "458fb173-e5ef-44be-9f5f-364923ee033f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:09Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

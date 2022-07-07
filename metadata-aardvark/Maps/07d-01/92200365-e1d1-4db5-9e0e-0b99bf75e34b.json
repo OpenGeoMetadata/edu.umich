@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "A map of Ann Arbor, Washtenaw County, State of Michigan.",
+  "dct_description_sm": [
+    "Cadastral map. Manuscript map of the lower town area showing land divisions. Based on the Stratton map of 1832. 1 map; 40 x 31 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "unknown"
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Real property",
+    "Clark Library Map Collections",
+    "sprint-mar2020"
+  ],
+  "dct_temporal_sm": [
+    "between 1840 and 1849"
+  ],
+  "dct_issued_s": "unknown",
+  "gbl_indexYear_im": [
+    "1840"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1840 TO 1849]"
+  ],
+  "dct_spatial_sm": [
+    "Washtenaw County, Michigan",
+    "Michigan"
+  ],
+  "locn_geometry": "ENVELOPE(-83.7499,-83.74,42.2901,42.29)",
+  "dcat_bbox": "ENVELOPE(-83.7499,-83.74,42.2901,42.29)",
+  "dcat_centroid": "42.29005,-83.74494999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004990035/39015091184609\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004990035\"}",
+  "id": "92200365-e1d1-4db5-9e0e-0b99bf75e34b",
+  "dct_identifier_sm": [
+    "92200365-e1d1-4db5-9e0e-0b99bf75e34b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:59Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Plan of the city intended for the permanent seat of the government of t[he] United States projected agreeable to the direction of the President of the United States, in pursuance of an act of Congress passed the sixteenth day of July, MDCCXC, \"establishing the permanent seat on the bank of the Potowmac\"; by Peter Charles L'Enfant.",
+  "dct_description_sm": [
+    "Includes text, statistical data, and index to points of interest. 1 map: col.; on sheet 75 x 120 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "L'Enfant, Pierre Charles, 1754-1825.,U.S. Coast and Geodetic Survey."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "dct_spatial_sm": [
+    "Washington DC, Washington, D.C."
+  ],
+  "locn_geometry": "ENVELOPE(-76.9999,-77,38.8301,38.83)",
+  "dcat_bbox": "ENVELOPE(-76.9999,-77,38.8301,38.83)",
+  "dcat_centroid": "38.83005,-76.99995",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081883/39015091897853_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081883\"}",
+  "id": "cbe45e1f-d11d-4352-ac09-da2997f8244b",
+  "dct_identifier_sm": [
+    "cbe45e1f-d11d-4352-ac09-da2997f8244b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

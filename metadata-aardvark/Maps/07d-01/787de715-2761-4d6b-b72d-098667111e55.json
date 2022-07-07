@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Map of Texas and the country adjacent compiled in the Bureau of the Corps of Topographical Engineers, from the best authorities, for the State Department, under the direction of Colonel J.J. Abert, Chief of the Corps; by W.H. Emory, 1st Lieut, T.E.",
+  "dct_description_sm": [
+    "Relief shown by hachures. Prime meridians: Greenwich and Washington. Outline color only for Texas. Shows northern Mexico, southwestern U.S., and Texas; includes routes, indian tribes, battle sites, etc. 1 map: hand col.; 35 x 54 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Emory, William H. (William Hemsley), 1811-1887.,United States. Army. Corps of Topographical Engineers."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1844"
+  ],
+  "gbl_indexYear_im": [
+    "1844"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1844 TO 1844]"
+  ],
+  "dct_spatial_sm": [
+    "Texas"
+  ],
+  "locn_geometry": "ENVELOPE(-124,-88,43,22)",
+  "dcat_bbox": "ENVELOPE(-124,-88,43,22)",
+  "dcat_centroid": "32.5,-106.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002568394/39015091186208\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002568394\"}",
+  "id": "787de715-2761-4d6b-b72d-098667111e55",
+  "dct_identifier_sm": [
+    "787de715-2761-4d6b-b72d-098667111e55"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:09Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

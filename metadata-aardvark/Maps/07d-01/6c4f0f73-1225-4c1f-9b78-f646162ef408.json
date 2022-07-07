@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Africa: north eastern sheet.",
+  "dct_description_sm": [
+    "Relief shown by hachures. Inset: Delta of the Nile. Shows northeastern Africa from Tunisia to Somalia. Prime meridian: Washington, D.C. No. 34 in Colton, G.W. \"Atlas of the world\", v.2 1856. 1 map: col.; 36 x 31 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "gbl_indexYear_im": [
+    "1855"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "locn_geometry": "ENVELOPE(17,66,43,-3)",
+  "dcat_bbox": "ENVELOPE(17,66,43,-3)",
+  "dcat_centroid": "20.0,41.5",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280917/39015091916133\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280917\"}",
+  "id": "6c4f0f73-1225-4c1f-9b78-f646162ef408",
+  "dct_identifier_sm": [
+    "6c4f0f73-1225-4c1f-9b78-f646162ef408"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:02Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

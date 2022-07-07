@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Map of Lake Bonneville: (a water body of the Quaternary Period); by G.K. Gilbert; assisted by Gilbert Thompson ... [et al.]; drawn by Gilbert Thompson and J.H. Renshawe.",
+  "dct_description_sm": [
+    "Relief shown by contours and shading. Shows ancient and modern water surfaces. \"Report on Lake Bonneville\"--top right margin. Includes note. \"To accompany: Lake Bonneville / by G.K. Gilbert. (Monographs of the United States Geological Survey; v.1) 1 map: col., mounted on cloth; 69 x 44 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Gilbert, Grove Karl, 1843-1918.,Thompson, G. (Gilbert), 1839-1909.,Geological Survey (U.S.)"
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "gbl_indexYear_im": [
+    "1890"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "dct_spatial_sm": [
+    "Bonneville Salt Flats, Utah"
+  ],
+  "locn_geometry": "ENVELOPE(-114.83,-110.87,42.43,37.5)",
+  "dcat_bbox": "ENVELOPE(-114.83,-110.87,42.43,37.5)",
+  "dcat_centroid": "39.965,-112.85",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003053316/39015091904493\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003053316\"}",
+  "id": "f2085572-c851-417a-9a47-eafdcd76901e",
+  "dct_identifier_sm": [
+    "f2085572-c851-417a-9a47-eafdcd76901e"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:10Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Udrone Irlandiae: in Caterlag Baronia.; Vdrone Irlandiae in Caterlag Baronia.",
+  "dct_description_sm": [
+    "Relief shown pictorially. Includes inscription reading \"Per Gerardum Mercatorem cum priuilegio.\" Title cartouche is surrounded by fruit. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 34 x 27 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Mercator, Gerhard, 1512-1594, cartographer.,Vignaud, Henry, 1830-1922, former owner."
+  ],
+  "schema_provider_s": "University of Michigan",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dct_temporal_sm": [
+    "between 1630 and 1639"
+  ],
+  "gbl_indexYear_im": [
+    "1630"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1630 TO 1639]"
+  ],
+  "dct_spatial_sm": [
+    "Carlow, Leinster, Ireland",
+    "Ireland"
+  ],
+  "locn_geometry": "ENVELOPE(-7.06,-6.73,52.92,52.56)",
+  "dcat_bbox": "ENVELOPE(-7.06,-6.73,52.92,52.56)",
+  "dcat_centroid": "52.74,-6.895",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010349179/39015091191877_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010349179\"}",
+  "id": "43093908-b0d7-4d6a-a358-4b1d8550b40c",
+  "dct_identifier_sm": [
+    "43093908-b0d7-4d6a-a358-4b1d8550b40c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:13Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
