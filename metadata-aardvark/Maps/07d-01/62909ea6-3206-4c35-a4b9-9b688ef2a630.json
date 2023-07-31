@@ -10,15 +10,17 @@
   ],
   "dct_creator_sm": [
     "C. & J. Greenwood",
-    "Neele, Josiah.,Greenwood, C. (Christopher), 1786-1855",
-    "Greenwood, J. (John), 1791-1867."
+    "Greenwood, C. (Christopher), 1786-1855",
+    "Greenwood, J. (John), 1791-1867.",
+    "Neele, Josiah"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1824-1826"
@@ -31,9 +33,12 @@
     "[1824 TO 1826]"
   ],
   "dct_spatial_sm": [
-    "London, England, United Kingdom",
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
+  "locn_geometry": "POLYGON((-0.510375 51.691873, 0.333995 51.691873, 0.333995 51.28676, -0.510375 51.28676, -0.510375 51.691873))",
+  "dcat_bbox": "ENVELOPE(-0.510375,0.333995,51.691873,51.28676)",
+  "dcat_centroid": "51.4893165,-0.08819000000000002",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,7 +46,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -50,6 +58,6 @@
   "dct_identifier_sm": [
     "62909ea6-3206-4c35-a4b9-9b688ef2a630"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:36Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

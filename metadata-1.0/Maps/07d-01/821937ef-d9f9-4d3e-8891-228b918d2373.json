@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Katō, Hideburō."
   ],
-  "dc_description_s": "Includes legend. Copperplate print. In Japanese. Relief shown by hachures. Oriented with north to the left. 1 map: col.; 46 x 35 cm,folded to 16 x 9 cm., in envelope 30 x 22 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes legend. Copperplate print. In Japanese. Relief shown by hachures. Oriented with north to the left. 1 map: col.; 46 x 35 cm,folded to 16 x 9 cm., in envelope 30 x 22 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001106242/39015091921646_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001106242\"}",
   "dct_spatial_sm": [
-    "Osaka, Ōsaka, Japan",
+    "Japan-- Ōsaka--Osaka",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "layer_modified_dt": "2023-02-03T21:20:16Z",
   "dc_language_sm": [
     "eng"
   ],

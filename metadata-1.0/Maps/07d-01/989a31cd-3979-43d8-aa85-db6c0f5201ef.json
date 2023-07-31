@@ -5,11 +5,14 @@
   "dc_title_s": "L'Amerique septentrionale: dressée sur les observations de mrs. de L'Academie royale des sciences & quelques autres & sur les memoires les plus recens.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "989a31cd-3979-43d8-aa85-db6c0f5201ef",
+  "solr_geom": "ENVELOPE(-111.72,-60.04,49.53,7.49)",
   "solr_year_i": "1730",
   "dc_creator_sm": [
-    "L'Isle, Guillaume de, 1675-1726.",
-    "Cóvens, Jean.,Mortier",
-    "Corneille.,Cóvens et Mortier."
+    "Corneille",
+    "Cóvens, Jean",
+    "Cóvens et Mortier.",
+    "L'Isle, Guillaume de, 1675-1726",
+    "Mortier"
   ],
   "dc_description_s": "Par G. de L'Isle. |Title above margin: America Septentrionalis in suas praecipuas partes divisa, ad usum serenissimi Burgundiae ducis |Relief shown pictorially. Includes decorative cartouche. Shows political boundaries. Shows routes of various explorers. \"No. 98\" in manuscript in upper right-hand corner. 1 map: hand col.; 43 x 58 cm. on sheet 55 x 64 cm.",
   "dc_format_s": "JPEG",
@@ -17,8 +20,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:44:18Z",
+  "layer_modified_dt": "2023-02-03T21:20:20Z",
   "dc_language_sm": [
     "eng"
   ],

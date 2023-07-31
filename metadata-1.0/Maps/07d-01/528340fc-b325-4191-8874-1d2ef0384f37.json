@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-88.75,-84,47.77,41)",
   "solr_year_i": "1857",
   "dc_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
-  "dc_description_s": "From a pamphlet entitled: 560,000 acres pine lands in the state of Michigan. Detroit 1857. Shows distance from Chicago to cities on Michigans west coast by steamboat. Shows major cities and towns, railroads, and counties. 1 map: encapsulated in Mylar with barrier sheet; 30 x 32 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "From a pamphlet entitled: 560,000 acres pine lands in the state of Michigan. Detroit 1857. Shows distance from Chicago to cities on Michigans west coast by steamboat. Shows major cities and towns, railroads, and counties. 1 map: encapsulated in Mylar with barrier sheet; 30 x 32 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:38Z",
+  "layer_modified_dt": "2023-02-03T21:21:14Z",
   "dc_language_sm": [
     "eng"
   ],

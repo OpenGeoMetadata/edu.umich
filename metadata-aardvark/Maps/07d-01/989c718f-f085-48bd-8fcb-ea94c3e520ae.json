@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Chicago harbor & bar, Illinois from survey made between March 29th & April 9th 1856 under the direction of Brevet Lieut. Col. J.D. Graham, Major U.S. Top. Engineers. Superintending Engineer of Lake Michigan Works.",
   "dct_description_sm": [
-    "The soundings are in feet & tenths of a foot. Includes sailings directions and description of the buildings at old Fort Dearborn. \"Map G. No. 38.\" 1 map; 58 x 77 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "The soundings are in feet & tenths of a foot. Includes sailings directions and description of the buildings at old Fort Dearborn. \"Map G. No. 38.\" 1 map; 58 x 77 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Graham, J. D. (James Duncan), 1799-1865.,United States. Army. Corps of Topographical Engineers."
+    "Graham, J. D. (James Duncan), 1799-1865",
+    "United States. Army. Corps of Topographical Engineers"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -16,7 +17,10 @@
   "dcat_keyword_sm": [
     "Harbors",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "approximately 1856"
@@ -29,17 +33,23 @@
     "[1856 TO 1856]"
   ],
   "dct_spatial_sm": [
-    "Chicago, Illinois",
+    "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.8299,-87.83,41.8801,41.88)",
-  "dcat_bbox": "ENVELOPE(-87.8299,-87.83,41.8801,41.88)",
-  "dcat_centroid": "41.88005,-87.82995",
+  "locn_geometry": "POLYGON((-87.63124 41.898687, -87.598281 41.898687, -87.598281 41.876706, -87.63124 41.876706, -87.63124 41.898687))",
+  "dcat_bbox": "ENVELOPE(-87.63124,-87.598281,41.898687,41.876706)",
+  "dcat_centroid": "41.887696500000004,-87.6147605",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -48,6 +58,6 @@
   "dct_identifier_sm": [
     "989c718f-f085-48bd-8fcb-ea94c3e520ae"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:37Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

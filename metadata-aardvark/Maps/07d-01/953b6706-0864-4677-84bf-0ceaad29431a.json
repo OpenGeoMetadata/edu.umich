@@ -1,20 +1,23 @@
 {
   "dct_title_s": "Le Pais de Caux.; Le Pais de Cavx",
   "dct_description_sm": [
-    "Relief shown pictorially. Includes inscription under the title cartouche \"Et se vendent a Paris ches Melchior Tavernier aupres du palais.\" (And sold in Paris at the house of Melchoir of Tavernier located close to the Palace.) Illustrations of ships on the oceans and the French coat of arms next to the title cartouche. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Includes inscription under the title cartouche \"Et se vendent a Paris ches Melchior Tavernier aupres du palais.\" (And sold in Paris at the house of Melchoir of Tavernier located close to the Palace.) Illustrations of ships on the oceans and the French coat of arms next to the title cartouche. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 48 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Hondius, Hendrik, 1597-1651.,Vignaud, Henry, 1830-1922, former owner. Composite Atlas of France.,Tavernier, Melchior, 1594-1665, seller."
+    "Hondius, Hendrik, 1597-1651",
+    "Tavernier, Melchior, 1594-1665, seller.",
+    "Vignaud, Henry, 1830-1922"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -26,10 +29,10 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Seine-Maritime, Normandy, France",
+    "France-- Normandy--Seine-Maritime",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(-0.01,2.14,50.07,49)",
+  "locn_geometry": "POLYGON((-0.01 50.07, 2.14 50.07, 2.14 49, -0.01 49, -0.01 50.07))",
   "dcat_bbox": "ENVELOPE(-0.01,2.14,50.07,49)",
   "dcat_centroid": "49.535,1.0650000000000002",
   "pcdm_memberOf_sm": [
@@ -38,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004076019/39015091193733_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004076019\"}",
@@ -45,6 +54,6 @@
   "dct_identifier_sm": [
     "953b6706-0864-4677-84bf-0ceaad29431a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

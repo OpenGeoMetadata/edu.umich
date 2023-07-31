@@ -5,17 +5,16 @@
   "dc_title_s": "The general planting scheme of Nichols Arboretum / Dep’t of Landscape Design, University of Michigan.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "e4f966d4-5886-4adb-a6a6-5b49d1eab648",
-  "solr_geom": "ENVELOPE(-83.73,-83.72,42.281,42.28)",
+  "solr_geom": "ENVELOPE(-83.741258,-83.699455,42.294627,42.26948)",
   "solr_year_i": "1927",
   "dc_description_s": "1 map ; 39 x 31 cm|Relief shown by contours.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003501158/39015095417153\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003501158\"}",
   "dct_spatial_sm": [
-    "Nichols Arboretum, University of Michigan, Ann Arbor, Michigan",
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:21Z",
+  "layer_modified_dt": "2023-06-23T18:47:36Z",
   "dc_language_sm": [
     "eng"
   ],

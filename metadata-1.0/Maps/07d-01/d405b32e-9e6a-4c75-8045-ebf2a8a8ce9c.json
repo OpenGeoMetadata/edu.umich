@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-91.88,-52.62,69.98,42.67)",
   "solr_year_i": "1725",
   "dc_creator_sm": [
-    "Jaillot, Alexis Hubert, 1632?-1712.,Ottens, R. (Reinier), 1698-1750.,Ottens, J. (Josua), 1704-1765."
+    "Jaillot, Alexis Hubert, 1632?-1712",
+    "Ottens, J. (Josua), 1704-1765",
+    "Ottens, R. (Reinier), 1698-1750"
   ],
-  "dc_description_s": "At top of map: Nova Canadae sive novae Franciae in America Septentrionali tabula, ad usum serenissimi Burgundiae Ducis. See Phillips no. 522 and Koeman vol. 3, p. 89, 90 Ott. 2. 1 map: col.; 48 x 61 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "At top of map: Nova Canadae sive novae Franciae in America Septentrionali tabula, ad usum serenissimi Burgundiae Ducis. See Phillips no. 522 and Koeman vol. 3, p. 89, 90 Ott. 2. 1 map: col.; 48 x 61 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284858/39015091186018\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284858\"}",
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:41Z",
+  "layer_modified_dt": "2023-02-03T21:20:25Z",
   "dc_language_sm": [
     "eng"
   ],

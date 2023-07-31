@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Chicago, West Michigan Railway.: Detroit, Grand Rapids & Western Railroad and Milwaukee Car Ferry.",
   "dct_description_sm": [
-    "Includes connecting railroads and names of many small villages. 1 map 9 1/2 x 7 1/2 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes connecting railroads and names of many small villages. 1 map 9 1/2 x 7 1/2 in."
   ],
   "dct_language_sm": [
     "eng"
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "ca. 1898?"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-87.95,-82.68,46.13,41.25)",
+  "locn_geometry": "POLYGON((-87.95 46.13, -82.68 46.13, -82.68 41.25, -87.95 41.25, -87.95 46.13))",
   "dcat_bbox": "ENVELOPE(-87.95,-82.68,46.13,41.25)",
   "dcat_centroid": "43.69,-85.315",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004050482/39015091881113\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004050482\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "3ab8dc0b-9120-4d64-8cb5-813b02e079d9"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

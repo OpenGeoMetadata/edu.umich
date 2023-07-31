@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Map of the Western Territory &c",
   "dct_description_sm": [
-    "Relief shown by hachures and pictorially. Shows location of Indian tribes. Map covers area east of the Rockies, i.e., the Great Plains. 1 map: hand col.; 43 x 46 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures and pictorially. Shows location of Indian tribes. Map covers area east of the Rockies, i.e., the Great Plains. 1 map: hand col.; 43 x 46 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "American Indians",
     "Indian Territory maps",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1830 and 1839"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-107,-91,46,34)",
+  "locn_geometry": "POLYGON((-107 46, -91 46, -91 34, -107 34, -107 46))",
   "dcat_bbox": "ENVELOPE(-107,-91,46,34)",
   "dcat_centroid": "40.0,-99.0",
   "pcdm_memberOf_sm": [
@@ -40,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002906404/39015091905219\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002906404\"}",
@@ -47,6 +54,6 @@
   "dct_identifier_sm": [
     "17428fe2-d6d7-4d56-a0f0-92f4272b81d2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:08Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

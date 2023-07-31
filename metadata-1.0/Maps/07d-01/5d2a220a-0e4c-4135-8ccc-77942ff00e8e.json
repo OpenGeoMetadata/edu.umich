@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Sagano, Hikotarō."
   ],
-  "dc_description_s": "Copperplate print. In Japanese. North oriented toward upper right. Relief shown by hachures. Includes brief explanatory text, address chart, guide for tourists, time-table and legend in Japanese and English. Includes inset map of Yokohama. Views of tourist attractions in borders. 1 map: col.; 45 x 67 cm., folded in cover 18 x 11 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Copperplate print. In Japanese. North oriented toward upper right. Relief shown by hachures. Includes brief explanatory text, address chart, guide for tourists, time-table and legend in Japanese and English. Includes inset map of Yokohama. Views of tourist attractions in borders. 1 map: col.; 45 x 67 cm., folded in cover 18 x 11 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887766/39015091920176_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887766\"}",
   "dct_spatial_sm": [
-    "Tokyo, Tokyo, Japan",
+    "Japan-- Tokyo--Tokyo",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "layer_modified_dt": "2023-02-03T21:22:15Z",
   "dc_language_sm": [
     "eng"
   ],

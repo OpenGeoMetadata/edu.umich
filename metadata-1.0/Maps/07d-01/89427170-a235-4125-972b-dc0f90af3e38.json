@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-82.71,-82.58,42.61,42.48)",
   "solr_year_i": "1854",
   "dc_creator_sm": [
-    "Chillas, David.",
-    "Gunnison, J. W. (John Williams), 1812-1853.",
+    "Chillas, David",
+    "Gunnison, J. W. (John Williams), 1812-1853",
     "Hearding, W. N."
   ],
   "dc_description_s": "1 map ; 393 x 484 mm.|In: Message from the President of the United States to the Two Houses of Congress at the Commencement of the Second Session of the Thirty-Third Congress. Part 3.|Map 25 to illustrations accompanying the Report of the Colonel of Topographical Engineers.|\"Sen. Ex. Doc. No. 1, 1st. session, 33rd Congress.\"",
@@ -18,7 +18,7 @@
   "dct_spatial_sm": [
     "South Channel Saint Clair River"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:20Z",
+  "layer_modified_dt": "2023-02-03T21:24:19Z",
   "dc_language_sm": [
     "eng"
   ],

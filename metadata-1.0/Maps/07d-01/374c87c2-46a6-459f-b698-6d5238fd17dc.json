@@ -5,6 +5,7 @@
   "dc_title_s": "Plan of the Fort at Detroit 1760",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "374c87c2-46a6-459f-b698-6d5238fd17dc",
+  "solr_geom": "ENVELOPE(-83.287959,-82.910439,42.450239,42.255192)",
   "solr_year_i": "1974",
   "dc_creator_sm": [
     "Historic Memorials Society (Detroit, Mich.)"
@@ -13,11 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003928978/39015060935940\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003928978\"}",
   "dct_spatial_sm": [
-    "Detroit,  Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:23:38Z",
   "dc_language_sm": [
     "eng"
   ],

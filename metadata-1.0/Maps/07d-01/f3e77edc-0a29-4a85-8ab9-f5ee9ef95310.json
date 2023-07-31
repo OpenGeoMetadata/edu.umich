@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-6.58,2.7,56.38,49.4)",
   "solr_year_i": "1773",
   "dc_creator_sm": [
-    "Rocque, John, -1762, cartographer.,Sayer, Robert, 1725-1794, publisher."
+    "Rocque, John, -1762",
+    "Sayer, Robert, 1725-1794"
   ],
-  "dc_description_s": "Dated from the earliest atlas in which the map was issued. Inset map showing the Isles of Scilly. Title cartouche depicts Britannia, angels, a lion and symbols of the arts and sciences; sea decorated with ships. Shows boundaries, roads with distances, rivers, woods and settlements. Relief shown pictorially. London meridian. 1 map: 4 plates; 118 x 99 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Dated from the earliest atlas in which the map was issued. Inset map showing the Isles of Scilly. Title cartouche depicts Britannia, angels, a lion and symbols of the arts and sciences; sea decorated with ships. Shows boundaries, roads with distances, rivers, woods and settlements. Relief shown pictorially. London meridian. 1 map: 4 plates; 118 x 99 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003575846/39015091197973\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003575846\"}",
   "dct_spatial_sm": [
-    "United Kingdom"
+    "England",
+    "Wales"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:35Z",
+  "layer_modified_dt": "2023-02-03T21:18:25Z",
   "dc_language_sm": [
     "eng"
   ],

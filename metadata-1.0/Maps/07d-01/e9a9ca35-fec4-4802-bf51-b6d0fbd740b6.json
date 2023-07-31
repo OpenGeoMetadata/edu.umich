@@ -5,6 +5,7 @@
   "dc_title_s": "National Parks of the United States and Southern Canada",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "e9a9ca35-fec4-4802-bf51-b6d0fbd740b6",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1950",
   "dc_description_s": "1 map : col. ; 35 x 54 cm.|Includes index to national parks.|Activities at selected parks shown pictorially.|Holiday magazine logo at top of index.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:22:35Z",
   "dc_language_sm": [
     "eng"
   ],

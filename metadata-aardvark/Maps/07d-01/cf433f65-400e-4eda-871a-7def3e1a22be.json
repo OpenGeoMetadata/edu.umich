@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Niigata-shi jissokuzu fu minatoguchi enkaku hensen shinsenzu; hensansha Kushitani Kumimatsu.",
   "dct_description_sm": [
-    "Title on map: Niigata-shi jissokuzu. Cover title. Lithograph. In Japanese. Oriented with north to the upper right. Relief shown by hachures. Includes preface, 7 insets showing depth of the harbor and the physical development of the harbor from Genroku 16 [1704] to Meiji 17 [1885], chart of flags indicating sounding depths, and legend. Includes afterword on cover. Includes text explaining survey process completed in 1891. 1 map: col.; 85 x 57 cm., folded in cover 22 x 16 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Title on map: Niigata-shi jissokuzu. Cover title. Lithograph. In Japanese. Oriented with north to the upper right. Relief shown by hachures. Includes preface, 7 insets showing depth of the harbor and the physical development of the harbor from Genroku 16 [1704] to Meiji 17 [1885], chart of flags indicating sounding depths, and legend. Includes afterword on cover. Includes text explaining survey process completed in 1891. 1 map: col.; 85 x 57 cm., folded in cover 22 x 16 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "Meiji 32 1899"
@@ -26,10 +27,10 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Nigata, Niigata, Japan",
+    "Japan-- Niigata--Nigata",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(139,139.08,37.95,37.88)",
+  "locn_geometry": "POLYGON((139 37.95, 139.08 37.95, 139.08 37.88, 139 37.88, 139 37.95))",
   "dcat_bbox": "ENVELOPE(139,139.08,37.95,37.88)",
   "dcat_centroid": "37.915000000000006,139.04000000000002",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887582/39015091921653_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887582\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "cf433f65-400e-4eda-871a-7def3e1a22be"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

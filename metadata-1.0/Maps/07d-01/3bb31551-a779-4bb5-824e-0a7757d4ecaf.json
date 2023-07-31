@@ -8,16 +8,19 @@
   "solr_geom": "ENVELOPE(-84.37,-83.37,42.43,41.7)",
   "solr_year_i": "1864",
   "dc_creator_sm": [
-    "Bechler, Gustavus R.,Wenig, E.,Geil, Samuel.,Worley & Bracher.,F. Bourquin & Co."
+    "Bechler, Gustavus R.",
+    "F. Bourquin & Co.",
+    "Geil, Samuel",
+    "Wenig, E.",
+    "Worley & Bracher"
   ],
-  "dc_description_s": "Shows property ownership. Insets: Ann Arbor--Ypsilanti--Saline--Chelsea--Tecumseh--Clinton--Adrian--Deerfield--Palmyra--Hudson--Addison--Ridgeway--Fairfield--Medina--Canandaigua--Morenci--Riga--Blis sfield and Lyons--Rollin--Manchester--Macon--Hudson (Washtenaw County)--Dexter. Includes county and city business directories, and table of distances; 25 vignettes. 1 map: col.; 143 x 145 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows property ownership. Insets: Ann Arbor--Ypsilanti--Saline--Chelsea--Tecumseh--Clinton--Adrian--Deerfield--Palmyra--Hudson--Addison--Ridgeway--Fairfield--Medina--Canandaigua--Morenci--Riga--Blis sfield and Lyons--Rollin--Manchester--Macon--Hudson (Washtenaw County)--Dexter. Includes county and city business directories, and table of distances; 25 vignettes. 1 map: col.; 143 x 145 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002745877/39015091197502\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002745877\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:45Z",
+  "layer_modified_dt": "2023-02-03T21:21:32Z",
   "dc_language_sm": [
     "eng"
   ],

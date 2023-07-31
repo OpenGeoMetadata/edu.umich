@@ -24,7 +24,8 @@
   ],
   "dcat_keyword_sm": [
     "Exploration Africa Maps",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -39,6 +40,9 @@
   "dct_spatial_sm": [
     "Africa"
   ],
+  "locn_geometry": "POLYGON((-19.27 37.61, 52.14 37.61, 52.14 -36.43, -19.27 -36.43, -19.27 37.61))",
+  "dcat_bbox": "ENVELOPE(-19.27,52.14,37.61,-36.43)",
+  "dcat_centroid": "0.5899999999999999,16.435000000000002",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,7 +50,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -57,6 +64,6 @@
     "003285240",
     "39015091883549"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:10Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

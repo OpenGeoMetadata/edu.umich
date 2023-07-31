@@ -5,6 +5,7 @@
   "dc_title_s": "Land of Lore and Legend",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "68a943a6-e332-4e9e-b3dd-9cbc34453f34",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1946",
   "dc_description_s": "1 map : col. ; 35 x 55 cm.|Extracted from Holiday magazine, September, 1946.|On verso: Descriptive information about the map and its creator.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:20:21Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-126,-123.5,49.5,48.33)",
   "solr_year_i": "1897",
   "dc_creator_sm": [
-    "British Columbia. Department of Lands and Works.,Martin, G.B."
+    "British Columbia. Department of Lands and Works",
+    "Martin, G.B."
   ],
-  "dc_description_s": "MiU copies annotated to show land ownership. 1 map: col., mounted on cloth; 61 x 86 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "MiU copies annotated to show land ownership. 1 map: col., mounted on cloth; 61 x 86 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887544/39015091911134\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887544\"}",
   "dct_spatial_sm": [
-    "Vancouver Island, British Columbia, Canada"
+    "British Columbia-- Canada--Vancouver Island"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:48Z",
   "dc_language_sm": [
     "eng"
   ],

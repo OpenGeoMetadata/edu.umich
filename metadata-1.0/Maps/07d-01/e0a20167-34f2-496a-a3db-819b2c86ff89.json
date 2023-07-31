@@ -5,22 +5,22 @@
   "dc_title_s": "Ager Parisiensis vulgo l'Isle de France",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "e0a20167-34f2-496a-a3db-819b2c86ff89",
+  "solr_geom": "ENVELOPE(1.4462,3.5592,49.2414,48.1201)",
   "solr_year_i": "1636",
   "dc_creator_sm": [
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "La Guillotiere, François de.",
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "dc_description_s": "1 map ; 45 x 55 cm.|Relief shown pictorially.|Decorative title cartouche depicting two cherubs presenting the escutcheon of France.|This state was published in atlases by Jan Jansson in 1636, 1637, and 1680.|From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007934301/39015091191182_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007934301\"}",
   "dct_spatial_sm": [
-    " Île-de-France,  France",
-    "Île-de-France,  France",
+    "France--Île-de-France",
+    " France--Île-de-France",
     "France"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:59Z",
+  "layer_modified_dt": "2023-02-03T21:16:14Z",
   "dc_language_sm": [
     "lat"
   ],

@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(5.66,7.21,48.7,47.76)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Vignaud, Henry, 1830-1922, former owner, Composite Atlas of France."
+    "Vignaud, Henry, 1830-1922"
   ],
-  "dc_description_s": "Relief shown pictorially. Title cartouche includes a face and vines of fruit. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Title cartouche includes a face and vines of fruit. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 49 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012525574/39015091193774_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012525574\"}",
   "dct_spatial_sm": [
-    "Lorraine, FR.B2, France",
+    "FR.B2-- France--Lorraine",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "layer_modified_dt": "2023-02-03T21:20:36Z",
   "dc_language_sm": [
     "eng"
   ],

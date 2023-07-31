@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Pettibone, S."
   ],
-  "dc_description_s": "Relief shown by hachures. Map shows six city wards, township sections, lot boundaries, buildings and other cultural features, and sections of land annexed by the city. Chronological list of additions provided. 1 map: photostatic copy; 102 x 82 cm. on 4 sheets 65 x 46 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Map shows six city wards, township sections, lot boundaries, buildings and other cultural features, and sections of land annexed by the city. Chronological list of additions provided. 1 map: photostatic copy; 102 x 82 cm. on 4 sheets 65 x 46 cm. or smaller.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000524468/39015091198187\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000524468\"}",
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:31Z",
+  "layer_modified_dt": "2023-02-03T21:17:33Z",
   "dc_language_sm": [
     "eng"
   ],

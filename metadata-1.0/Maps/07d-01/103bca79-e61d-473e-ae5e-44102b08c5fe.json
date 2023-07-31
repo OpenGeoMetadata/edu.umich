@@ -8,18 +8,18 @@
   "solr_geom": "ENVELOPE(4.95,6.7,52.01,51.56)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630.",
-    "Hondius, Hendrik, 1597-1651, cartographer.",
+    "Hondius, Hendrik, 1597-1651",
+    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "dc_description_s": "2 maps on 1 sheet ; sheet 45 x 57 cm|Relief shown pictorially.|North oriented to the top on top map; north oriented to the top right corner on bottom map.|Shows the northern Rhine from Gorinchem, Netherlands to Wesel, Germany.|Copy differs from #55530 in that the wording of publishing credit is different.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282761/39015091197924_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282761\"}",
   "dct_spatial_sm": [
-    "Rhine River, Germany",
+    "Germany--Rhine River",
     "Germany"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-03T21:18:05Z",
   "dc_language_sm": [
     "lat"
   ],

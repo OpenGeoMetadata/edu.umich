@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-180,180,90,-90)",
   "solr_year_i": "1660",
   "dc_creator_sm": [
-    "Sanson, Nicolas, 1600-1667.,Somer, J."
+    "Sanson, Nicolas, 1600-1667",
+    "Somer, J."
   ],
-  "dc_description_s": "Shows eastern and western hemispheres. From his Cartes Générales de toutes les parties du monde...Paris, l'autheur; P. Mariette, 1658 [1660?] (Philips 4260) Jean Somer Pruthenus sculpsit. 1 map: col.; 35 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows eastern and western hemispheres. From his Cartes Générales de toutes les parties du monde...Paris, l'autheur; P. Mariette, 1658 [1660?] (Philips 4260) Jean Somer Pruthenus sculpsit. 1 map: col.; 35 x 52 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004154474/39015091197791\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004154474\"}",
   "dct_spatial_sm": [
-    "Earth"
+    "World"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:38Z",
+  "layer_modified_dt": "2023-06-23T22:01:03Z",
   "dc_language_sm": [
     "eng"
   ],

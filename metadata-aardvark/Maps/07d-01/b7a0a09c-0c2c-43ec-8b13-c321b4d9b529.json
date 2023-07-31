@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Railroad map of Michigan prepared for the Commissioner of Railroads by O.W. Gray & Son.",
   "dct_description_sm": [
-    "Entered according to act of Congress in the year 1874 by G.W. & C.B. Colton & Co. ... Appears in Michigan Railroad Commission. Fourth annual report. 1876, and in McCracken, S. B. The state of Michigan. Lansing, 1876. Includes inset of \"part of Michigan\" (western Upper Peninsula). 1 map: hand col.; 58 x 40 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Entered according to act of Congress in the year 1874 by G.W. & C.B. Colton & Co. ... Appears in Michigan Railroad Commission. Fourth annual report. 1876, and in McCracken, S. B. The state of Michigan. Lansing, 1876. Includes inset of \"part of Michigan\" (western Upper Peninsula). 1 map: hand col.; 58 x 40 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "O.W. Gray & Son.,Michigan. Department of Commissioner of Railroads.,G.W. & C.B. Colton & Co."
+    "G.W. & C.B. Colton & Co.",
+    "Michigan. Department of Commissioner of Railroads",
+    "O.W. Gray & Son"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +20,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1876"
@@ -32,7 +35,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.42,-82.33,47.5,41.5)",
+  "locn_geometry": "POLYGON((-90.42 47.5, -82.33 47.5, -82.33 41.5, -90.42 41.5, -90.42 47.5))",
   "dcat_bbox": "ENVELOPE(-90.42,-82.33,47.5,41.5)",
   "dcat_centroid": "44.5,-86.375",
   "pcdm_memberOf_sm": [
@@ -41,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002874361/39015091881063\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002874361\"}",
@@ -48,6 +57,6 @@
   "dct_identifier_sm": [
     "b7a0a09c-0c2c-43ec-8b13-c321b4d9b529"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:51Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

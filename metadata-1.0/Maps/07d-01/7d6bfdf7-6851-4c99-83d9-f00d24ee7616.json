@@ -5,11 +5,12 @@
   "dc_title_s": "Kawachi saiken zu (河内細見圖)",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "7d6bfdf7-6851-4c99-83d9-f00d24ee7616",
+  "solr_geom": "ENVELOPE(139.066,139.4585,35.6729,35.4745)",
   "solr_year_i": "1776",
   "dc_creator_sm": [
-    "Takagi, Masatsune, active 18th century.",
     "Itamiya, Shinhichi.",
-    "Kawachiya, Kihē."
+    "Kawachiya, Kihē.",
+    "Takagi, Masatsune, active 18th century."
   ],
   "dc_description_s": "1 map ; 55 x 128 cm., folded in covers 28 x 19 cm.|Wood block print.|Oriented with north to the left.|Relief shown pictorially.|Pictorial map.|Includes lists of mausolea, geographical names, and points of interest.",
   "dc_format_s": "JPEG",
@@ -17,8 +18,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-28T04:15:07Z",
   "dc_language_sm": [
     "jpn"
   ],

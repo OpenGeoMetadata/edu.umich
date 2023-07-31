@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Map of the Oregon Territory; by the U.S. Ex. Ex., Charles Wilkes, Esqr., Commander, 1841.",
   "dct_description_sm": [
-    "Relief shown by hachures. Inset: Columbia River, reduced from a survey / made by the U.S. Ex. Ex., 1841. -- Scale ca. 1:700,000. J.H Young & Sherman & Smith, [1845]. 1 map; 58 x 87 cm., folded to 9 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Inset: Columbia River, reduced from a survey / made by the U.S. Ex. Ex., 1841. -- Scale ca. 1:700,000. J.H Young & Sherman & Smith, [1845]. 1 map; 58 x 87 cm., folded to 9 x 14 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Wilkes, Charles, 1798-1877.,Young, J. H. (James Hamilton),Sherman & Smith."
+    "Sherman & Smith",
+    "Wilkes, Charles, 1798-1877",
+    "Young, J. H. (James Hamilton)"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +17,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1841"
@@ -28,9 +31,9 @@
     "[1841 TO 1841]"
   ],
   "dct_spatial_sm": [
-    "Pacific Northwest, Oregon"
+    "Oregon--Pacific Northwest"
   ],
-  "locn_geometry": "ENVELOPE(-134,-102,55,39)",
+  "locn_geometry": "POLYGON((-134 55, -102 55, -102 39, -134 39, -134 55))",
   "dcat_bbox": "ENVELOPE(-134,-102,55,39)",
   "dcat_centroid": "47.0,-118.0",
   "pcdm_memberOf_sm": [
@@ -39,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005375932/39015095388644\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005375932\"}",
@@ -46,6 +55,6 @@
   "dct_identifier_sm": [
     "ee3aaab3-62df-4008-a369-d87e62875ac2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:15Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

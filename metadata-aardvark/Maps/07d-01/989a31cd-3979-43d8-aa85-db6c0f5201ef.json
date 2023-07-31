@@ -9,9 +9,11 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "L'Isle, Guillaume de, 1675-1726.",
-    "Cóvens, Jean.,Mortier",
-    "Corneille.,Cóvens et Mortier."
+    "Corneille",
+    "Cóvens, Jean",
+    "Cóvens et Mortier.",
+    "L'Isle, Guillaume de, 1675-1726",
+    "Mortier"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -21,7 +23,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "Approximatey 1730"
@@ -36,6 +40,9 @@
   "dct_spatial_sm": [
     "North America"
   ],
+  "locn_geometry": "POLYGON((-111.72 49.53, -60.04 49.53, -60.04 7.49, -111.72 7.49, -111.72 49.53))",
+  "dcat_bbox": "ENVELOPE(-111.72,-60.04,49.53,7.49)",
+  "dcat_centroid": "28.51,-85.88",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,7 +50,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -52,6 +62,6 @@
   "dct_identifier_sm": [
     "989a31cd-3979-43d8-aa85-db6c0f5201ef"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:15Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Medtman, Matthias van."
   ],
-  "dc_description_s": "Relief shown by hachures. 1 map: dissected and mounted on linen; 114 x 118 cm., folding to 20 x 17 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. 1 map: dissected and mounted on linen; 114 x 118 cm., folding to 20 x 17 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005842590/39015049960324_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005842590\"}",
   "dct_spatial_sm": [
     "Belgium",
     "Belgium"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "layer_modified_dt": "2023-02-03T21:17:19Z",
   "dc_language_sm": [
     "eng"
   ],

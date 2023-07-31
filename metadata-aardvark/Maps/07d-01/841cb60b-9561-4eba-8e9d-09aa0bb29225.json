@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Detroit 1818: historically correct in every point of detail.; Detroit 1908: same area as view above.",
   "dct_description_sm": [
-    "Bird's-eye view of Detroit in 1818 and 1908. 2 picture maps mounted on 1 sheet; 54 x 39 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Bird's-eye view of Detroit in 1818 and 1908. 2 picture maps mounted on 1 sheet; 54 x 39 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -17,7 +17,8 @@
     "Aerial views"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -29,10 +30,10 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.06,-83.04,42.34,42.33)",
+  "locn_geometry": "POLYGON((-83.06 42.34, -83.04 42.34, -83.04 42.33, -83.06 42.33, -83.06 42.34))",
   "dcat_bbox": "ENVELOPE(-83.06,-83.04,42.34,42.33)",
   "dcat_centroid": "42.335,-83.05000000000001",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282856/39015049936886\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282856\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "841cb60b-9561-4eba-8e9d-09aa0bb29225"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

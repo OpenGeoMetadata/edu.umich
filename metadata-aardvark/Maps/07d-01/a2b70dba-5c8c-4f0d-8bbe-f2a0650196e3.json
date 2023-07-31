@@ -1,7 +1,7 @@
 {
   "dct_title_s": "County of Washtenaw town 3 south range 5 east.",
   "dct_description_sm": [
-    "Map shows Lodi Township, Michigan. Property owners and location of map are handwritten on a printed template. \"Presented to the Washtenaw Co. Pioneer Society by L.G. Risdon, May 20th 1885\" written on verso of map. \"Vacant State Swamp Land School\" printed beneath map. 1 map; 31 x 31 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Map shows Lodi Township, Michigan. Property owners and location of map are handwritten on a printed template. \"Presented to the Washtenaw Co. Pioneer Society by L.G. Risdon, May 20th 1885\" written on verso of map. \"Vacant State Swamp Land School\" printed beneath map. 1 map; 31 x 31 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -29,10 +30,10 @@
     "[1885 TO 1885]"
   ],
   "dct_spatial_sm": [
-    "Lodi Township, Michigan",
+    "Michigan--Lodi Township",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.9,-83.78,42.26,42.17)",
+  "locn_geometry": "POLYGON((-83.9 42.26, -83.78 42.26, -83.78 42.17, -83.9 42.17, -83.9 42.26))",
   "dcat_bbox": "ENVELOPE(-83.9,-83.78,42.26,42.17)",
   "dcat_centroid": "42.215,-83.84",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013516172/39015091197460_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013516172\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "a2b70dba-5c8c-4f0d-8bbe-f2a0650196e3"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

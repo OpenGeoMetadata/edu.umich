@@ -1,13 +1,13 @@
 {
   "dct_title_s": "New plan of London.",
   "dct_description_sm": [
-    "Includes index to railway stations, buildings, parks and places of amusement. 1 map: col.; 49 x 67 cm., folded in cover 15 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes index to railway stations, buildings, parks and places of amusement. 1 map: col.; 49 x 67 cm., folded in cover 15 x 10 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "W.H. Smith & Son."
+    "W.H. Smith & Son"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1873?"
@@ -31,10 +32,10 @@
     "[1873 TO 1873]"
   ],
   "dct_spatial_sm": [
-    "London, England, United Kingdom",
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
-  "locn_geometry": "ENVELOPE(-0.19,0,51.56,51.47)",
+  "locn_geometry": "POLYGON((-0.19 51.56, 0 51.56, 0 51.47, -0.19 51.47, -0.19 51.56))",
   "dcat_bbox": "ENVELOPE(-0.19,0,51.56,51.47)",
   "dcat_centroid": "51.515,-0.095",
   "pcdm_memberOf_sm": [
@@ -43,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004068509/39015091186950\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004068509\"}",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "b1166da2-cb86-4657-aa9f-ddf951dc2d11"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

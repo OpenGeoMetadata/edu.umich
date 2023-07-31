@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Railway map of the United States and Canada: showing all the railroads completed and in progress; carefully compiled from official sources for the Traveller's official railway guide.",
   "dct_description_sm": [
-    "Relief shown by hachures. Greenwich prime meridian. Insets: [Western extension of map] -- Part of Massachusetts, Rhode Island &c. (Enlarged Scale). On verso: Ill., advertisements, tables, map of Michigan and \"Map of short route to Florida, Cuba and West Indies.\" 1 map; 61 x 91 cm, folded to 24 x 16 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Greenwich prime meridian. Insets: [Western extension of map] -- Part of Massachusetts, Rhode Island &c. (Enlarged Scale). On verso: Ill., advertisements, tables, map of Michigan and \"Map of short route to Florida, Cuba and West Indies.\" 1 map; 61 x 91 cm, folded to 24 x 16 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "National Railway Publication Company."
+    "National Railway Publication Company"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-106,-70,47,30)",
+  "locn_geometry": "POLYGON((-106 47, -70 47, -70 30, -106 30, -106 47))",
   "dcat_bbox": "ENVELOPE(-106,-70,47,30)",
   "dcat_centroid": "38.5,-88.0",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003068097/39015091199094\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003068097\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "ca38e709-1593-4372-abf4-cd57da3616e4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

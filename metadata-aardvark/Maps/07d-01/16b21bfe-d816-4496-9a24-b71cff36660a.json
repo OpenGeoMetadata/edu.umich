@@ -22,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Roads Michigan Detroit Metropolitan Area Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1925"
@@ -35,9 +36,12 @@
     "[1925 TO 1925]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-83.287959 42.450239, -82.910439 42.450239, -82.910439 42.255192, -83.287959 42.255192, -83.287959 42.450239))",
+  "dcat_bbox": "ENVELOPE(-83.287959,-82.910439,42.450239,42.255192)",
+  "dcat_centroid": "42.3527155,-83.099199",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,7 +49,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -56,6 +63,6 @@
     "003564762",
     "39015091916034"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:11Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

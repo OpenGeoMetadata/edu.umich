@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-23,0,81,-65)",
   "solr_year_i": "1850",
   "dc_creator_sm": [
-    "Moore, James B.,Gollmer, H., engraver."
+    "Gollmer, H., engraver.",
+    "Moore, James B."
   ],
-  "dc_description_s": "Inset: Harbour of San Francisco, California. Tables of distances. Shows distances between major ports of the world. 1 map; 71 x 96 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Inset: Harbour of San Francisco, California. Tables of distances. Shows distances between major ports of the world. 1 map; 71 x 96 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003286623/39015091197155\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003286623\"}",
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:31Z",
+  "layer_modified_dt": "2023-02-03T21:17:30Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,11 +5,11 @@
   "dc_title_s": "Hōgaku kaisei gokinai shōran",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "542c17e7-1575-4240-8765-d808310bdb88",
-  "solr_geom": "ENVELOPE(134.67,-136.669,35.75,33.42)",
+  "solr_geom": "ENVELOPE(134.5892,137.0772,35.9212,33.4206)",
   "solr_year_i": "1841",
   "dc_creator_sm": [
     "Ryūtei Gyofu Sasui, active 19th century.",
-    "Suharaya, Mohē, 1731-1782."
+    "Suharaya, Mohē, 1731-1782"
   ],
   "dc_description_s": "1 map ; 90 x 85 cm, folded in cover 23 x 15 cm.|Mounted cover title.|Wood block print.|In Japanese.|Oriented with north to the left.|Engraved by Inoue Jihei and Okada Mohei.|Includes legend, distance chart, and list of districts in the five provinces.|Includes list of 33 temples of the Saigoku Kannon pilgrimage and total distance of the pilgrimage route.|Shows distances between pilgrimage points, roads and sea routes.",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:57Z",
+  "layer_modified_dt": "2023-06-30T17:19:24Z",
   "dc_language_sm": [
     "jpn"
   ],

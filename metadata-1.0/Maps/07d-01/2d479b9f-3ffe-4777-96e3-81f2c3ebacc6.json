@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-125,-66.88,49,24.5)",
   "solr_year_i": "1873",
   "dc_creator_sm": [
-    "Blake, William P. (William Phipps), 1826-1910."
+    "Blake, William P. (William Phipps), 1826-1910"
   ],
   "dc_description_s": "1 map : col. ; 55 x 85 cm|\"Accompanying the report of Rossiter W. Raymond, United States Commissioner of Mining Statistics.\"",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:11Z",
+  "layer_modified_dt": "2023-02-03T21:19:04Z",
   "dc_language_sm": [
     "eng"
   ],

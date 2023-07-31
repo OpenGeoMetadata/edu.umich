@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-104.07,-84.23,49.38,39.98)",
   "solr_year_i": "1883",
   "dc_creator_sm": [
-    "Chicago and North Western Railway Company.,Chicago and North Western Railway Company."
+    "Chicago and North Western Railway Company"
   ],
-  "dc_description_s": "Relief shown by hachures. 1 map: col.; 43 x 66 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. 1 map: col.; 43 x 66 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:24Z",
+  "layer_modified_dt": "2023-02-03T21:21:29Z",
   "dc_language_sm": [
     "eng"
   ],

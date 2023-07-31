@@ -21,7 +21,9 @@
     "Mines",
     "Mining",
     "Copper mines",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1905"
@@ -34,9 +36,12 @@
     "[1905 TO 1905]"
   ],
   "dct_spatial_sm": [
-    "Keweenaw Peninsula, Michigan",
+    "Michigan--Keweenaw Peninsula",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-89.216121 47.48346, -87.708248 47.48346, -87.708248 46.797834, -89.216121 46.797834, -89.216121 47.48346))",
+  "dcat_bbox": "ENVELOPE(-89.216121,-87.708248,47.48346,46.797834)",
+  "dcat_centroid": "47.140647,-88.4621845",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,7 +49,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -53,6 +61,6 @@
   "dct_identifier_sm": [
     "15e20fdc-2c71-409d-af76-878d8ebdde9b"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

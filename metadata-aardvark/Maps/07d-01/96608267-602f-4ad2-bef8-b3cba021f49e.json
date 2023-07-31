@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Geological map of the region in the vicinity of the Bow and Belly Rivers embracing the Southern portion of the District of Alberta and part of Assiniboia, Northwest Territory George M. Dawson, Geological and Natural History Survey of Canada.",
   "dct_description_sm": [
-    "Relief shown by hachures and spot heights. Includes cross section from Coal Creek to Medicine Hat. 1 map: col.; 59 x 66 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures and spot heights. Includes cross section from Coal Creek to Medicine Hat. 1 map: col.; 59 x 66 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Dawson, George Mercer, 1849-1901.,Geological and Natural History Survey of Canada."
+    "Dawson, George Mercer, 1849-1901",
+    "Geological and Natural History Survey of Canada"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Geology",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -30,9 +32,9 @@
     "[1884 TO 1884]"
   ],
   "dct_spatial_sm": [
-    "Alberta, Canada"
+    "Canada--Alberta"
   ],
-  "locn_geometry": "ENVELOPE(-115.25,-110.75,51.5,49)",
+  "locn_geometry": "POLYGON((-115.25 51.5, -110.75 51.5, -110.75 49, -115.25 49, -115.25 51.5))",
   "dcat_bbox": "ENVELOPE(-115.25,-110.75,51.5,49)",
   "dcat_centroid": "50.25,-113.0",
   "pcdm_memberOf_sm": [
@@ -41,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001291818/39015091911001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001291818\"}",
@@ -48,6 +56,6 @@
   "dct_identifier_sm": [
     "96608267-602f-4ad2-bef8-b3cba021f49e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

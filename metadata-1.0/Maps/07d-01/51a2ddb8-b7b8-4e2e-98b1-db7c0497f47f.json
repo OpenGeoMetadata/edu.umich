@@ -5,9 +5,10 @@
   "dc_title_s": "Amplissimae regionis Mississipi seu provinciae Ludoviciana",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "51a2ddb8-b7b8-4e2e-98b1-db7c0497f47f",
+  "solr_geom": "ENVELOPE(-96.36,-74.3,44.28,25.13)",
   "solr_year_i": "1730",
   "dc_creator_sm": [
-    "Hennepin, Louis, active 17th century."
+    "Hennepin, Louis, active 17th century"
   ],
   "dc_description_s": "1 map : hand col. ; 47 x 56 cm|Shows United States west to New Mexico, parts of Canada and Mexico.|Shows routes of various explorers to 1716.|Cartouche in upper right surrounding title and view of Niagra Falls.|Includes cartouche enclosing a bison with two Native Americans, an opossum and a pelican in lower right.|Relief shown by hachures and pictorially.",
   "dc_format_s": "JPEG",
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:59Z",
+  "layer_modified_dt": "2023-02-03T21:16:21Z",
   "dc_language_sm": [
     "lat"
   ],

@@ -14,8 +14,8 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Hamersveldt, Everard Symonsz, 1591-1653, engraver.",
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Hamersveldt, Everard Symonsz, 1591-1653, engraver",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
@@ -26,7 +26,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -39,10 +41,13 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Béarn,  Nouvelle-Aquitaine,  France",
-    "Nouvelle-Aquitaine,  France",
+    "France-- Nouvelle-Aquitaine--Béarn",
+    " France--Nouvelle-Aquitaine",
     "France"
   ],
+  "locn_geometry": "POLYGON((2.1614437178 48.6786216971, 2.1678039059 48.6786216971, 2.1678039059 48.6748444251, 2.1614437178 48.6748444251, 2.1614437178 48.6786216971))",
+  "dcat_bbox": "ENVELOPE(2.1614437178,2.1678039059,48.6786216971,48.6748444251)",
+  "dcat_centroid": "48.676733061099995,2.1646238118500003",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,7 +55,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -61,6 +69,6 @@
     "004205231",
     "39015091191760_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:17Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

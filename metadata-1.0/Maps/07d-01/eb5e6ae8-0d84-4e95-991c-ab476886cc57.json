@@ -5,18 +5,19 @@
   "dc_title_s": "Early New York.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "eb5e6ae8-0d84-4e95-991c-ab476886cc57",
+  "solr_geom": "ENVELOPE(-74.258843,-73.700233,40.91763,40.476578)",
   "solr_year_i": "1730",
   "dc_creator_sm": [
-    "MacCoun, Townsend, 1845-1932."
+    "MacCoun, Townsend, 1845-1932"
   ],
   "dc_description_s": "Cover title. In portfolio. Relief shown by shading and hachures. 5 maps: col.; 80 x 121 cm, or smaller.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003561356/39015091193980\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003561356\"}",
   "dct_spatial_sm": [
-    "New York, New York",
-    "New York State, New York"
+    "New York--New York",
+    "New York--New York State"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:18:15Z",
   "dc_language_sm": [
     "eng"
   ],

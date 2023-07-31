@@ -8,19 +8,20 @@
   "solr_geom": "ENVELOPE(-84.13,-83.53,42.45,42.07)",
   "solr_year_i": "1874",
   "dc_creator_sm": [
-    "Krause, Frank.,Everts & Stewart. Combination atlas map of Washtenaw County, Michigan."
+    "Everts & Stewart. Combination atlas map of Washtenaw County, Michigan.",
+    "Krause, Frank (Civil engineer)"
   ],
-  "dc_description_s": "Shows townships, sections, roads, railroads, rivers,, locations of some churches, and some land cover. Advertisements on verso. 1 map: col.; 33 x 39 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows townships, sections, roads, railroads, rivers,, locations of some churches, and some land cover. Advertisements on verso. 1 map: col.; 33 x 39 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013363585/39015091184781_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013363585\"}",
   "dct_spatial_sm": [
-    "Washtenaw County, Michigan",
+    "Michigan--Washtenaw County",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:37Z",
+  "layer_modified_dt": "2023-02-03T21:21:46Z",
   "dc_language_sm": [
     "eng"
   ],

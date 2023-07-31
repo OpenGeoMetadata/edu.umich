@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-73.808974,-73.768079,42.263473,42.239187)",
   "solr_year_i": "1886",
   "dc_creator_sm": [
-    "Lant, Frank P.,Lant, J. H."
+    "Lant, Frank P."
   ],
-  "dc_description_s": "North oriented toward upper left. 1 map; 25 x 30 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "North oriented toward upper left. 1 map; 25 x 30 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000946923/39015091904139\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000946923\"}",
   "dct_spatial_sm": [
-    "Hudson, New York",
-    "New York State, New York"
+    "New York--Hudson",
+    "New York--New York State"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:31Z",
+  "layer_modified_dt": "2023-02-03T21:17:34Z",
   "dc_language_sm": [
     "eng"
   ],

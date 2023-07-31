@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Sheboygan harbor, Wisconsin from survey made between the 19th & 24th of August 1856 by assistant John O'Donoghue under the directionof Brevet Lieut. Col. J.D. Graham, Major, U.S. Corps of Topographical Engineers. Superintending Engineer of Lake Michigan Works.",
   "dct_description_sm": [
-    "Depths shown by soundings and isolines. \"Accompanying Lt. Colonel J.D. Graham's annual report (no. 161) to the Chief Topographical Engineer, dated Chicago, November 15th 1856.\" \"Map G. No. 45.\" 1 map; 65 x 101 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Depths shown by soundings and isolines. \"Accompanying Lt. Colonel J.D. Graham's annual report (no. 161) to the Chief Topographical Engineer, dated Chicago, November 15th 1856.\" \"Map G. No. 45.\" 1 map; 65 x 101 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Graham, J. D. (James Duncan), 1799-1865.,O'Donoghue, John, 1946-,United States. Army. Corps of Topographical Engineers."
+    "Graham, J. D. (James Duncan), 1799-1865",
+    "O'Donoghue, John, 1946-",
+    "United States. Army. Corps of Topographical Engineers"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -16,7 +18,10 @@
   "dcat_keyword_sm": [
     "Harbors",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -29,17 +34,23 @@
     "[1856 TO 1856]"
   ],
   "dct_spatial_sm": [
-    "Sheboygan Bay, Wisconsin",
+    "Wisconsin--Sheboygan Bay",
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-87.7499,-87.75,43.7601,43.76)",
-  "dcat_bbox": "ENVELOPE(-87.7499,-87.75,43.7601,43.76)",
-  "dcat_centroid": "43.76005,-87.74995",
+  "locn_geometry": "POLYGON((-87.760945 43.780463, -87.684728 43.780463, -87.684728 43.72456, -87.760945 43.72456, -87.760945 43.780463))",
+  "dcat_bbox": "ENVELOPE(-87.760945,-87.684728,43.780463,43.72456)",
+  "dcat_centroid": "43.7525115,-87.7228365",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -48,6 +59,6 @@
   "dct_identifier_sm": [
     "e38905ff-cc78-4c78-a9e7-3f2c8a90fb2c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

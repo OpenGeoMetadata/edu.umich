@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-87.63,-80.02,31,24.52)",
   "solr_year_i": "1848",
   "dc_creator_sm": [
-    "Florida. Office of the Surveyor General.,McClelland, D."
+    "Florida. Office of the Surveyor General",
+    "McClelland, D."
   ],
-  "dc_description_s": "1 map; 57 x 64 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "1 map; 57 x 64 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281790/39015091905169\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281790\"}",
   "dct_spatial_sm": [
     "Florida"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "layer_modified_dt": "2023-02-03T21:16:10Z",
   "dc_language_sm": [
     "eng"
   ],

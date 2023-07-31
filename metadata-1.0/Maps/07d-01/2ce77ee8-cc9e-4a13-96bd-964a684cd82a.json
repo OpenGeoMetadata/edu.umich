@@ -5,12 +5,12 @@
   "dc_title_s": "University of Michigan: Campus in 1937",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "2ce77ee8-cc9e-4a13-96bd-964a684cd82a",
+  "solr_geom": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
   "solr_year_i": "1937",
   "dc_description_s": "1 view ; 26 x 61 cm.|Bird's-eye view.|North oriented toward lower left.|Includes index of buildings.|\"Copyright, April 26, 1937 by P. Bukovsky.\"",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003928746/39015091187198\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003928746\"}",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:26:36Z",
   "dc_language_sm": [
     "eng"
   ],

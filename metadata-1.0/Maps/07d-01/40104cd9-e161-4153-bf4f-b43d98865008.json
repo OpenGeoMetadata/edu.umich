@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-90.42,-82.33,48.33,41.67)",
   "solr_year_i": "1916",
   "dc_creator_sm": [
-    "Smith, Richard A., 1876-1963.",
-    "Barrett, Leslie Park, 1887-",
-    "A. Hoen & Co."
+    "A. Hoen & Co.",
+    "Barrett, Leslie Park, 1887-1972",
+    "Smith, Richard A., 1876-1963."
   ],
   "dc_description_s": "1 map : col. ; 103 x 85 cm.|\"A. Hoen & Co. lith. Baltimore, Md.\".",
   "dc_format_s": "JPEG",
@@ -19,10 +19,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003843759/39015095389675_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003843759\"}",
   "dct_spatial_sm": [
-    "Michigan,  Michigan",
+    "Michigan--Michigan",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:20Z",
+  "layer_modified_dt": "2023-02-03T21:19:02Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,9 +5,10 @@
   "dc_title_s": "The century Atlas. Ohio",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "afa04ff9-fcff-4915-8fb4-863d0314dfad",
+  "solr_geom": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
   "solr_year_i": "1897",
   "dc_creator_sm": [
-    "Century Company."
+    "Century Company"
   ],
   "dc_description_s": "1 map : col. ; 26 x 38 cm on sheet 29 x 40 cm folded to 29 x 20 cm|Contour lines at 1000 ft.|At head of title: The Century Atlas.|Map no. 17 from the Century Atlas.",
   "dc_format_s": "JPEG",
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:26:07Z",
   "dc_language_sm": [
     "eng"
   ],

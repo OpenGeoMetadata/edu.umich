@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004080633/39015095399898_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004080633\"}",
   "dct_spatial_sm": [
-    "Chelsea,  Michigan",
+    "Michigan--Chelsea",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:20Z",
+  "layer_modified_dt": "2023-02-03T21:23:09Z",
   "dc_language_sm": [
     "eng"
   ],

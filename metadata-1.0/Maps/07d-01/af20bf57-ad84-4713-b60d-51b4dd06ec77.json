@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Miwa, Hideharu."
   ],
-  "dc_description_s": "Copperplate print. In Japanese. Oriented with north to the right. Relief shown by hachures. Includes 5 insets and legend. Eight sheets joined. 1 map: mounted on paper; 72 x 102 cm., folded in cover 19 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Copperplate print. In Japanese. Oriented with north to the right. Relief shown by hachures. Includes 5 insets and legend. Eight sheets joined. 1 map: mounted on paper; 72 x 102 cm., folded in cover 19 x 14 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887417/39015091921398_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887417\"}",
   "dct_spatial_sm": [
-    "Miyagi-ken, Miyagi, Japan",
+    "Japan-- Miyagi--Miyagi-ken",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "layer_modified_dt": "2023-02-03T21:26:04Z",
   "dc_language_sm": [
     "eng"
   ],

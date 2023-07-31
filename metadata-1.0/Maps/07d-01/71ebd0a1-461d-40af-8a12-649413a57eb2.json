@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(135.46,135.54,34.7,34.65)",
   "solr_year_i": "1787",
   "dc_creator_sm": [
-    "Kikuya, Shichirobē.,Harimaya, Kyūbē."
+    "Harimaya, Kyūbē",
+    "Kikuya, Shichirobē"
   ],
-  "dc_description_s": "Mounted cover title. Wood block print. Oriented with north to the bottom. Includes text and distance chart. 1 map: col.; 49 x 38 cm., folded in cover 17 x 11 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Mounted cover title. Wood block print. Oriented with north to the bottom. Includes text and distance chart. 1 map: col.; 49 x 38 cm., folded in cover 17 x 11 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003109974/39015091921612_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003109974\"}",
   "dct_spatial_sm": [
-    "Osaka, Ōsaka, Japan",
+    "Japan-- Ōsaka--Osaka",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "layer_modified_dt": "2023-02-03T21:25:02Z",
   "dc_language_sm": [
     "eng"
   ],

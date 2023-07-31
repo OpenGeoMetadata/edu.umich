@@ -5,9 +5,10 @@
   "dc_title_s": "Mineral springs of the United States",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "3d943a84-c19f-4133-b0a2-9d7e228b9dc1",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1892",
   "dc_creator_sm": [
-    "Bien, Julius, 1826-1909.",
+    "Bien, Julius, 1826-1909",
     "Geological Survey (U.S.)"
   ],
   "dc_description_s": "1 map : col. ; 43 x 71 cm|At head of title: U.S. Geological Survey, J.W. Powell, director.|In upper border: U.S. Geological Survey. Fourteenth annual report, pl. IV.|Shows Indian reservations.",
@@ -16,8 +17,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:22:25Z",
   "dc_language_sm": [
     "eng"
   ],

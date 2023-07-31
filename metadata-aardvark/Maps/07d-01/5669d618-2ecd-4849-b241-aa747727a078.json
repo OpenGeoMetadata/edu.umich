@@ -1,20 +1,23 @@
 {
   "dct_title_s": "The Eastern part of the Ancient Persian Empire by G. Long.",
   "dct_description_sm": [
-    "Relief shown by hachures. Printed by Edward Stanford. \"Engraved by J. & C. Walker\". 1 map: col.; 30 x 36 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Printed by Edward Stanford. \"Engraved by J. & C. Walker\". 1 map: col.; 30 x 36 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Long, G. [George].,Society for the Diffusion of Useful Knowledge (Great Britain),J. & C. Walker (Firm)"
+    "J. & C. Walker (Firm)",
+    "Long, G. (George)",
+    "Society for the Diffusion of Useful Knowledge (Great Britain)"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1831"
@@ -28,7 +31,7 @@
   "dct_spatial_sm": [
     "Iran"
   ],
-  "locn_geometry": "ENVELOPE(40,61,39,23)",
+  "locn_geometry": "POLYGON((40 39, 61 39, 61 23, 40 23, 40 39))",
   "dcat_bbox": "ENVELOPE(40,61,39,23)",
   "dcat_centroid": "31.0,50.5",
   "pcdm_memberOf_sm": [
@@ -37,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081045/39015091916521\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081045\"}",
@@ -44,6 +53,6 @@
   "dct_identifier_sm": [
     "5669d618-2ecd-4849-b241-aa747727a078"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

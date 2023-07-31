@@ -1,20 +1,24 @@
 {
   "dct_title_s": "Carte chorographique du comte d'Avignon et la prinicipaute d'Orenge.",
   "dct_description_sm": [
-    "Relief shown pictorially. North is oriented to the bottom of the map. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. North is oriented to the bottom of the map. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 48 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Hondius, Jodocus, 1594 or 1595-1629.,Hondius, Hendrik, 1597-1651, cartographer.,Hamersveldt, Everard Symonsz, 1591-1653, engraver.,Vignaud, Henry, 1830-1922, former owner, Composite Atlas of France."
+    "Hamersveldt, Everard Symonsz, 1591-1653, engraver",
+    "Hondius, Hendrik, 1597-1651",
+    "Hondius, Jodocus, 1594 or 1595-1629",
+    "Vignaud, Henry, 1830-1922"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -26,9 +30,9 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Avignon, Provence-Alpes-Côte d'Azur, France"
+    "France-- Provence-Alpes-Côte d'Azur--Avignon"
   ],
-  "locn_geometry": "ENVELOPE(4.62,5.51,44.27,43.85)",
+  "locn_geometry": "POLYGON((4.62 44.27, 5.51 44.27, 5.51 43.85, 4.62 43.85, 4.62 44.27))",
   "dcat_bbox": "ENVELOPE(4.62,5.51,44.27,43.85)",
   "dcat_centroid": "44.06,5.0649999999999995",
   "pcdm_memberOf_sm": [
@@ -37,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004077747/39015091192172_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004077747\"}",
@@ -44,6 +54,6 @@
   "dct_identifier_sm": [
     "83b2f9b1-bad2-46c2-ab57-e438c177cea5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

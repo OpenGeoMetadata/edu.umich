@@ -1,7 +1,7 @@
 {
   "dct_title_s": "[Map of Brown & Fullers addition to Ann Arbor, Michigan]; surveyed by J. F. Stratton, 1832.",
   "dct_description_sm": [
-    "Shows plat of Brown and Fuller's addition in Ann Arbor in Lower Town. Includes street dimensions. This map is a photostat of a hand-drawn map. The Bentley has a different manuscript verison of this map. Oriented with north to the upper left. The title of the map is derived from the map at the Bentley Historical Library. 1 map; sheet 38 x42 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows plat of Brown and Fuller's addition in Ann Arbor in Lower Town. Includes street dimensions. This map is a photostat of a hand-drawn map. The Bentley has a different manuscript verison of this map. Oriented with north to the upper left. The title of the map is derived from the map at the Bentley Historical Library. 1 map; sheet 38 x42 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,7 +19,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1832"
@@ -32,10 +33,10 @@
     "[1832 TO 1832]"
   ],
   "dct_spatial_sm": [
-    "Ann Arbor Township, Michigan",
+    "Michigan--Ann Arbor Township",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.74895,-83.72121,42.292796,42.282027)",
+  "locn_geometry": "POLYGON((-83.74895 42.292796, -83.72121 42.292796, -83.72121 42.282027, -83.74895 42.282027, -83.74895 42.292796))",
   "dcat_bbox": "ENVELOPE(-83.74895,-83.72121,42.292796,42.282027)",
   "dcat_centroid": "42.287411500000005,-83.73508",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013442849/39015091184617\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013442849\"}",
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "c9538b74-c930-40da-8f09-9637fb6023c4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:47Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

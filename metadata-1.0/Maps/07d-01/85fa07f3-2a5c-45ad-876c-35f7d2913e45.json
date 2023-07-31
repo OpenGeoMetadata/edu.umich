@@ -5,6 +5,7 @@
   "dc_title_s": "Map and profile of the Clinton and Kalamazoo Canal of two different routes across the bent of Clinton River at Frederick Macomb County Michigan Ludwik Wesolowski, engineer.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "85fa07f3-2a5c-45ad-876c-35f7d2913e45",
+  "solr_geom": "ENVELOPE(-82.973317,-82.855706,42.630506,42.539331)",
   "solr_year_i": "1837",
   "dc_creator_sm": [
     "Wesolowski, Ludwik."
@@ -13,11 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002479398/39015091881170\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002479398\"}",
   "dct_spatial_sm": [
-    "Clinton Township, Michigan",
+    "Michigan--Clinton Township",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:20:42Z",
   "dc_language_sm": [
     "eng"
   ],

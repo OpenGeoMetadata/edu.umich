@@ -8,20 +8,20 @@
   "solr_geom": "ENVELOPE(-83.76,-83.72,42.29,42.26)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
-    "Smith, Shirley Wheeler, 1875-1959.,George Wahr (Firm)"
+    "George Wahr (Firm)",
+    "Smith, Shirley Wheeler, 1875-1959"
   ],
-  "dc_description_s": "Sheet mounted on cloth. Includes indexes for university buildings, churches, and public buildings and advertisements for Wahr's Bookstore. Shows streets, street car lines, electric railways, and railroads. 1 map; 25 x 19 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Sheet mounted on cloth. Includes indexes for university buildings, churches, and public buildings and advertisements for Wahr's Bookstore. Shows streets, street car lines, electric railways, and railroads. 1 map; 25 x 19 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013494760/39015091198252\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013494760\"}",
   "dct_spatial_sm": [
-    "Ann Arbor Township, Michigan",
+    "Michigan--Ann Arbor Township",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-08T17:18:36Z",
+  "layer_modified_dt": "2023-02-03T21:20:47Z",
   "dc_language_sm": [
     "eng"
   ],

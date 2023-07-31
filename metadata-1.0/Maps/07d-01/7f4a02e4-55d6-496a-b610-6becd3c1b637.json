@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(67,80,40,34)",
   "solr_year_i": "1866",
   "dc_creator_sm": [
-    "Yule, Henry, Sir, 1820-1889.,Goes, Benedict."
+    "Góis, Bento de, 1562-1607",
+    "Yule, Henry, Sir, 1820-1889"
   ],
-  "dc_description_s": "Shows \"route of Goës.\" Relief shown by hachures. Lithographer Edward Weller. \"Names used by Goës.\" Gives \"obsolete names.\" Map \"To face title of part II\" of [\"Cathay and the way thither ... by Henry Yule, c.b.\"]. 1 map: col.; 32 x 50 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows \"route of Goës.\" Relief shown by hachures. Lithographer Edward Weller. \"Names used by Goës.\" Gives \"obsolete names.\" Map \"To face title of part II\" of [\"Cathay and the way thither ... by Henry Yule, c.b.\"]. 1 map: col.; 32 x 50 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081176/39015091916547\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081176\"}",
   "dct_spatial_sm": [
-    "Hindu Kush, Afghanistan",
+    "Afghanistan--Hindu Kush",
     "Afghanistan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:45Z",
+  "layer_modified_dt": "2023-02-03T21:21:33Z",
   "dc_language_sm": [
     "eng"
   ],

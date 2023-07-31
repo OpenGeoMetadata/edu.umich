@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Preliminary geologic map of New York, exhibiting the structure of the state so far as known; Geological Survey of the State of New York; prepared under the direction of James Hall by W.J. McGee.",
   "dct_description_sm": [
-    "Published by authority of the Legislature of the State of New York. Includes legend. Inset: [Long Island]. 1 map on 6 sheets: col.; sheets 82 x 88 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Published by authority of the Legislature of the State of New York. Includes legend. Inset: [Long Island]. 1 map on 6 sheets: col.; sheets 82 x 88 cm. or smaller."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "McGee, W J, 1853-1912.,New York State Geological Survey."
+    "McGee, W J, 1853-1912",
+    "New York State Geological Survey"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Geology",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -30,9 +32,9 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "New York State, New York"
+    "New York--New York State"
   ],
-  "locn_geometry": "ENVELOPE(-79.5,-72,45,40.5)",
+  "locn_geometry": "POLYGON((-79.5 45, -72 45, -72 40.5, -79.5 40.5, -79.5 45))",
   "dcat_bbox": "ENVELOPE(-79.5,-72,45,40.5)",
   "dcat_centroid": "42.75,-75.75",
   "pcdm_memberOf_sm": [
@@ -41,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009356600/39015091903875\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009356600\"}",
@@ -48,6 +56,6 @@
   "dct_identifier_sm": [
     "9ee14b58-d891-4844-a5fa-913383ac5cd2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

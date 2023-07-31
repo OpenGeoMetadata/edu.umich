@@ -5,6 +5,7 @@
   "dc_title_s": "A food map of the United States",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "9139578d-7803-4f4f-9ed3-a62ab810a256",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1932",
   "dc_description_s": "1 map : col. ; 79 x 107 cm",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:16:01Z",
   "dc_language_sm": [
     "eng"
   ],

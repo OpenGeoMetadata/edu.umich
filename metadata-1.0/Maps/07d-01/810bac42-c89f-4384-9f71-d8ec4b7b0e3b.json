@@ -8,16 +8,18 @@
   "solr_geom": "ENVELOPE(-85.42,-83.75,35.17,33.5)",
   "solr_year_i": "1864",
   "dc_creator_sm": [
-    "Glümer, J. v.,Sherman, William T. (William Tecumseh), 1820-1891.,Poe, O. M. (Orlando Metcalfe), 1832-1895.,United States. Army. Corps of Engineers."
+    "Glümer, J. v.",
+    "Poe, O. M. (Orlando Metcalfe), 1832-1895",
+    "Sherman, William T. (William Tecumseh), 1820-1891",
+    "United States. Army. Corps of Engineers"
   ],
-  "dc_description_s": "Compiled and drawn by J. v. Glümer. \"Julius Bien & Co., lith. N.Y.\" Relief shown by hachures. Shows location of works erected by Union and Confederate forces. Broken lines represent the area covered by each of \"the five maps of the Atlanta campaign.\" 1 map: col., mounted on cloth; 77 x 66 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Compiled and drawn by J. v. Glümer. \"Julius Bien & Co., lith. N.Y.\" Relief shown by hachures. Shows location of works erected by Union and Confederate forces. Broken lines represent the area covered by each of \"the five maps of the Atlanta campaign.\" 1 map: col., mounted on cloth; 77 x 66 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003569709/39015091898497\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003569709\"}",
   "dct_spatial_sm": [
     "Georgia"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "layer_modified_dt": "2023-02-03T21:20:43Z",
   "dc_language_sm": [
     "eng"
   ],

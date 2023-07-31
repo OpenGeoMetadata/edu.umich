@@ -5,6 +5,7 @@
   "dc_title_s": "[United States]",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "7479d082-aee2-412d-a1db-4c5006caa24e",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1848",
   "dc_description_s": "1 map : col. ; 34 x 55 cm|Includes tables showing the \"areas of the several states and territories of the United States in square miles and acres.\"|Shows treaty lines and boundaries of the territorial growth of the United States including the Treaty of 1848 with Mexico.|Prime meridian: Washington and Greenwich.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:26:35Z",
   "dc_language_sm": [
     "eng"
   ],

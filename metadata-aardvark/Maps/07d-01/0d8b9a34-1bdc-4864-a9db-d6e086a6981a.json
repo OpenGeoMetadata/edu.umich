@@ -1,20 +1,22 @@
 {
   "dct_title_s": "Florida et Apalche.",
   "dct_description_sm": [
-    "Relief shown pictorially. Shows southeastern states plus part of Cuba and Bahamas. Watermark. Included in Wytfliet's \"Descriptionis Ptolemaicae Augmentum\" which was published in 1597. 1 map; 22 x 27 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Shows southeastern states plus part of Cuba and Bahamas. Watermark. Included in Wytfliet's \"Descriptionis Ptolemaicae Augmentum\" which was published in 1597. 1 map; 22 x 27 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Wytfliet, Corneille.,Dahl, James, former owner."
+    "Dahl, James, former owner",
+    "Wytfliet, Corneille"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1597"
@@ -28,7 +30,7 @@
   "dct_spatial_sm": [
     "Florida"
   ],
-  "locn_geometry": "ENVELOPE(-98.75,-77.87,30.78,22.5)",
+  "locn_geometry": "POLYGON((-98.75 30.78, -77.87 30.78, -77.87 22.5, -98.75 22.5, -98.75 30.78))",
   "dcat_bbox": "ENVELOPE(-98.75,-77.87,30.78,22.5)",
   "dcat_centroid": "26.64,-88.31",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012845724/39015095433382\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012845724\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "0d8b9a34-1bdc-4864-a9db-d6e086a6981a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,16 +8,20 @@
   "solr_geom": "ENVELOPE(4.83,8,4.91,4.68)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Bein, Jean de, 1577-1651 engraver.,Hondius, Hendrik, 1597-1651, cartographer.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix 1630.,Vignaud, Henry, 1830-1922, former owner."
+    "Bein, Jean de, 1577-1652",
+    "Hondius, Hendrik, 1597-1651",
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
-  "dc_description_s": "Relief shown pictorially. Dedication to the king in the bottom right corner. Includes the Savoy and Dauphine coat of arms. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 36 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Dedication to the king in the bottom right corner. Includes the Savoy and Dauphine coat of arms. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 36 x 48 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004076014/39015091194186_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004076014\"}",
   "dct_spatial_sm": [
-    "Dauphine, Auvergne-Rhône-Alpes, France",
+    "Auvergne-Rhône-Alpes-- France--Dauphine",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "layer_modified_dt": "2023-02-03T21:17:23Z",
   "dc_language_sm": [
     "eng"
   ],

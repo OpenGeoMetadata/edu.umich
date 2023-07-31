@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Harper's standard map of London",
   "dct_description_sm": [
-    "Street map of London. From \"Harpers Hand Book\" [by William Pemboke Fetridge]. 1 map; 61 x 81 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Street map of London. From \"Harpers Hand Book\" [by William Pemboke Fetridge]. 1 map; 61 x 81 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1874"
@@ -28,10 +29,10 @@
     "[1874 TO 1874]"
   ],
   "dct_spatial_sm": [
-    "London, England, United Kingdom",
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
-  "locn_geometry": "ENVELOPE(-0.351468,0.148271,51.672343,51.38494)",
+  "locn_geometry": "POLYGON((-0.351468 51.672343, 0.148271 51.672343, 0.148271 51.38494, -0.351468 51.38494, -0.351468 51.672343))",
   "dcat_bbox": "ENVELOPE(-0.351468,0.148271,51.672343,51.38494)",
   "dcat_centroid": "51.5286415,-0.10159850000000001",
   "pcdm_memberOf_sm": [
@@ -40,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081081/39015091186968\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081081\"}",
@@ -47,6 +54,6 @@
   "dct_identifier_sm": [
     "2326a09d-8521-4479-adaf-a41f3654a415"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

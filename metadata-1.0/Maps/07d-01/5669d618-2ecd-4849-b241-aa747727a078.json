@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(40,61,39,23)",
   "solr_year_i": "1831",
   "dc_creator_sm": [
-    "Long, G. [George].,Society for the Diffusion of Useful Knowledge (Great Britain),J. & C. Walker (Firm)"
+    "J. & C. Walker (Firm)",
+    "Long, G. (George)",
+    "Society for the Diffusion of Useful Knowledge (Great Britain)"
   ],
-  "dc_description_s": "Relief shown by hachures. Printed by Edward Stanford. \"Engraved by J. & C. Walker\". 1 map: col.; 30 x 36 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Printed by Edward Stanford. \"Engraved by J. & C. Walker\". 1 map: col.; 30 x 36 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081045/39015091916521\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081045\"}",
   "dct_spatial_sm": [
     "Iran"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:58Z",
+  "layer_modified_dt": "2023-02-03T21:26:09Z",
   "dc_language_sm": [
     "eng"
   ],

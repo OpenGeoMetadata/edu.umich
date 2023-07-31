@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-92,-80,44,37)",
   "solr_year_i": "1834",
   "dc_creator_sm": [
-    "Young, J. H. (James Hamilton),Mitchell, S. Augustus (Samuel Augustus), 1792-1868.,Mitchell & Hinman."
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868",
+    "Mitchell & Hinman.",
+    "Young, J. H. (James Hamilton)"
   ],
-  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington. \"Sold by Mitchell & Hinman.\" Insets: Vicinity of Detroit -- Vicinity of Cincinnati -- Falls of Ohio -- Lead region east of the Mississippi River. Includes table of steamboat routes. 1 map: hand col.; 42 x 54 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington. \"Sold by Mitchell & Hinman.\" Insets: Vicinity of Detroit -- Vicinity of Cincinnati -- Falls of Ohio -- Lead region east of the Mississippi River. Includes table of steamboat routes. 1 map: hand col.; 42 x 54 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003931133/39015091916190_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003931133\"}",
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:41Z",
   "dc_language_sm": [
     "eng"
   ],

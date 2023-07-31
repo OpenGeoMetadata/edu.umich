@@ -5,6 +5,7 @@
   "dc_title_s": "[United States railroads and shipping lines]",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "a037fd86-e4b5-4ed5-bd42-aefd5d43dcd0",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1900",
   "dc_description_s": "1 map : hand col., dissected and mounted on cloth ; 53 x 96 cm.|Relief shown by hachures. Depths shown by isolines.|Shows shipping lines, railroads, and overland routes.|Includes ill. of ships.|Edges missing.|Date based on West Virginia shown as a territory.",
   "dc_format_s": "JPEG",
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:26:36Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,20 +1,23 @@
 {
   "dct_title_s": "Map of the State of Florida, showing the progress of the surveys, accompanying annual report of the Surveyor General for 1856.",
   "dct_description_sm": [
-    "Relief shown by hachures. \"Approved October 1st, 1856, John Westcott, Surveyor General.\" \"Sen. ex doc. no. 5 3rd sess. 34th Cong.\" 1 map; on sheet 71 x 67 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. \"Approved October 1st, 1856, John Westcott, Surveyor General.\" \"Sen. ex doc. no. 5 3rd sess. 34th Cong.\" 1 map; on sheet 71 x 67 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Surveyor General.,Westcott, John, 1805-1889.,Wagner & M'Guigan."
+    "United States. Surveyor General",
+    "Wagner & M'Guigan",
+    "Westcott, John, 1805-1889"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -28,7 +31,7 @@
   "dct_spatial_sm": [
     "Florida"
   ],
-  "locn_geometry": "ENVELOPE(-87.63,-80.02,31,24.52)",
+  "locn_geometry": "POLYGON((-87.63 31, -80.02 31, -80.02 24.52, -87.63 24.52, -87.63 31))",
   "dcat_bbox": "ENVELOPE(-87.63,-80.02,31,24.52)",
   "dcat_centroid": "27.759999999999998,-83.82499999999999",
   "pcdm_memberOf_sm": [
@@ -37,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004962279/39015091905128\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004962279\"}",
@@ -44,6 +53,6 @@
   "dct_identifier_sm": [
     "bbd0f71c-7384-4df6-b336-5c2d78ba9612"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:47Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

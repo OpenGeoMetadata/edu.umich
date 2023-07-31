@@ -1,20 +1,25 @@
 {
   "dct_title_s": "Dresden Drawn by W. B. Clarke, Archt., engraved by W. Henshall. Published under the superintendence of the Society for the Diffusion of Useful Knowledge.",
   "dct_description_sm": [
-    "Relief shown by hachures. \"A comparison of the principal buildings in Dresden\" along bottom neat line. 1 map: col., encapsulated in Mylar with buffered paper; 31 x 38 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. \"A comparison of the principal buildings in Dresden\" along bottom neat line. 1 map: col., encapsulated in Mylar with buffered paper; 31 x 38 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Clarke, W. B.,Henshall, W.,Society for the Diffusion of Useful Knowledge (Great Britain)"
+    "Clarke, W. B.",
+    "Henshall, W.",
+    "Society for the Diffusion of Useful Knowledge (Great Britain)"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1833"
@@ -26,17 +31,23 @@
     "[1833 TO 1833]"
   ],
   "dct_spatial_sm": [
-    "Dresden, Saxony, Germany",
+    "Germany--Saxony--Dresden",
     "Germany"
   ],
-  "locn_geometry": "ENVELOPE(13.75,13.7499,51.06,51.05)",
-  "dcat_bbox": "ENVELOPE(13.75,13.7499,51.06,51.05)",
-  "dcat_centroid": "51.055,13.74995",
+  "locn_geometry": "POLYGON((13.704002 51.077641, 13.779533 51.077641, 13.779533 51.035345, 13.704002 51.035345, 13.704002 51.077641))",
+  "dcat_bbox": "ENVELOPE(13.704002,13.779533,51.077641,51.035345)",
+  "dcat_centroid": "51.056493,13.7417675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -45,6 +56,6 @@
   "dct_identifier_sm": [
     "c30393ba-a2de-4deb-9371-3bdb04413a89"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:33Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

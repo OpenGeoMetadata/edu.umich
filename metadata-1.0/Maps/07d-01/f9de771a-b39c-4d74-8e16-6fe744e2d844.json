@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Kamisaka, Yoshishige."
   ],
-  "dc_description_s": "Mounted cover title. Title on map: Kyōto ku kumi meisaizu. Copperplate print. In Japanese. Oriented with north to the left. Relief shown pictorially. Includes distance chart, legend, and index of schools. 1 map: col.; 47 x 70 cm., folded in cover 17 x 13 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Mounted cover title. Title on map: Kyōto ku kumi meisaizu. Copperplate print. In Japanese. Oriented with north to the left. Relief shown pictorially. Includes distance chart, legend, and index of schools. 1 map: col.; 47 x 70 cm., folded in cover 17 x 13 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000902230/39015091921604_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000902230\"}",
   "dct_spatial_sm": [
-    "Kyoto, Kyoto, Japan",
+    "Japan-- Kyoto--Kyoto",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "layer_modified_dt": "2023-02-03T21:20:08Z",
   "dc_language_sm": [
     "eng"
   ],

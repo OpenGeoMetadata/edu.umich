@@ -18,7 +18,9 @@
   ],
   "dcat_keyword_sm": [
     "Canals",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "Approximately 1837"
@@ -31,9 +33,12 @@
     "[1837 TO 1837]"
   ],
   "dct_spatial_sm": [
-    "Clinton Township, Michigan",
+    "Michigan--Clinton Township",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-82.973317 42.630506, -82.855706 42.630506, -82.855706 42.539331, -82.973317 42.539331, -82.973317 42.630506))",
+  "dcat_bbox": "ENVELOPE(-82.973317,-82.855706,42.630506,42.539331)",
+  "dcat_centroid": "42.5849185,-82.9145115",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,7 +46,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -50,6 +58,6 @@
   "dct_identifier_sm": [
     "85fa07f3-2a5c-45ad-876c-35f7d2913e45"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,6 +5,7 @@
   "dc_title_s": "Plan of Detroit, 1830",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "8dea53f3-dd38-476d-b701-c0f919c0be0a",
+  "solr_geom": "ENVELOPE(-83.287959,-82.910439,42.450239,42.255192)",
   "solr_year_i": "1860",
   "dc_creator_sm": [
     "Historic Urban Plans (Firm) http://id.loc.gov/authorities/names/n81127555 http://viaf.org/viaf/132445125"
@@ -13,11 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000079750/39015095416163\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000079750\"}",
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:23:35Z",
   "dc_language_sm": [
     "eng"
   ],

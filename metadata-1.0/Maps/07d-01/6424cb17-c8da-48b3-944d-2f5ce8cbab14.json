@@ -5,9 +5,10 @@
   "dc_title_s": "Africa, central part",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "6424cb17-c8da-48b3-944d-2f5ce8cbab14",
+  "solr_geom": "ENVELOPE(4.92,44.47,12.55,-11.57)",
   "solr_year_i": "1897",
   "dc_creator_sm": [
-    "Century Company."
+    "Century Company"
   ],
   "dc_description_s": "At head of title: The Century atlas. Relief shown by hachures, and spot heights. Depth shown by isolines and soundings. In upper right margin: No. 112. Prime meridian: Greenwich. Inset: Madagascar and Comoro Islands (French). Same scale as main map. 1 map: col., mounted on cloth; 27 x 39 cm",
   "dc_format_s": "JPEG",
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Central Africa"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:50Z",
+  "layer_modified_dt": "2023-02-03T21:16:13Z",
   "dc_language_sm": [
     "eng"
   ],

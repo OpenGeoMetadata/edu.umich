@@ -5,6 +5,7 @@
   "dc_title_s": "The state of New York : compiled from the best authorities",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "ef940b35-ffe2-4d28-8c21-be5b39519b2f",
+  "solr_geom": "ENVELOPE(-74.258843,-73.700233,40.91763,40.476578)",
   "solr_year_i": "1795",
   "dc_creator_sm": [
     "Harrison, William, 1774-"
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:26:14Z",
   "dc_language_sm": [
     "eng"
   ],

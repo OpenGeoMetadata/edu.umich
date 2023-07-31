@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Grand River Harbor, including part of the town of Grand Haven, Michigan from survey made in October 1856 by assistant John R. Mayer under the direction of Brevet Lieut. Col. J.D. Graham, Major U.S. Top. Engineers. Superintending Engineer of Lake Michigan Works.",
   "dct_description_sm": [
-    "The soundings are in feet & tenths of a foot. \"The figures on land express the elevations above the lake surface in feet and decimals. The horizontal curves or contour lines are drawn at intervals of 5 feet of perpendicular elevation.\" \"Accompanying Lt. Colonel J.D. Graham's annual report (no. 161) to Chief Top. Engineer, dated Chicago, November 15th 1856.\" \"Map G. No. 40.\" 1 map; 54 x 99 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "The soundings are in feet & tenths of a foot. \"The figures on land express the elevations above the lake surface in feet and decimals. The horizontal curves or contour lines are drawn at intervals of 5 feet of perpendicular elevation.\" \"Accompanying Lt. Colonel J.D. Graham's annual report (no. 161) to Chief Top. Engineer, dated Chicago, November 15th 1856.\" \"Map G. No. 40.\" 1 map; 54 x 99 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Graham, J. D. (James Duncan), 1799-1865.,Mayer, John R.,United States. Army. Corps of Topographical Engineers."
+    "Graham, J. D. (James Duncan), 1799-1865",
+    "Mayer, J. R. (John R.)",
+    "United States. Army. Corps of Topographical Engineers"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -19,7 +21,10 @@
   "dcat_keyword_sm": [
     "Harbors",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -32,17 +37,23 @@
     "[1856 TO 1856]"
   ],
   "dct_spatial_sm": [
-    "Grand Haven, Michigan",
+    "Michigan--Grand Haven",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(86.254797,-86.196947,43.075496,43.053047)",
-  "dcat_bbox": "ENVELOPE(86.254797,-86.196947,43.075496,43.053047)",
-  "dcat_centroid": "43.064271500000004,0.028925000000000978",
+  "locn_geometry": "POLYGON((-86.256254 43.077527, -86.217939 43.077527, -86.217939 43.054396, -86.256254 43.054396, -86.256254 43.077527))",
+  "dcat_bbox": "ENVELOPE(-86.256254,-86.217939,43.077527,43.054396)",
+  "dcat_centroid": "43.0659615,-86.2370965",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -51,6 +62,6 @@
   "dct_identifier_sm": [
     "45d6d2b1-3e4d-476f-875e-40788bfe4449"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:22Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Dyonnet, Ch."
   ],
-  "dc_description_s": "Includes indexes to roads, religious institutions, theaters, libraries, arrondissements, town halls, and neighborhoods. 1 map: 84 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes indexes to roads, religious institutions, theaters, libraries, arrondissements, town halls, and neighborhoods. 1 map: 84 x 57 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001877682/39015091186331\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001877682\"}",
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "layer_modified_dt": "2023-02-03T21:23:33Z",
   "dc_language_sm": [
     "eng"
   ],

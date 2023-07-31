@@ -5,6 +5,7 @@
   "dc_title_s": "Map of Africa and adjoining portions of Europe and Asia",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "d0b08401-4b5e-4011-9cd7-e8fb59266f87",
+  "solr_geom": "ENVELOPE(-19.27,52.14,37.61,-36.43)",
   "solr_year_i": "1922",
   "dc_description_s": "1 map : col. ; 79 x 70 cm|Legend.|Shows national and imperial boundaries.|Relief shown by shading and spot heights.",
   "dc_format_s": "JPEG",
@@ -12,7 +13,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:50Z",
+  "layer_modified_dt": "2023-02-03T21:20:46Z",
   "dc_language_sm": [
     "eng"
   ],

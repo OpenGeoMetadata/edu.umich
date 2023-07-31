@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Philips' special large scale map of the North Western Frontier.",
   "dct_description_sm": [
-    "Relief shown by spot heights and land forms. Includes 2 insets: \"Military map of Indian Empire\" and \"Overland routes to India\". 1 map: col.; 50 x 69 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by spot heights and land forms. Includes 2 insets: \"Military map of Indian Empire\" and \"Overland routes to India\". 1 map: col.; 50 x 69 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Philip, George & Son."
+    "George Philip & Son"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "ENVELOPE(65.85,90,38,24)",
+  "locn_geometry": "POLYGON((65.85 38, 90 38, 90 24, 65.85 24, 65.85 38))",
   "dcat_bbox": "ENVELOPE(65.85,90,38,24)",
   "dcat_centroid": "31.0,77.925",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003288557/39015091916562\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003288557\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "0069fa01-c427-4261-b771-d5b707196b11"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

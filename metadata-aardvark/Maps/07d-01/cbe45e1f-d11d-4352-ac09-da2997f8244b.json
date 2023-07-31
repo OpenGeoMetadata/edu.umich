@@ -1,20 +1,24 @@
 {
   "dct_title_s": "Plan of the city intended for the permanent seat of the government of t[he] United States projected agreeable to the direction of the President of the United States, in pursuance of an act of Congress passed the sixteenth day of July, MDCCXC, \"establishing the permanent seat on the bank of the Potowmac\"; by Peter Charles L'Enfant.",
   "dct_description_sm": [
-    "Includes text, statistical data, and index to points of interest. 1 map: col.; on sheet 75 x 120 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes text, statistical data, and index to points of interest. 1 map: col.; on sheet 75 x 120 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "L'Enfant, Pierre Charles, 1754-1825.,U.S. Coast and Geodetic Survey."
+    "L'Enfant, Pierre Charles, 1754-1825",
+    "U.S. Coast and Geodetic Survey"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1887"
@@ -26,16 +30,22 @@
     "[1887 TO 1887]"
   ],
   "dct_spatial_sm": [
-    "Washington DC, Washington, D.C."
+    "Washington (D.C.)"
   ],
-  "locn_geometry": "ENVELOPE(-76.9999,-77,38.8301,38.83)",
-  "dcat_bbox": "ENVELOPE(-76.9999,-77,38.8301,38.83)",
-  "dcat_centroid": "38.83005,-76.99995",
+  "locn_geometry": "POLYGON((-77.03495 38.899746, -76.955471 38.899746, -76.955471 38.855379, -77.03495 38.855379, -77.03495 38.899746))",
+  "dcat_bbox": "ENVELOPE(-77.03495,-76.955471,38.899746,38.855379)",
+  "dcat_centroid": "38.877562499999996,-76.9952105",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -44,6 +54,6 @@
   "dct_identifier_sm": [
     "cbe45e1f-d11d-4352-ac09-da2997f8244b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

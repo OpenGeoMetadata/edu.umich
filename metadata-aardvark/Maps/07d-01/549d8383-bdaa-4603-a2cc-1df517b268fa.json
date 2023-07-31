@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Nord-Polar-karte.",
   "dct_description_sm": [
-    "Relief shown by hachures and spot heights. Includes 12 ancillary detailed maps of various polar regions. \"Steiler's hand atlas no. 10.\" 1 map: col.; 34 x 34 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures and spot heights. Includes 12 ancillary detailed maps of various polar regions. \"Steiler's hand atlas no. 10.\" 1 map: col.; 34 x 34 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Stieler, Adolf, 1775-1836."
+    "Stieler, Adolf, 1775-1836"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,11 @@
   ],
   "dcat_keyword_sm": [
     "Polar regions",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1888"
@@ -27,16 +31,22 @@
     "[1888 TO 1888]"
   ],
   "dct_spatial_sm": [
-    "Arctic"
+    "Arctic Regions"
   ],
-  "locn_geometry": "ENVELOPE(-180,-179,90,58.48)",
-  "dcat_bbox": "ENVELOPE(-180,-179,90,58.48)",
-  "dcat_centroid": "74.24,-179.5",
+  "locn_geometry": "ENVELOPE(-180,180,85,58.48)",
+  "dcat_bbox": "ENVELOPE(-180,180,85,58.48)",
+  "dcat_centroid": "71.74,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -45,6 +55,6 @@
   "dct_identifier_sm": [
     "549d8383-bdaa-4603-a2cc-1df517b268fa"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:00Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

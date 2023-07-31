@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-90.43,-82.38,47.63,41.48)",
   "solr_year_i": "1884",
   "dc_creator_sm": [
-    "Stebbins, Henry S.,Michigan School Furniture Company."
+    "Michigan School Furniture Company.",
+    "Stebbins, Henry S."
   ],
-  "dc_description_s": "Washington and Greenwich prime meridians. Includes table of cities and towns with a population over 1,000. Includes advertisement for the \"new fearless desk of the School Furniture co.\". Inset: Isle Royale. 1 map: mounted on cloth, 45 x 44 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Washington and Greenwich prime meridians. Includes table of cities and towns with a population over 1,000. Includes advertisement for the \"new fearless desk of the School Furniture co.\". Inset: Isle Royale. 1 map: mounted on cloth, 45 x 44 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081025/39015091183684\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081025\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "layer_modified_dt": "2023-02-03T21:22:21Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-91,-81,48,41)",
   "solr_year_i": "1844",
   "dc_creator_sm": [
-    "Morse, Sidney E. (Sidney Edwards), 1794-1871.,Breese, Samuel L. (Samuel Livingston), 1794-1870."
+    "Breese, Samuel L. (Samuel Livingston), 1794-1870",
+    "Morse, Sidney E. (Sidney Edwards), 1794-1871"
   ],
-  "dc_description_s": "Greenwich and Washington prime meridians. 1 map: col.; 32 x 37 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Greenwich and Washington prime meridians. 1 map: col.; 32 x 37 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002614399/39015091899255\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002614399\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "layer_modified_dt": "2023-02-03T21:22:21Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Map of Ann Arbor showing campus and buildings of the University of Michigan prepared by Wickes Brothers.",
   "dct_description_sm": [
-    "Concentric radii drawn every quarter-mile. Verso: Key to University and other buildings, description of University buildings, and a bird's-eye view of the campus. MiU copy mounted on chartex. 1 map.: 44 x 36 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Concentric radii drawn every quarter-mile. Verso: Key to University and other buildings, description of University buildings, and a bird's-eye view of the campus. MiU copy mounted on chartex. 1 map.: 44 x 36 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1914"
@@ -26,10 +27,10 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.76,-83.72,42.3,42.27)",
+  "locn_geometry": "POLYGON((-83.76 42.3, -83.72 42.3, -83.72 42.27, -83.76 42.27, -83.76 42.3))",
   "dcat_bbox": "ENVELOPE(-83.76,-83.72,42.3,42.27)",
   "dcat_centroid": "42.285,-83.74000000000001",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000074519/39015091184575\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000074519\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "b772ce7d-55a4-4885-9188-fc59a2ae6de2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

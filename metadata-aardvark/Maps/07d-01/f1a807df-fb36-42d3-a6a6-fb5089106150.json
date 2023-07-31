@@ -15,8 +15,8 @@
   ],
   "dct_creator_sm": [
     "Maury, Matthew Fontaine, 1806-1873. Wind and current charts.",
-    "United States. Bureau of Ordnance and Hydrography.",
-    "United States. Hydrographic Office."
+    "United States. Bureau of Ordnance and Hydrography",
+    "United States. Hydrographic Office"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -35,7 +35,9 @@
     "Sperm whale. fast (OCoLC)fst01129563",
     "Whales. fast (OCoLC)fst01174266",
     "Playing cards Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1852"
@@ -47,6 +49,9 @@
   "gbl_dateRange_drsim": [
     "[1852 TO 1852]"
   ],
+  "locn_geometry": "POLYGON((-169.9 83.1, -7.2 83.1, -7.2 36.2, -169.9 36.2, -169.9 83.1))",
+  "dcat_bbox": "ENVELOPE(-169.9,-7.2,83.1,36.2)",
+  "dcat_centroid": "59.65,-88.55",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,7 +59,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -65,6 +73,6 @@
     "013670634",
     "39015091197270"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:40:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

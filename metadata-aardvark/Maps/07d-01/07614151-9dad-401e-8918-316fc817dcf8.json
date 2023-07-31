@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Meiji kaisei Tōkyō zenzu Sagano Hikotarō.",
   "dct_description_sm": [
-    "Cover title. In Japanese. Oriented with north to the right. Includes address charts by ward (ku), guide for tourists and legend. Shows views of tourist attractions. 1 map: col.; 33 x 46 cm.,folded in cover 15 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Cover title. In Japanese. Oriented with north to the right. Includes address charts by ward (ku), guide for tourists and legend. Shows views of tourist attractions. 1 map: col.; 33 x 46 cm.,folded in cover 15 x 9 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "Meiji 26 i.e. Meiji 21 = 1888"
@@ -26,10 +27,10 @@
     "[1888 TO 1888]"
   ],
   "dct_spatial_sm": [
-    "Tokyo, Tokyo, Japan",
+    "Japan-- Tokyo--Tokyo",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(139.67,139.87,35.75,35.62)",
+  "locn_geometry": "POLYGON((139.67 35.75, 139.87 35.75, 139.87 35.62, 139.67 35.62, 139.67 35.75))",
   "dcat_bbox": "ENVELOPE(139.67,139.87,35.75,35.62)",
   "dcat_centroid": "35.685,139.76999999999998",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932472/39015091920150_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932472\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "07614151-9dad-401e-8918-316fc817dcf8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:36Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

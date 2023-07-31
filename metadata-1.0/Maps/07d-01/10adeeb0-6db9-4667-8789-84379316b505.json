@@ -8,10 +8,10 @@
   "solr_geom": "ENVELOPE(-125.32,-66.93,49.78,24.7)",
   "solr_year_i": "1884",
   "dc_creator_sm": [
-    "McGee, W J, 1853-1912.",
-    "Gannett, Henry, 1846-1914.",
+    "Gannett, Henry, 1846-1914",
+    "Julius Bien & Co., lithographer.",
     "King, Harry, (Harold G. R.), draftsman.",
-    "Julius Bien & Co., lithographer."
+    "McGee, W J, 1853-1912"
   ],
   "dc_description_s": "1 map ; 53 x 81 cm|Shading indicates age of rock.|\"Fifth annual report plate II\"",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:17Z",
+  "layer_modified_dt": "2023-02-03T21:21:43Z",
   "dc_language_sm": [
     "eng"
   ],

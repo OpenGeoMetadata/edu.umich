@@ -1,20 +1,22 @@
 {
   "dct_title_s": "L'isle de France: Parisiẽsis agri descriptio.",
   "dct_description_sm": [
-    "Relief shown pictorially. Possibly from Le Clerc's 1622 edition of \"Theatre Géographique du Royaume de France\" or Tavernier's 1632 edition of \"Theatre geographique du royaume de France.\" From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 32 x 45 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Possibly from Le Clerc's 1622 edition of \"Theatre Géographique du Royaume de France\" or Tavernier's 1632 edition of \"Theatre geographique du royaume de France.\" From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 32 x 45 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Guillotiere, François.,Vignaud, Henry, 1830-1922, former owner. Composite Atlas of France."
+    "Guillotiere, François",
+    "Vignaud, Henry, 1830-1922"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -26,10 +28,10 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Île-de-France, France",
+    "France--Île-de-France",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(2,2.99,49.22,48.69)",
+  "locn_geometry": "POLYGON((2 49.22, 2.99 49.22, 2.99 48.69, 2 48.69, 2 49.22))",
   "dcat_bbox": "ENVELOPE(2,2.99,49.22,48.69)",
   "dcat_centroid": "48.955,2.495",
   "pcdm_memberOf_sm": [
@@ -38,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282087/39015091193865_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282087\"}",
@@ -45,6 +53,6 @@
   "dct_identifier_sm": [
     "9e413f66-fbdd-416c-98c6-fcec30a837bf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:48Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

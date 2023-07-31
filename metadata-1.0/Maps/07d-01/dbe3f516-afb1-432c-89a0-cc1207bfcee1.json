@@ -11,11 +11,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282751/39015091910912\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282751\"}",
   "dct_spatial_sm": [
-    "Windsor,  Ontario,  Canada",
-    "Ontario,  Canada",
+    "Canada-- Ontario--Windsor",
+    " Canada--Ontario",
     "Canada"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:18Z",
+  "layer_modified_dt": "2023-02-03T21:23:07Z",
   "dc_language_sm": [
     "eng"
   ],

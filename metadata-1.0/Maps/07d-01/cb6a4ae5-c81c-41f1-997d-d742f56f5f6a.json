@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-3.65,-2.28,59.4,58.62)",
   "solr_year_i": "1636",
   "dc_creator_sm": [
-    "Hondius, Hendrik, 1597-1651.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+    "Hondius, Hendrik, 1597-1651",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
-  "dc_description_s": "Relief shown pictorially. Title cartouche has fish hanging from it. In the top left corner is Scotland's coat of arms (a lion) with a unicorn on either side and two flags. Numerous ships dot the oceans. This state was published in atlases by Jan Jansson in 1636 and 1637. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 2 maps on one sheet: 37 x 21 cm. and 37 x 27 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Title cartouche has fish hanging from it. In the top left corner is Scotland's coat of arms (a lion) with a unicorn on either side and two flags. Numerous ships dot the oceans. This state was published in atlases by Jan Jansson in 1636 and 1637. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 2 maps on one sheet: 37 x 21 cm. and 37 x 27 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010348284/39015091191737_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010348284\"}",
   "dct_spatial_sm": [
-    "Scotland, United Kingdom"
+    "United Kingdom--Scotland"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "layer_modified_dt": "2023-02-03T21:23:06Z",
   "dc_language_sm": [
     "eng"
   ],

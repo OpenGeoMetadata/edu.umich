@@ -1,20 +1,22 @@
 {
   "dct_title_s": "Map shewing portion of the west coast of Vancouver Island compiled and drawn by direction of The Honerable G. B. Martin Chief Commissioner of Lands and Works.",
   "dct_description_sm": [
-    "MiU copies annotated to show land ownership. 1 map: col., mounted on cloth; 61 x 86 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "MiU copies annotated to show land ownership. 1 map: col., mounted on cloth; 61 x 86 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "British Columbia. Department of Lands and Works.,Martin, G.B."
+    "British Columbia. Department of Lands and Works",
+    "Martin, G.B."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -26,9 +28,9 @@
     "[1897 TO 1897]"
   ],
   "dct_spatial_sm": [
-    "Vancouver Island, British Columbia, Canada"
+    "British Columbia-- Canada--Vancouver Island"
   ],
-  "locn_geometry": "ENVELOPE(-126,-123.5,49.5,48.33)",
+  "locn_geometry": "POLYGON((-126 49.5, -123.5 49.5, -123.5 48.33, -126 48.33, -126 49.5))",
   "dcat_bbox": "ENVELOPE(-126,-123.5,49.5,48.33)",
   "dcat_centroid": "48.915,-124.75",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887544/39015091911134\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887544\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "ae58d95f-59fd-460b-a489-f5b65d7c31f1"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:29Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

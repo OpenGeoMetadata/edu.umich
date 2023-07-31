@@ -1,20 +1,21 @@
 {
   "dct_title_s": "City of Hudson drawn expressly for J.H. Lant's Hudson directory, by Frank P. Lant, c.e.",
   "dct_description_sm": [
-    "North oriented toward upper left. 1 map; 25 x 30 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "North oriented toward upper left. 1 map; 25 x 30 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Lant, Frank P.,Lant, J. H."
+    "Lant, Frank P."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1886"
@@ -27,10 +28,10 @@
     "[1886 TO 1886]"
   ],
   "dct_spatial_sm": [
-    "Hudson, New York",
-    "New York State, New York"
+    "New York--Hudson",
+    "New York--New York State"
   ],
-  "locn_geometry": "ENVELOPE(-73.808974,-73.768079,42.263473,42.239187)",
+  "locn_geometry": "POLYGON((-73.808974 42.263473, -73.768079 42.263473, -73.768079 42.239187, -73.808974 42.239187, -73.808974 42.263473))",
   "dcat_bbox": "ENVELOPE(-73.808974,-73.768079,42.263473,42.239187)",
   "dcat_centroid": "42.251329999999996,-73.7885265",
   "pcdm_memberOf_sm": [
@@ -39,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000946923/39015091904139\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000946923\"}",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "ef669b53-2097-4783-a029-c7c20576712c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

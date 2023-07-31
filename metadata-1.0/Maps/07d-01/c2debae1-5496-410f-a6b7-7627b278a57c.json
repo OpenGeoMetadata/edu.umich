@@ -5,10 +5,11 @@
   "dc_title_s": "Americae nova tabula",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "c2debae1-5496-410f-a6b7-7627b278a57c",
+  "solr_geom": "ENVELOPE(-169.3,-34.8,72.7,-57.5)",
   "solr_year_i": "1640",
   "dc_creator_sm": [
-    "Blaeu, Joan, 1596-1673.",
-    "Blaeu, Cornelis, 1610-1648."
+    "Blaeu, Cornelis, 1610-1649",
+    "Blaeu, Joan, 1596-1673"
   ],
   "dc_description_s": "1 map ; 41 x 55 cm|Relief shown pictorially.|From his \"Theatre du Monde ou Nouvel Atlas\", v.2 pl. 78.|Views of Havana, Santo Domingo, Cartagena, Mexico City, Cuzco, Potosi, Isle Mocha, Rio de Janeiro and Olinda along upper border.|Images of indigenous people along left and right border.|Shows images of sea monsters and ships.|Inset of Greenland and Iceland.|See The Compass No. 2 (Feb. 1962) p. 32.",
   "dc_format_s": "JPEG",
@@ -16,7 +17,7 @@
   "dct_spatial_sm": [
     "Americas"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:59Z",
+  "layer_modified_dt": "2023-02-03T21:16:19Z",
   "dc_language_sm": [
     "lat"
   ],

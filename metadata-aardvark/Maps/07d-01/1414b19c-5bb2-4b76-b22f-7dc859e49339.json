@@ -14,7 +14,7 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
@@ -25,7 +25,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -40,6 +42,9 @@
   "dct_spatial_sm": [
     "France"
   ],
+  "locn_geometry": "POLYGON((-5.17 51.03, 7.92 51.03, 7.92 42.85, -5.17 42.85, -5.17 51.03))",
+  "dcat_bbox": "ENVELOPE(-5.17,7.92,51.03,42.85)",
+  "dcat_centroid": "46.94,1.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,7 +52,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -58,6 +66,6 @@
     "003284862",
     "39015091191307_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:54Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

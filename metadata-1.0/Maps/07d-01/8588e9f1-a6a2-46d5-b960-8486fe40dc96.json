@@ -5,6 +5,7 @@
   "dc_title_s": "Post Route Map",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "8588e9f1-a6a2-46d5-b960-8486fe40dc96",
+  "solr_geom": "ENVELOPE(-72.5416,-69.795,45.289,41.1524)",
   "solr_year_i": "1866",
   "dc_creator_sm": [
     "United States. Post Office Department http://id.loc.gov/authorities/names/n80013583 http://viaf.org/viaf/155868670"
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "New England"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:23:57Z",
   "dc_language_sm": [
     "eng"
   ],

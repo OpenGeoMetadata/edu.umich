@@ -10,13 +10,13 @@
   "dc_creator_sm": [
     "Geological Survey (U.S.)"
   ],
-  "dc_description_s": "Contour interval 100 feet. Engraved by George S. Harris & Sons. Wooded areas in green. Issued in 2 sheets. 1 map: col., dissected in 4 pieces and mounted on linen; 107 x 134 cm, folded to 55 x 72 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Contour interval 100 feet. Engraved by George S. Harris & Sons. Wooded areas in green. Issued in 2 sheets. 1 map: col., dissected in 4 pieces and mounted on linen; 107 x 134 cm, folded to 55 x 72 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000082214/39015091903784_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000082214\"}",
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "layer_modified_dt": "2023-02-03T21:20:56Z",
   "dc_language_sm": [
     "eng"
   ],

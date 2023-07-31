@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-86.37,-86.24,32.42,32.32)",
   "solr_year_i": "1954",
   "dc_creator_sm": [
-    "Hay, Edwin."
+    "Hayden, Horace Edwin, 1837-1917"
   ],
   "dc_description_s": "1 map : color, 68 x 88 cm|Corrected to Jan. 1, 1954.|Includes streets, street index, population statistics, and ward boundaries.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003286620/39015091916125_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003286620\"}",
   "dct_spatial_sm": [
-    "Montgomery,  Alabama",
+    "Alabama--Montgomery",
     "Alabama"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:17Z",
+  "layer_modified_dt": "2023-02-03T21:22:30Z",
   "dc_language_sm": [
     "eng"
   ],

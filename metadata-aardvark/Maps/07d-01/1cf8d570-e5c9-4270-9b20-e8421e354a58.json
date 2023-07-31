@@ -1,20 +1,26 @@
 {
   "dct_title_s": "Planisphaerium terrestre cum utroque coelesti hemisphaerio ... = Vlakke ared-kloot met het beide hemelsch half-rond ...; opera et studio A.F. Zürneri.",
   "dct_description_sm": [
-    "Surrounded by two celestial maps, 26 astronomical and geographical diagrams, and ill. Includes text explaining the ill. Includes ills. of the Norwegian whirlpool, tides and Mt. Etna. 1 map: hand col., mounted on cloth; 2 hemispheres each 28 cm. in diam., on sheet 51 x 58 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Surrounded by two celestial maps, 26 astronomical and geographical diagrams, and ill. Includes text explaining the ill. Includes ills. of the Norwegian whirlpool, tides and Mt. Etna. 1 map: hand col., mounted on cloth; 2 hemispheres each 28 cm. in diam., on sheet 51 x 58 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Zürner, Adam Friedrich, 1679-1742."
+    "Zürner, Adam Friedrich, 1679-1742"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1710"
@@ -37,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000078118/39015091197262\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000078118\"}",
@@ -44,6 +56,6 @@
   "dct_identifier_sm": [
     "1cf8d570-e5c9-4270-9b20-e8421e354a58"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:53Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

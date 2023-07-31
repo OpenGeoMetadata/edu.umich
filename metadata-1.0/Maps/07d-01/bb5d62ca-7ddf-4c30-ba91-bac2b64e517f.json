@@ -14,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013538301/39015091897168\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013538301\"}",
   "dct_spatial_sm": [
-    "Sturgis,  Michigan",
+    "Michigan--Sturgis",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:06Z",
+  "layer_modified_dt": "2023-02-03T21:16:53Z",
   "dc_language_sm": [
     "eng"
   ],

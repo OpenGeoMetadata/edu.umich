@@ -5,6 +5,7 @@
   "dc_title_s": "M.M. Dickson & Co.'s township and sectional pocket map of Washtenaw County, Michigan.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "c593ac33-119c-491b-8bf7-59e99e269fb3",
+  "solr_geom": "ENVELOPE(-84.134066,-83.539396,42.435185,42.071577)",
   "solr_year_i": "1896",
   "dc_creator_sm": [
     "M.M. Dickson & Co."
@@ -13,11 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004978843/39015091184815\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004978843\"}",
   "dct_spatial_sm": [
-    "Washtenaw County, Michigan",
+    "Michigan--Washtenaw County",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:22:28Z",
   "dc_language_sm": [
     "eng"
   ],

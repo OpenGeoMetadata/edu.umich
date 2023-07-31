@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(17,66,43,-3)",
   "solr_year_i": "1855",
   "dc_creator_sm": [
-    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+    "Colton, G. Woolworth (George Woolworth), 1827-1901"
   ],
-  "dc_description_s": "Relief shown by hachures. Inset: Delta of the Nile. Shows northeastern Africa from Tunisia to Somalia. Prime meridian: Washington, D.C. No. 34 in Colton, G.W. \"Atlas of the world\", v.2 1856. 1 map: col.; 36 x 31 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Inset: Delta of the Nile. Shows northeastern Africa from Tunisia to Somalia. Prime meridian: Washington, D.C. No. 34 in Colton, G.W. \"Atlas of the world\", v.2 1856. 1 map: col.; 36 x 31 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280917/39015091916133\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280917\"}",
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "layer_modified_dt": "2023-02-03T21:16:14Z",
   "dc_language_sm": [
     "eng"
   ],

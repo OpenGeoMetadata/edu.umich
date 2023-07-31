@@ -28,7 +28,7 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-106.57,-64.77,60.67,40.27)",
+  "locn_geometry": "POLYGON((-106.57 60.67, -64.77 60.67, -64.77 40.27, -106.57 40.27, -106.57 60.67))",
   "dcat_bbox": "ENVELOPE(-106.57,-64.77,60.67,40.27)",
   "dcat_centroid": "50.47,-85.66999999999999",
   "pcdm_memberOf_sm": [
@@ -36,6 +36,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -46,6 +52,6 @@
     "003879308",
     "39015091186019"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

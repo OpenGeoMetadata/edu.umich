@@ -8,7 +8,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Sanborn Map Company."
+    "Sanborn Map Company"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -21,7 +21,9 @@
     "Real property"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1916"
@@ -34,17 +36,27 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-83.799572 42.323889, -83.675807 42.323889, -83.675807 42.222668, -83.799572 42.222668, -83.799572 42.323889))",
+  "dcat_bbox": "ENVELOPE(-83.799572,-83.675807,42.323889,42.222668)",
+  "dcat_centroid": "42.2732785,-83.7376895",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -53,6 +65,6 @@
   "dct_identifier_sm": [
     "a40c112a-e108-4045-b4cb-869ac8b6969d"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:07Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

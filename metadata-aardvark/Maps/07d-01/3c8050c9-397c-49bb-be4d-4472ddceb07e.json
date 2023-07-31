@@ -1,20 +1,24 @@
 {
   "dct_title_s": "Plan of Detroit Woodward,Augustus Brevoort.",
   "dct_description_sm": [
-    "Facsimile. \"Reproduced ... from the original in the Cornell University Library.\" \"This is number 125 of an edition limited to 500 copies.\" 1 map; 26 x 21 cm, on sheet 48 x 38 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Facsimile. \"Reproduced ... from the original in the Cornell University Library.\" \"This is number 125 of an edition limited to 500 copies.\" 1 map; 26 x 21 cm, on sheet 48 x 38 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Woodward, Augustus B. (Augustus Brevoort), 1774-1827.,Historic Urban Plans (Firm)"
+    "Historic Urban Plans (Firm)",
+    "Woodward, Augustus B. (Augustus Brevoort), 1774-1827"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1860"
@@ -26,17 +30,23 @@
     "[1860 TO 1860]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.0499,-83.05,42.3301,42.33)",
-  "dcat_bbox": "ENVELOPE(-83.0499,-83.05,42.3301,42.33)",
-  "dcat_centroid": "42.33005,-83.04995",
+  "locn_geometry": "POLYGON((-83.066676 42.342392, -83.028292 42.342392, -83.028292 42.322544, -83.066676 42.322544, -83.066676 42.342392))",
+  "dcat_bbox": "ENVELOPE(-83.066676,-83.028292,42.342392,42.322544)",
+  "dcat_centroid": "42.332468,-83.047484",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -45,6 +55,6 @@
   "dct_identifier_sm": [
     "3c8050c9-397c-49bb-be4d-4472ddceb07e"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:12Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

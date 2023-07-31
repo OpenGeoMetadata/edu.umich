@@ -5,6 +5,7 @@
   "dc_title_s": "Federal new numbering system map of Detroit and environs: showing all streets and changes, new car lines, etc.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "71347a1b-537c-4218-baed-615233503120",
+  "solr_geom": "ENVELOPE(-83.288,-82.9104,42.4504,42.2552)",
   "solr_year_i": "1920",
   "dc_creator_sm": [
     "Federal Lithograph Company."
@@ -13,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003562669/39015049936795\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003562669\"}",
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-27T14:44:18Z",
+  "layer_modified_dt": "2023-02-03T21:18:30Z",
   "dc_language_sm": [
     "eng"
   ],

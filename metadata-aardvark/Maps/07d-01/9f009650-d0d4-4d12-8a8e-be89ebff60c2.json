@@ -1,20 +1,25 @@
 {
   "dct_title_s": "Williams and Bushnell's new map of Florida; compiled from the surveys of the U.S. Central Land Office, the U.S. coast surveys, private surveys, and other original sources by Arthur T. Williams and John W. Bushnell; drawn by F.C. Rotxoll.; New map of Florida",
   "dct_description_sm": [
-    "Hand colored. Inset: Map of the western portion of Florida. 1 map: hand col.; 147 x 109 cm., on sheet 155 x 115 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Hand colored. Inset: Map of the western portion of Florida. 1 map: hand col.; 147 x 109 cm., on sheet 155 x 115 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Williams, Arthur T.,Bushnell, John W.,Rotxoll, F. C.,Welcke, Robert A.,Williams & Bushnell."
+    "Bushnell, John W.",
+    "Rotxoll, F. C.",
+    "Welcke, Robert A.",
+    "Williams, Arthur T.",
+    "Williams & Bushnell."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -28,7 +33,7 @@
   "dct_spatial_sm": [
     "Florida"
   ],
-  "locn_geometry": "ENVELOPE(-85,-80,30,25)",
+  "locn_geometry": "POLYGON((-85 30, -80 30, -80 25, -85 25, -85 30))",
   "dcat_bbox": "ENVELOPE(-85,-80,30,25)",
   "dcat_centroid": "27.5,-82.5",
   "pcdm_memberOf_sm": [
@@ -37,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008583960/39015091905136\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008583960\"}",
@@ -44,6 +55,6 @@
   "dct_identifier_sm": [
     "9f009650-d0d4-4d12-8a8e-be89ebff60c2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:37Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

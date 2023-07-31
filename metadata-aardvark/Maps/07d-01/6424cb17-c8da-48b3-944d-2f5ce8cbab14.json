@@ -7,14 +7,16 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Century Company."
+    "Century Company"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -29,6 +31,9 @@
   "dct_spatial_sm": [
     "Central Africa"
   ],
+  "locn_geometry": "POLYGON((4.92 12.55, 44.47 12.55, 44.47 -11.57, 4.92 -11.57, 4.92 12.55))",
+  "dcat_bbox": "ENVELOPE(4.92,44.47,12.55,-11.57)",
+  "dcat_centroid": "0.4900000000000002,24.695",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -36,7 +41,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -45,6 +53,6 @@
   "dct_identifier_sm": [
     "6424cb17-c8da-48b3-944d-2f5ce8cbab14"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:35:44Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

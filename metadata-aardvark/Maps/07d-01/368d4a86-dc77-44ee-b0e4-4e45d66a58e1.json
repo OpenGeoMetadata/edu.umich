@@ -35,6 +35,9 @@
   "dct_spatial_sm": [
     "Japan"
   ],
+  "locn_geometry": "POLYGON((122.71 45.71, 154.21 45.71, 154.21 20.21, 122.71 20.21, 122.71 45.71))",
+  "dcat_bbox": "ENVELOPE(122.71,154.21,45.71,20.21)",
+  "dcat_centroid": "32.96,138.46",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,7 +45,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -53,6 +59,6 @@
     "003109975",
     "39015091920572_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:38Z",
+  "gbl_mdModified_dt": "2023-02-28T04:15:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

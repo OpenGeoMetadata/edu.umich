@@ -5,16 +5,16 @@
   "dc_title_s": "Super highway and major thoroughfare plan for the City of Detroit and vicinity",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "16b21bfe-d816-4496-9a24-b71cff36660a",
+  "solr_geom": "ENVELOPE(-83.287959,-82.910439,42.450239,42.255192)",
   "solr_year_i": "1925",
   "dc_description_s": "1 map : col. ; 46 x 49 cm|Depths shown by soundings.|Shows super highways, secondary highways, proposed highways on unopened roads and city limits.|Ford Motor Co. properties are highlighted.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003564762/39015091916034\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003564762\"}",
   "dct_spatial_sm": [
-    "Detroit,  Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:25:56Z",
   "dc_language_sm": [
     "eng"
   ],

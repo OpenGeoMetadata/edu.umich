@@ -5,6 +5,7 @@
   "dc_title_s": "Federal map of Detroit and environs.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "1b5cf2fc-4d8b-4b36-a6e8-d8d944f1618e",
+  "solr_geom": "ENVELOPE(-83.288,-82.9104,42.4502,42.2552)",
   "solr_year_i": "1920",
   "dc_creator_sm": [
     "Federal Lithograph Company."
@@ -13,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003785033/39015049936803_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003785033\"}",
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:51Z",
+  "layer_modified_dt": "2023-02-03T21:18:30Z",
   "dc_language_sm": [
     "eng"
   ],

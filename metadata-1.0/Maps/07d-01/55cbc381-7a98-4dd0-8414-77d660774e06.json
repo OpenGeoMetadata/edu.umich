@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "George Wahr Publishing Company."
   ],
-  "dc_description_s": "M.C. in lower right corner of map. 1 map; 19 x 19 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "M.C. in lower right corner of map. 1 map; 19 x 19 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005136572/39015091184583\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005136572\"}",
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "layer_modified_dt": "2023-02-03T21:20:47Z",
   "dc_language_sm": [
     "eng"
   ],

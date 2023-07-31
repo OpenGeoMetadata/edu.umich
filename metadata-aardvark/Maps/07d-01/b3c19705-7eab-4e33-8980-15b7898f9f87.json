@@ -26,7 +26,8 @@
     "Railroads Massachusetts Maps.",
     "Boundary disputes Maps.",
     "Manuscript maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1873"
@@ -41,6 +42,9 @@
   "dct_spatial_sm": [
     "Massachusetts"
   ],
+  "locn_geometry": "POLYGON((-73.508142 42.886589, -69.928393 42.886589, -69.928393 41.237964, -73.508142 41.237964, -73.508142 42.886589))",
+  "dcat_bbox": "ENVELOPE(-73.508142,-69.928393,42.886589,41.237964)",
+  "dcat_centroid": "42.062276499999996,-71.7182675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,7 +52,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -59,6 +66,6 @@
     "012767662",
     "39015091903842"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:35:53Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

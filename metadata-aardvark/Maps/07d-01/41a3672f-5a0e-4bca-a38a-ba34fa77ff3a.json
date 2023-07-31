@@ -1,7 +1,7 @@
 {
   "dct_title_s": "York: township no. 4 south range no. 6 east.",
   "dct_description_sm": [
-    "Map shows York Township, Michigan. Property owners and location of map are handwritten on a printed template. \"Presented to the Washtenaw Co. Pioneer Society by L.G. Risdon, May 20th 1885\" written on verso of map. 1 map; 31 x 31 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Map shows York Township, Michigan. Property owners and location of map are handwritten on a printed template. \"Presented to the Washtenaw Co. Pioneer Society by L.G. Risdon, May 20th 1885\" written on verso of map. 1 map; 31 x 31 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,7 +19,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -32,10 +33,10 @@
     "[1885 TO 1885]"
   ],
   "dct_spatial_sm": [
-    "York Township, Michigan",
+    "Michigan--York Township",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.78,-83.66,42.17,42.08)",
+  "locn_geometry": "POLYGON((-83.78 42.17, -83.66 42.17, -83.66 42.08, -83.78 42.08, -83.78 42.17))",
   "dcat_bbox": "ENVELOPE(-83.78,-83.66,42.17,42.08)",
   "dcat_centroid": "42.125,-83.72",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013529535/39015091197510_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013529535\"}",
@@ -51,6 +58,6 @@
   "dct_identifier_sm": [
     "41a3672f-5a0e-4bca-a38a-ba34fa77ff3a"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

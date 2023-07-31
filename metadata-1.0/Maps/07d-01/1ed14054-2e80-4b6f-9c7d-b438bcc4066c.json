@@ -8,9 +8,11 @@
   "solr_geom": "ENVELOPE(-90.42,-82.4,47.5,41.55)",
   "solr_year_i": "1878",
   "dc_creator_sm": [
-    "Cram, George Franklin, 1841-1928.,Michigan Railroad Commission.,Western Map Depot."
+    "Cram, George Franklin, 1841-1928",
+    "Michigan Railroad Commission",
+    "Western Map Depot."
   ],
-  "dc_description_s": "Prime meridian: Washington. Inset: [Western Upper Peninsula] 1 map: hand col.; 99 x 73 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Prime meridian: Washington. Inset: [Western Upper Peninsula] 1 map: hand col.; 99 x 73 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +21,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:23Z",
+  "layer_modified_dt": "2023-02-03T21:24:14Z",
   "dc_language_sm": [
     "eng"
   ],

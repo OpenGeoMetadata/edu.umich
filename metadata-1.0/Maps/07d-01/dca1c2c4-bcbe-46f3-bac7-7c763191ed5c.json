@@ -5,6 +5,7 @@
   "dc_title_s": "Booklovers map of America, a chart of certain landmarks of literary geography.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "dca1c2c4-bcbe-46f3-bac7-7c763191ed5c",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1926",
   "dc_description_s": "1 map : col. ; 48 x 67 cm.|Also shows southern Canada and northern Mexico.|Relief shown by hachures.|\"Copyright by Paul M. Paine ...\"|Includes 6 local area insets and global view of North America and Hawaii.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:16:57Z",
   "dc_language_sm": [
     "eng"
   ],

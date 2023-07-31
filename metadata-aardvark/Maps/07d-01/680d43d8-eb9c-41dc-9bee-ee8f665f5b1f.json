@@ -1,20 +1,21 @@
 {
   "dct_title_s": "China, Japan, &c.; China, Japan, etc.",
   "dct_description_sm": [
-    "Relief shown pictorially. Prime meridians: London and Washington. Appears in Bradford's A Comprehensive atlas geographical, historical & commercial. Boston: American Stationers' Company, 1835. \"125\". This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Prime meridians: London and Washington. Appears in Bradford's A Comprehensive atlas geographical, historical & commercial. Boston: American Stationers' Company, 1835. \"125\"."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Bradford, T. G. (Thomas Gamaliel), 1802-1887."
+    "Bradford, T. G. (Thomas Gamaliel), 1802-1887"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1835"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Eastern Asia"
   ],
-  "locn_geometry": "ENVELOPE(93,143,40,20)",
+  "locn_geometry": "POLYGON((93 40, 143 40, 143 20, 93 20, 93 40))",
   "dcat_bbox": "ENVELOPE(93,143,40,20)",
   "dcat_centroid": "30.0,118.0",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006814646/39015091916638\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006814646\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "680d43d8-eb9c-41dc-9bee-ee8f665f5b1f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

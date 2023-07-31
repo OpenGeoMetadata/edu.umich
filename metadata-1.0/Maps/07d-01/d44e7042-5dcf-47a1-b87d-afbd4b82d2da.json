@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-6.03,-0.4,38.57,34.82)",
   "solr_year_i": "1636",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "dc_description_s": "1 map ; 38 x 50 cm.|Relief shown pictorially.|Includes the coat of arms of Granada and Murcia on Spain and ships on the ocean.|The title cartouche is framed by two griffins and the scale cartouche includes a cartographer with his tools and a globe.|From his \"Atlas Novus\" which is a reissue of the \"Atlas Major\" of 1675 without the text.|This state was published in atlases by Jan Jansson in 1636, 1637, and 1680.|From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan.",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Spain"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-03T21:19:14Z",
   "dc_language_sm": [
     "lat"
   ],

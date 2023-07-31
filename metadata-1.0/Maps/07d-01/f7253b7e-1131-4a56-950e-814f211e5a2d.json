@@ -5,10 +5,11 @@
   "dc_title_s": "Michigan, southern part",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "f7253b7e-1131-4a56-950e-814f211e5a2d",
+  "solr_geom": "ENVELOPE(-86.842,-82.1228,45.8478,41.6961)",
   "solr_year_i": "1897",
   "dc_creator_sm": [
-    "Century Company.",
-    "Matthews-Northrup Company."
+    "Century Company",
+    "Matthews-Northrup Company"
   ],
   "dc_description_s": "Contour lines show elevations in feet above sea level applies to depths only. At head of title: The Century atlas. Insets: St. Clair River -- Detroit River. \"No. 23.\" 1 map: col.; 36 x 27 cm.",
   "dc_format_s": "JPEG",
@@ -16,7 +17,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:50Z",
+  "layer_modified_dt": "2023-02-03T21:22:21Z",
   "dc_language_sm": [
     "eng"
   ],

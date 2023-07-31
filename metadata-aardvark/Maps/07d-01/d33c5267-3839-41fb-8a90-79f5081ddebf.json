@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Sketch map of the province of British Columbia; Lands and Works Department.",
   "dct_description_sm": [
-    "Printed by Richard Wolfenden, printer to the queen's most excellent majesty. 1 map: col.; 47 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Printed by Richard Wolfenden, printer to the queen's most excellent majesty. 1 map: col.; 47 x 52 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "British Columbia. Department of Lands and Works.,Cookson, Cecil H."
+    "British Columbia. Department of Lands and Works",
+    "Cookson, Cecil H."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +16,8 @@
   ],
   "dcat_keyword_sm": [
     "Administrative and political divisions",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -27,9 +29,9 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "British Columbia, Canada"
+    "Canada--British Columbia"
   ],
-  "locn_geometry": "ENVELOPE(-141,-111,61,48)",
+  "locn_geometry": "POLYGON((-141 61, -111 61, -111 48, -141 48, -141 61))",
   "dcat_bbox": "ENVELOPE(-141,-111,61,48)",
   "dcat_centroid": "54.5,-126.0",
   "pcdm_memberOf_sm": [
@@ -38,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010328793/39015091911092\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010328793\"}",
@@ -45,6 +53,6 @@
   "dct_identifier_sm": [
     "d33c5267-3839-41fb-8a90-79f5081ddebf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:39Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

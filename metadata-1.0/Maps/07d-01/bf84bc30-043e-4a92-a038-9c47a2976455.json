@@ -5,6 +5,7 @@
   "dc_title_s": "New National authentic map of Detroit and environs",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "bf84bc30-043e-4a92-a038-9c47a2976455",
+  "solr_geom": "ENVELOPE(-83.287959,-82.910439,42.450239,42.255192)",
   "solr_year_i": "1947",
   "dc_creator_sm": [
     "Keystone Sales Company."
@@ -13,11 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001082911/39015049932208\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001082911\"}",
   "dct_spatial_sm": [
-    "Wayne County,  Michigan",
+    "Michigan--Wayne County",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:57Z",
+  "layer_modified_dt": "2023-02-03T21:22:48Z",
   "dc_language_sm": [
     "eng"
   ],

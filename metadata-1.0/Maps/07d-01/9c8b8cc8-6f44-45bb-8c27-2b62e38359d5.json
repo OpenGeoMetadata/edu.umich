@@ -5,6 +5,7 @@
   "dc_title_s": "Map shewing railway systems & mines in connection with the property of the American Coal & Coke Corporation Limited",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "9c8b8cc8-6f44-45bb-8c27-2b62e38359d5",
+  "solr_geom": "ENVELOPE(-90.32,-75.45,41.64,34.68)",
   "solr_year_i": "1887",
   "dc_creator_sm": [
     "American Coal & Coke Corporation."
@@ -18,8 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:21:48Z",
   "dc_language_sm": [
     "eng"
   ],

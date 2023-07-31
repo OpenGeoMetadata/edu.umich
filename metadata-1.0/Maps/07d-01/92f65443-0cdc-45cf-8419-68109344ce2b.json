@@ -5,6 +5,7 @@
   "dc_title_s": "Rand McNally and Co.'s Chicago city railway directory and street number guide.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "92f65443-0cdc-45cf-8419-68109344ce2b",
+  "solr_geom": "ENVELOPE(-87.940101,-87.524081,42.02304,41.644531)",
   "solr_year_i": "1893",
   "dc_description_s": "v. : maps (part fold.) ; 14-18 cm|Includes map street map of Chicago and map showing ward boundaries.",
   "dc_format_s": "JPEG",
@@ -13,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001718038/39015091899602_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001718038\"}",
   "dct_spatial_sm": [
-    "Chicago,  Illinois",
+    "Illinois--Chicago",
     "Illinois"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:57Z",
+  "layer_modified_dt": "2023-02-03T21:24:16Z",
   "dc_language_sm": [
     "eng"
   ],

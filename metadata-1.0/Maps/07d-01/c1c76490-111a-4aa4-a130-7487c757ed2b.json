@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-61.02,-51,52.87,46.4)",
   "solr_year_i": "1775",
   "dc_creator_sm": [
-    "Cook, James, 1728-1779.",
+    "Cook, James, 1728-1779",
     "Robert Sayer and John Bennett (Firm)"
   ],
   "dc_description_s": "col. map ; 55 x 56 cm|Relief shown pictorially. Depths shown by soundings.|Four copies. Copy 1, Newfoundland and ocean colored in. Copy 2, Newfoundland outlined in yellow and green. Copy 3, Newfoundland outlined in brown. Copy 4, only Labrador coast outlined.|From the author's The American atlas. 1775.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003277693/39015091195803\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003277693\"}",
   "dct_spatial_sm": [
-    "Newfoundland and Labrador, Canada"
+    "Canada--Newfoundland and Labrador"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:03Z",
+  "layer_modified_dt": "2023-02-03T21:16:01Z",
   "dc_language_sm": [
     "eng"
   ],

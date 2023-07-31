@@ -5,6 +5,7 @@
   "dc_title_s": "Dōban Kinai shōran furoku Nan'yō yonshū shōranzu : Ashū yori Doshū ni itaru subete yonshu / Seisendō Ryōkuzan sakuzu narabini dōsen. (銅版畿内掌覽附録南洋四刕掌覽圖 : 自阿州至土州凣四州 / 清泉堂綠山作図並銅鐫)",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "368d4a86-dc77-44ee-b0e4-4e45d66a58e1",
+  "solr_geom": "ENVELOPE(122.71,154.21,45.71,20.21)",
   "solr_year_i": "1865",
   "dc_description_s": "1 map ; 32 x 52 cm, folded in cover 17 x 8 cm|Copperplate print.|Oriented with north to the upper right.|Includes districts' names, kokudaka and legend.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-28T04:15:05Z",
   "dc_language_sm": [
     "jpn"
   ],

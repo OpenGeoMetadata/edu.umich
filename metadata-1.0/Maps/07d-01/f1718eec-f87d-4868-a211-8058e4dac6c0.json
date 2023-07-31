@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-180,180,90,-90)",
   "solr_year_i": "1674",
   "dc_creator_sm": [
-    "Sanson, Guillaume.,Jaillot, Alexis Hubert, 1632?-1712."
+    "Jaillot, Alexis Hubert, 1632?-1712",
+    "Sanson, Guillaume"
   ],
-  "dc_description_s": "Relief shown pictorially. 1 map col. 55 x 89 cm. on 2 sheets joined. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. 1 map col. 55 x 89 cm. on 2 sheets joined.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004131229/39015091197890\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004131229\"}",
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:47Z",
+  "layer_modified_dt": "2023-06-23T22:01:03Z",
   "dc_language_sm": [
     "eng"
   ],

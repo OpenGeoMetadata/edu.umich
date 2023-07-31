@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Americae sive novi orbis, nova descriptio.",
   "dct_description_sm": [
-    "Relief shown pictorially. On verso: Text and plate number \"2.\" Appeared as pl. 2 in his Theatrum orbis terrarum. Antwerp, 1570. Decorative cartouche. 1 map: hand col.; 35 x 48 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. On verso: Text and plate number \"2.\" Appeared as pl. 2 in his Theatrum orbis terrarum. Antwerp, 1570. Decorative cartouche. 1 map: hand col.; 35 x 48 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Ortelius, Abraham, 1527-1598."
+    "Ortelius, Abraham, 1527-1598"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -19,7 +19,8 @@
     "Military maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1570?"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "Americas"
   ],
-  "locn_geometry": "ENVELOPE(-124.75,-32.87,49,-55.7)",
+  "locn_geometry": "POLYGON((-124.75 49, -32.87 49, -32.87 -55.7, -124.75 -55.7, -124.75 49))",
   "dcat_bbox": "ENVELOPE(-124.75,-32.87,49,-55.7)",
   "dcat_centroid": "-3.3500000000000014,-78.81",
   "pcdm_memberOf_sm": [
@@ -43,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004049374/39015091198518\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004049374\"}",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "2f6742ce-2def-48da-9204-d40195334b48"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

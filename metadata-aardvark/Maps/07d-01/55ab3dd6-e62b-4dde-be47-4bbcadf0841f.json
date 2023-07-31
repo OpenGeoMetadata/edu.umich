@@ -1,20 +1,21 @@
 {
   "dct_title_s": "North part of Ann Arbor and environs: County seat of Washtenaw Co., Mich., Ann Arbor and Pittsfield twps.",
   "dct_description_sm": [
-    "Negative photostat, reduced. 1 map 17 x 18 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Negative photostat, reduced. 1 map 17 x 18 in."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geo. A. Ogle & Co."
+    "Geo. A. Ogle & Company"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1915"
@@ -26,10 +27,10 @@
     "[1915 TO 1915]"
   ],
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.77,-83.72,42.3,42.25)",
+  "locn_geometry": "POLYGON((-83.77 42.3, -83.72 42.3, -83.72 42.25, -83.77 42.25, -83.77 42.3))",
   "dcat_bbox": "ENVELOPE(-83.77,-83.72,42.3,42.25)",
   "dcat_centroid": "42.275,-83.745",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003983125/39015091184740\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003983125\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "55ab3dd6-e62b-4dde-be47-4bbcadf0841f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

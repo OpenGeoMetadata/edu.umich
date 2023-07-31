@@ -5,10 +5,11 @@
   "dc_title_s": "Pocket map of greater Detroit.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "5cdc4e30-19e7-4dce-b1a8-3d3b9905adcc",
+  "solr_geom": "ENVELOPE(-83.287959,-82.910439,42.450239,42.255192)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
-    "Silas Farmer & Co.",
-    "Farmer, Arthur John, 1876-"
+    "Farmer, Arthur John, 1876-",
+    "Silas Farmer & Co."
   ],
   "dc_description_s": "Oriented with north to the upper right. Shows street railroads. \"Copyright 1907 by A. J. Farmer.\" Includes text explaining ward boundaries, advertisement, and ill. Street index, advertisement, and \"Map of that part of Fairview now annexed to Detroit\" on verso. 1 map: col.; 41 x 59 cm.",
   "dc_format_s": "JPEG",
@@ -17,10 +18,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003929050/39015091884331\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003929050\"}",
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:23:51Z",
   "dc_language_sm": [
     "eng"
   ],

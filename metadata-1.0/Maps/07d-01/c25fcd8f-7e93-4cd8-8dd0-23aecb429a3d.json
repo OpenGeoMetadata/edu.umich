@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(138.68,140.23,35.68,33)",
   "solr_year_i": "1842",
   "dc_creator_sm": [
-    "Abe, Rekisai, publisher.",
-    "Takada, Shinshō, publisher.",
-    "Sobajima, Seishin, publisher."
+    "Abe, Rekisai",
+    "Sobajima, Seishin, publisher.",
+    "Takada, Shinshō, publisher."
   ],
   "dc_description_s": "1 map : col. ; 75 x 106 cm., folded in covers 26 x 18 cm.|Wood block print.|Relief shown pictorially.|Oriented with north to the left.|Date of publication taken from: Nanba, M. et al. Old maps in Japan. Osaka : Sōgensha, 1973. P. 81.|Includes copious notes on the Izu Islands.|Shows distances between important points.",
   "dc_format_s": "JPEG",
@@ -18,7 +18,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-03T21:26:59Z",
   "dc_language_sm": [
     "jpn"
   ],

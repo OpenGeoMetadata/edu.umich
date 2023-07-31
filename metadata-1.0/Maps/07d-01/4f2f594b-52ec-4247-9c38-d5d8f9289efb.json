@@ -5,10 +5,11 @@
   "dc_title_s": "Americae descrip",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "4f2f594b-52ec-4247-9c38-d5d8f9289efb",
+  "solr_geom": "ENVELOPE(-169.3,-34.8,72.7,-57.5)",
   "solr_year_i": "1626",
   "dc_creator_sm": [
-    "Mercator, Gerhard, 1512-1594.",
-    "Purchas, Samuel, 1577?-1626."
+    "Mercator, Gerhard, 1512-1594",
+    "Purchas, Samuel, 1577?-1626"
   ],
   "dc_description_s": "1 map : hand col. ; 14 x 19 cm.|Relief shown pictorially.|Title in strapwork cartouche.|Heading on verso: American seas: Spanish course and customes in those navigations. Lib. V.|Descriptive text on verso in English.|On pp. 857 and 858.|From Purchas his pilgrimes.|Matches Burden's description.",
   "dc_format_s": "JPEG",
@@ -16,8 +17,7 @@
   "dct_spatial_sm": [
     "Americas"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:59Z",
+  "layer_modified_dt": "2023-02-03T21:16:19Z",
   "dc_language_sm": [
     "lat"
   ],

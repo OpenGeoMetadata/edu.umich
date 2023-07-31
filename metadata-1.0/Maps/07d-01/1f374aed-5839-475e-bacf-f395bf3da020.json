@@ -5,9 +5,10 @@
   "dc_title_s": "Map of the Mississippi River, from Cairo to the Gulf of Mexico",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "1f374aed-5839-475e-bacf-f395bf3da020",
+  "solr_geom": "ENVELOPE(-94.46,-88.8,48.57,29.31)",
   "solr_year_i": "1862",
   "dc_creator_sm": [
-    "Leslie, Frank, 1821-1880."
+    "Leslie, Frank, 1821-1880"
   ],
   "dc_description_s": "1 map in 3 sections ; 38 x 51 cm|Detached from Frank Leslie's Illustrated newspaper, May 10, 1862.",
   "dc_format_s": "JPEG",
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "Mississippi River"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:21:35Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,17 +8,16 @@
   "solr_geom": "ENVELOPE(-83.57,-82.83,42.45,42)",
   "solr_year_i": "1913",
   "dc_creator_sm": [
-    "Michigan. Geological Survey."
+    "Michigan. Geological Survey Division"
   ],
-  "dc_description_s": "Publication XII, Geological series 9, plate X. Relief shown by contour lines and spot heights. Contour interval 20 feet. Shows surface features, cultural features such as transportation routes, boundaries, and cemeteries, relief features, and water features. 1 map: col.; 77 x 96 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Publication XII, Geological series 9, plate X. Relief shown by contour lines and spot heights. Contour interval 20 feet. Shows surface features, cultural features such as transportation routes, boundaries, and cemeteries, relief features, and water features. 1 map: col.; 77 x 96 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002647395/39015095399849\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002647395\"}",
   "dct_spatial_sm": [
-    "Wayne County, Michigan",
+    "Michigan--Wayne County",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:47Z",
   "dc_language_sm": [
     "eng"
   ],

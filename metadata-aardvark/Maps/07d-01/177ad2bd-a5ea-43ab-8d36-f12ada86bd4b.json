@@ -1,20 +1,25 @@
 {
   "dct_title_s": "A new and correct map of the world: laid down according to the newest discoveries and from the most exact observations; by Herman Moll, geographer. To his Royal Highness, George, Prince of Denmark, Lord High Admiral, Great Britain and Ireland.",
   "dct_description_sm": [
-    "Relief shown pictorially. Includes images of the planets, sun and moon. 1 map: hand col.; 48 x 95 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Includes images of the planets, sun and moon. 1 map: hand col.; 48 x 95 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Moll, Herman, -1732."
+    "Moll, Herman, -1732"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1709"
@@ -28,14 +33,20 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-179.87,179.53,85,-79.68)",
-  "dcat_bbox": "ENVELOPE(-179.87,179.53,85,-79.68)",
-  "dcat_centroid": "2.6599999999999966,-0.1700000000000017",
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -44,6 +55,6 @@
   "dct_identifier_sm": [
     "177ad2bd-a5ea-43ab-8d36-f12ada86bd4b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:35Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

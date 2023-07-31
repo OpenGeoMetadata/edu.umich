@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-125.8,-66.65,49.92,19.53)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
-    "Poole Brothers."
+    "Poole Brothers"
   ],
   "dc_description_s": "2 maps on 1 sheet : both sides, col. ; sheet 92 x 42 cm., each map 50 x 40 or smaller.|Shows state boundaries, railroad routes, names of cities, towns, and other points of interest.|Local map covers South Central United States.|Relief shown by hachures.|Prime meridians: Greenwich & Washington, D.C.|Includes \"Along the Line\", a description of states on route.|Verso includes train schedules, cartouche ill. entitled: South via the beautiful Queen & Crescent ; other insigna read: Queen & Crescent Route \"The Southern\".|Date from verso: Sept. 7th, 1890.|Below ill. cartouche: Poole Bros. Chicago.",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:18Z",
+  "layer_modified_dt": "2023-02-03T21:26:13Z",
   "dc_language_sm": [
     "eng"
   ],

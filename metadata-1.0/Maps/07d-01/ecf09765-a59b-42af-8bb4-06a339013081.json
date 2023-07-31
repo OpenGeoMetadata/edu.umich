@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-71.02,58.38,48,-41.87)",
   "solr_year_i": "1820",
   "dc_creator_sm": [
-    "Reichard, Christian Gottlieb, 1758-1837.,Stieler, Adolf, 1775-1836."
+    "Reichard, Christian Gottlieb, 1758-1837",
+    "Stieler, Adolf, 1775-1836"
   ],
-  "dc_description_s": "Insets: Südspitze von Afrika. Scale ca. 1:9,500,000. - Mascarenhas Inseln. Scale ca. 1:1,000,000. From Steiler, Adolf. Hand-Atlas über alle theile der Erde ... Gotha J. Perthes [1816-50] map no. [79] Phillips no. 6039. 1 map: col.; 29 x 35 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Insets: Südspitze von Afrika. Scale ca. 1:9,500,000. - Mascarenhas Inseln. Scale ca. 1:1,000,000. From Steiler, Adolf. Hand-Atlas über alle theile der Erde ... Gotha J. Perthes [1816-50] map no. [79] Phillips no. 6039. 1 map: col.; 29 x 35 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004166794/39015091916083\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004166794\"}",
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "layer_modified_dt": "2023-02-03T21:16:14Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Map of Cook's tours in central Europe.",
   "dct_description_sm": [
-    "Has blue pencil marks showing traveler's circular route through London, Geneva, Bern, Koln and Brussels. 1 map: col.; 46 x 32 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Has blue pencil marks showing traveler's circular route through London, Geneva, Bern, Koln and Brussels. 1 map: col.; 46 x 32 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "W. & A.K. Johnston Limited.,Thomas Cook (Firm)"
+    "Thomas Cook (Firm)",
+    "W. & A.K. Johnston Limited"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -17,7 +18,8 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1890 and 1900"
@@ -32,7 +34,7 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "locn_geometry": "ENVELOPE(-0.52,16.9,52.53,39.8)",
+  "locn_geometry": "POLYGON((-0.52 52.53, 16.9 52.53, 16.9 39.8, -0.52 39.8, -0.52 52.53))",
   "dcat_bbox": "ENVELOPE(-0.52,16.9,52.53,39.8)",
   "dcat_centroid": "46.165,8.19",
   "pcdm_memberOf_sm": [
@@ -41,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281427/39015091196512\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281427\"}",
@@ -48,6 +56,6 @@
   "dct_identifier_sm": [
     "d4a1527b-f692-4a83-af9f-38b87e6a21d0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:52Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

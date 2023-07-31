@@ -5,6 +5,7 @@
   "dc_title_s": "[Rapid transit map of Manhattan and adjacent districts of New York City]",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "46bb34fb-5506-44bd-a3f6-d1535610d78a",
+  "solr_geom": "ENVELOPE(-74.258843,-73.700233,40.91763,40.476578)",
   "solr_year_i": "1908",
   "dc_description_s": "1 map : col. ; 85 x 22 cm., folded to 18 x 12 cm.|Covers Manhattan, South Bronx, and small adjacent parts of Queens, Brooklyn, and Jersey City.|Shows subways, connecting mainline railroads, and complete street system.|\"Copyright, 1908, by Rand, McNally & Co.\"",
   "dc_format_s": "JPEG",
@@ -13,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011266092/39015060931543\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011266092\"}",
   "dct_spatial_sm": [
-    "New York City,  New York",
+    "New York--New York City",
     "New York"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:57Z",
+  "layer_modified_dt": "2023-02-03T21:24:17Z",
   "dc_language_sm": [
     "eng"
   ],

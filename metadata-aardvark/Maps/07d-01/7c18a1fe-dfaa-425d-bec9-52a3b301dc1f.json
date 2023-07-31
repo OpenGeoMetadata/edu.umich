@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Nouvelle Mappe Monde dediee au progres de nos connoissances; Francois Santini.",
   "dct_description_sm": [
-    "A Venise Chez Francois Santini, rue Ste. Justine pres la dite Eglise. A 'view from space' of the earth's hemispheres; the hemispheres selected are the maritime and terrestrial hemispheres, or 'water' and 'land' hemispheres. This map is quite rare in having the land and water hemispheres as the main subject; these are usually supplementing polar or equatorial views of the world. Probably from Paolo Santini's Atlas Universel, between 1776 and 1781. Includes 350-word commentary on why the oblique south polar and north polar views were chosen. The terrestrial hemisphere, we are told, is not centred on Paris and the Paris meridian purely for patriotic reasons, but according to scientific principles. 1 map: col.; 2 hemispheres each 31,2 cm. in diam., on sheet 53 x 72 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "A Venise Chez Francois Santini, rue Ste. Justine pres la dite Eglise. A 'view from space' of the earth's hemispheres; the hemispheres selected are the maritime and terrestrial hemispheres, or 'water' and 'land' hemispheres. This map is quite rare in having the land and water hemispheres as the main subject; these are usually supplementing polar or equatorial views of the world. Probably from Paolo Santini's Atlas Universel, between 1776 and 1781. Includes 350-word commentary on why the oblique south polar and north polar views were chosen. The terrestrial hemisphere, we are told, is not centred on Paris and the Paris meridian purely for patriotic reasons, but according to scientific principles. 1 map: col.; 2 hemispheres each 31,2 cm. in diam., on sheet 53 x 72 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -13,8 +13,14 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1776"
@@ -37,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006864330/39015091197841\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006864330\"}",
@@ -44,6 +56,6 @@
   "dct_identifier_sm": [
     "7c18a1fe-dfaa-425d-bec9-52a3b301dc1f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:12Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

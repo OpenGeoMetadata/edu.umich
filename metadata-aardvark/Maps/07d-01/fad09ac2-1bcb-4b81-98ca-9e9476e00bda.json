@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Plan de la ville et faubourgs de Paris: avec tous ses accroissmens et la nouvell enceinte des barrieres de ctte capitale.",
   "dct_description_sm": [
-    "Inlcudes index to streets and places of interest and inset of paris region. Map may be a reprint of an earlier ed. by L.F. DeHarme, 1763. 1 map; 61 x 94 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Inlcudes index to streets and places of interest and inset of paris region. Map may be a reprint of an earlier ed. by L.F. DeHarme, 1763. 1 map; 61 x 94 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1788"
@@ -26,10 +27,10 @@
     "[1788 TO 1788]"
   ],
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(2.25,2.42,48.9,48.81)",
+  "locn_geometry": "POLYGON((2.25 48.9, 2.42 48.9, 2.42 48.81, 2.25 48.81, 2.25 48.9))",
   "dcat_bbox": "ENVELOPE(2.25,2.42,48.9,48.81)",
   "dcat_centroid": "48.855000000000004,2.335",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281260/39015091186612\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281260\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "fad09ac2-1bcb-4b81-98ca-9e9476e00bda"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

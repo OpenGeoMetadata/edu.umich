@@ -1,20 +1,24 @@
 {
   "dct_title_s": "Michigan territory; drawn by J. Finlayson; Engrav'd by Young & Delleker.; Geographical, statistical, and historical map of Michigan Territory.",
   "dct_description_sm": [
-    "Shows portions of Wisconsin, Illinois, Indiana, Ohio, and Ontario. Relief shown by hachures. Text in side panels includes information about the situation and boundaries of Michigan, climate, population, commerce, government, and a brief historical sketch. \"No. 36.\" From: A complete historical, chronological, and geographical American atlas ... / H.C. Carey and I. Lea, 1822. 1 map: hand col.; 36 x 26 cm, on sheet 45 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows portions of Wisconsin, Illinois, Indiana, Ohio, and Ontario. Relief shown by hachures. Text in side panels includes information about the situation and boundaries of Michigan, climate, population, commerce, government, and a brief historical sketch. \"No. 36.\" From: A complete historical, chronological, and geographical American atlas ... / H.C. Carey and I. Lea, 1822. 1 map: hand col.; 36 x 26 cm, on sheet 45 x 57 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Finlayson, J. (James),Dahl, James, former owner.,Young & Delleker.,Carey & Lea. A Complete historical, chronological and geographical American atlas."
+    "Carey & Lea. A Complete historical, chronological and geographical American atlas.",
+    "Dahl, James, former owner",
+    "Finlayson, J. (James)",
+    "Young & Delleker"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1822"
@@ -28,7 +32,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88,-82,47,41)",
+  "locn_geometry": "POLYGON((-88 47, -82 47, -82 41, -88 41, -88 47))",
   "dcat_bbox": "ENVELOPE(-88,-82,47,41)",
   "dcat_centroid": "44.0,-85.0",
   "pcdm_memberOf_sm": [
@@ -37,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081977/39015095390442\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081977\"}",
@@ -44,6 +54,6 @@
   "dct_identifier_sm": [
     "1572c3fc-9b83-451d-a591-5056e1fbcbea"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:14Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

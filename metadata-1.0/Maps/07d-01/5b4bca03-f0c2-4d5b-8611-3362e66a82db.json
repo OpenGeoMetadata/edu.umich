@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-93.25,-81.55,47.77,41.57)",
   "solr_year_i": "1864",
   "dc_creator_sm": [
-    "Johnson, A. J. (Alvin Jewett), 1827-1884."
+    "Johnson, A. J. (Alvin Jewett), 1827-1884"
   ],
-  "dc_description_s": "Prime meridians: Washington and Greenwich. Copyright 1864 by A.J. Johnson. Decorative border. At upper left: 56. AT upper right: 57. On verso: \"Historical and statistical view of the United States, 1860\", listing counties with population figures for \"white.\", \"free col.\" and \"slave.\" for Illinois, Indiana, Iowa, Kansas, Kentucky, and part of Idaho and Louisiana. 1 map: color; 41 x 55 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Prime meridians: Washington and Greenwich. Copyright 1864 by A.J. Johnson. Decorative border. At upper left: 56. AT upper right: 57. On verso: \"Historical and statistical view of the United States, 1860\", listing counties with population figures for \"white.\", \"free col.\" and \"slave.\" for Illinois, Indiana, Iowa, Kansas, Kentucky, and part of Idaho and Louisiana. 1 map: color; 41 x 55 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002570820/39015091879992\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002570820\"}",
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "layer_modified_dt": "2023-02-03T21:20:05Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(129.25,142.47,42.8,30.98)",
   "solr_year_i": "1891",
   "dc_creator_sm": [
-    "Nozaki, S."
+    "Nozaki, Sabun, 1858-1935"
   ],
-  "dc_description_s": "Relief shown by hachures. North oriented to upper left. Maps show lines opened and lines surveyed or under construction. 1 map on 3 sheets: col.; 166 x 33 cm., folded in cover 16 x 12 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. North oriented to upper left. Maps show lines opened and lines surveyed or under construction. 1 map on 3 sheets: col.; 166 x 33 cm., folded in cover 16 x 12 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:23Z",
+  "layer_modified_dt": "2023-02-03T21:20:02Z",
   "dc_language_sm": [
     "eng"
   ],

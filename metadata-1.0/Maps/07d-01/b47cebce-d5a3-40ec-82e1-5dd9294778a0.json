@@ -8,16 +8,18 @@
   "solr_geom": "ENVELOPE(2.25,2.42,48.9,48.82)",
   "solr_year_i": "1840",
   "dc_creator_sm": [
-    "A. and W. Galignani (Firm),Achin.,Hacq, J.M., engraver."
+    "A. and W. Galignani (Firm)",
+    "Achin",
+    "Hacq, J.M., engraver."
   ],
-  "dc_description_s": "Includes inset of area map and inset showing principal objects of curiosity in Paris. 1 map;: hand col.; 42 x 54 cm., folded to 15 x 8 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes inset of area map and inset showing principal objects of curiosity in Paris. 1 map;: hand col.; 42 x 54 cm., folded to 15 x 8 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004936042/39015091186323\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004936042\"}",
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "layer_modified_dt": "2023-02-03T21:18:44Z",
   "dc_language_sm": [
     "eng"
   ],

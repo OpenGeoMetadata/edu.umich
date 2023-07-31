@@ -1,20 +1,27 @@
 {
   "dct_title_s": "Harmónie ou correspondance du globe avecq la sphere par les points, lignes, cercles, &c. qui se descrivent en la surface des globes terrestres et des mappemondes;: pour respondre a ceux qui sont imaginés dans la sphere coeleste; Par le Sr. Sanson d'Abbeville, geographe ordre. de sa maiste avecq privilege pour vingt ans. 1659.",
   "dct_description_sm": [
-    "Shows eastern and western hemispheres. From his Cartes Générales de toutes les parties du monde...Paris, l'autheur; P. Mariette, 1658 [1660?] (Philips 4260) Jean Somer Pruthenus sculpsit. 1 map: col.; 35 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows eastern and western hemispheres. From his Cartes Générales de toutes les parties du monde...Paris, l'autheur; P. Mariette, 1658 [1660?] (Philips 4260) Jean Somer Pruthenus sculpsit. 1 map: col.; 35 x 52 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Sanson, Nicolas, 1600-1667.,Somer, J."
+    "Sanson, Nicolas, 1600-1667",
+    "Somer, J."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "approximately 1660"
@@ -26,7 +33,7 @@
     "[1660 TO 1660]"
   ],
   "dct_spatial_sm": [
-    "Earth"
+    "World"
   ],
   "locn_geometry": "ENVELOPE(-180,180,90,-90)",
   "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
@@ -37,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004154474/39015091197791\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004154474\"}",
@@ -44,6 +57,6 @@
   "dct_identifier_sm": [
     "26998cee-028f-47ad-b69b-019f8b05bc6f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:03Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

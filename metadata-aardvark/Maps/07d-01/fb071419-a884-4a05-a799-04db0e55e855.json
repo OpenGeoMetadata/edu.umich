@@ -1,7 +1,7 @@
 {
   "dct_title_s": "L'Afrique: reueuë et augmenteé; par P. Du Val.",
   "dct_description_sm": [
-    "Relief shown pictorially. Prime meridian: Ferro. 1 map: hand col.; 40 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Prime meridian: Ferro. 1 map: hand col.; 40 x 52 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1676"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-25.78,54.65,37.58,-35.48)",
+  "locn_geometry": "POLYGON((-25.78 37.58, 54.65 37.58, 54.65 -35.48, -25.78 -35.48, -25.78 37.58))",
   "dcat_bbox": "ENVELOPE(-25.78,54.65,37.58,-35.48)",
   "dcat_centroid": "1.0500000000000007,14.434999999999999",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281434/39015091193501\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281434\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "fb071419-a884-4a05-a799-04db0e55e855"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

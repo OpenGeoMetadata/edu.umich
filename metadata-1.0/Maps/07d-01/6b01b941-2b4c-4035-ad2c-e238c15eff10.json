@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Tokyo (Japan : Fu)"
   ],
-  "dc_description_s": "Mounted cover title. Lithograph In Japanese. Relief shown by hachures. Oriented with north to the upper right. Includes 2 insets and legend. 4 sheets joined. 1 map: col.; 64 x 81 cm, folded in cover 21 x 14 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Mounted cover title. Lithograph In Japanese. Relief shown by hachures. Oriented with north to the upper right. Includes 2 insets and legend. 4 sheets joined. 1 map: col.; 64 x 81 cm, folded in cover 21 x 14 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002457628/39015091193147_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002457628\"}",
   "dct_spatial_sm": [
-    "Tokyo, Tokyo, Japan",
+    "Japan-- Tokyo--Tokyo",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "layer_modified_dt": "2023-02-03T21:26:18Z",
   "dc_language_sm": [
     "eng"
   ],

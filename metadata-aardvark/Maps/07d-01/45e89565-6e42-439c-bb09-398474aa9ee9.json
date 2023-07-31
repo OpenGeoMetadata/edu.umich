@@ -17,6 +17,10 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "dcat_keyword_sm": [
+    "",
+    "2022-creator-sprint"
+  ],
   "dct_issued_s": "1882",
   "gbl_indexYear_im": [
     "1882"
@@ -27,7 +31,7 @@
   "dct_spatial_sm": [
     "Texas"
   ],
-  "locn_geometry": "ENVELOPE(-106.63,-93.48,36.53,25.75)",
+  "locn_geometry": "POLYGON((-106.63 36.53, -93.48 36.53, -93.48 25.75, -106.63 25.75, -106.63 36.53))",
   "dcat_bbox": "ENVELOPE(-106.63,-93.48,36.53,25.75)",
   "dcat_centroid": "31.14,-100.055",
   "pcdm_memberOf_sm": [
@@ -35,6 +39,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -45,6 +55,6 @@
     "004198404",
     "39015091905862"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

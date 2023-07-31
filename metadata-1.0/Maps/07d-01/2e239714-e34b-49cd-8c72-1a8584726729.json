@@ -5,12 +5,12 @@
   "dc_title_s": "Tehuantepec Railway Company's chart of the World on Mercator's projection: showing the line of its railway, with its connections by steamships and sailing vessels with the prominent ports of the world.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "2e239714-e34b-49cd-8c72-1a8584726729",
-  "solr_geom": "ENVELOPE(-180,180,80,-60)",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
   "solr_year_i": "1868",
   "dc_creator_sm": [
-    "Tehuantepec Railway Company."
+    "Tehuantepec Railway Company"
   ],
-  "dc_description_s": "Insets: Nicaragua route, the world on polar projections. 1 map: col.; 41 x 69 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Insets: Nicaragua route, the world on polar projections. 1 map: col.; 41 x 69 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:28Z",
+  "layer_modified_dt": "2023-06-23T22:01:03Z",
   "dc_language_sm": [
     "eng"
   ],

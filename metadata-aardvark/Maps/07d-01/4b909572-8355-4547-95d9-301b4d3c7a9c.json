@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Map showing the different routes travelled over by the detachments of the Overland Command in the spring of 1855: from Salt Lake City, Utah, to the Bay of San Francisco.",
   "dct_description_sm": [
-    "Indicates routes of Capt. Ingalls, Col. Steptoe,and Lt. Mowrey, and camping grounds. \"Ackerman Lith. 319 Broadway, N.Y.\" House Exec. Doc. No. 1, 1st session, 34th Congress; Senate Ex. Doc. No. 1, 1st session, 34th Congress. In Wheat,\"Mapping of the Trans-Mississippi West\", v.4, p. 210. 1 map; 57 x 47cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Indicates routes of Capt. Ingalls, Col. Steptoe,and Lt. Mowrey, and camping grounds. \"Ackerman Lith. 319 Broadway, N.Y.\" House Exec. Doc. No. 1, 1st session, 34th Congress; Senate Ex. Doc. No. 1, 1st session, 34th Congress. In Wheat,\"Mapping of the Trans-Mississippi West\", v.4, p. 210. 1 map; 57 x 47cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Discovery and exploration",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1855-6"
@@ -29,7 +30,7 @@
   "dct_spatial_sm": [
     "California"
   ],
-  "locn_geometry": "ENVELOPE(-124,-112,43,32)",
+  "locn_geometry": "POLYGON((-124 43, -112 43, -112 32, -124 32, -124 43))",
   "dcat_bbox": "ENVELOPE(-124,-112,43,32)",
   "dcat_centroid": "37.5,-118.0",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003278768/39015095388941\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003278768\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "4b909572-8355-4547-95d9-301b4d3c7a9c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

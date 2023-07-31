@@ -24,7 +24,8 @@
   ],
   "dcat_keyword_sm": [
     "Boundary disputes Maps.",
-    "Manuscript maps."
+    "Manuscript maps.",
+    "2022-creator-sprint"
   ],
   "gbl_indexYear_im": [
     "1839"
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-72.28,-65.95,48.21,44.7)",
+  "locn_geometry": "POLYGON((-72.28 48.21, -65.95 48.21, -65.95 44.7, -72.28 44.7, -72.28 48.21))",
   "dcat_bbox": "ENVELOPE(-72.28,-65.95,48.21,44.7)",
   "dcat_centroid": "46.455,-69.11500000000001",
   "pcdm_memberOf_sm": [
@@ -43,6 +44,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -53,6 +60,6 @@
     "003287535",
     "39015091196769"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

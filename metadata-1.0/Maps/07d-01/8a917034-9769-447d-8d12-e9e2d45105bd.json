@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-77.15,-76.91,39.01,38.78)",
   "solr_year_i": "1898",
   "dc_creator_sm": [
-    "U.S. Coast and Geodetic Survey."
+    "U.S. Coast and Geodetic Survey"
   ],
   "dc_description_s": "1 map ; 55 x 55 cm|Facsimile.|\"No. 3059.\"|\"Reproduced by the U.S. Coast and Geodetic Survey in February 1898 from a print in the Hall of Maps and Charts of the Library of Congress.\"",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Washington D"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:21Z",
+  "layer_modified_dt": "2023-02-03T21:26:04Z",
   "dc_language_sm": [
     "eng"
   ],

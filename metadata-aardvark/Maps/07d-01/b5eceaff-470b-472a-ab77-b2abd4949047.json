@@ -15,7 +15,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_issued_s": "1656-1677?",
   "gbl_indexYear_im": [
@@ -27,6 +28,9 @@
   "dct_spatial_sm": [
     "Americas"
   ],
+  "locn_geometry": "POLYGON((-169.5 73.9, -32.2 73.9, -32.2 -57.7, -169.5 -57.7, -169.5 73.9))",
+  "dcat_bbox": "ENVELOPE(-169.5,-32.2,73.9,-57.7)",
+  "dcat_centroid": "8.100000000000001,-100.85",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -34,7 +38,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -45,6 +52,6 @@
     "003284817",
     "39015091195498_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

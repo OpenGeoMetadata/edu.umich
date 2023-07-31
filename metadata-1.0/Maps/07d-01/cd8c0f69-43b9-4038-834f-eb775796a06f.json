@@ -8,20 +8,19 @@
   "solr_geom": "ENVELOPE(-83.07,-83.03,42.34,42.32)",
   "solr_year_i": "1895",
   "dc_creator_sm": [
-    "Williams, F. B. (Frank B.),Tallman, L.D."
+    "Williams, F. B. (Frank B.)"
   ],
-  "dc_description_s": "Title from cover. Oriented with north toward the upper right. Street index on verso. \"Copyright 1888, F. B. Williams.\" Includes description of street railway lines. 1 map: col.; 19 x 32 cm., folded in cover 16 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Title from cover. Oriented with north toward the upper right. Street index on verso. \"Copyright 1888, F. B. Williams.\" Includes description of street railway lines. 1 map: col.; 19 x 32 cm., folded in cover 16 x 9 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004728211/39015049939666_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004728211\"}",
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-08T17:18:29Z",
+  "layer_modified_dt": "2023-02-03T21:19:23Z",
   "dc_language_sm": [
     "eng"
   ],

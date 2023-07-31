@@ -10,14 +10,13 @@
   "dc_creator_sm": [
     "Scherer, Heinrich, 1628-1704."
   ],
-  "dc_description_s": "Relief shown pictorially. Shows California as an island. Issued as part of an atlas ca. 1700-1720. 1 map; 22 x 34 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Shows California as an island. Issued as part of an atlas ca. 1700-1720. 1 map; 22 x 34 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003884966/39015091185770\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003884966\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "layer_modified_dt": "2023-02-03T21:16:18Z",
   "dc_language_sm": [
     "eng"
   ],

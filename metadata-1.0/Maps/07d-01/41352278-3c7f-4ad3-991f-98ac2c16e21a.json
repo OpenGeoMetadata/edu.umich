@@ -8,16 +8,18 @@
   "solr_geom": "ENVELOPE(1.32,4.82,44.5,42.52)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Hondius, Hendrik, 1597-1651.,Vignaud, Henry, 1830-1922, former owner, Composite Atlas of France.,Tavernier, Melchior, 1594-1665"
+    "Hondius, Hendrik, 1597-1651",
+    "Tavernier, Melchior, 1594-1665",
+    "Vignaud, Henry, 1830-1922"
   ],
-  "dc_description_s": "Relief shown pictorially. North oriented towards the upper left. Includes decorative cartouche, coat of arms, and compass rose. \"Imprimé chez Henry Hondius, et se vend a Paris chez Melchior Tavernier, demeurant aupres du Palais.\" Printed at the publishing house of Henry Hondius and sold at the store of Melchoir Tavernier, residing close to the Palace. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 47 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. North oriented towards the upper left. Includes decorative cartouche, coat of arms, and compass rose. \"Imprimé chez Henry Hondius, et se vend a Paris chez Melchior Tavernier, demeurant aupres du Palais.\" Printed at the publishing house of Henry Hondius and sold at the store of Melchoir Tavernier, residing close to the Palace. From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 36 x 47 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004076021/39015091193261_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004076021\"}",
   "dct_spatial_sm": [
-    "Languedoc, Occitania, France",
+    "France-- Occitania--Languedoc",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "layer_modified_dt": "2023-02-03T21:20:17Z",
   "dc_language_sm": [
     "eng"
   ],

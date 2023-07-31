@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "J.H. Colton & Co."
   ],
-  "dc_description_s": "Relief shown by hachures. Map within ornamental border. \"Entered according to Act of Congress in the year 1855 by J.H. Colton & Co. in the Clerks Office of the District Court of the United States for the Southern District of New York.\" 1 map; 29 x 36 cm., on sheet 35 x 41 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Map within ornamental border. \"Entered according to Act of Congress in the year 1855 by J.H. Colton & Co. in the Clerks Office of the District Court of the United States for the Southern District of New York.\" 1 map; 29 x 36 cm., on sheet 35 x 41 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010591424/39015091186299\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010591424\"}",
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "layer_modified_dt": "2023-02-03T21:26:09Z",
   "dc_language_sm": [
     "eng"
   ],

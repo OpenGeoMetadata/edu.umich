@@ -17,7 +17,9 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "approximately 1917"
@@ -29,9 +31,12 @@
     "[1917 TO 1917]"
   ],
   "dct_spatial_sm": [
-    "Washtenaw County, Michigan",
+    "Michigan--Washtenaw County",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-84.134066 42.435185, -83.539396 42.435185, -83.539396 42.071577, -84.134066 42.071577, -84.134066 42.435185))",
+  "dcat_bbox": "ENVELOPE(-84.134066,-83.539396,42.435185,42.071577)",
+  "dcat_centroid": "42.253381,-83.836731",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,7 +44,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -48,6 +56,6 @@
   "dct_identifier_sm": [
     "6bf7486e-2dc8-4093-aa8e-1b695f2172d1"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:40:29Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

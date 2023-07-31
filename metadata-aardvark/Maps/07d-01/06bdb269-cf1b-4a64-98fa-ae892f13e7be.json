@@ -1,13 +1,13 @@
 {
   "dct_title_s": "The Daily Mail commercial map of Africa.",
   "dct_description_sm": [
-    "Includes inset maps: \"Africa before the scramble\", which shows European possessions in 1884 before the Berlin Congress, and comparison map of England drawn at the same scale showing main railway lines. Shows the Cape-Cairo Railway and other existing and proposed railways, steamship routes, colonial possessions, navigable waters, dense forests with abundant rainfall, completed and uncompleted telegraph lines, general locations of natural resources, and population density by country. Date based on text in map, \"Limit of Free Commercial Zone 1899\". 1 map: col.; 52 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes inset maps: \"Africa before the scramble\", which shows European possessions in 1884 before the Berlin Congress, and comparison map of England drawn at the same scale showing main railway lines. Shows the Cape-Cairo Railway and other existing and proposed railways, steamship routes, colonial possessions, navigable waters, dense forests with abundant rainfall, completed and uncompleted telegraph lines, general locations of natural resources, and population density by country. Date based on text in map, \"Limit of Free Commercial Zone 1899\". 1 map: col.; 52 x 52 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "George Philip & Son."
+    "George Philip & Son"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -19,7 +19,8 @@
   "dcat_keyword_sm": [
     "Administrative and political divisions",
     "Colonialization",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-18.5,53.17,38.17,-37.53)",
+  "locn_geometry": "POLYGON((-18.5 38.17, 53.17 38.17, 53.17 -37.53, -18.5 -37.53, -18.5 38.17))",
   "dcat_bbox": "ENVELOPE(-18.5,53.17,38.17,-37.53)",
   "dcat_centroid": "0.3200000000000003,17.335",
   "pcdm_memberOf_sm": [
@@ -42,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004267852/39015091193907\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004267852\"}",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "06bdb269-cf1b-4a64-98fa-ae892f13e7be"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

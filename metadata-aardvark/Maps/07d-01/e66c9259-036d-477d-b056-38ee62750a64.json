@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Johnson's new military map of the United States showing the forts, military posts & all the military divisions with enlarged plans of southern harbors; from authentic data obtained at the War Department, Washington; Johnson & Browning.",
   "dct_description_sm": [
-    "Relief shown by hachures. Prime meridians: Greenwich and Washington, D.C. Insets: New Orleans and delta of Mississippi, Louisiana -- Mobile Bay, Alabama -- Entrance to Pensacola Bay, Florida -- Key West, Florida -- Savannah River -- Charleston Harbor, S. Carolina -- Hampton Roads and Norfolk Harbor, Virginia -- Washington and vicinity -- Baltimore and vicinity. Possibly from Johnson's New Illustrated (Steel Plate) Family Atlas, With Physical Geography, And With Descriptions Geographical, Statistical, And Historical. \"Entered according to Act of Congress in the year one thousand eight hundred & sixty one by Johnson & Browning in the Clerk's office of the District Court of the United States for the southern Distrct of New York.\" 1 map: hand col.; 31 x 49 cm., on sheet 46 x 66 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Prime meridians: Greenwich and Washington, D.C. Insets: New Orleans and delta of Mississippi, Louisiana -- Mobile Bay, Alabama -- Entrance to Pensacola Bay, Florida -- Key West, Florida -- Savannah River -- Charleston Harbor, S. Carolina -- Hampton Roads and Norfolk Harbor, Virginia -- Washington and vicinity -- Baltimore and vicinity. Possibly from Johnson's New Illustrated (Steel Plate) Family Atlas, With Physical Geography, And With Descriptions Geographical, Statistical, And Historical. \"Entered according to Act of Congress in the year one thousand eight hundred & sixty one by Johnson & Browning in the Clerk's office of the District Court of the United States for the southern Distrct of New York.\" 1 map: hand col.; 31 x 49 cm., on sheet 46 x 66 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Johnson & Browning.,Dahl, James, former owner."
+    "Dahl, James, former owner",
+    "Johnson & Browning"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -20,7 +21,8 @@
     "Military bases",
     "Forts",
     "Fortifications",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -34,7 +36,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-125,-65,50,22)",
+  "locn_geometry": "POLYGON((-125 50, -65 50, -65 22, -125 22, -125 50))",
   "dcat_bbox": "ENVELOPE(-125,-65,50,22)",
   "dcat_centroid": "36.0,-95.0",
   "pcdm_memberOf_sm": [
@@ -43,6 +45,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009904499/39015095390855\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009904499\"}",
@@ -50,6 +58,6 @@
   "dct_identifier_sm": [
     "e66c9259-036d-477d-b056-38ee62750a64"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

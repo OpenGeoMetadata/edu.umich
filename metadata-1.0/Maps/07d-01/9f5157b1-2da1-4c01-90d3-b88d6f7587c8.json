@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-84.33,-75.17,38,33)",
   "solr_year_i": "1845",
   "dc_creator_sm": [
-    "Meyer, Joseph, 1796-1856.,Tanner, Henry Schenck, 1786-1858. New map of Nth. Carolina. German."
+    "Meyer, Joseph, 1796-1856",
+    "Tanner, Henry Schenck, 1786-1858"
   ],
-  "dc_description_s": "Relief shown by hachures. Prime meridians: Ferro and Washington. In German and English. Includes insets: [Lower Neuse river] -- Entfernungen -- Profil des Dismal Swamp canals -- Gold region. Based on H.S. Tanner's New map of Nth. Carolina. \"Nach den bessten Quellen verbessert.\" Top right margin: No. 78. Top left margin: Meyer's - Handatlas. 1 map: hand col.; 29 x 36 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Prime meridians: Ferro and Washington. In German and English. Includes insets: [Lower Neuse river] -- Entfernungen -- Profil des Dismal Swamp canals -- Gold region. Based on H.S. Tanner's New map of Nth. Carolina. \"Nach den bessten Quellen verbessert.\" Top right margin: No. 78. Top left margin: Meyer's - Handatlas. 1 map: hand col.; 29 x 36 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004921541/39015091898430\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004921541\"}",
   "dct_spatial_sm": [
     "North Carolina"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:49Z",
+  "layer_modified_dt": "2023-02-03T21:22:38Z",
   "dc_language_sm": [
     "eng"
   ],

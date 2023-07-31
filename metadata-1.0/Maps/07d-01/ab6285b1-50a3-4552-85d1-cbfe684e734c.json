@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-78.33,-77.78,38.75,38.38)",
   "solr_year_i": "1862",
   "dc_creator_sm": [
-    "Alexander, Samuel.,United States. Army. Corps of Engineers."
+    "Alexander, Samuel",
+    "United States. Army. Corps of Engineers"
   ],
-  "dc_description_s": "Relief shown by hachures. 1 map: mounted on cloth; 48 x 71 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. 1 map: mounted on cloth; 48 x 71 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081819/39015091898299\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081819\"}",
   "dct_spatial_sm": [
-    "Culpeper County, Virginia",
+    "Virginia--Culpeper County",
     "Virginia"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:33Z",
+  "layer_modified_dt": "2023-02-03T21:17:56Z",
   "dc_language_sm": [
     "eng"
   ],

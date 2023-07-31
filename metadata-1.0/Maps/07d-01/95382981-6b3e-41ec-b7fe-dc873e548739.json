@@ -5,9 +5,10 @@
   "dc_title_s": "Le Gouvernement de l'Isle de France",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "95382981-6b3e-41ec-b7fe-dc873e548739",
+  "solr_geom": "ENVELOPE(1.446244,3.559221,49.241431,48.120146)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Templeux, Damien, Sieur de Fresnoy, d.c. 1620.",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
@@ -15,12 +16,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012638391/39015091191349_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012638391\"}",
   "dct_spatial_sm": [
-    " Île-de-France,  France",
-    "Île-de-France,  France",
+    "France--Île-de-France",
+    " France--Île-de-France",
     "France"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:47Z",
+  "layer_modified_dt": "2023-02-03T21:20:26Z",
   "dc_language_sm": [
     "fre"
   ],

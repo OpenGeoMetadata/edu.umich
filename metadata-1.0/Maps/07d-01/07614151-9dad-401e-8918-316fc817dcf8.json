@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Sagano, Hikotarō."
   ],
-  "dc_description_s": "Cover title. In Japanese. Oriented with north to the right. Includes address charts by ward (ku), guide for tourists and legend. Shows views of tourist attractions. 1 map: col.; 33 x 46 cm.,folded in cover 15 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Cover title. In Japanese. Oriented with north to the right. Includes address charts by ward (ku), guide for tourists and legend. Shows views of tourist attractions. 1 map: col.; 33 x 46 cm.,folded in cover 15 x 9 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932472/39015091920150_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932472\"}",
   "dct_spatial_sm": [
-    "Tokyo, Tokyo, Japan",
+    "Japan-- Tokyo--Tokyo",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "layer_modified_dt": "2023-02-03T21:22:15Z",
   "dc_language_sm": [
     "eng"
   ],

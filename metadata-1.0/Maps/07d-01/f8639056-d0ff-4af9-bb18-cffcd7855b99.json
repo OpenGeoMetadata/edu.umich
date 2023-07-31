@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Sauer, Wm. C."
   ],
-  "dc_description_s": "Shows parcels, some building footprints, street numbers and original ribbon farm property boundaries along riverfront. Shows the area from Woodward Avenue west to Eighth Street, and north to Howard Street. MiU copy 1 accession no. 138393, encapsulated in mylar. 1 map: col.; 47 x 77 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows parcels, some building footprints, street numbers and original ribbon farm property boundaries along riverfront. Shows the area from Woodward Avenue west to Eighth Street, and north to Howard Street. MiU copy 1 accession no. 138393, encapsulated in mylar. 1 map: col.; 47 x 77 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011192720/39015091200629\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011192720\"}",
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "layer_modified_dt": "2023-02-03T21:18:43Z",
   "dc_language_sm": [
     "eng"
   ],

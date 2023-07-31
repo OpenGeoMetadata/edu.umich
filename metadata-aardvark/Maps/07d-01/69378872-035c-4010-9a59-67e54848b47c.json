@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Kyōto-fu kannai chizu zen.",
   "dct_description_sm": [
-    "Mounted cover title. Copperplate print. Oriented with north to the upper left. Relief shown by hachures. 1 inset: Kyōto Shigai Zenzu. Include distance chart and legend. Title on map: Kyōto-fu kannai chizu. 1 map: col.; 63 x 92 cm., folded in cover 22 x 16 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Mounted cover title. Copperplate print. Oriented with north to the upper left. Relief shown by hachures. 1 inset: Kyōto Shigai Zenzu. Include distance chart and legend. Title on map: Kyōto-fu kannai chizu. 1 map: col.; 63 x 92 cm., folded in cover 22 x 16 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "after 1868"
@@ -26,10 +27,10 @@
     "[1868 TO 1868]"
   ],
   "dct_spatial_sm": [
-    "Kyoto, Kyoto, Japan",
+    "Japan-- Kyoto--Kyoto",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(134.83,136.17,35.83,34.75)",
+  "locn_geometry": "POLYGON((134.83 35.83, 136.17 35.83, 136.17 34.75, 134.83 34.75, 134.83 35.83))",
   "dcat_bbox": "ENVELOPE(134.83,136.17,35.83,34.75)",
   "dcat_centroid": "35.29,135.5",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932471/39015091921372_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932471\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "69378872-035c-4010-9a59-67e54848b47c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:36Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

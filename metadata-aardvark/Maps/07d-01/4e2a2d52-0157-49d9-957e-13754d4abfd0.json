@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Japan roads & railways, 1891.",
   "dct_description_sm": [
-    "Relief shown by hachures. North oriented to upper left. Maps show lines opened and lines surveyed or under construction. 1 map on 3 sheets: col.; 166 x 33 cm., folded in cover 16 x 12 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. North oriented to upper left. Maps show lines opened and lines surveyed or under construction. 1 map on 3 sheets: col.; 166 x 33 cm., folded in cover 16 x 12 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Nozaki, S."
+    "Nozaki, Sabun, 1858-1935"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1891?"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(129.25,142.47,42.8,30.98)",
+  "locn_geometry": "POLYGON((129.25 42.8, 142.47 42.8, 142.47 30.98, 129.25 30.98, 129.25 42.8))",
   "dcat_bbox": "ENVELOPE(129.25,142.47,42.8,30.98)",
   "dcat_centroid": "36.89,135.86",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009362117/39015091921414_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009362117\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "4e2a2d52-0157-49d9-957e-13754d4abfd0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

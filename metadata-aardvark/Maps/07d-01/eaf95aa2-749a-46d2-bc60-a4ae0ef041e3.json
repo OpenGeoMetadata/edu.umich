@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Map of Labrador Peninsula compiled by D.I.V. Eaton; drawn for photo-lithography by C.O. Senécal.",
   "dct_description_sm": [
-    "Geological Survey of Canada, Report by A. P. Low, Part L, Vol. viii, (New Series) p. 585-588. 1 map on 4 sheets: col.; 95 x 111 cm, sheets 61 x 72 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Geological Survey of Canada, Report by A. P. Low, Part L, Vol. viii, (New Series) p. 585-588. 1 map on 4 sheets: col.; 95 x 111 cm, sheets 61 x 72 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Eaton, Daniel Isaac, -1814.,Low, A. P. (Albert Peter), 1861-1942.,Geological Survey of Canada."
+    "Eaton, Daniel Isaac, -1814",
+    "Geological Survey of Canada",
+    "Low, A. P. (Albert Peter), 1861-1942"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +20,8 @@
   ],
   "dcat_keyword_sm": [
     "Geology",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -30,9 +33,9 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Newfoundland and Labrador, Canada"
+    "Canada--Newfoundland and Labrador"
   ],
-  "locn_geometry": "ENVELOPE(-81,-55,61,47)",
+  "locn_geometry": "POLYGON((-81 61, -55 61, -55 47, -81 47, -81 61))",
   "dcat_bbox": "ENVELOPE(-81,-55,61,47)",
   "dcat_centroid": "54.0,-68.0",
   "pcdm_memberOf_sm": [
@@ -41,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000861733/39015091910045_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000861733\"}",
@@ -48,6 +57,6 @@
   "dct_identifier_sm": [
     "eaf95aa2-749a-46d2-bc60-a4ae0ef041e3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:25Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

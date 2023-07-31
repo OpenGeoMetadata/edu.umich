@@ -19,7 +19,9 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "approximately 1828"
@@ -34,6 +36,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
+  "locn_geometry": "POLYGON((-88.51 45.8, -80.33 45.8, -80.33 37.93, -88.51 37.93, -88.51 45.8))",
+  "dcat_bbox": "ENVELOPE(-88.51,-80.33,45.8,37.93)",
+  "dcat_centroid": "41.864999999999995,-84.42",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,7 +46,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -52,6 +60,6 @@
     "003279686",
     "39015091905482"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:14Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

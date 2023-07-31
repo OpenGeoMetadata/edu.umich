@@ -8,9 +8,11 @@
   "solr_geom": "ENVELOPE(-90.42,-82.33,47.5,41.5)",
   "solr_year_i": "1876",
   "dc_creator_sm": [
-    "O.W. Gray & Son.,Michigan. Department of Commissioner of Railroads.,G.W. & C.B. Colton & Co."
+    "G.W. & C.B. Colton & Co.",
+    "Michigan. Department of Commissioner of Railroads",
+    "O.W. Gray & Son"
   ],
-  "dc_description_s": "Entered according to act of Congress in the year 1874 by G.W. & C.B. Colton & Co. ... Appears in Michigan Railroad Commission. Fourth annual report. 1876, and in McCracken, S. B. The state of Michigan. Lansing, 1876. Includes inset of \"part of Michigan\" (western Upper Peninsula). 1 map: hand col.; 58 x 40 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Entered according to act of Congress in the year 1874 by G.W. & C.B. Colton & Co. ... Appears in Michigan Railroad Commission. Fourth annual report. 1876, and in McCracken, S. B. The state of Michigan. Lansing, 1876. Includes inset of \"part of Michigan\" (western Upper Peninsula). 1 map: hand col.; 58 x 40 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +21,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:23Z",
+  "layer_modified_dt": "2023-02-03T21:24:14Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,15 +8,20 @@
   "solr_geom": "ENVELOPE(-92,-83,47,41.5)",
   "solr_year_i": "1846",
   "dc_creator_sm": [
-    "J. & C. Walker (Firm),Tanner, Henry Schenck, 1786-1858.,Smith, John, 1580-1631.,Penge, Russell, printer.,Charles Knight & Co.,Society for the Diffusion of Useful Knowledge."
+    "Charles Knight & Co",
+    "J. & C. Walker (Firm)",
+    "Penge, Russell, printer",
+    "Smith, John, 1580-1631",
+    "Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "Tanner, Henry Schenck, 1786-1858"
   ],
-  "dc_description_s": "Relief shown by hachures. Also shows northern part of Illinois. \"Published ... under the superintendance of the Society for the Diffusion of useful knowledge ...\" Probably detached from Society for the Diffusion of Useful Knowledge. Maps of the Society for the Diffusion of Useful Knowledge. -- London: C. Knight, 1846-1851. -- Vol. 2, no. 134. 1 map: color; 29 x 37 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Also shows northern part of Illinois. \"Published ... under the superintendance of the Society for the Diffusion of useful knowledge ...\" Probably detached from Society for the Diffusion of Useful Knowledge. Maps of the Society for the Diffusion of Useful Knowledge. -- London: C. Knight, 1846-1851. -- Vol. 2, no. 134. 1 map: color; 29 x 37 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013681812/39015091905276\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013681812\"}",
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "layer_modified_dt": "2023-02-03T21:22:54Z",
   "dc_language_sm": [
     "eng"
   ],

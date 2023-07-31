@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-131.17,-19.33,78.65,5.55)",
   "solr_year_i": "1772",
   "dc_creator_sm": [
-    "Lotter, Georg Friedrich.,Lotter, Tobias Conrad, 1717-1777.,L'Isle, Guillaume de, 1675-1726."
+    "L'Isle, Guillaume de, 1675-1726",
+    "Lotter, Georg Friedrich",
+    "Lotter, Tobias Conrad, 1717-1777"
   ],
-  "dc_description_s": "Hand colored. Relief shown pictorially. Includes \"Annotatio.\" 1 map: col.; 46 x 58 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Hand colored. Relief shown pictorially. Includes \"Annotatio.\" 1 map: col.; 46 x 58 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005027217/39015091186117\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005027217\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "layer_modified_dt": "2023-02-03T21:16:19Z",
   "dc_language_sm": [
     "eng"
   ],

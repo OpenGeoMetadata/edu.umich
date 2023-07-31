@@ -1,20 +1,23 @@
 {
   "dct_title_s": "Silesiae ducatus: nova et accurata descriptio.",
   "dct_description_sm": [
-    "Relief shown pictorially. Includes German coat of arms above the title cartouche. From \"Atlantis Maioris Appendix\", Johannes Janssonius, 1630. 1 map; 37 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Includes German coat of arms above the title cartouche. From \"Atlantis Maioris Appendix\", Johannes Janssonius, 1630. 1 map; 37 x 49 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Atlantic Maioris Appendix, 1630.,Vignaud, Henry, 1830-1922, former owner."
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1630"
@@ -26,10 +29,10 @@
     "[1630 TO 1630]"
   ],
   "dct_spatial_sm": [
-    "Lower Silesian Voivodeship, Poland",
+    "Poland--Lower Silesian Voivodeship",
     "Poland"
   ],
-  "locn_geometry": "ENVELOPE(14.05,19.97,52.45,49.48)",
+  "locn_geometry": "POLYGON((14.05 52.45, 19.97 52.45, 19.97 49.48, 14.05 49.48, 14.05 52.45))",
   "dcat_bbox": "ENVELOPE(14.05,19.97,52.45,49.48)",
   "dcat_centroid": "50.965,17.009999999999998",
   "pcdm_memberOf_sm": [
@@ -38,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284878/39015091191836_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284878\"}",
@@ -45,6 +54,6 @@
   "dct_identifier_sm": [
     "d38ae31f-b400-4fa4-aea8-3a95135244e2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:53Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

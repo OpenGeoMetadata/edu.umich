@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Map showing the distribution of the Indian tribes of Washington Territory",
   "dct_description_sm": [
-    "Relief shown by hachures. \"U.S. Geographical and Geological Survey of the Rocky Mountain Region J.W. Powell in charge.\" From: Contributions to North American Ethnology, vol. 1. 1 map: col., mounted on cloth; 50 x 39 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. \"U.S. Geographical and Geological Survey of the Rocky Mountain Region J.W. Powell in charge.\" From: Contributions to North American Ethnology, vol. 1. 1 map: col., mounted on cloth; 50 x 39 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Dall, William Healey, 1845-1927.,Powell, John Wesley, 1834-1902.,Geographical and Geological Survey of the Rocky Mountain Region (U.S.)"
+    "Dall, William Healey, 1845-1927",
+    "Geographical and Geological Survey of the Rocky Mountain Region (U.S.)",
+    "Powell, John Wesley, 1834-1902"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -16,7 +18,8 @@
   "dcat_keyword_sm": [
     "Ethnology",
     "American Indians",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1876"
@@ -28,9 +31,9 @@
     "[1876 TO 1876]"
   ],
   "dct_spatial_sm": [
-    "Washington State, Washington"
+    "Washington--Washington State"
   ],
-  "locn_geometry": "ENVELOPE(-125,-121,49,45)",
+  "locn_geometry": "POLYGON((-125 49, -121 49, -121 45, -125 45, -125 49))",
   "dcat_bbox": "ENVELOPE(-125,-121,49,45)",
   "dcat_centroid": "47.0,-123.0",
   "pcdm_memberOf_sm": [
@@ -39,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000889503/39015091914450\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000889503\"}",
@@ -46,6 +55,6 @@
   "dct_identifier_sm": [
     "3e567fac-59b9-41b1-b443-781e12f577cd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

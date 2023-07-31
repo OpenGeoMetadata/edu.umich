@@ -22,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Central business districts Michigan Detroit Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1701"
@@ -35,9 +36,12 @@
     "[1951 TO 1951]"
   ],
   "dct_spatial_sm": [
-    "Fort Lernoult Historical Marker, Michigan",
+    "Michigan--Fort Lernoult Historical Marker",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-83.058247 42.340229, -83.036232 42.340229, -83.036232 42.324459, -83.058247 42.324459, -83.058247 42.340229))",
+  "dcat_bbox": "ENVELOPE(-83.058247,-83.036232,42.340229,42.324459)",
+  "dcat_centroid": "42.332344,-83.04723949999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,7 +49,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -56,6 +63,6 @@
     "010381708",
     "39015060935981_01"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

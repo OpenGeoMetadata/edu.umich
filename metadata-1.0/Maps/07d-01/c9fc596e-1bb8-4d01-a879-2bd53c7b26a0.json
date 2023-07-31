@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(98.68,110.03,23.48,8.3)",
   "solr_year_i": "1886",
   "dc_creator_sm": [
-    "France. Armée. Service géographique.,Dutreuil, J.L."
+    "Dutreuil, J.L.",
+    "France. Armée. Service géographique"
   ],
-  "dc_description_s": "Relief shown by hachures. Publiée au Dépôt de Cartes et Plans de la Marine en 1881. \"1088\" printed in lower corner of each sheet. 1 map on 4 sheets: col.; 114 x 82 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Publiée au Dépôt de Cartes et Plans de la Marine en 1881. \"1088\" printed in lower corner of each sheet. 1 map on 4 sheets: col.; 114 x 82 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282026/39015091916653\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282026\"}",
   "dct_spatial_sm": [
     "South Eastern Asia"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "layer_modified_dt": "2023-02-03T21:17:21Z",
   "dc_language_sm": [
     "eng"
   ],

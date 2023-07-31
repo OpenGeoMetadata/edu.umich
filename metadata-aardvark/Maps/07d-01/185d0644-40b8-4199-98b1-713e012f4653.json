@@ -1,20 +1,22 @@
 {
   "dct_title_s": "L'Amerique Septentrionale dressée sur les observations de Mrs. de l'Academie royale des sciences & quelques autres, & sur les memoires les plus recens; par G. de L'Isle, geographe; N. Guerard, im. et fec.",
   "dct_description_sm": [
-    "Relief shown pictorially. \"Avec privilege du Roy pour 20 ans.\" Second state of first ed. according to The Map Collector, 26:2-6. 1st State has Mississippi River entering Gulf near Galveston. Includes \"Avertissement and decorative cartouche.\" 1 map: hand col.; 43 x 61 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. \"Avec privilege du Roy pour 20 ans.\" Second state of first ed. according to The Map Collector, 26:2-6. 1st State has Mississippi River entering Gulf near Galveston. Includes \"Avertissement and decorative cartouche.\" 1 map: hand col.; 43 x 61 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "L'Isle, Guillaume de, 1675-1726.,Guérard, Nicolas, approximately 1648-1719."
+    "Guérard, Nicolas, approximately 1648-1719.",
+    "L'Isle, Guillaume de, 1675-1726"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1700"
@@ -28,7 +30,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-126.42,-19.5,78.47,6.47)",
+  "locn_geometry": "POLYGON((-126.42 78.47, -19.5 78.47, -19.5 6.47, -126.42 6.47, -126.42 78.47))",
   "dcat_bbox": "ENVELOPE(-126.42,-19.5,78.47,6.47)",
   "dcat_centroid": "42.47,-72.96000000000001",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003879426/39015091185911\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003879426\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "185d0644-40b8-4199-98b1-713e012f4653"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

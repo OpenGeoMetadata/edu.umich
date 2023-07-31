@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-71.42,-70.85,42.47,42.23)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
-    "Appalachian Mountain Club."
+    "Appalachian Mountain Club"
   ],
   "dc_description_s": "1 map : col. ; 59 x 84 cm|Relief shown by countours and spot heights.|\"Contour interval 20 feet.\"",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004259571/39015091903826\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004259571\"}",
   "dct_spatial_sm": [
-    "Boston,  Massachusetts",
+    "Massachusetts--Boston",
     "Massachusetts"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:16Z",
+  "layer_modified_dt": "2023-02-03T21:21:32Z",
   "dc_language_sm": [
     "eng"
   ],

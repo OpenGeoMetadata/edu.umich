@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Afrique 1839",
   "dct_description_sm": [
-    "Relief shown by hachures. Outline color only. Probably from: Atlas universel de geographie physique, politique, ancienne & moderne by A.H. Brué. 1 map: hand col.; 29 x 39 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Outline color only. Probably from: Atlas universel de geographie physique, politique, ancienne & moderne by A.H. Brué. 1 map: hand col.; 29 x 39 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1839"
@@ -30,7 +31,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-30,60,40,-36)",
+  "locn_geometry": "POLYGON((-30 40, 60 40, 60 -36, -30 -36, -30 40))",
   "dcat_bbox": "ENVELOPE(-30,60,40,-36)",
   "dcat_centroid": "2.0,15.0",
   "pcdm_memberOf_sm": [
@@ -39,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002612737/39015091916091\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002612737\"}",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "8d6e6ebc-444b-4c21-864d-3f3c6563df7c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

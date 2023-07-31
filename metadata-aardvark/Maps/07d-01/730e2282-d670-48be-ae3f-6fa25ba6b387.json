@@ -1,13 +1,17 @@
 {
   "dct_title_s": "Map of the mineral regions of the counties of Gogebic and Ontonagon, Michigan, 1887; published by Edw. P. Allis & H.B. Merrell; compiled by Mess. J.M. Longyear and J.M. Case, Marquette, Mich.",
   "dct_description_sm": [
-    "Shows lands of Allis & Merrell in green, and of Case & Longyear in red. Also shows mines and mineral explorations, iron ranges, existing and projected railroads, wagon roads, and supply roads. Relief shown by hachures. \"Supplement to the Mining, real estate & manufacturing reporter, Milwaukee, Wis., June 4th, 1887\" --Upper margin. \"Copyright applied for by Edw. P. Allis, Milwaukee, Wis.\" 1 map: color; 50 x 62 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows lands of Allis & Merrell in green, and of Case & Longyear in red. Also shows mines and mineral explorations, iron ranges, existing and projected railroads, wagon roads, and supply roads. Relief shown by hachures. \"Supplement to the Mining, real estate & manufacturing reporter, Milwaukee, Wis., June 4th, 1887\" --Upper margin. \"Copyright applied for by Edw. P. Allis, Milwaukee, Wis.\" 1 map: color; 50 x 62 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Longyear, John Munro, 1850-1922, compiler.,Allis, Edward P. (Edward Phelps), 1824-1889, publisher.,Merrell, H. B. (Harvey B.), publisher.,Case, J. M. (Julian M.), -1890, compiler.,Beck & Pauli, lithographer."
+    "Allis, Edward P. (Edward Phelps),1824-1889",
+    "Beck & Pauli, lithographer.",
+    "Case, J. M. (Julian M.), -1890, compiler",
+    "Longyear, John Munro, 1850-1922, compiler",
+    "Merrell, H. B. (Harvey B.), publisher"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -27,7 +31,8 @@
     "Mining",
     "Mineral resources",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1887"
@@ -42,7 +47,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.48,-88.95,46.95,46.07)",
+  "locn_geometry": "POLYGON((-90.48 46.95, -88.95 46.95, -88.95 46.07, -90.48 46.07, -90.48 46.95))",
   "dcat_bbox": "ENVELOPE(-90.48,-88.95,46.95,46.07)",
   "dcat_centroid": "46.510000000000005,-89.715",
   "pcdm_memberOf_sm": [
@@ -51,6 +56,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013711639/39015091898935\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013711639\"}",
@@ -58,6 +69,6 @@
   "dct_identifier_sm": [
     "730e2282-d670-48be-ae3f-6fa25ba6b387"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

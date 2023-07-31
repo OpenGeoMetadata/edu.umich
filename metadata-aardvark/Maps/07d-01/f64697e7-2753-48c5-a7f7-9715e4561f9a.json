@@ -1,20 +1,23 @@
 {
   "dct_title_s": "South Carolina, (Charleston county), James Island quadrangle",
   "dct_description_sm": [
-    "Relief shown by contours. Contour interval 5 feet. \"R.B. Marshall, Chief Geographer, W.H. Herron, Geographer in charge; Topography by J.F. McCook and C.W. Stump, Jr.; Control by H.L. Hudson and E.L. McNair; surveyed in 1918.\" \"Surveyed in cooperation with the War Department.\" Text and ill. on verso. 1 map: col.; 74 x 56 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by contours. Contour interval 5 feet. \"R.B. Marshall, Chief Geographer, W.H. Herron, Geographer in charge; Topography by J.F. McCook and C.W. Stump, Jr.; Control by H.L. Hudson and E.L. McNair; surveyed in 1918.\" \"Surveyed in cooperation with the War Department.\" Text and ill. on verso. 1 map: col.; 74 x 56 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geological Survey (U.S.),Marshall, R. B. (Robert Bradford), 1867-1949.,United States. Army. Corps of Engineers."
+    "Geological Survey (U.S.)",
+    "Marshall, R. B. (Robert Bradford), 1867-1949",
+    "United States. Army. Corps of Engineers"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1919"
@@ -26,10 +29,10 @@
     "[1919 TO 1919]"
   ],
   "dct_spatial_sm": [
-    "James Island, South Carolina",
+    "South Carolina--James Island",
     "South Carolina"
   ],
-  "locn_geometry": "ENVELOPE(-80,-79.88,32.75,32.63)",
+  "locn_geometry": "POLYGON((-80 32.75, -79.88 32.75, -79.88 32.63, -80 32.63, -80 32.75))",
   "dcat_bbox": "ENVELOPE(-80,-79.88,32.75,32.63)",
   "dcat_centroid": "32.69,-79.94",
   "pcdm_memberOf_sm": [
@@ -38,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887428/39015091194087_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887428\"}",
@@ -45,6 +54,6 @@
   "dct_identifier_sm": [
     "f64697e7-2753-48c5-a7f7-9715e4561f9a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

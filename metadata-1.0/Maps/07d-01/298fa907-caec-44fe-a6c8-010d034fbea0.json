@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-125,-64,51,23)",
   "solr_year_i": "1898",
   "dc_creator_sm": [
-    "United States. Bureau of Indian Affairs."
+    "United States. Bureau of Indian Affairs"
   ],
   "dc_description_s": "1 map : col. ; 53 x 85 cm|Inset maps: Alaska. -- Mission Indian reservations in California. -- [N.E. Oklahoma area]",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:17Z",
+  "layer_modified_dt": "2023-02-03T21:21:49Z",
   "dc_language_sm": [
     "eng"
   ],

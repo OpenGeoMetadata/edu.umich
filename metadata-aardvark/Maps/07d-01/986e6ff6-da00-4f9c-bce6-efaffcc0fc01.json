@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Niigata-ken kannai jissokuzu; Kuribayashi Saichirō.",
   "dct_description_sm": [
-    "Mounted cover title. Copperplate print. In Japanese. Oriented with north to the upper right. Relief shown by hachures. Includes 6 insets, address chart and distance chart. Includes preface and legend. Includes list of mileage, rivers and district names. 1 map; 106 x 145 cm., folded in cover 25 x 19 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Mounted cover title. Copperplate print. In Japanese. Oriented with north to the upper right. Relief shown by hachures. Includes 6 insets, address chart and distance chart. Includes preface and legend. Includes list of mileage, rivers and district names. 1 map; 106 x 145 cm., folded in cover 25 x 19 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "Meiji 14 1881"
@@ -26,10 +27,10 @@
     "[1881 TO 1881]"
   ],
   "dct_spatial_sm": [
-    "Niigata-ken, Niigata, Japan",
+    "Japan-- Niigata--Niigata-ken",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(137,140,39.33,36.1)",
+  "locn_geometry": "POLYGON((137 39.33, 140 39.33, 140 36.1, 137 36.1, 137 39.33))",
   "dcat_bbox": "ENVELOPE(137,140,39.33,36.1)",
   "dcat_centroid": "37.715,138.5",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000932318/39015091921489_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000932318\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "986e6ff6-da00-4f9c-bce6-efaffcc0fc01"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:09Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

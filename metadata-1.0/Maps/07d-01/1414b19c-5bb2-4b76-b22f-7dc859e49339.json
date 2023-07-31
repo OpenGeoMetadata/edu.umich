@@ -5,9 +5,10 @@
   "dc_title_s": "Galliae veteris typus",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "1414b19c-5bb2-4b76-b22f-7dc859e49339",
+  "solr_geom": "ENVELOPE(-5.17,7.92,51.03,42.85)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "dc_description_s": "1 map ; 40 x 49 cm|Relief shown pictorially.|Text in cartouche in upper right corner of map, \"Nomenclaturae et positionis locorum huius tabulae testimonia, pete en Thesauro nostro geographico.\"|This state was published in atlases by Jan Jansson in 1636, 1637,1652-1684, and 1680.|From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan.",
@@ -16,8 +17,7 @@
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:12:00Z",
+  "layer_modified_dt": "2023-02-03T21:18:45Z",
   "dc_language_sm": [
     "lat"
   ],

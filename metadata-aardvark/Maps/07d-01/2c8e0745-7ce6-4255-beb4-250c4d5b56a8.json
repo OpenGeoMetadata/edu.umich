@@ -1,20 +1,22 @@
 {
   "dct_title_s": "North America, Sheet V, the Northwest and Michigan Territories.",
   "dct_description_sm": [
-    "Michigan townships shown. Michigan counties outlined. \"Tanner\" Printed by Russel, Penge. J. & C. Walker. 1 map: col.; 30 x 36 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Michigan townships shown. Michigan counties outlined. \"Tanner\" Printed by Russel, Penge. J. & C. Walker. 1 map: col.; 30 x 36 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Society for the Diffusion of Useful Knowledge (Great Britain),J. & C. Walker (Firm)"
+    "J. & C. Walker (Firm)",
+    "Society for the Diffusion of Useful Knowledge (Great Britain)"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1833"
@@ -28,7 +30,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-91.75,-86.67,46.25,42.42)",
+  "locn_geometry": "POLYGON((-91.75 46.25, -86.67 46.25, -86.67 42.42, -91.75 42.42, -91.75 46.25))",
   "dcat_bbox": "ENVELOPE(-91.75,-86.67,46.25,42.42)",
   "dcat_centroid": "44.335,-89.21000000000001",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081780/39015091905250\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081780\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "2c8e0745-7ce6-4255-beb4-250c4d5b56a8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:10Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

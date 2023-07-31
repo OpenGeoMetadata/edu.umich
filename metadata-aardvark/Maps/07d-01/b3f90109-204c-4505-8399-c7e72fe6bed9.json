@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Map of the city of Detroit, Michigan, showing streets with house numbers, street car lines and location of principal industrial, educational and religious buildings; Drawn and published by Sauer bros. and Frydrych, 1912.",
   "dct_description_sm": [
-    "Historical sketch compiled by C. M. Burton, city histrographer & data prepared by board of Commerce. Street index. 1 map: col.; 56 x 84 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Historical sketch compiled by C. M. Burton, city histrographer & data prepared by board of Commerce. Street index. 1 map: col.; 56 x 84 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -26,10 +27,10 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.29,-82.94,42.37,42.28)",
+  "locn_geometry": "POLYGON((-83.29 42.37, -82.94 42.37, -82.94 42.28, -83.29 42.28, -83.29 42.37))",
   "dcat_bbox": "ENVELOPE(-83.29,-82.94,42.37,42.28)",
   "dcat_centroid": "42.325,-83.11500000000001",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004182345/39015049936779\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004182345\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "b3f90109-204c-4505-8399-c7e72fe6bed9"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

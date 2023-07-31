@@ -1,20 +1,23 @@
 {
   "dct_title_s": "Tartariae sive magni chami regni typus.",
   "dct_description_sm": [
-    "This is map no. 92 of the author's Theatrvm orbis terrarvm. Antwerpiae, 1584. Cf. U.S. Library of Congress. Division of Maps. A list of geographical atlases in the Library of Congress. 1909-1958. v. 1(no. 388). Text on verso in Latin with signature \"92.\" 1 map; 48 x 35 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This is map no. 92 of the author's Theatrvm orbis terrarvm. Antwerpiae, 1584. Cf. U.S. Library of Congress. Division of Maps. A list of geographical atlases in the Library of Congress. 1909-1958. v. 1(no. 388). Text on verso in Latin with signature \"92.\" 1 map; 48 x 35 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Ortelius, Abraham, 1527-1598.,Plantin, Christophe, approximately 1520-1589, printer.,Dahl, James, former owner."
+    "Dahl, James, former owner",
+    "Ortelius, Abraham, 1527-1598",
+    "Plantin, Christophe, approximately 1520-1589, printer"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1584"
@@ -28,7 +31,7 @@
   "dct_spatial_sm": [
     "Asia"
   ],
-  "locn_geometry": "ENVELOPE(-149.55,19.67,81.87,27.93)",
+  "locn_geometry": "POLYGON((-149.55 81.87, 19.67 81.87, 19.67 27.93, -149.55 27.93, -149.55 81.87))",
   "dcat_bbox": "ENVELOPE(-149.55,19.67,81.87,27.93)",
   "dcat_centroid": "54.900000000000006,-64.94",
   "pcdm_memberOf_sm": [
@@ -37,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012548362/39015095390533_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012548362\"}",
@@ -44,6 +53,6 @@
   "dct_identifier_sm": [
     "12a1597a-2bbe-4a0a-8d7f-fa540ee17615"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

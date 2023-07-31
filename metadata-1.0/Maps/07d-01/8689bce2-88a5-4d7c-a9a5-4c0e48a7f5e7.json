@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-81,-71,45,40)",
   "solr_year_i": "1831",
   "dc_creator_sm": [
-    "Hinton, Isaac Taylor, 1799-1847.,Simpkin, Marshall and Co.,Fenner, Sears & Co."
+    "Fenner, Sears & Co.",
+    "Hinton, Isaac Taylor, 1799-1847",
+    "Simpkin, Marshall and Co."
   ],
-  "dc_description_s": "Relief shown by hachures. Prime meridians: Greenwich and Washington. Inset: New York. 1 map; 23 x 38 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Prime meridians: Greenwich and Washington. Inset: New York. 1 map; 23 x 38 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002881238/39015091910755\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002881238\"}",
   "dct_spatial_sm": [
-    "New York State, New York"
+    "New York--New York"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:41Z",
   "dc_language_sm": [
     "eng"
   ],

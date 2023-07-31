@@ -31,7 +31,7 @@
   "dct_spatial_sm": [
     "New England"
   ],
-  "locn_geometry": "ENVELOPE(-74.2,-69.42,44.02,40.4)",
+  "locn_geometry": "POLYGON((-74.2 44.02, -69.42 44.02, -69.42 40.4, -74.2 40.4, -74.2 44.02))",
   "dcat_bbox": "ENVELOPE(-74.2,-69.42,44.02,40.4)",
   "dcat_centroid": "42.21,-71.81",
   "pcdm_memberOf_sm": [
@@ -39,6 +39,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -49,6 +55,6 @@
     "000081690",
     "39015091910425"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

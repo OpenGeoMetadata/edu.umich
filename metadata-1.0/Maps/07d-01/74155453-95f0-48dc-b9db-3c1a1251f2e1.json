@@ -5,9 +5,10 @@
   "dc_title_s": "Chart showing increase and decrease of the population of the United States, area, debt, and other statistics of the eleventh census",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "74155453-95f0-48dc-b9db-3c1a1251f2e1",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1850",
   "dc_creator_sm": [
-    "Smith, W. A."
+    "Smith, W. A. (Cartographer)"
   ],
   "dc_description_s": "1 map : col., encapsulated in Mylar ; 49 x 77 cm|Shows percent increase by state for periods 1850-1860, 1860-1870, 1870-1880, and 1880-1890.|Includes text, table showing increase for selected cities, and tables showing population, United States, 1800-1890, settled areas in sq. miles, and public debt in dollars.|Issued folded in pocket in back cover.",
   "dc_format_s": "JPEG",
@@ -18,8 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:17:30Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,9 +8,11 @@
   "solr_geom": "ENVELOPE(-94.05,-88.82,33.02,28.92)",
   "solr_year_i": "1839",
   "dc_creator_sm": [
-    "Tanner, Henry Schenck, 1786-1858.,Brose, W. engraver.,Dahl, James, former owner."
+    "Brose, W. engraver",
+    "Dahl, James, former owner",
+    "Tanner, Henry Schenck, 1786-1858"
   ],
-  "dc_description_s": "Relief shown pictorially. Engraved by W. Brose, Philadelphia. Longitude West from Washington. Inset map of New Orleans. Includes chart of steam boat routes, list of distances from New Orleans to various cities. Shows leading roads, existing and proposed canals and railroads,wetlands, and distances between towns. From Tanner's \"A New Universal Atlas Containing Maps of the various Empires, Kingdoms, States and Republics Of The World\", page 20. Below border at left: \"Entered according to Act of Congress, in the year 1839, by H.S. Tanner, in the Clerks Office of the Eastern District of Pennsylvania.\" 1 map: col.; 26 x 33 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Engraved by W. Brose, Philadelphia. Longitude West from Washington. Inset map of New Orleans. Includes chart of steam boat routes, list of distances from New Orleans to various cities. Shows leading roads, existing and proposed canals and railroads,wetlands, and distances between towns. From Tanner's \"A New Universal Atlas Containing Maps of the various Empires, Kingdoms, States and Republics Of The World\", page 20. Below border at left: \"Entered according to Act of Congress, in the year 1839, by H.S. Tanner, in the Clerks Office of the Eastern District of Pennsylvania.\" 1 map: col.; 26 x 33 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +21,7 @@
   "dct_spatial_sm": [
     "Louisiana"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:41Z",
+  "layer_modified_dt": "2023-02-03T21:16:07Z",
   "dc_language_sm": [
     "eng"
   ],

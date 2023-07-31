@@ -1,13 +1,17 @@
 {
   "dct_title_s": "Map of the canal at the Saut Ste. Mary from a survey by Captain Canfield and Judge Burt; John Holcroft, assistant; drawn by John Holcroft.",
   "dct_description_sm": [
-    "Bathymetry shown by soundings and contours in feet. Shows \"proposed canal\" and surrounding cultural features. Includes profile. Vertical scale [ca. 1:245]. 1 map; 31 x 45 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Bathymetry shown by soundings and contours in feet. Shows \"proposed canal\" and surrounding cultural features. Includes profile. Vertical scale [ca. 1:245]. 1 map; 31 x 45 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Canfield, Augustus, d. 1854.,Burt, William Austin, 1792-1858.,Holcroft, John.,Burger, R. (Robert),R. Burger & Company."
+    "Burger, R. (Robert)",
+    "Burt, William Austin, 1792-1858",
+    "Canfield, Augustus, d. 1854",
+    "Holcroft, John",
+    "R. Burger & Company."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +19,10 @@
   ],
   "dcat_keyword_sm": [
     "Canals",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1852"
@@ -27,17 +34,23 @@
     "[1852 TO 1852]"
   ],
   "dct_spatial_sm": [
-    "Sault Sainte Marie, Michigan",
+    "Michigan--Sault Sainte Marie",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.3499,-84.35,46.5001,46.5)",
-  "dcat_bbox": "ENVELOPE(-84.3499,-84.35,46.5001,46.5)",
-  "dcat_centroid": "46.50005,-84.34995",
+  "locn_geometry": "POLYGON((-84.365969 46.514366, -84.342914 46.514366, -84.342914 46.511495, -84.365969 46.511495, -84.365969 46.514366))",
+  "dcat_bbox": "ENVELOPE(-84.365969,-84.342914,46.514366,46.511495)",
+  "dcat_centroid": "46.512930499999996,-84.35444150000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -46,6 +59,6 @@
   "dct_identifier_sm": [
     "b41b54f5-db78-4501-b373-e9b451468841"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:41Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

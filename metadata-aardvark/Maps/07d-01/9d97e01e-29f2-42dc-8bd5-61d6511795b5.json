@@ -21,10 +21,10 @@
     "[1890 TO 1890]"
   ],
   "dct_spatial_sm": [
-    "Boston,  Massachusetts",
+    "Massachusetts--Boston",
     "Massachusetts"
   ],
-  "locn_geometry": "ENVELOPE(-71.09,-71.03,42.37,42.34)",
+  "locn_geometry": "POLYGON((-71.09 42.37, -71.03 42.37, -71.03 42.34, -71.09 42.34, -71.09 42.37))",
   "dcat_bbox": "ENVELOPE(-71.09,-71.03,42.37,42.34)",
   "dcat_centroid": "42.355000000000004,-71.06",
   "pcdm_memberOf_sm": [
@@ -32,6 +32,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -42,6 +48,6 @@
     "003287935",
     "39015091903834"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:15Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

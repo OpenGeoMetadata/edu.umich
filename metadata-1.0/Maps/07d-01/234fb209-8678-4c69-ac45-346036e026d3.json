@@ -5,9 +5,10 @@
   "dc_title_s": "Military map of the United States",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "234fb209-8678-4c69-ac45-346036e026d3",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1869",
   "dc_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "dc_description_s": "1 map on 2 sheets : col. ; 70 x 101 cm|At head of title: Office of the Chief of engineers, War department.",
   "dc_format_s": "JPEG",
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:22:24Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,15 +8,19 @@
   "solr_geom": "ENVELOPE(-85,-80,30,25)",
   "solr_year_i": "1886",
   "dc_creator_sm": [
-    "Williams, Arthur T.,Bushnell, John W.,Rotxoll, F. C.,Welcke, Robert A.,Williams & Bushnell."
+    "Bushnell, John W.",
+    "Rotxoll, F. C.",
+    "Welcke, Robert A.",
+    "Williams, Arthur T.",
+    "Williams & Bushnell."
   ],
-  "dc_description_s": "Hand colored. Inset: Map of the western portion of Florida. 1 map: hand col.; 147 x 109 cm., on sheet 155 x 115 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Hand colored. Inset: Map of the western portion of Florida. 1 map: hand col.; 147 x 109 cm., on sheet 155 x 115 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008583960/39015091905136\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008583960\"}",
   "dct_spatial_sm": [
     "Florida"
   ],
-  "layer_modified_dt": "2021-05-07T19:07:01Z",
+  "layer_modified_dt": "2023-02-03T21:26:52Z",
   "dc_language_sm": [
     "eng"
   ],

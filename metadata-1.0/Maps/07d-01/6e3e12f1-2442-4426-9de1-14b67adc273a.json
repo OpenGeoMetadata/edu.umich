@@ -8,9 +8,10 @@
   "solr_geom": "ENVELOPE(-90.52,-82.4,48.22,41.43)",
   "solr_year_i": "1866",
   "dc_creator_sm": [
-    "Farmer, John, 1798-1859.,Silas Farmer & Co."
+    "Farmer, John, 1798-1859",
+    "Silas Farmer & Co."
   ],
-  "dc_description_s": "Shows steamship routes. Twonship and range lines shown. Includes text and tables. 1 map: hand col.; 59 x 58 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows steamship routes. Twonship and range lines shown. Includes text and tables. 1 map: hand col.; 59 x 58 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +20,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:35Z",
+  "layer_modified_dt": "2023-02-03T21:18:30Z",
   "dc_language_sm": [
     "eng"
   ],

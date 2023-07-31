@@ -23,7 +23,8 @@
     "Texas political divisions"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -38,6 +39,9 @@
   "dct_spatial_sm": [
     "Texas"
   ],
+  "locn_geometry": "POLYGON((-106.645646 36.500704, -93.508292 36.500704, -93.508292 25.837377, -106.645646 25.837377, -106.645646 36.500704))",
+  "dcat_bbox": "ENVELOPE(-106.645646,-93.508292,36.500704,25.837377)",
+  "dcat_centroid": "31.1690405,-100.07696899999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,7 +49,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -56,6 +63,6 @@
     "003285774",
     "39015091905714"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:10Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

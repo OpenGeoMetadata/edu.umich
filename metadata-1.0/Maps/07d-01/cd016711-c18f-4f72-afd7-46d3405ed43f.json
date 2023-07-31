@@ -5,6 +5,7 @@
   "dc_title_s": "William Gropper's America: Its Folklore",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "cd016711-c18f-4f72-afd7-46d3405ed43f",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1946",
   "dc_description_s": "1 map : col. ; 57 x 83 cm.|Pictorial map.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:26:52Z",
   "dc_language_sm": [
     "eng"
   ],

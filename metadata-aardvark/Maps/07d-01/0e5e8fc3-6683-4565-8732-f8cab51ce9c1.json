@@ -1,13 +1,13 @@
 {
   "dct_title_s": "New York.",
   "dct_description_sm": [
-    "Shows railroads and county boundaries. Relief shown by hachures. Inset: Northern part of New York. In upper right corner: \"39.\" From Bradley's atlas of the world for commercial and library reference. 1 map: col.; 39 x 54 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows railroads and county boundaries. Relief shown by hachures. Inset: Northern part of New York. In upper right corner: \"39.\" From Bradley's atlas of the world for commercial and library reference. 1 map: col.; 39 x 54 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Bradley & Company."
+    "Bradley & Company"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -30,9 +31,9 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "New York State, New York"
+    "New York--New York State"
   ],
-  "locn_geometry": "ENVELOPE(-79,-74,45,41)",
+  "locn_geometry": "POLYGON((-79 45, -74 45, -74 41, -79 41, -79 45))",
   "dcat_bbox": "ENVELOPE(-79,-74,45,41)",
   "dcat_centroid": "43.0,-76.5",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007933355/39015091910789\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007933355\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "0e5e8fc3-6683-4565-8732-f8cab51ce9c1"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:08Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

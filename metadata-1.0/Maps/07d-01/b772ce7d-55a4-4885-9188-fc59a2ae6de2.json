@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Wickes Brothers."
   ],
-  "dc_description_s": "Concentric radii drawn every quarter-mile. Verso: Key to University and other buildings, description of University buildings, and a bird's-eye view of the campus. MiU copy mounted on chartex. 1 map.: 44 x 36 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Concentric radii drawn every quarter-mile. Verso: Key to University and other buildings, description of University buildings, and a bird's-eye view of the campus. MiU copy mounted on chartex. 1 map.: 44 x 36 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000074519/39015091184575\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000074519\"}",
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "layer_modified_dt": "2023-02-03T21:20:47Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -17,8 +17,8 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Mercator, Gerhard, 1512-1594.",
-    "Purchas, Samuel, 1577?-1626."
+    "Mercator, Gerhard, 1512-1594",
+    "Purchas, Samuel, 1577?-1626"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,9 @@
     "Butterfly map.",
     "Shipping Maps.",
     "Steamboat lines Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "approximately 1626"
@@ -46,6 +48,9 @@
   "dct_spatial_sm": [
     "Americas"
   ],
+  "locn_geometry": "POLYGON((-169.3 72.7, -34.8 72.7, -34.8 -57.5, -169.3 -57.5, -169.3 72.7))",
+  "dcat_bbox": "ENVELOPE(-169.3,-34.8,72.7,-57.5)",
+  "dcat_centroid": "7.600000000000001,-102.05000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,7 +58,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -64,6 +72,6 @@
     "008781182",
     "39015091196587_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:35:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

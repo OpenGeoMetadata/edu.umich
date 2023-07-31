@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Buildings Michigan Ann Arbor.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "between 1817 and 1971"
@@ -34,10 +35,13 @@
     "[1817 TO 1971]"
   ],
   "dct_spatial_sm": [
-    "University of Michigan, Ann Arbor, Michigan",
-    "Ann Arbor, Michigan",
+    "Ann Arbor-- Michigan--University of Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-83.7411551178 42.2787366489, -83.7354581058 42.2787366489, -83.7354581058 42.2745849068, -83.7411551178 42.2745849068, -83.7411551178 42.2787366489))",
+  "dcat_bbox": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
+  "dcat_centroid": "42.27666077785,-83.7383066118",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,7 +49,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -56,6 +63,6 @@
     "003161627",
     "39015095416130_0001"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

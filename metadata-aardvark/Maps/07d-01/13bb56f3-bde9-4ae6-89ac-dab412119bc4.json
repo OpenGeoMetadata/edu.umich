@@ -1,13 +1,17 @@
 {
   "dct_title_s": "Plat of the United States road from Detroit to Chicago; as surveyed and marked by James McClosky, Jonah Baldwin and Laureat Durocher, commissioners; copied by John Farmer.",
   "dct_description_sm": [
-    "Shows rivers, lakes, and Native American villages. 11 sections on 4 sheets; sheets 48 x 64 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows rivers, lakes, and Native American villages. 11 sections on 4 sheets; sheets 48 x 64 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "McClosky, James.,Baldwin, Jonah.,Durocher, Laureat.,Farmer, John, 1798-1859.,United States. War Department. Engineer Bureau."
+    "Baldwin, Jonah",
+    "Durocher, Laureat",
+    "Farmer, John, 1798-1859",
+    "McClosky, James",
+    "United States. War Department. Engineer Bureau."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Roads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1825"
@@ -32,7 +37,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-87.75,-83,42.4,41.5)",
+  "locn_geometry": "POLYGON((-87.75 42.4, -83 42.4, -83 41.5, -87.75 41.5, -87.75 42.4))",
   "dcat_bbox": "ENVELOPE(-87.75,-83,42.4,41.5)",
   "dcat_centroid": "41.95,-85.375",
   "pcdm_memberOf_sm": [
@@ -41,6 +46,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013633349/39015091880974\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013633349\"}",
@@ -48,6 +59,6 @@
   "dct_identifier_sm": [
     "13bb56f3-bde9-4ae6-89ac-dab412119bc4"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Geology United States Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1946"
@@ -35,9 +36,12 @@
     "[1946 TO 1946]"
   ],
   "dct_spatial_sm": [
-    "Oahu,  Hawaii",
+    "Hawaii--Oahu",
     "Hawaii"
   ],
+  "locn_geometry": "POLYGON((-158.098419 21.521483, -157.968643 21.521483, -157.968643 21.465899, -158.098419 21.465899, -158.098419 21.521483))",
+  "dcat_bbox": "ENVELOPE(-158.098419,-157.968643,21.521483,21.465899)",
+  "dcat_centroid": "21.493691,-158.03353099999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,7 +49,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -56,6 +63,6 @@
     "003288808",
     "39015091887946"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

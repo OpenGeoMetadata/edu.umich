@@ -18,7 +18,9 @@
   ],
   "dcat_keyword_sm": [
     "Roads",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -33,6 +35,9 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-90.418136 48.2388, -82.413474 48.2388, -82.413474 41.696118, -90.418136 41.696118, -90.418136 48.2388))",
+  "dcat_bbox": "ENVELOPE(-90.418136,-82.413474,48.2388,41.696118)",
+  "dcat_centroid": "44.967459,-86.415805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,7 +45,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -49,6 +57,6 @@
   "dct_identifier_sm": [
     "b04e4836-810d-43a9-8f98-0118be0c3635"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

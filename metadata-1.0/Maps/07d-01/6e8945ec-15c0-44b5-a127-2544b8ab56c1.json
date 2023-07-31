@@ -5,6 +5,7 @@
   "dc_title_s": "E-Z guide map of New York City",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "6e8945ec-15c0-44b5-a127-2544b8ab56c1",
+  "solr_geom": "ENVELOPE(-74.258843,-73.700233,40.91763,40.476578)",
   "solr_year_i": "1913",
   "dc_creator_sm": [
     "Maull Co."
@@ -16,11 +17,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280000/39015091194798_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280000\"}",
   "dct_spatial_sm": [
-    "New York City,  New York",
+    "New York--New York City",
     "New York"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:18:28Z",
   "dc_language_sm": [
     "eng"
   ],

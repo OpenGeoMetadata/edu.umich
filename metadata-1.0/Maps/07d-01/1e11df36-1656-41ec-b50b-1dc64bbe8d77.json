@@ -8,8 +8,7 @@
   "solr_geom": "ENVELOPE(134.63,134.9,35.68,35.49)",
   "solr_year_i": "1787",
   "dc_creator_sm": [
-    "06 Maekawa Rokuzaemon.",
-    "06 前川六左衛門."
+    "06 Maekawa Rokuzaemon."
   ],
   "dc_description_s": "1 map : hand colored ; 81 x 101 cm, folded in cover 26 x 18 cm|Mounted cover title.|Wood block print.|Oriented with north to the right.|05 Preface by Shino Ōdō.|Includes distance chart and legend.|00 The last character in title [図] not available in MS-IME; consists of 囗(outside) and 口 (inside above), 十 (inside middle), 囬 (inside below).|05 Preface by 篠応道.",
   "dc_format_s": "JPEG",
@@ -17,7 +16,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-03T21:26:02Z",
   "dc_language_sm": [
     "jpn"
   ],

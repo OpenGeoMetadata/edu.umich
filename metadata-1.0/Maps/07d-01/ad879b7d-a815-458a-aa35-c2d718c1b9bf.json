@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-92.17,-82.5,49,45.5)",
   "solr_year_i": "1852",
   "dc_creator_sm": [
-    "Farmer, John, 1798-1859.,Bayfield, Henry Wolsey, 1795-1885."
+    "Bayfield, Henry Wolsey, 1795-1885",
+    "Farmer, John, 1798-1859"
   ],
-  "dc_description_s": "Shows the Lake Superior region. Relief shown by hachures; depths shown by soundings. \"Engraved by J. Farmer.\" \"Entered according to act of Congress...the 8th day of July 1847 by John Farmer.\" \"Entered according to act of Congress...on the 6th day of March A.D. 1849 by John Farmer.\" Insets: Map of the surveyed part of Min[n]esota -- Map of Beaver Islands -- Plat of Isle Royale. 1 map: hand col.; 50 x 101 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows the Lake Superior region. Relief shown by hachures; depths shown by soundings. \"Engraved by J. Farmer.\" \"Entered according to act of Congress...the 8th day of July 1847 by John Farmer.\" \"Entered according to act of Congress...on the 6th day of March A.D. 1849 by John Farmer.\" Insets: Map of the surveyed part of Min[n]esota -- Map of Beaver Islands -- Plat of Isle Royale. 1 map: hand col.; 50 x 101 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013711625/39015091898786\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013711625\"}",
   "dct_spatial_sm": [
-    "Lake Superior, Michigan",
+    "Michigan--Lake Superior",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:41Z",
   "dc_language_sm": [
     "eng"
   ],

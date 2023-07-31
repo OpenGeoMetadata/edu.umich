@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-125,-116,46.5,42)",
   "solr_year_i": "1897",
   "dc_creator_sm": [
-    "United States. General Land Office.,King, Harry, (Harold G. R.),Hendges, M."
+    "King, Harry, (Harold G. R.),Hendges, M.",
+    "United States. General Land Office"
   ],
-  "dc_description_s": "Shows rail roads completed, rail roads proposed, life saving stations, county seats, light houses, military roads and trails and roads. Relief shown by shading and spot heights. Also available via the Internet. 1 map: col.; 70 x 89 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows rail roads completed, rail roads proposed, life saving stations, county seats, light houses, military roads and trails and roads. Relief shown by shading and spot heights. Also available via the Internet. 1 map: col.; 70 x 89 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009674503/39015095421932\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009674503\"}",
   "dct_spatial_sm": [
     "Oregon"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "layer_modified_dt": "2023-02-03T21:25:52Z",
   "dc_language_sm": [
     "eng"
   ],

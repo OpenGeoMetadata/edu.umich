@@ -8,9 +8,12 @@
   "solr_geom": "ENVELOPE(-93,-82,47,41)",
   "solr_year_i": "1871",
   "dc_creator_sm": [
-    "Nicholson, W. L.,Poole, C. H.,McClelland, D.,United States. Post Office Department."
+    "McClelland, D.",
+    "Nicholson, W. L.",
+    "Poole, C. H.",
+    "United States. Post Office Department"
   ],
-  "dc_description_s": "Prime meridian: Washington. Shows railroad lines. \"Drawn by C.H. Poole. Engraved by D. McClelland.\" \"The service on this diagram brought up to date of [April 1st, 1874].\" Includes \"General statistics,\" \"Explanation of mail service,\" and table of distances. 1 map: hand color; 105 x 141 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Prime meridian: Washington. Shows railroad lines. \"Drawn by C.H. Poole. Engraved by D. McClelland.\" \"The service on this diagram brought up to date of [April 1st, 1874].\" Includes \"General statistics,\" \"Explanation of mail service,\" and table of distances. 1 map: hand color; 105 x 141 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +22,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:40Z",
+  "layer_modified_dt": "2023-02-03T21:23:58Z",
   "dc_language_sm": [
     "eng"
   ],

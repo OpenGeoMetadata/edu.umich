@@ -5,10 +5,11 @@
   "dc_title_s": "Kazusa no Kuni yochi zenzu (上總國輿地全圖)",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "5dc44634-2427-41f0-9f11-7f31e6b3eb14",
+  "solr_geom": "ENVELOPE(122.71,154.21,45.71,20.21)",
   "solr_year_i": "1828",
   "dc_creator_sm": [
-    "Tsukada, Itoku.",
-    "Kikuya, Kōzaburō."
+    "Kikuya, Kōzaburō.",
+    "Tsukada, Itoku."
   ],
   "dc_description_s": "1 map : col. ; on sheet 74 x 118 cm., folded in cover 26 x 18 cm.|Printed on 6 sections joined.|Wood block print.|LC copy imperfect: Has worm holes.|Oriented with north to the lower left.|Relief shown pictorially.|Includes text and lists of points of interest, local products, and historic persons.",
   "dc_format_s": "JPEG",
@@ -16,8 +17,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-28T04:15:07Z",
   "dc_language_sm": [
     "jpn"
   ],

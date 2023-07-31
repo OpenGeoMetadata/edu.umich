@@ -8,19 +8,19 @@
   "solr_geom": "ENVELOPE(-87.63,-87.58,41.88,41.67)",
   "solr_year_i": "1893",
   "dc_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
-  "dc_description_s": "At head of map \"The Chicago Tribune: Columbian Exposition Souvenir.\" Insets: Chicago Tribune's new indexed miniture guide map of the World's Columbian Expositin at Chicago, 1893./\"Copyright, 1893, by Rand, McNally & Co.\" Chicago Tribune's card map of Chicago./\"Copyright, 1892, by Rand, McNally & Co.\" Includes \"Index to Map of World's Columbian Exposition\", \"Index to streets North of 12th Street\", and indexes of railroads, hotels, and theaters, etc. 1 map: col., mounted on cloth; 55 x 41 cm, folded to 23 x 15 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "At head of map \"The Chicago Tribune: Columbian Exposition Souvenir.\" Insets: Chicago Tribune's new indexed miniture guide map of the World's Columbian Expositin at Chicago, 1893./\"Copyright, 1893, by Rand, McNally & Co.\" Chicago Tribune's card map of Chicago./\"Copyright, 1892, by Rand, McNally & Co.\" Includes \"Index to Map of World's Columbian Exposition\", \"Index to streets North of 12th Street\", and indexes of railroads, hotels, and theaters, etc. 1 map: col., mounted on cloth; 55 x 41 cm, folded to 23 x 15 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000082566/39015091189905\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000082566\"}",
   "dct_spatial_sm": [
-    "Chicago, Illinois",
+    "Illinois--Chicago",
     "Illinois"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:39Z",
+  "layer_modified_dt": "2023-02-03T21:17:32Z",
   "dc_language_sm": [
     "eng"
   ],

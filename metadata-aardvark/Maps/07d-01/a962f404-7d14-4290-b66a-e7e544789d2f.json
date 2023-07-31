@@ -13,9 +13,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Roeser, C. (Charles), compiler.",
-    "Dinsmore, A. F., drawer.",
-    "Bien, Julius, 1826-1909, lithographer."
+    "Bien, Julius, 1826-1909",
+    "Dinsmore, A. F.",
+    "Roeser, C. (Charles), compiler."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -25,7 +25,9 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1878"
@@ -40,6 +42,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
+  "locn_geometry": "POLYGON((-84.820159 41.977523, -80.518693 41.977523, -80.518693 38.403202, -84.820159 38.403202, -84.820159 41.977523))",
+  "dcat_bbox": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
+  "dcat_centroid": "40.1903625,-82.669426",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,7 +52,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -58,6 +66,6 @@
     "013681838",
     "39015091905417"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:40:07Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

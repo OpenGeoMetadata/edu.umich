@@ -26,7 +26,8 @@
   "dcat_keyword_sm": [
     "Railroads Northwest Territories Maps.",
     "Railroads Prairie Provinces Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1937"
@@ -39,9 +40,12 @@
     "[1937 TO 1937]"
   ],
   "dct_spatial_sm": [
-    "Grand Coulee,  Washington",
+    "Washington--Grand Coulee",
     "Washington"
   ],
+  "locn_geometry": "POLYGON((-119.020227 47.951102, -118.984509 47.951102, -118.984509 47.931402, -119.020227 47.931402, -119.020227 47.951102))",
+  "dcat_bbox": "ENVELOPE(-119.020227,-118.984509,47.951102,47.931402)",
+  "dcat_centroid": "47.941252,-119.002368",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,7 +53,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -60,6 +67,6 @@
     "003287211",
     "39015091920739"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:35:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

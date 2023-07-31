@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-87.63,-80.02,31,24.52)",
   "solr_year_i": "1856",
   "dc_creator_sm": [
-    "United States. Surveyor General.,Westcott, John, 1805-1889.,Wagner & M'Guigan."
+    "United States. Surveyor General",
+    "Wagner & M'Guigan",
+    "Westcott, John, 1805-1889"
   ],
-  "dc_description_s": "Relief shown by hachures. \"Approved October 1st, 1856, John Westcott, Surveyor General.\" \"Sen. ex doc. no. 5 3rd sess. 34th Cong.\" 1 map; on sheet 71 x 67 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. \"Approved October 1st, 1856, John Westcott, Surveyor General.\" \"Sen. ex doc. no. 5 3rd sess. 34th Cong.\" 1 map; on sheet 71 x 67 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004962279/39015091905128\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004962279\"}",
   "dct_spatial_sm": [
     "Florida"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:45Z",
+  "layer_modified_dt": "2023-02-03T21:21:38Z",
   "dc_language_sm": [
     "eng"
   ],

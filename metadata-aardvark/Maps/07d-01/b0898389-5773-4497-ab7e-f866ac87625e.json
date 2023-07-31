@@ -1,20 +1,27 @@
 {
   "dct_title_s": "A plain map for the geographical game of Asia, Africa, America, and newly discovered islands: according to the method of the Abbé Gaultier.",
   "dct_description_sm": [
-    "Relief shown pictorially. Outline map showing continents, rivers, mountains, etc. Prime meridian: Ferro. 1 map: hand col.; 31 x 39 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Outline map showing continents, rivers, mountains, etc. Prime meridian: Ferro. 1 map: hand col.; 31 x 39 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Gaultier, abbé (Aloisius Edouard Camille), 1746?-1818.,David Rumsey Collection.,Cartography Associates."
+    "Cartography Associates",
+    "David Rumsey Collection",
+    "Gaultier, abbé (Aloisius Edouard Camille), 1746?-1818"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1792"
@@ -28,14 +35,20 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,83,-75)",
-  "dcat_bbox": "ENVELOPE(-180,180,83,-75)",
-  "dcat_centroid": "4.0,0.0",
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -44,6 +57,6 @@
   "dct_identifier_sm": [
     "b0898389-5773-4497-ab7e-f866ac87625e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:14Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

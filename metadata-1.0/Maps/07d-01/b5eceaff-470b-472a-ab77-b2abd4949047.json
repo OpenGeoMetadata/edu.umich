@@ -5,6 +5,7 @@
   "dc_title_s": "Novissima et accuratissima totius Americae descriptio per N. Visscher",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "b5eceaff-470b-472a-ab77-b2abd4949047",
+  "solr_geom": "ENVELOPE(-169.5,-32.2,73.9,-57.7)",
   "solr_year_i": "1656",
   "dc_description_s": "1 map ; 17 x 21 1/2 in.|This map first appeared in his Atlas Contractus Orbis Terrarum... Amstelaedami, ex officina, Nicolai Visscher, [1656-1677] (See Koeman's Atlantis Neerlandici, v. 3 p. 163)",
   "dc_format_s": "JPEG",
@@ -12,7 +13,7 @@
   "dct_spatial_sm": [
     "Americas"
   ],
-  "layer_modified_dt": "2021-07-14T22:12:00Z",
+  "layer_modified_dt": "2023-02-03T21:22:59Z",
   "dc_language_sm": [
     "lat"
   ],

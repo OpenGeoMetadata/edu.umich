@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-87.66,-77.66,48,42)",
   "solr_year_i": "1827",
   "dc_creator_sm": [
-    "Ode, H.",
-    "Lippens, Philip."
+    "Lippens, Philip.",
+    "Ode, H. (Henri)"
   ],
   "dc_description_s": "1 map : hand col. ; 41 x 49 cm|Relief shown by hachures and landform drawings.|Alternate title: Amer. Sep., No. 42.|\"Desée sur pierre et lithe par H Ode et Ph. Lippens, Avril, 1825.\"|[Paris prime meridian]|Area and population is indicated.|From Atlas universel de geographie / Ph. Vandermaelen. Bruxelles, 1827.",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:45Z",
+  "layer_modified_dt": "2023-02-03T21:19:25Z",
   "dc_language_sm": [
     "fre"
   ],

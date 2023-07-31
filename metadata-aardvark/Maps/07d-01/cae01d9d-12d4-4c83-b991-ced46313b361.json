@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Map of a portion of British Columbia showing the coalfields of Comox, Nanaimo & Cowitchin on Vancouver and adjacent islands and the distribution of the cretaceous coal bearing rocks also the tertiary rocks of Sooke & Burrard Inlet, to illustrate the report of Mr. James Richardson; compiled & drawn by R. Barlow, Ch. Draftsn., Geo. Sur.",
   "dct_description_sm": [
-    "Greenwich prime meridian. Relief shown by hachures and spot heights. Includes 3 profiles. 1 map: col.; 77 x 88 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Greenwich prime meridian. Relief shown by hachures and spot heights. Includes 3 profiles. 1 map: col.; 77 x 88 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Barlow, Robert, 1813-1883.,Richardson, James (Geologist),Geological Survey of Canada."
+    "Barlow, Robert, 1813-1883",
+    "Geological Survey of Canada",
+    "Richardson, James (Geologist)"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +17,8 @@
   ],
   "dcat_keyword_sm": [
     "Coal",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1867"
@@ -27,9 +30,9 @@
     "[1867 TO 1867]"
   ],
   "dct_spatial_sm": [
-    "Vancouver Island, British Columbia, Canada"
+    "British Columbia-- Canada--Vancouver Island"
   ],
-  "locn_geometry": "ENVELOPE(-124,-118,51,49)",
+  "locn_geometry": "POLYGON((-124 51, -118 51, -118 49, -124 49, -124 51))",
   "dcat_bbox": "ENVELOPE(-124,-118,51,49)",
   "dcat_centroid": "50.0,-121.0",
   "pcdm_memberOf_sm": [
@@ -38,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002564188/39015091911167\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002564188\"}",
@@ -45,6 +54,6 @@
   "dct_identifier_sm": [
     "cae01d9d-12d4-4c83-b991-ced46313b361"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

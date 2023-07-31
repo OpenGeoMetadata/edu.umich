@@ -1,13 +1,14 @@
 {
   "dct_title_s": "State of Oregon; compiled from the official records of the General Land Office and other sources under the direction of Harry King, chief of Drafting Division, G.L.O.; compiled, lettered and drawn by M. Hendges.",
   "dct_description_sm": [
-    "Shows rail roads completed, rail roads proposed, life saving stations, county seats, light houses, military roads and trails and roads. Relief shown by shading and spot heights. Also available via the Internet. 1 map: col.; 70 x 89 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows rail roads completed, rail roads proposed, life saving stations, county seats, light houses, military roads and trails and roads. Relief shown by shading and spot heights. Also available via the Internet. 1 map: col.; 70 x 89 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. General Land Office.,King, Harry, (Harold G. R.),Hendges, M."
+    "King, Harry, (Harold G. R.),Hendges, M.",
+    "United States. General Land Office"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +16,8 @@
   ],
   "dcat_keyword_sm": [
     "Public lands",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -29,7 +31,7 @@
   "dct_spatial_sm": [
     "Oregon"
   ],
-  "locn_geometry": "ENVELOPE(-125,-116,46.5,42)",
+  "locn_geometry": "POLYGON((-125 46.5, -116 46.5, -116 42, -125 42, -125 46.5))",
   "dcat_bbox": "ENVELOPE(-125,-116,46.5,42)",
   "dcat_centroid": "44.25,-120.5",
   "pcdm_memberOf_sm": [
@@ -38,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009674503/39015095421932\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009674503\"}",
@@ -45,6 +53,6 @@
   "dct_identifier_sm": [
     "ef460441-9bed-4039-a823-0cdee63d2acf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:37Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

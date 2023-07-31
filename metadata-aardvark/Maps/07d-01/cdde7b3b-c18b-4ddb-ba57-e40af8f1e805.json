@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Kenosha harbor, Wisconsin and shewing the state of the channel between the U.S. piers and the bar from survey made, as above, between the 8th & the 12th of May 1857; from survey made in December 1855 by assistant John R. Mayer, under the direction of Brevet Lieut. Col. J.D. Graham, Major, U.S. Top. Engineers. Superintending Engineer of Lake Michigan Works.",
   "dct_description_sm": [
-    "North oriented toward right. Depths shown by soundings and isolines. \"This map is the same as Map G no. 30 which accompanied Lieut. Colonel J.D. Graham's annual report (no. 116) to the Chief Topographical Engineer, dated Chicago December 31st 1855 except that the soundings laid down between the U.S. piers and on the outer bar are from survey made in May 1857.\" \"Map G. No. 53.\" 1 map; 65 x 92 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "North oriented toward right. Depths shown by soundings and isolines. \"This map is the same as Map G no. 30 which accompanied Lieut. Colonel J.D. Graham's annual report (no. 116) to the Chief Topographical Engineer, dated Chicago December 31st 1855 except that the soundings laid down between the U.S. piers and on the outer bar are from survey made in May 1857.\" \"Map G. No. 53.\" 1 map; 65 x 92 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Graham, J. D. (James Duncan), 1799-1865.,Mayer, John R.,United States. Army. Corps of Topographical Engineers."
+    "Graham, J. D. (James Duncan), 1799-1865",
+    "Mayer, J. R. (John R.)",
+    "United States. Army. Corps of Topographical Engineers"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -19,7 +21,8 @@
   "dcat_keyword_sm": [
     "Harbors",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1855 and 1857"
@@ -32,10 +35,10 @@
     "[1855 TO 1857]"
   ],
   "dct_spatial_sm": [
-    "Kenosha, Wisconsin",
+    "Wisconsin--Kenosha",
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-87.825305,-87.807066,42.601932,42.583702)",
+  "locn_geometry": "POLYGON((-87.825305 42.601932, -87.807066 42.601932, -87.807066 42.583702, -87.825305 42.583702, -87.825305 42.601932))",
   "dcat_bbox": "ENVELOPE(-87.825305,-87.807066,42.601932,42.583702)",
   "dcat_centroid": "42.592817,-87.8161855",
   "pcdm_memberOf_sm": [
@@ -44,6 +47,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001293820/39015095388834\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001293820\"}",
@@ -51,6 +60,6 @@
   "dct_identifier_sm": [
     "cdde7b3b-c18b-4ddb-ba57-e40af8f1e805"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

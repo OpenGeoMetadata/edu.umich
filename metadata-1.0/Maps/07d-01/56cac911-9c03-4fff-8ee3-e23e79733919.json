@@ -10,13 +10,13 @@
   "dc_creator_sm": [
     "H.R. Page & Co."
   ],
-  "dc_description_s": "Shows counties, township and range lines. Shows major cities and towns. Shows \"old state line\". Cover title: Sectional Michigan. Accompanying index, 15 p. and list of cities with population of 10,000 and upward, [2] p. titled Page's indexed township map of Michigan ... Insets: Isle Royale.--[western portion of upper pennisula]. 1 map: col.; 86 x 59 cm., folded to 13 x 8 cm., in cover. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows counties, township and range lines. Shows major cities and towns. Shows \"old state line\". Cover title: Sectional Michigan. Accompanying index, 15 p. and list of cities with population of 10,000 and upward, [2] p. titled Page's indexed township map of Michigan ... Insets: Isle Royale.--[western portion of upper pennisula]. 1 map: col.; 86 x 59 cm., folded to 13 x 8 cm., in cover.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081023/39015091880065\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081023\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "layer_modified_dt": "2023-02-03T21:21:14Z",
   "dc_language_sm": [
     "eng"
   ],

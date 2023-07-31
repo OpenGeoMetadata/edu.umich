@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-84.37,-84.25,46.52,46.42)",
   "solr_year_i": "1846",
   "dc_creator_sm": [
-    "Surveyor General for Ohio, Indiana and Michigan.,Lyon, Lucius, 1800-1851."
+    "Lyon, Lucius, 1800-1851",
+    "Surveyor General for Ohio, Indiana and Michigan."
   ],
-  "dc_description_s": "Relief shown by hachures. \"Lucius Lyon, surr. genl.\" \"January 31, 1846.\" From Report of the Secretary of the Treasury communicating a report from the acting commissioner of the General Land Office...Washington, D.C., 1847 (S. Doc. 221, 29th Congress, 2d session) 1 map; 35 x 27 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. \"Lucius Lyon, surr. genl.\" \"January 31, 1846.\" From Report of the Secretary of the Treasury communicating a report from the acting commissioner of the General Land Office...Washington, D.C., 1847 (S. Doc. 221, 29th Congress, 2d session) 1 map; 35 x 27 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003930823/39015091898943\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003930823\"}",
   "dct_spatial_sm": [
-    "Sault Sainte Marie, Michigan",
+    "Michigan--Sault Sainte Marie",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "layer_modified_dt": "2023-02-03T21:26:30Z",
   "dc_language_sm": [
     "eng"
   ],

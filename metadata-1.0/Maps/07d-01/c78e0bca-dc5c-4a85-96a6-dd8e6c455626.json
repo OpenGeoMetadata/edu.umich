@@ -5,11 +5,12 @@
   "dc_title_s": "Map of the United States",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "c78e0bca-dc5c-4a85-96a6-dd8e6c455626",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1854",
   "dc_creator_sm": [
-    "Blanchard, Rufus, 1821-1904.",
-    "Ranney, Adolphus.",
-    "Filmer & Co."
+    "Blanchard, Rufus, 1821-1904",
+    "Filmer & Co.",
+    "Ranney, Adolphus."
   ],
   "dc_description_s": "1 map : col. ; 47 x 69 cm|Relief shown by hachures.|Includes Cuba, the Bahamas and part of Mexico.|Tables show population of the principal cities in U.S. and number of miles of railroad in operation, area, population, wealth, and number of representatives of each state.|Travel routes shown in red.|Surrounded by ornamental border.|\"Entered according to Act of Congress, in the year 1854, by Rufus Blanchard, in the Clerk's Office of the District Court of the United States for the Southern District of New York.\"|\"Electrotyped by Filmer & Co.\"|Longitude West from Washington and Greenwich shown.",
   "dc_format_s": "JPEG",
@@ -20,8 +21,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:21:43Z",
   "dc_language_sm": [
     "eng"
   ],

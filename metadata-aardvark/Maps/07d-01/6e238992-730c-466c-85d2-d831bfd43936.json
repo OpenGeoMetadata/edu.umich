@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Plan de Mons: ville forte capitale du Comté d'Hainaut; Baillieu.",
   "dct_description_sm": [
-    "Shows military operations during siege of 1706. Show public and outlying buildings, city streets, fortifications, fields, marshes, etc. Relief by hachures. Text written in French. Scale measured in toises. Dissected in 8 sections. 1 map, dissected and mounted on linen; 38 x 51 cm, folded in slipcase 22 x 15 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows military operations during siege of 1706. Show public and outlying buildings, city streets, fortifications, fields, marshes, etc. Relief by hachures. Text written in French. Scale measured in toises. Dissected in 8 sections. 1 map, dissected and mounted on linen; 38 x 51 cm, folded in slipcase 22 x 15 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Baillieul, Gaspard, [fl. 1700-1744]."
+    "Baillieu, Gaspar de"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1708"
@@ -26,10 +27,10 @@
     "[1708 TO 1708]"
   ],
   "dct_spatial_sm": [
-    "Mons, Wallonia, Belgium",
+    "Belgium-- Wallonia--Mons",
     "Belgium"
   ],
-  "locn_geometry": "ENVELOPE(3.85478,4.085104,50.513811,50.377753)",
+  "locn_geometry": "POLYGON((3.85478 50.513811, 4.085104 50.513811, 4.085104 50.377753, 3.85478 50.377753, 3.85478 50.513811))",
   "dcat_bbox": "ENVELOPE(3.85478,4.085104,50.513811,50.377753)",
   "dcat_centroid": "50.445781999999994,3.969942",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005666662/39015049959805\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005666662\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "6e238992-730c-466c-85d2-d831bfd43936"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:00Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }
