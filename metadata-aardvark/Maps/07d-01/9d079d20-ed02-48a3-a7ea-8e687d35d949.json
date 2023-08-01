@@ -1,13 +1,18 @@
 {
   "dct_title_s": "North America: parts of Wisconsin and Michigan, sheet V; Tanner, Smith; J. & C. Walker sculpt.",
   "dct_description_sm": [
-    "Relief shown by hachures. Also shows northern part of Illinois. \"Published ... under the superintendance of the Society for the Diffusion of useful knowledge ...\" Probably detached from Society for the Diffusion of Useful Knowledge. Maps of the Society for the Diffusion of Useful Knowledge. -- London: C. Knight, 1846-1851. -- Vol. 2, no. 134. 1 map: color; 29 x 37 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Also shows northern part of Illinois. \"Published ... under the superintendance of the Society for the Diffusion of useful knowledge ...\" Probably detached from Society for the Diffusion of Useful Knowledge. Maps of the Society for the Diffusion of Useful Knowledge. -- London: C. Knight, 1846-1851. -- Vol. 2, no. 134. 1 map: color; 29 x 37 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "J. & C. Walker (Firm),Tanner, Henry Schenck, 1786-1858.,Smith, John, 1580-1631.,Penge, Russell, printer.,Charles Knight & Co.,Society for the Diffusion of Useful Knowledge."
+    "Charles Knight & Co",
+    "J. & C. Walker (Firm)",
+    "Penge, Russell, printer",
+    "Smith, John, 1580-1631",
+    "Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "Tanner, Henry Schenck, 1786-1858"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +20,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1846 to 1851"
@@ -30,7 +36,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-92,-83,47,41.5)",
+  "locn_geometry": "POLYGON((-92 47, -83 47, -83 41.5, -92 41.5, -92 47))",
   "dcat_bbox": "ENVELOPE(-92,-83,47,41.5)",
   "dcat_centroid": "44.25,-87.5",
   "pcdm_memberOf_sm": [
@@ -39,6 +45,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013681812/39015091905276\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013681812\"}",
@@ -46,6 +58,6 @@
   "dct_identifier_sm": [
     "9d079d20-ed02-48a3-a7ea-8e687d35d949"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:09Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

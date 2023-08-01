@@ -5,6 +5,7 @@
   "dc_title_s": "General map of part of the Northwest Territory and of Manitoba",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "3192fd78-0fe1-42ff-8908-73e004d66c7c",
+  "solr_geom": "ENVELOPE(-136.59,-102.0,79.13,60.0)",
   "solr_year_i": "1850",
   "dc_creator_sm": [
     "Canada. Department of the Interior, issuing body."
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:51Z",
+  "layer_modified_dt": "2023-02-03T21:18:47Z",
   "dc_language_sm": [
     "eng"
   ],

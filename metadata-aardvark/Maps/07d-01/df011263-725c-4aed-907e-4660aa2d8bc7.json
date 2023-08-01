@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Map of Nebraska and Dakota and portions of the states and territories bordering thereon; compiled by G. K. Warren.",
   "dct_description_sm": [
-    "March, 1867. 1 map: dissected and mounted on cloth; 108 x 80 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "March, 1867. 1 map: dissected and mounted on cloth; 108 x 80 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Warren, G. K. (Gouverneur Kemble), 1830-1882."
+    "Warren, G. K. (Gouverneur Kemble), 1830-1882"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Indian reservations",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1867"
@@ -29,7 +30,7 @@
   "dct_spatial_sm": [
     "South Dakota"
   ],
-  "locn_geometry": "ENVELOPE(-106.5,-93.5,50,38.5)",
+  "locn_geometry": "POLYGON((-106.5 50, -93.5 50, -93.5 38.5, -106.5 38.5, -106.5 50))",
   "dcat_bbox": "ENVELOPE(-106.5,-93.5,50,38.5)",
   "dcat_centroid": "44.25,-100.0",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000889523/39015095388693\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000889523\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "df011263-725c-4aed-907e-4660aa2d8bc7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:14Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

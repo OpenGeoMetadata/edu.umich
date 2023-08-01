@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-92.3,-66.2,48.95,29.78)",
   "solr_year_i": "1796",
   "dc_creator_sm": [
-    "Arrowsmith, Aaron, 1750-1823.,Smith, C., mapseller.,Dahl, James, former owner."
+    "Arrowsmith, Aaron, 1750-1823",
+    "Dahl, James, former owner",
+    "Smith, C., mapseller"
   ],
-  "dc_description_s": "Relief shown pictorially. Publisher's address changed to Soho Square. Publisher's title now hydrographer to H.R.H. the Prince of Wales. Cartouche incorporates view and text describing the falls of Niagara. On verso: \"Sold by C. Smith, Mapseller, No. 172, Strand. 850\" Labels indicating sector on verso. 1 map on 4 sheets: hand col., dissected and mounted on linen; 122 x 142 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Publisher's address changed to Soho Square. Publisher's title now hydrographer to H.R.H. the Prince of Wales. Cartouche incorporates view and text describing the falls of Niagara. On verso: \"Sold by C. Smith, Mapseller, No. 172, Strand. 850\" Labels indicating sector on verso. 1 map on 4 sheets: hand col., dissected and mounted on linen; 122 x 142 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012472564/39015095433358_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012472564\"}",
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:23Z",
+  "layer_modified_dt": "2023-02-03T21:16:04Z",
   "dc_language_sm": [
     "eng"
   ],

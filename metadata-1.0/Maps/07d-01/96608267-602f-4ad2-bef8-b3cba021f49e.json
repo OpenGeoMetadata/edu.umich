@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-115.25,-110.75,51.5,49)",
   "solr_year_i": "1884",
   "dc_creator_sm": [
-    "Dawson, George Mercer, 1849-1901.,Geological and Natural History Survey of Canada."
+    "Dawson, George Mercer, 1849-1901",
+    "Geological and Natural History Survey of Canada"
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights. Includes cross section from Coal Creek to Medicine Hat. 1 map: col.; 59 x 66 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures and spot heights. Includes cross section from Coal Creek to Medicine Hat. 1 map: col.; 59 x 66 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001291818/39015091911001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001291818\"}",
   "dct_spatial_sm": [
-    "Alberta, Canada"
+    "Canada--Alberta"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:37Z",
+  "layer_modified_dt": "2023-02-03T21:19:04Z",
   "dc_language_sm": [
     "eng"
   ],

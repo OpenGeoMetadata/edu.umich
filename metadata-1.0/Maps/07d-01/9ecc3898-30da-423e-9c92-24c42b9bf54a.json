@@ -8,16 +8,15 @@
   "solr_geom": "ENVELOPE(-180,180,90,-90)",
   "solr_year_i": "1780",
   "dc_creator_sm": [
-    "Bonne, Rigobert, 1727-1794."
+    "Bonne, Rigobert, 1727-1794"
   ],
-  "dc_description_s": "In upper left: Livre I. et les suivants. In upper right: No. 1. From his Atlas de toutes les parties connues du globe terrestre. cf. Library of Congress. Map Division. A list of geographical atlases, 652, no. 1. 1 map: hand col.; 2 hemispheres each 20 cm. in diam., on sheet 22 x 41 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "In upper left: Livre I. et les suivants. In upper right: No. 1. From his Atlas de toutes les parties connues du globe terrestre. cf. Library of Congress. Map Division. A list of geographical atlases, 652, no. 1. 1 map: hand col.; 2 hemispheres each 20 cm. in diam., on sheet 22 x 41 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008500483/39015091197858\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008500483\"}",
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:41Z",
+  "layer_modified_dt": "2023-06-23T22:01:02Z",
   "dc_language_sm": [
     "eng"
   ],

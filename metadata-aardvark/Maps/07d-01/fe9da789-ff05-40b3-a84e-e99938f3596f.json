@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Chart prepared by James B. Moore to accompany his memorial to Congress respecting the subject of steam communication with China, Japan & c, 1850.",
   "dct_description_sm": [
-    "Inset: Harbour of San Francisco, California. Tables of distances. Shows distances between major ports of the world. 1 map; 71 x 96 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Inset: Harbour of San Francisco, California. Tables of distances. Shows distances between major ports of the world. 1 map; 71 x 96 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Moore, James B.,Gollmer, H., engraver."
+    "Gollmer, H., engraver.",
+    "Moore, James B."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1850"
@@ -33,7 +35,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-23,0,81,-65)",
+  "locn_geometry": "POLYGON((-23 81, 0 81, 0 -65, -23 -65, -23 81))",
   "dcat_bbox": "ENVELOPE(-23,0,81,-65)",
   "dcat_centroid": "8.0,-11.5",
   "pcdm_memberOf_sm": [
@@ -42,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003286623/39015091197155\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003286623\"}",
@@ -49,6 +57,6 @@
   "dct_identifier_sm": [
     "fe9da789-ff05-40b3-a84e-e99938f3596f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

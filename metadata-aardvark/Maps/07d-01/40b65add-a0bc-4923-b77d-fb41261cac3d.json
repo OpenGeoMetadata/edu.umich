@@ -1,20 +1,22 @@
 {
   "dct_title_s": "County and township map of Arizona and New Mexico; S. Augustus Mitchell.; Arizona and New Mexico",
   "dct_description_sm": [
-    "Relief shown by hachures. Prime meridians: Greenwich and Washington. \"Entered according to an Act of Congress in the year 1881 by S. Augustus Mitchell in the Office of the Librarian of Congress at Washington.\" Plate 92 from Mitchell's New General Atlas, Containing Maps Of The Various Countries Of The World, Plans Of Cities, Etc., Embraced In Ninety-Three Quarto Maps. 1 map: col.; 35 x 55 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Prime meridians: Greenwich and Washington. \"Entered according to an Act of Congress in the year 1881 by S. Augustus Mitchell in the Office of the Librarian of Congress at Washington.\" Plate 92 from Mitchell's New General Atlas, Containing Maps Of The Various Countries Of The World, Plans Of Cities, Etc., Embraced In Ninety-Three Quarto Maps. 1 map: col.; 35 x 55 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868.,Dahl, James, former owner."
+    "Dahl, James, former owner",
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1881"
@@ -28,7 +30,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-115,-103,37,31)",
+  "locn_geometry": "POLYGON((-115 37, -103 37, -103 31, -115 31, -115 37))",
   "dcat_bbox": "ENVELOPE(-115,-103,37,31)",
   "dcat_centroid": "34.0,-109.0",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012522074/39015095391184\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012522074\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "40b65add-a0bc-4923-b77d-fb41261cac3d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

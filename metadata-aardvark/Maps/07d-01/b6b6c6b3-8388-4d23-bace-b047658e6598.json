@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Hiroshima-ken kannai chizu: fu Hiroshima shigai zenzu; Sō Mōkan.; Kaisei Hiroshima-ken kannai chizu kan;Hiroshima-ken kannai chizu",
   "dct_description_sm": [
-    "Mounted cover title. Copperplate print. In Japanese. Relief shown by hachures. Includes 1 inset map of Hiroshima-shi, distance chart, and diagrammatic chart of distances between postal stations by rail. Includes legend. 1 map: col.; 71 x 71 cm., folded in cover 19 x 13 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Mounted cover title. Copperplate print. In Japanese. Relief shown by hachures. Includes 1 inset map of Hiroshima-shi, distance chart, and diagrammatic chart of distances between postal stations by rail. Includes legend. 1 map: col.; 71 x 71 cm., folded in cover 19 x 13 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "Meiji 25 1892"
@@ -26,10 +27,10 @@
     "[1892 TO 1892]"
   ],
   "dct_spatial_sm": [
-    "Hiroshima Prefecture, Hiroshima, Japan",
+    "Hiroshima-- Japan--Hiroshima Prefecture",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(132,133.5,35.17,34)",
+  "locn_geometry": "POLYGON((132 35.17, 133.5 35.17, 133.5 34, 132 34, 132 35.17))",
   "dcat_bbox": "ENVELOPE(132,133.5,35.17,34)",
   "dcat_centroid": "34.585,132.75",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887730/39015091921331_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887730\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "b6b6c6b3-8388-4d23-bace-b047658e6598"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

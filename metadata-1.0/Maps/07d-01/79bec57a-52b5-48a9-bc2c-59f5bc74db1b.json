@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-74.06,-73.92,40.8,40.68)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
-  "dc_description_s": "Compliments of the Broadway Central Hotel, New York. Text on verso. col. map.; 49 x 31 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Compliments of the Broadway Central Hotel, New York. Text on verso. col. map.; 49 x 31 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003549023/39015091186679_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003549023\"}",
   "dct_spatial_sm": [
-    "New York, New York",
-    "New York State, New York"
+    "New York--New York",
+    "New York--New York State"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:49Z",
+  "layer_modified_dt": "2023-02-03T21:22:47Z",
   "dc_language_sm": [
     "eng"
   ],

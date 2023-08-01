@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Map of Wayne County Michigan showing surface features Geological and Biological Survey of Michigan.",
   "dct_description_sm": [
-    "Publication XII, Geological series 9, plate X. Relief shown by contour lines and spot heights. Contour interval 20 feet. Shows surface features, cultural features such as transportation routes, boundaries, and cemeteries, relief features, and water features. 1 map: col.; 77 x 96 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Publication XII, Geological series 9, plate X. Relief shown by contour lines and spot heights. Contour interval 20 feet. Shows surface features, cultural features such as transportation routes, boundaries, and cemeteries, relief features, and water features. 1 map: col.; 77 x 96 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Michigan. Geological Survey."
+    "Michigan. Geological Survey Division"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Geology",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -30,10 +31,10 @@
     "[1913 TO 1913]"
   ],
   "dct_spatial_sm": [
-    "Wayne County, Michigan",
+    "Michigan--Wayne County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.57,-82.83,42.45,42)",
+  "locn_geometry": "POLYGON((-83.57 42.45, -82.83 42.45, -82.83 42, -83.57 42, -83.57 42.45))",
   "dcat_bbox": "ENVELOPE(-83.57,-82.83,42.45,42)",
   "dcat_centroid": "42.225,-83.19999999999999",
   "pcdm_memberOf_sm": [
@@ -42,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002647395/39015095399849\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002647395\"}",
@@ -49,6 +56,6 @@
   "dct_identifier_sm": [
     "f269ad2c-4a4f-4cc8-b065-02ccd671ab55"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

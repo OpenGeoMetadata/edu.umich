@@ -5,6 +5,7 @@
   "dc_title_s": "Carte Regionale de la Province de Quebec, comprenent les comtes de Rimouski, Bonaventure et Gaspe",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "91746289-b4f3-479e-9019-de7f511f3bd6",
+  "solr_geom": "ENVELOPE(-79.76,-57.11,62.58,44.99)",
   "solr_year_i": "1884",
   "dc_creator_sm": [
     "Burland Lithographic Co., publisher."
@@ -13,12 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013698043/39015091910037_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013698043\"}",
   "dct_spatial_sm": [
-    "Quebec,  Canada",
+    "Canada--Quebec",
     "Canada",
     "Canada"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:51Z",
+  "layer_modified_dt": "2023-02-03T21:17:25Z",
   "dc_language_sm": [
     "eng"
   ],

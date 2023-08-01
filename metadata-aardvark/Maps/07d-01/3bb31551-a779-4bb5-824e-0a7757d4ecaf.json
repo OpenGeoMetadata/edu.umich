@@ -1,13 +1,17 @@
 {
   "dct_title_s": "Map of the counties of Washtenaw and Lenawee, Michigan from special surveys and official records by G. R. Bechler & E. Wenig; Worley & Bracher, engs.; F. Bourquin & Co., prints.",
   "dct_description_sm": [
-    "Shows property ownership. Insets: Ann Arbor--Ypsilanti--Saline--Chelsea--Tecumseh--Clinton--Adrian--Deerfield--Palmyra--Hudson--Addison--Ridgeway--Fairfield--Medina--Canandaigua--Morenci--Riga--Blis sfield and Lyons--Rollin--Manchester--Macon--Hudson (Washtenaw County)--Dexter. Includes county and city business directories, and table of distances; 25 vignettes. 1 map: col.; 143 x 145 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows property ownership. Insets: Ann Arbor--Ypsilanti--Saline--Chelsea--Tecumseh--Clinton--Adrian--Deerfield--Palmyra--Hudson--Addison--Ridgeway--Fairfield--Medina--Canandaigua--Morenci--Riga--Blis sfield and Lyons--Rollin--Manchester--Macon--Hudson (Washtenaw County)--Dexter. Includes county and city business directories, and table of distances; 25 vignettes. 1 map: col.; 143 x 145 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Bechler, Gustavus R.,Wenig, E.,Geil, Samuel.,Worley & Bracher.,F. Bourquin & Co."
+    "Bechler, Gustavus R.",
+    "F. Bourquin & Co.",
+    "Geil, Samuel",
+    "Wenig, E.",
+    "Worley & Bracher"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1864"
@@ -33,7 +38,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.37,-83.37,42.43,41.7)",
+  "locn_geometry": "POLYGON((-84.37 42.43, -83.37 42.43, -83.37 41.7, -84.37 41.7, -84.37 42.43))",
   "dcat_bbox": "ENVELOPE(-84.37,-83.37,42.43,41.7)",
   "dcat_centroid": "42.065,-83.87",
   "pcdm_memberOf_sm": [
@@ -42,6 +47,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002745877/39015091197502\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002745877\"}",
@@ -49,6 +60,6 @@
   "dct_identifier_sm": [
     "3bb31551-a779-4bb5-824e-0a7757d4ecaf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

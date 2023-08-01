@@ -1,13 +1,15 @@
 {
   "dct_title_s": "New York City and vicinity; H.M. Wilson, geographer in charge; triangulation by U.S. Coast and Geodetic Survey; topography by S.H. Bodfish ... [et al. and] U.S. Coast and Geodetic Survey, N.Y. City Government and the Geological Survey of New Jersey.",
   "dct_description_sm": [
-    "Shows streets and railroads. Relief shown by contours and spot heights. 1 map: col.; 111 x 81 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows streets and railroads. Relief shown by contours and spot heights. 1 map: col.; 111 x 81 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geological Survey (U.S.),Wilson, Herbert M. (Herbert Michael), 1860-1920.,U.S. Coast and Geodetic Survey."
+    "Geological Survey (U.S.)",
+    "U.S. Coast and Geodetic Survey",
+    "Wilson, Herbert M. (Herbert Michael), 1860-1920"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -17,7 +19,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -29,10 +32,10 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "New York, New York",
-    "New York State, New York"
+    "New York--New York",
+    "New York--New York State"
   ],
-  "locn_geometry": "ENVELOPE(-74.25,-73.67,41,40.38)",
+  "locn_geometry": "POLYGON((-74.25 41, -73.67 41, -73.67 40.38, -74.25 40.38, -74.25 41))",
   "dcat_bbox": "ENVELOPE(-74.25,-73.67,41,40.38)",
   "dcat_centroid": "40.69,-73.96000000000001",
   "pcdm_memberOf_sm": [
@@ -41,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003491305/39015091186695\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003491305\"}",
@@ -48,6 +57,6 @@
   "dct_identifier_sm": [
     "998c612b-a95f-4f70-aac7-0ed021586c61"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:49Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

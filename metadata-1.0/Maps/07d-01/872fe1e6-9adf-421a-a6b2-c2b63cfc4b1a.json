@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-0.14,1.48,51.56,50.9)",
   "solr_year_i": "1636",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
-  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships and sea monsters in the ocean. Does not match any states listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships and sea monsters in the ocean. Does not match any states listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 49 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010349064/39015091192081_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010349064\"}",
   "dct_spatial_sm": [
-    "Kent, England, United Kingdom",
+    "England-- United Kingdom--Kent",
     "United Kingdom"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "layer_modified_dt": "2023-02-03T21:24:06Z",
   "dc_language_sm": [
     "eng"
   ],

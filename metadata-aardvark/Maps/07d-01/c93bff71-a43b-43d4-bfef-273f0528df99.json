@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Africa: north western sheet.",
   "dct_description_sm": [
-    "Relief shown by hachures. Inset: Liberia. Prime meridian: Washington, D.C. No. 35 in Colton, G.W. \"Atlas of the world\", v.2., 1856. Shows northwestern Africa including Morocco, Algeria, Sahara, Senegal and Guinea. 1 map: col.; 37 x 30 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Inset: Liberia. Prime meridian: Washington, D.C. No. 35 in Colton, G.W. \"Atlas of the world\", v.2., 1856. Shows northwestern Africa including Morocco, Algeria, Sahara, Senegal and Guinea. 1 map: col.; 37 x 30 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+    "Colton, G. Woolworth (George Woolworth), 1827-1901"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1855"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Northern Africa"
   ],
-  "locn_geometry": "ENVELOPE(-28,17,43,-3)",
+  "locn_geometry": "POLYGON((-28 43, 17 43, 17 -3, -28 -3, -28 43))",
   "dcat_bbox": "ENVELOPE(-28,17,43,-3)",
   "dcat_centroid": "20.0,-5.5",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280918/39015091916109\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280918\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "c93bff71-a43b-43d4-bfef-273f0528df99"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:47Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

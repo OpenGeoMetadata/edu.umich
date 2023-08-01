@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(116.3,123.12,35.18,29.98)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
-    "01 Japan. Rikugun. Sanbō Honbu.,01 Japan. 陸軍. 参謀本部."
+    "Japan. Rikugun. Sanbō Honbu"
   ],
-  "dc_description_s": "Relief shown by hachures. 04 Includes three insets: Nankin Kōneifujō no zu (scale 1:85,000); So-shūfujō no zu (scale 1:26,000); Shanhai ryakuzu (scale 1:50,000). 04 Includes three insets: 南京江寧府城之圖 (scale 1:85,000); 蘇州府城之圖 (scale 1:26,000); 上海略図 (scale 1:50,000). 1 map; 75 x 87 cm., folded in cover 23 x 17 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. 04 Includes three insets: Nankin Kōneifujō no zu (scale 1:85,000); So-shūfujō no zu (scale 1:26,000); Shanhai ryakuzu (scale 1:50,000). 04 Includes three insets: 南京江寧府城之圖 (scale 1:85,000); 蘇州府城之圖 (scale 1:26,000); 上海略図 (scale 1:50,000). 1 map; 75 x 87 cm., folded in cover 23 x 17 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007024660/39015091921273_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007024660\"}",
   "dct_spatial_sm": [
-    "People's Republic of China, China"
+    "China--People's Republic of China"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "layer_modified_dt": "2023-02-03T21:25:02Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285302/39015095416965_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285302\"}",
   "dct_spatial_sm": [
-    "Ontario, Canada",
+    "Canada--Ontario",
     "Canada"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:18Z",
+  "layer_modified_dt": "2023-02-03T21:21:37Z",
   "dc_language_sm": [
     "eng"
   ],

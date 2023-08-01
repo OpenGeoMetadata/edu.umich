@@ -1,13 +1,16 @@
 {
   "dct_title_s": "Map of a reconnoissance between Fort Leavenworth on the Missouri river and the Great Salt Lake in the Territory of Utah, made in 1849 and 1850 under the orders of Col. J.J. Abert ...; by Capt. Howard Stansbury aided by Lieut. J.W. Gunnison ... and Albert Carrington; drawn by Lieut. Gunnison and Charles Preuss.; Map of a reconnaissance between Fort Leavenworth on the Missouri river and the Great Salt Lake in the Territory of Utah, made in 1849 and 1850 under the orders of Col. J.J. Abert, by Capt. Howard Stansbury aided by Lieut. J.W. Gunnison ... and Albert Carrington; drawn by Lieut. Gunnison and Charles Preuss",
   "dct_description_sm": [
-    "Relief shown by hachures. Outline color. 1 map: hand col., dissected into 18 sections and mounted on linen; 71 x 174 cm, folded to 25 x 29 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Outline color. 1 map: hand col., dissected into 18 sections and mounted on linen; 71 x 174 cm, folded to 25 x 29 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Stansbury, Howard, 1806-1863.,Gunnison, J. W. (John Williams), 1812-1853.,Preuss, Charles, 1803-1854.,United States. Army. Corps of Engineers."
+    "Gunnison, J. W. (John Williams), 1812-1853",
+    "Preuss, Charles, 1803-1854",
+    "Stansbury, Howard, 1806-1863",
+    "United States. Army. Corps of Engineers"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Discovery and exploration",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1850"
@@ -29,7 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-115,-94,44,38)",
+  "locn_geometry": "POLYGON((-115 44, -94 44, -94 38, -115 38, -115 44))",
   "dcat_bbox": "ENVELOPE(-115,-94,44,38)",
   "dcat_centroid": "41.0,-104.5",
   "pcdm_memberOf_sm": [
@@ -38,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003060822/39015091905789_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003060822\"}",
@@ -45,6 +55,6 @@
   "dct_identifier_sm": [
     "13b4f358-d358-4ea7-a99e-89b066944502"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

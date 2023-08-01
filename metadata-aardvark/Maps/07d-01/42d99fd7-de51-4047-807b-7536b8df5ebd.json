@@ -23,7 +23,8 @@
     "Real property Michigan Ypsilanti Maps, Manuscript Facsimiles.",
     "Manuscript maps Facsimiles.",
     "Real property Michigan Ypsilanti Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1825"
@@ -36,9 +37,12 @@
     "[1825 TO 1825]"
   ],
   "dct_spatial_sm": [
-    "Ypsilanti,  Michigan",
+    "Michigan--Ypsilanti",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-83.652081 42.260874, -83.596428 42.260874, -83.596428 42.224184, -83.652081 42.224184, -83.652081 42.260874))",
+  "dcat_bbox": "ENVELOPE(-83.652081,-83.596428,42.260874,42.224184)",
+  "dcat_centroid": "42.242529000000005,-83.6242545",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,7 +50,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -57,6 +64,6 @@
     "013593342",
     "39015091897176"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

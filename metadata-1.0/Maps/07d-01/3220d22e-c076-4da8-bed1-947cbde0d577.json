@@ -8,9 +8,10 @@
   "solr_geom": "ENVELOPE(-97,-90,43.5,40.5)",
   "solr_year_i": "1885",
   "dc_creator_sm": [
-    "United States. General Land Office.,Strum, G. P. (Gustave P.)"
+    "Strum, G. P. (Gustave P.)",
+    "United States. General Land Office"
   ],
-  "dc_description_s": "Shows railroads. Relief shown by hachures. Prime meridians: Greenwich and Washington. Includes grid. 1 map: col.; 50 x 82 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows railroads. Relief shown by hachures. Prime meridians: Greenwich and Washington. Includes grid. 1 map: col.; 50 x 82 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +20,7 @@
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:38Z",
+  "layer_modified_dt": "2023-02-03T21:25:22Z",
   "dc_language_sm": [
     "eng"
   ],

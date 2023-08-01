@@ -8,17 +8,16 @@
   "solr_geom": "ENVELOPE(2.2,2.45,48.91,48.8)",
   "solr_year_i": "1860",
   "dc_creator_sm": [
-    "Logerot, A. (Auguste)"
+    "Logerot, Auguste"
   ],
-  "dc_description_s": "Relief shown pictorially. Colored to show the annexations of the surrounding suburbs and the 20 new arrondissements created in 1860. Shows roads in progress and planned roads. Overlaid by grid of 266 numbered squares. Cover title: \"Paris et ses environs dan un rayon de dix kilometres.\" 1 map: hand col. 66 x 100 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Colored to show the annexations of the surrounding suburbs and the 20 new arrondissements created in 1860. Shows roads in progress and planned roads. Overlaid by grid of 266 numbered squares. Cover title: \"Paris et ses environs dan un rayon de dix kilometres.\" 1 map: hand col. 66 x 100 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005112384/39015091186273\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005112384\"}",
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "layer_modified_dt": "2023-02-03T21:22:57Z",
   "dc_language_sm": [
     "eng"
   ],

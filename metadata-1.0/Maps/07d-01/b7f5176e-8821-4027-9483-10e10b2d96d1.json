@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-82.12,-50.2,82.4,70.32)",
   "solr_year_i": "1855",
   "dc_creator_sm": [
-    "Kane, Elisha Kent, 1820-1857.",
-    "United States. Congress. Senate (34th, 1st Session : 1855)",
-    "Ackerman Lithr."
+    "Ackerman Lithr.",
+    "Kane, Elisha Kent, 1820-1857",
+    "United States. Congress. Senate (34th, 1st Session : 1855)"
   ],
   "dc_description_s": "1 map ; 25 x 16 cm|\"Senate Ex. Doc. No. 1, lst Session, 34th Congress.\"",
   "dc_format_s": "JPEG",
@@ -18,7 +18,7 @@
   "dct_spatial_sm": [
     "Arctic"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:08Z",
+  "layer_modified_dt": "2023-02-03T21:17:29Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-28.03,50.05,71.42,33.88)",
   "solr_year_i": "1808",
   "dc_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
-  "dc_description_s": "Relief shown pictorially. Border contains descriptive and statistical information. \"No. XXX de l'Europe géographique, politique, statist. en 1808.\" 1 map: hand col.; 37 x 45 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Border contains descriptive and statistical information. \"No. XXX de l'Europe géographique, politique, statist. en 1808.\" 1 map: hand col.; 37 x 45 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281640/39015091196546\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281640\"}",
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "layer_modified_dt": "2023-02-03T21:20:29Z",
   "dc_language_sm": [
     "eng"
   ],

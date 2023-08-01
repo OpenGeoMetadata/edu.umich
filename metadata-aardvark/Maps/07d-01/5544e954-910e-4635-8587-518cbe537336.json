@@ -28,7 +28,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-168.35,-66.93,71.72,24.85)",
+  "locn_geometry": "POLYGON((-168.35 71.72, -66.93 71.72, -66.93 24.85, -168.35 24.85, -168.35 71.72))",
   "dcat_bbox": "ENVELOPE(-168.35,-66.93,71.72,24.85)",
   "dcat_centroid": "48.285,-117.64",
   "pcdm_memberOf_sm": [
@@ -36,6 +36,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -46,6 +52,6 @@
     "003283428",
     "39015091195324"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:09Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

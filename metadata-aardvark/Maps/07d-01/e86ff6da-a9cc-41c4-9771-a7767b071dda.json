@@ -1,20 +1,26 @@
 {
   "dct_title_s": "Duche de Bretaigne; dessigné par le Sieur Hardy.",
   "dct_description_sm": [
-    "Relief shown pictorially. Decorative cartouche, coat of arms with sea monsters, and ships. Includes the inscription \"et se vendent aussy a Paris chez Melchoir Tavernier demeurant sur l'isle du Palais a la Sphere.\" 1 map; 36 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Decorative cartouche, coat of arms with sea monsters, and ships. Includes the inscription \"et se vendent aussy a Paris chez Melchoir Tavernier demeurant sur l'isle du Palais a la Sphere.\" 1 map; 36 x 49 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Hardy, Claude, d. 1678, engraver.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630.,Hondius, Hendrik, 1597-1651, cartographer.,Vignaud, Henry, 1830-1922, former owner.,Tavernier, Melchior, -1641, vendor."
+    "Hardy, Claude, d. 1678, engraver",
+    "Hondius, Hendrik, 1597-1651",
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630",
+    "Tavernier, Melchior, -1641, vendor.",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1630"
@@ -26,10 +32,10 @@
     "[1630 TO 1630]"
   ],
   "dct_spatial_sm": [
-    "Brittany, France",
+    "France--Brittany",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(-5.22,-1.27,48.92,47.02)",
+  "locn_geometry": "POLYGON((-5.22 48.92, -1.27 48.92, -1.27 47.02, -5.22 47.02, -5.22 48.92))",
   "dcat_bbox": "ENVELOPE(-5.22,-1.27,48.92,47.02)",
   "dcat_centroid": "47.97,-3.245",
   "pcdm_memberOf_sm": [
@@ -38,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282283/39015091194137_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282283\"}",
@@ -45,6 +57,6 @@
   "dct_identifier_sm": [
     "e86ff6da-a9cc-41c4-9771-a7767b071dda"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

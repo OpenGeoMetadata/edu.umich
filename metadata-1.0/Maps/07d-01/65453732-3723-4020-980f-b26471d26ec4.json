@@ -8,16 +8,15 @@
   "solr_geom": "ENVELOPE(-143.3,-41.65,66.83,3.45)",
   "solr_year_i": "1700",
   "dc_creator_sm": [
-    "Jefferys, Thomas, -1771."
+    "Jefferys, Thomas, -1771"
   ],
-  "dc_description_s": "Relief shown pictorially. Shows \"Deg. west from London\" and \"Hours west from London.\" Decorative title cartouche depicting a cliff, waterfall, and natives. Later copy lacking Jeffery's name below title. 1 map: hand col.; 18 x 22 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Shows \"Deg. west from London\" and \"Hours west from London.\" Decorative title cartouche depicting a cliff, waterfall, and natives. Later copy lacking Jeffery's name below title. 1 map: hand col.; 18 x 22 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008859996/39015091185788\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008859996\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:50Z",
+  "layer_modified_dt": "2023-02-03T21:22:54Z",
   "dc_language_sm": [
     "eng"
   ],

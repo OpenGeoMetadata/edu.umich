@@ -5,9 +5,10 @@
   "dc_title_s": "Map of Western Virginia",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "ec3588d4-bb0b-477e-9366-7765627bf49f",
+  "solr_geom": "ENVELOPE(-82.644739,-77.719519,40.638801,37.201483)",
   "solr_year_i": "1862",
   "dc_creator_sm": [
-    "Nicholson, W.L. http://viaf.org/viaf/224512355"
+    "Nicholson, W. L."
   ],
   "dc_description_s": "1 map : color ; 55 x 48 cm.|Relief shown by hachures.|Compiled by W.L. Nicholson, Lith. by Chas. G. Krebs.|\"Compiled from the best authorities and printed at the Coast Survey Office.\"|Shows railroads, rivers, mountains, and roads.",
   "dc_format_s": "JPEG",
@@ -18,8 +19,7 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:21:47Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,6 +5,7 @@
   "dc_title_s": "Profile of the lakes and Atlantic waterways via the Great Lakes and connecting rivers: the St. Lawrence River and the Champlain--Hudson Valley from Chicago and Duluth--Superior to New York and Quebec",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "42d5eb57-6b76-48d2-a50d-35f03103df2a",
+  "solr_geom": "ENVELOPE(-92.256,-76.0731,49.0839,41.4378)",
   "solr_year_i": "1895",
   "dc_creator_sm": [
     "Chicago Sanitary District. Engineering Dept."
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:44:18Z",
+  "layer_modified_dt": "2023-02-03T21:24:03Z",
   "dc_language_sm": [
     "eng"
   ],

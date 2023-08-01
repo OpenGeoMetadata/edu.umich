@@ -1,20 +1,22 @@
 {
   "dct_title_s": "Geographical and historical map of China.",
   "dct_description_sm": [
-    "Map has border text. \"China and the tributary kingdom of Corea. For the elucidation of Lavoisne's Genealogical, historical, chronological & geographical atlas, by C. Gros. 1821.\" This map is no. 64 in Lavoisne's A complete genealogical, historical, chronological and geographical atlas...\"Third Philadelphia edition, 1821...from the London Edition of 1817.\" For the 2d ed., 1820, see D 21.5 .L41 1820. 1 map: hand col.; 21 x 26 cm on sheet 48 x 53 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Map has border text. \"China and the tributary kingdom of Corea. For the elucidation of Lavoisne's Genealogical, historical, chronological & geographical atlas, by C. Gros. 1821.\" This map is no. 64 in Lavoisne's A complete genealogical, historical, chronological and geographical atlas...\"Third Philadelphia edition, 1821...from the London Edition of 1817.\" For the 2d ed., 1820, see D 21.5 .L41 1820. 1 map: hand col.; 21 x 26 cm on sheet 48 x 53 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Lavoisne, C. V.,Gros, C."
+    "Gros, C.",
+    "Lavoisne, C. V."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1821"
@@ -28,7 +30,7 @@
   "dct_spatial_sm": [
     "Eastern Asia"
   ],
-  "locn_geometry": "ENVELOPE(97,135,43,18)",
+  "locn_geometry": "POLYGON((97 43, 135 43, 135 18, 97 18, 97 43))",
   "dcat_bbox": "ENVELOPE(97,135,43,18)",
   "dcat_centroid": "30.5,116.0",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282470/39015091916620\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282470\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "b1838e9b-918b-4ffe-8262-edc854541b2c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:00Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

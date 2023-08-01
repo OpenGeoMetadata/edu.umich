@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-94.67,-81,47.33,41.5)",
   "solr_year_i": "1877",
   "dc_creator_sm": [
-    "Steinwehr, A. von (Adolph), 1822-1877."
+    "Steinwehr, A. von (Adolph), 1822-1877"
   ],
-  "dc_description_s": "Relief shown by hachures, depths shown by bathymetric tints and soundings. Inset of Isle Royale in upper right corner. Greenwich prime meridian used along upper border, Washington prime meridian used along lower border. 1 map: col.; 29 x 47 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures, depths shown by bathymetric tints and soundings. Inset of Isle Royale in upper right corner. Greenwich prime meridian used along upper border, Washington prime meridian used along lower border. 1 map: col.; 29 x 47 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003834322/39015091916216\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003834322\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "layer_modified_dt": "2023-02-03T21:21:14Z",
   "dc_language_sm": [
     "eng"
   ],

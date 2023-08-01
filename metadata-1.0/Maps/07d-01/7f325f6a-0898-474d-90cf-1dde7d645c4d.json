@@ -5,9 +5,10 @@
   "dc_title_s": "Official map of the state of Michigan: giving the names, locations and boundaries of counties, county seats, townships, towns, railway stations and all lines of railways completed to October 1, 1897",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "7f325f6a-0898-474d-90cf-1dde7d645c4d",
+  "solr_geom": "ENVELOPE(-90.418136,-82.413474,48.2388,41.696118)",
   "solr_year_i": "1897",
   "dc_creator_sm": [
-    "Michigan Railroad Commission.",
+    "Michigan Railroad Commission",
     "Wesselius, Sybrant, b. 1859.",
     "Wolverine Printing Co."
   ],
@@ -20,7 +21,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-27T14:44:18Z",
+  "layer_modified_dt": "2023-02-03T21:23:02Z",
   "dc_language_sm": [
     "eng"
   ],

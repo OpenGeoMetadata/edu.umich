@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Africa nova descriptis; Auct: Guiljelmo Blaeuw.",
   "dct_description_sm": [
-    "Relief shown pictorially. See Phillips no. 448. Includes views of cities and ill. of peoples of Africa on map border. Images of animals and sea creatures on map. 1 map: hand col.; 36 x 46 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. See Phillips no. 448. Includes views of cities and ill. of peoples of Africa on map border. Images of animals and sea creatures on map. 1 map: hand col.; 36 x 46 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Blaeu, Willem Janszoon, 1571-1638."
+    "Blaeu, Willem Janszoon, 1571-1638"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Cities and towns",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1642"
@@ -26,7 +27,7 @@
   "gbl_dateRange_drsim": [
     "[1642 TO 1642]"
   ],
-  "locn_geometry": "ENVELOPE(-26.58,60.55,39.22,-37.53)",
+  "locn_geometry": "POLYGON((-26.58 39.22, 60.55 39.22, 60.55 -37.53, -26.58 -37.53, -26.58 39.22))",
   "dcat_bbox": "ENVELOPE(-26.58,60.55,39.22,-37.53)",
   "dcat_centroid": "0.8449999999999989,16.985",
   "pcdm_memberOf_sm": [
@@ -35,6 +36,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281285/39015091193436\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281285\"}",
@@ -42,6 +49,6 @@
   "dct_identifier_sm": [
     "0d67076a-dcc5-4c5c-9450-3198dbd5116a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Perrot, A. M. (Aristide Michel), 1793-1879."
   ],
-  "dc_description_s": "Includes index in upper right corner of map. Shows Paris at the time of King Charles VII. Pour servir a la lecture de l'Histoire des ducs de Bourgogne par M. de Barante. 1 map; 29 x 37 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes index in upper right corner of map. Shows Paris at the time of King Charles VII. Pour servir a la lecture de l'Histoire des ducs de Bourgogne par M. de Barante. 1 map; 29 x 37 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004258493/39015091186562\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004258493\"}",
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "layer_modified_dt": "2023-02-03T21:23:33Z",
   "dc_language_sm": [
     "eng"
   ],

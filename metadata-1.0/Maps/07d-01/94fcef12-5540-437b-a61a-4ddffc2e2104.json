@@ -8,9 +8,12 @@
   "solr_geom": "ENVELOPE(-12.5,-5,39.17,36.33)",
   "solr_year_i": "1877",
   "dc_creator_sm": [
-    "Trouvelot, L.,Meisel, A. (Augustus),Shaler, Nathaniel Southgate, 1841-1906.,Kentucky Geological Survey."
+    "Kentucky Geological Survey",
+    "Meisel, A. (Augustus)",
+    "Shaler, Nathaniel Southgate, 1841-1906",
+    "Trouvelot, L."
   ],
-  "dc_description_s": "Prime Meridian: Philadelphia. Shows roads, railroads, drainage, counties and towns. \"J. Mayer & Co., lith., Boston.\" 1 map: col.; 46 x 90 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Prime Meridian: Philadelphia. Shows roads, railroads, drainage, counties and towns. \"J. Mayer & Co., lith., Boston.\" 1 map: col.; 46 x 90 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +22,7 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:39Z",
+  "layer_modified_dt": "2023-02-03T21:24:02Z",
   "dc_language_sm": [
     "eng"
   ],

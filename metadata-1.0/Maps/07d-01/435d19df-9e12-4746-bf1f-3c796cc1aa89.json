@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-125,-117,46,42)",
   "solr_year_i": "1889",
   "dc_creator_sm": [
-    "United States. General Land Office.,Dinsmore, A. F."
+    "Dinsmore, A. F.",
+    "United States. General Land Office"
   ],
-  "dc_description_s": "Relief shown by hachures. Prime meridians: Greenwich and Washington, D.C. 1 map: col.; 70 x 89 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Prime meridians: Greenwich and Washington, D.C. 1 map: col.; 70 x 89 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003477347/39015095422229\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003477347\"}",
   "dct_spatial_sm": [
     "Oregon"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:57Z",
+  "layer_modified_dt": "2023-02-03T21:25:52Z",
   "dc_language_sm": [
     "eng"
   ],

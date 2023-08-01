@@ -5,6 +5,7 @@
   "dc_title_s": "Map of the Copper Range of Northern Michigan",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "15e20fdc-2c71-409d-af76-878d8ebdde9b",
+  "solr_geom": "ENVELOPE(-89.216121,-87.708248,47.48346,46.797834)",
   "solr_year_i": "1905",
   "dc_creator_sm": [
     "Edwards, R. M."
@@ -13,11 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000074709/39015095398403\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000074709\"}",
   "dct_spatial_sm": [
-    "Keweenaw Peninsula, Michigan",
+    "Michigan--Keweenaw Peninsula",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:44:17Z",
+  "layer_modified_dt": "2023-02-03T21:21:31Z",
   "dc_language_sm": [
     "eng"
   ],

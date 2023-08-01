@@ -10,13 +10,13 @@
   "dc_creator_sm": [
     "Duval, P. (Pierre), 1619-1682."
   ],
-  "dc_description_s": "Relief shown pictorially. Prime meridian: Ferro. 1 map: hand col.; 40 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Prime meridian: Ferro. 1 map: hand col.; 40 x 52 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281434/39015091193501\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281434\"}",
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "layer_modified_dt": "2023-02-03T21:20:18Z",
   "dc_language_sm": [
     "eng"
   ],

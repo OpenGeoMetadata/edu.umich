@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Sketch of the public surveys in Michigan; Surveyor General's Office, Detroit, October 28th, 1853, Leander Chapman, Surveyor General.",
   "dct_description_sm": [
-    "At head of title: G. Removed from: U.S. 33d Congress, 1st Session, 1853. S. Ex. Doc. 1. Inset: [Isle Royale]. 1 map; 54 x 55 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "At head of title: G. Removed from: U.S. 33d Congress, 1st Session, 1853. S. Ex. Doc. 1. Inset: [Isle Royale]. 1 map; 54 x 55 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1853"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.98,-82.28,47.52,41.5)",
+  "locn_geometry": "POLYGON((-90.98 47.52, -82.28 47.52, -82.28 41.5, -90.98 41.5, -90.98 47.52))",
   "dcat_bbox": "ENVELOPE(-90.98,-82.28,47.52,41.5)",
   "dcat_centroid": "44.510000000000005,-86.63",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003557875/39015091880594\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003557875\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "cb6ff51c-c78a-4ce2-b09d-734915eebdbc"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

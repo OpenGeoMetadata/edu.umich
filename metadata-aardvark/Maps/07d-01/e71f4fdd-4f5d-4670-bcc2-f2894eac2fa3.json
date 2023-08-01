@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Map of Michigan; published by S. Wangersheim.",
   "dct_description_sm": [
-    "Shows county and township boundaries. Includes continuation inset of upper peninsula. Pp. 64-65 from an atlas. 1 map: col.; 63 x 40 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows county and township boundaries. Includes continuation inset of upper peninsula. Pp. 64-65 from an atlas. 1 map: col.; 63 x 40 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-87.92,-82.28,47.17,41.5)",
+  "locn_geometry": "POLYGON((-87.92 47.17, -82.28 47.17, -82.28 41.5, -87.92 41.5, -87.92 47.17))",
   "dcat_bbox": "ENVELOPE(-87.92,-82.28,47.17,41.5)",
   "dcat_centroid": "44.335,-85.1",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010563905/39015091880511\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010563905\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "e71f4fdd-4f5d-4670-bcc2-f2894eac2fa3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

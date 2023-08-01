@@ -8,9 +8,14 @@
   "solr_geom": "ENVELOPE(-115.5,-111.4,42.22,38.68)",
   "solr_year_i": "1855",
   "dc_creator_sm": [
-    "United States. War Department.,Davis, Jefferson, 1808-1889, director.,Beckwith, E. G. (Edward Griffin), 1826-1909, cartographer.,Egloffstein, F. W., 1824-1885, topographer.,Siebert, Selmar, printer.,Dahl, James, former owner."
+    "Beckwith, E. G. (Edward Griffin), 1826-1909",
+    "Dahl, James, former owner",
+    "Davis, Jefferson, 1808-1889, director",
+    "Egloffstein, F. W., 1824-1885, topographer",
+    "Siebert, Selmar, printer",
+    "United States. War Department"
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights. Shows drainage, railroads, trails, Native American territories, and locations of historic events. From: Reports of Explorations and Surveys, to Ascertain the Most Practicable and Economical Route for a Railroad From the Mississippi River to the Pacific Ocean. 1 map; 54 x 46 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures and spot heights. Shows drainage, railroads, trails, Native American territories, and locations of historic events. From: Reports of Explorations and Surveys, to Ascertain the Most Practicable and Economical Route for a Railroad From the Mississippi River to the Pacific Ocean. 1 map; 54 x 46 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,8 +24,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-08T17:18:21Z",
+  "layer_modified_dt": "2023-02-03T21:20:43Z",
   "dc_language_sm": [
     "eng"
   ],

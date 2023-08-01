@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Hunter's addition to Ypsilanti; Surveyed and plated by Samuel Pettibone.",
   "dct_description_sm": [
-    "Relief shown by hachures. Shows Hunter's Addition subdivison to the City of Ypsilanti, Michigan. 1 map: manuscript; 81 x 62 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Shows Hunter's Addition subdivison to the City of Ypsilanti, Michigan. 1 map: manuscript; 81 x 62 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1844"
@@ -27,10 +28,10 @@
     "[1844 TO 1844]"
   ],
   "dct_spatial_sm": [
-    "Ypsilanti, Michigan",
+    "Michigan--Ypsilanti",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.652081,-83.596428,42.260874,42.224183)",
+  "locn_geometry": "POLYGON((-83.652081 42.260874, -83.596428 42.260874, -83.596428 42.224183, -83.652081 42.224183, -83.652081 42.260874))",
   "dcat_bbox": "ENVELOPE(-83.652081,-83.596428,42.260874,42.224183)",
   "dcat_centroid": "42.2425285,-83.6242545",
   "pcdm_memberOf_sm": [
@@ -39,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006492020/39015091897084\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006492020\"}",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "969bb605-6d9d-4ff8-84cf-d42925d7735c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

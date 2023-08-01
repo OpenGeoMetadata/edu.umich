@@ -10,16 +10,16 @@
   "dc_creator_sm": [
     "Sagano, Hikotarō."
   ],
-  "dc_description_s": "Keikikaku zō. Copperplate print. Oriented with north to the upper right. Relief shown by hachures. Includes lists of town names, and train destinations and fares. Ill. points of interest in border. Inset: Yokohama shigaizu. 1 map: col.; 53 x 73 cm., folded in covers 19 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Keikikaku zō. Copperplate print. Oriented with north to the upper right. Relief shown by hachures. Includes lists of town names, and train destinations and fares. Ill. points of interest in border. Inset: Yokohama shigaizu. 1 map: col.; 53 x 73 cm., folded in covers 19 x 10 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003101175/39015091920135_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003101175\"}",
   "dct_spatial_sm": [
-    "Tokyo, Tokyo, Japan",
+    "Japan-- Tokyo--Tokyo",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "layer_modified_dt": "2023-02-03T21:22:15Z",
   "dc_language_sm": [
-    "eng"
+    "jpn"
   ],
   "dct_temporal_sm": [
     "Meiji 20 1887"

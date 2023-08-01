@@ -13,7 +13,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Norton, S. F.",
+    "Norton, S. F. (Seymour Francis), 1843?-1912",
     "Sentinel (Newspaper : Chicago, Ill.)"
   ],
   "schema_provider_s": "University of Michigan",
@@ -21,7 +21,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Political parties United States Maps."
+    "Political parties United States Maps.",
+    "2022-creator-sprint"
   ],
   "dct_issued_s": "1886",
   "gbl_indexYear_im": [
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-125.45,-66.93,50,19.4)",
+  "locn_geometry": "POLYGON((-125.45 50, -66.93 50, -66.93 19.4, -125.45 19.4, -125.45 50))",
   "dcat_bbox": "ENVELOPE(-125.45,-66.93,50,19.4)",
   "dcat_centroid": "34.7,-96.19",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -51,6 +58,6 @@
     "008459398",
     "39015091195308"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

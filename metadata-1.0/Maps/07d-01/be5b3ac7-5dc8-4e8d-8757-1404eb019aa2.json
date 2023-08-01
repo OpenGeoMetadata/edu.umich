@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-93,-83,80,43)",
   "solr_year_i": "1883",
   "dc_creator_sm": [
-    "Dablon, Claude, 1619-1697."
+    "Dablon, Claude, 1619-1697"
   ],
   "dc_description_s": "1 map ; 35 x 46 cm|Copy 2: \"Facsimile of map of Lake Superior made by Jesuit Missionaries in 1670-71, and first published at Paris in 1672. Presented to the subscribers of the Mining Journal, with compliments of A.P. Swineford & Co.\" Accession no. 7825.",
   "dc_format_s": "JPEG",
@@ -16,8 +16,7 @@
   "dct_spatial_sm": [
     "Lake Superior"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:45Z",
+  "layer_modified_dt": "2023-02-03T21:20:18Z",
   "dc_language_sm": [
     "fre"
   ],

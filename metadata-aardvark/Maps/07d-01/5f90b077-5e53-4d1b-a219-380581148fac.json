@@ -14,15 +14,17 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Scott, Joseph (Geographer). United States gazetteer.",
-    "Francis & Robert Bailey (Firm)"
+    "Francis & Robert Bailey (Firm)",
+    "Scott, Joseph (Geographer). United States gazetteer."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_issued_s": "1795?",
   "gbl_indexYear_im": [
@@ -34,6 +36,9 @@
   "dct_spatial_sm": [
     "United States"
   ],
+  "locn_geometry": "POLYGON((-94.8179 48.9992, -75.3611 48.9992, -75.3611 38.7424, -94.8179 38.7424, -94.8179 48.9992))",
+  "dcat_bbox": "ENVELOPE(-94.8179,-75.3611,48.9992,38.7424)",
+  "dcat_centroid": "43.8708,-85.08949999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,7 +46,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -52,6 +60,6 @@
     "008860028",
     "39015095414515"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-80.5,-75.83,45,41.9)",
   "solr_year_i": "1840",
   "dc_creator_sm": [
-    "Johnson, Alvin J.,Rominger, C.L."
+    "Johnson, A. J. (Alvin Jewett), 1827-1884",
+    "Rominger, C.L."
   ],
-  "dc_description_s": "Inset: Oswego. Only the portion bordering Lake Ontario and Lake Erie. Partially hand colored to show geological structure. Coloring probably added by C.L. Rominger. 1 map: col.; 10 1/2 x 11 3/4 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Inset: Oswego. Only the portion bordering Lake Ontario and Lake Erie. Partially hand colored to show geological structure. Coloring probably added by C.L. Rominger. 1 map: col.; 10 1/2 x 11 3/4 in.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003285794/39015091910763\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003285794\"}",
   "dct_spatial_sm": [
-    "New York State, New York"
+    "New York--New York State"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:49Z",
+  "layer_modified_dt": "2023-02-03T21:22:49Z",
   "dc_language_sm": [
     "eng"
   ],

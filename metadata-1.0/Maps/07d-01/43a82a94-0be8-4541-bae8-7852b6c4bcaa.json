@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-84.35,-82.38,43.87,41.7)",
   "solr_year_i": "1825",
   "dc_creator_sm": [
-    "Risdon, Orange, 1786-1876,Rawdon, Clark, and Co."
+    "Risdon, Orange, 1786-1876"
   ],
-  "dc_description_s": "Longitude west from Washington. Townships and range lines for surveyed areas indicated. \"Engraved by Rawdon, Clark & Co., Albany.\" \"Copy Right Secured.\" 1 map: col., mounted on paper; 103 x 66 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Longitude west from Washington. Townships and range lines for surveyed areas indicated. \"Engraved by Rawdon, Clark & Co., Albany.\" \"Copy Right Secured.\" 1 map: col., mounted on paper; 103 x 66 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081782/39015091187123\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081782\"}",
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:42Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Carte de l'empire de Turquie en Europe et en Asie; dressée par Hérisson, Géog'e.",
   "dct_description_sm": [
-    "Relief show by hachures. Paris prime meridian. Dissected into 18 sections. Inset: Environs de Constantinople. 1 map: hand col., dissected and mounted on linen; 50 x 74 cm., folded in cover 23 x 14 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief show by hachures. Paris prime meridian. Dissected into 18 sections. Inset: Environs de Constantinople. 1 map: hand col., dissected and mounted on linen; 50 x 74 cm., folded in cover 23 x 14 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1854"
@@ -29,7 +30,7 @@
     "Turkey",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(13,44,49,34)",
+  "locn_geometry": "POLYGON((13 49, 44 49, 44 34, 13 34, 13 49))",
   "dcat_bbox": "ENVELOPE(13,44,49,34)",
   "dcat_centroid": "41.5,28.5",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003102807/39015091183551\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003102807\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "ced868c7-92db-4060-9b2c-03aa8b0ae807"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -14,7 +14,7 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
@@ -25,7 +25,8 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1680"
@@ -38,10 +39,13 @@
     "[1680 TO 1680]"
   ],
   "dct_spatial_sm": [
-    "Artois,  Hauts-de-France,  France",
-    "Hauts-de-France,  France",
+    "France-- Hauts-de-France--Artois",
+    " France--Hauts-de-France",
     "France"
   ],
+  "locn_geometry": "POLYGON(( -4.77 50.92, 8.21 50.92, 8.21 43.03,  -4.77 43.03,  -4.77 50.92))",
+  "dcat_bbox": "ENVELOPE( -4.77,8.21,50.92,43.03)",
+  "dcat_centroid": "46.975,1.7200000000000006",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,7 +53,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -60,6 +67,6 @@
     "004074047",
     "39015091191158_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:35:53Z",
+  "gbl_mdModified_dt": "2023-02-28T04:15:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

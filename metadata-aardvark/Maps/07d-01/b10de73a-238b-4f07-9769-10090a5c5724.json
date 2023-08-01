@@ -1,13 +1,15 @@
 {
   "dct_title_s": "Manitowoc harbor, Wisconsin from survey made betweenteh 14th & 19th of August 1856 by assistant John O'Donoghue, under the direction of Brevet Lieut. Col. J.D. Graham, Major, U.S. Top. Engineers. Superintending Engineer of Lake Michigan Works.",
   "dct_description_sm": [
-    "The soundings are in feet & decimals of a foot. \"Accompanying Lt. Colonel J.D. Graham's annual report (no. 161) to the Chief Topographical Engineer, dated Chicago, November 15th 1857.\" \"Map G. No. 46.\" 1 map; 51 x 61 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "The soundings are in feet & decimals of a foot. \"Accompanying Lt. Colonel J.D. Graham's annual report (no. 161) to the Chief Topographical Engineer, dated Chicago, November 15th 1857.\" \"Map G. No. 46.\" 1 map; 51 x 61 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Graham, J. D. (James Duncan), 1799-1865.,O'Donoghue, John, 1946-,United States. Army. Corps of Topographical Engineers (Corps of Topographical Engineers)"
+    "Graham, J. D. (James Duncan), 1799-1865",
+    "O'Donoghue, John, 1946-",
+    "United States. Army. Corps of Topographical Engineers"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +17,10 @@
   ],
   "dcat_keyword_sm": [
     "Harbors",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -27,17 +32,23 @@
     "[1856 TO 1856]"
   ],
   "dct_spatial_sm": [
-    "Manitowoc Harbor, Wisconsin",
+    "Wisconsin--Manitowoc Harbor",
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-87.6599,-87.66,44.0901,44.09)",
-  "dcat_bbox": "ENVELOPE(-87.6599,-87.66,44.0901,44.09)",
-  "dcat_centroid": "44.090050000000005,-87.65995",
+  "locn_geometry": "POLYGON((-87.665096 44.100121, -87.640205 44.100121, -87.640205 44.083255, -87.665096 44.083255, -87.665096 44.100121))",
+  "dcat_bbox": "ENVELOPE(-87.665096,-87.640205,44.100121,44.083255)",
+  "dcat_centroid": "44.091688000000005,-87.6526505",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -46,6 +57,6 @@
   "dct_identifier_sm": [
     "b10de73a-238b-4f07-9769-10090a5c5724"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:27Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

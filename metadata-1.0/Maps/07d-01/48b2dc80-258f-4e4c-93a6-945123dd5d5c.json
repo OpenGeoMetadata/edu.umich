@@ -5,16 +5,16 @@
   "dc_title_s": "University of Michigan",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "48b2dc80-258f-4e4c-93a6-945123dd5d5c",
+  "solr_geom": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
   "solr_year_i": "1960",
   "dc_description_s": "1 map ; 27 x 32 cm, on sheet 31 x 47 cm|Includes index to buildings.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002984497/39015095401843\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002984497\"}",
   "dct_spatial_sm": [
-    "University of Michigan,  Michigan",
+    "Michigan--University of Michigan",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:26:36Z",
   "dc_language_sm": [
     "eng"
   ],

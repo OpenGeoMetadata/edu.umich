@@ -8,15 +8,18 @@
   "solr_geom": "ENVELOPE(-77.25,-76.75,39,38.75)",
   "solr_year_i": "1898",
   "dc_creator_sm": [
-    "Geological Survey (U.S.),Wilson, Herbert M. (Herbert Michael), 1860-1920.,Hoffman, J. D.,U.S. Coast and Geodetic Survey."
+    "Geological Survey (U.S.)",
+    "Hoffman, J. D.",
+    "U.S. Coast and Geodetic Survey",
+    "Wilson, Herbert M. (Herbert Michael), 1860-1920"
   ],
-  "dc_description_s": "Relief shown by contours. Contour interval 20 ft. \"Surveyed in 1885-86 and 95-97.\" Text, \"Description of the topographic map of the United States,\" on verso. 1 map: col.; 46 x 69 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by contours. Contour interval 20 ft. \"Surveyed in 1885-86 and 95-97.\" Text, \"Description of the topographic map of the United States,\" on verso. 1 map: col.; 46 x 69 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002701243/39015091897986\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002701243\"}",
   "dct_spatial_sm": [
-    "Washington DC, Washington, D.C."
+    "D.C.-- Washington--Washington DC"
   ],
-  "layer_modified_dt": "2021-05-07T19:07:00Z",
+  "layer_modified_dt": "2023-02-03T21:26:42Z",
   "dc_language_sm": [
     "eng"
   ],

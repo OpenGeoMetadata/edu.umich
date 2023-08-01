@@ -5,11 +5,12 @@
   "dc_title_s": "Military map showing the marches of the United States forces under command of Maj. Genl. W.T. Sherman, U.S.A. during the years 1863, 1864, 1865",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "5ee2a74e-04ae-4d42-af08-1c039550f9d9",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1865",
   "dc_creator_sm": [
-    "Sherman, William T. (William Tecumseh), 1820-1891 http://id.loc.gov/authorities/names/n80013437 http://viaf.org/viaf/46828814",
     "Kossak, William http://id.loc.gov/authorities/names/n78050672 http://viaf.org/viaf/16030121",
-    "Muller, John B. http://id.loc.gov/authorities/names/n78050671 http://viaf.org/viaf/304976342"
+    "Muller, John B. http://id.loc.gov/authorities/names/n78050671 http://viaf.org/viaf/304976342",
+    "Sherman, William T. (William Tecumseh), 1820-1891 http://id.loc.gov/authorities/names/n80013437 http://viaf.org/viaf/46828814"
   ],
   "dc_description_s": "1 map : colored 58 x 92 cm|\"Engraved at Head qrs. Corps of engineers, U.S.A., by H.C. Evans & F. Courtenay.\"",
   "dc_format_s": "JPEG",
@@ -17,8 +18,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:22:24Z",
   "dc_language_sm": [
     "eng"
   ],

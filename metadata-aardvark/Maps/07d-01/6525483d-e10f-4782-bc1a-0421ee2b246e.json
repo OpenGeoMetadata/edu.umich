@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Verschiedene prospecte der vornemsten stadten in Persien.",
   "dct_description_sm": [
-    "Views of 15 cities. Scales vary. 15 views: hand col.; on sheet 55 x 64 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Views of 15 cities. Scales vary. 15 views: hand col.; on sheet 55 x 64 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Cities and towns",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1762"
@@ -29,7 +30,7 @@
   "dct_spatial_sm": [
     "Iran"
   ],
-  "locn_geometry": "ENVELOPE(41.18,65.92,46.43,26.97)",
+  "locn_geometry": "POLYGON((41.18 46.43, 65.92 46.43, 65.92 26.97, 41.18 26.97, 41.18 46.43))",
   "dcat_bbox": "ENVELOPE(41.18,65.92,46.43,26.97)",
   "dcat_centroid": "36.7,53.55",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282723/39015091916539\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282723\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "6525483d-e10f-4782-bc1a-0421ee2b246e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:38Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

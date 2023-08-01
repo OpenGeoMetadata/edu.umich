@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(30.08,36.03,51.2,48.08)",
   "solr_year_i": "1742",
   "dc_creator_sm": [
-    "Le Rouge, Georges-Louis http://id.loc.gov/authorities/names/n80036562 http://viaf.org/viaf/96626979"
+    "Le Rouge, Georges-Louis"
   ],
   "dc_description_s": "1 map : col., mounted on linen ; 50 x 63 cm|Shows parts of Austria, Czechoslovakia, Hungary, Germany and Poland.|Relief shown pictorially.|Cartouche in upper right hand corner.|Reduced from a map of Bohemia by Johann Christoph Müller, Austrian engineer and cartographer, drawn in 1720 on 25 sheets.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Czech Republic"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:59Z",
+  "layer_modified_dt": "2023-02-03T21:20:26Z",
   "dc_language_sm": [
     "lat"
   ],

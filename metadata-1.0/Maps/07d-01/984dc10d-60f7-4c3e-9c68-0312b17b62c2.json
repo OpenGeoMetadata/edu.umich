@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-84.61,-84.16,43.83,43.47)",
   "solr_year_i": "1909",
   "dc_creator_sm": [
-    "United States. Post Office Department."
+    "United States. Post Office Department"
   ],
-  "dc_description_s": "Blue line print. Date determined from other maps in series. Includes list of routes. 1 map: 63 x 68 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Blue line print. Date determined from other maps in series. Includes list of routes. 1 map: 63 x 68 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012521835/39015091915143\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012521835\"}",
   "dct_spatial_sm": [
-    "Midland County, Michigan",
+    "Michigan--Midland County",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:44Z",
+  "layer_modified_dt": "2023-02-03T21:21:14Z",
   "dc_language_sm": [
     "eng"
   ],

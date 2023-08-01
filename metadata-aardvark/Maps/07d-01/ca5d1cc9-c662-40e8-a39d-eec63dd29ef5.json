@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Utriusque hemispherii delineatio",
   "dct_description_sm": [
-    "Relief shown pictorially. From: \"Descriptionis Ptolemaicae Augmentum\". 1 map; 2 hemispheres each 14 cm. diam., on sheet 30 x 38 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. From: \"Descriptionis Ptolemaicae Augmentum\". 1 map; 2 hemispheres each 14 cm. diam., on sheet 30 x 38 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Wytfliet, Corneille."
+    "Wytfliet, Corneille"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,10 +15,14 @@
   ],
   "gbl_resourceType_sm": [
     "Early maps",
-    "Thematic maps"
+    "Thematic maps",
+    "World maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1597?"
@@ -30,7 +34,7 @@
     "[1597 TO 1597]"
   ],
   "dct_spatial_sm": [
-    "Earth"
+    "World"
   ],
   "locn_geometry": "ENVELOPE(-180,180,90,-90)",
   "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
@@ -41,6 +45,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002879869/39015091198484\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002879869\"}",
@@ -48,6 +58,6 @@
   "dct_identifier_sm": [
     "ca5d1cc9-c662-40e8-a39d-eec63dd29ef5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:14Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,6 +5,7 @@
   "dc_title_s": "Map and profile of the ship canal from Belvidere to Mt. Clemens Ludwik Wesolowski.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "3b6b19ec-ef6c-4441-ba2e-20253fbf97fc",
+  "solr_geom": "ENVELOPE(-82.901619,-82.856771,42.617894,42.578203)",
   "solr_year_i": "1837",
   "dc_creator_sm": [
     "Wesolowski, Ludwik."
@@ -13,11 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002479396/39015091881188\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002479396\"}",
   "dct_spatial_sm": [
-    "Mount Clemens, Michigan",
+    "Michigan--Mount Clemens",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:20:42Z",
   "dc_language_sm": [
     "eng"
   ],

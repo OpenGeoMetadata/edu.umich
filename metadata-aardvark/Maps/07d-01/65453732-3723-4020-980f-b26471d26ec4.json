@@ -1,13 +1,13 @@
 {
   "dct_title_s": "North America.",
   "dct_description_sm": [
-    "Relief shown pictorially. Shows \"Deg. west from London\" and \"Hours west from London.\" Decorative title cartouche depicting a cliff, waterfall, and natives. Later copy lacking Jeffery's name below title. 1 map: hand col.; 18 x 22 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Shows \"Deg. west from London\" and \"Hours west from London.\" Decorative title cartouche depicting a cliff, waterfall, and natives. Later copy lacking Jeffery's name below title. 1 map: hand col.; 18 x 22 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jefferys, Thomas, -1771."
+    "Jefferys, Thomas, -1771"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -17,7 +17,8 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1700 and 1799"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-143.3,-41.65,66.83,3.45)",
+  "locn_geometry": "POLYGON((-143.3 66.83, -41.65 66.83, -41.65 3.45, -143.3 3.45, -143.3 66.83))",
   "dcat_bbox": "ENVELOPE(-143.3,-41.65,66.83,3.45)",
   "dcat_centroid": "35.14,-92.47500000000001",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008859996/39015091185788\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008859996\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "65453732-3723-4020-980f-b26471d26ec4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

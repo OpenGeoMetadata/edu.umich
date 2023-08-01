@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-180,180,90,45.87)",
   "solr_year_i": "1640",
   "dc_creator_sm": [
-    "Blaeu, Willem Janszoon, 1571-1638.,Blaeu, Joan, 1596-1673.,Blaeu, Cornelis, 1610-1648."
+    "Blaeu, Cornelis, 1610-1649",
+    "Blaeu, Joan, 1596-1673",
+    "Blaeu, Willem Janszoon, 1571-1638"
   ],
-  "dc_description_s": "From the \"Appendix\" to the \"Theatrum orbis terrarum\". Decorative cartouche. Text on verso in Latin. \"C 4.\" 1 map: hand col.; 40 x 52 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "From the \"Appendix\" to the \"Theatrum orbis terrarum\". Decorative cartouche. Text on verso in Latin. \"C 4.\" 1 map: hand col.; 40 x 52 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281382/39015091199649\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281382\"}",
   "dct_spatial_sm": [
-    "Arctic"
+    "Arctic Regions"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "layer_modified_dt": "2023-06-23T22:01:03Z",
   "dc_language_sm": [
     "eng"
   ],

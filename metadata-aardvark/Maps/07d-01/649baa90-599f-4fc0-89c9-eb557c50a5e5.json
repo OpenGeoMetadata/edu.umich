@@ -13,9 +13,9 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Hill, Samuel W.",
-    "Williams, C. P.",
-    "Barnes, Rufus L."
+    "Barnes, Rufus L.",
+    "Hill, S. W. (Samuel Worth), 1815-1889",
+    "Williams, C. P. (Cartographer)"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -28,7 +28,9 @@
     "Geology Michigan Maps.",
     "Maps shelf.",
     "Geology Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1863"
@@ -41,9 +43,12 @@
     "[1863 TO 1863]"
   ],
   "dct_spatial_sm": [
-    "Keweenaw Peninsula, Michigan",
+    "Michigan--Keweenaw Peninsula",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-88.502756 47.502898, -87.555185 47.502898, -87.555185 47.183255, -88.502756 47.183255, -88.502756 47.502898))",
+  "dcat_bbox": "ENVELOPE(-88.502756,-87.555185,47.502898,47.183255)",
+  "dcat_centroid": "47.3430765,-88.0289705",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,7 +56,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -62,6 +70,6 @@
     "013915415",
     "39015091898836_0001"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:37:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

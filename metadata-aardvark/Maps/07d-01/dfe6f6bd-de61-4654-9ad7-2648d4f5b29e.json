@@ -23,7 +23,8 @@
   "dcat_keyword_sm": [
     "British America Maps Early works to 1800.",
     "Lead mines and mining Wisconsin Maps.",
-    "Lead mines and mining Illinois Maps."
+    "Lead mines and mining Illinois Maps.",
+    "2022-creator-sprint"
   ],
   "dct_issued_s": "1756",
   "gbl_indexYear_im": [
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-91.27,-53.43,52.52,35.12)",
+  "locn_geometry": "POLYGON((-91.27 52.52, -53.43 52.52, -53.43 35.12, -91.27 35.12, -91.27 52.52))",
   "dcat_bbox": "ENVELOPE(-91.27,-53.43,52.52,35.12)",
   "dcat_centroid": "43.82,-72.35",
   "pcdm_memberOf_sm": [
@@ -43,6 +44,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -53,6 +60,6 @@
     "003566120",
     "39015091196827"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

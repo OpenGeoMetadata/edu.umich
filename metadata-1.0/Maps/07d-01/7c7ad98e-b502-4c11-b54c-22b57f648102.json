@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-126.77,-91.8,48.88,20.25)",
   "solr_year_i": "1700",
   "dc_creator_sm": [
-    "Fer, Nicolas de, 1646-1720.,Fer, Nicolas de, 1646-1720. Atlas curieux.,Inselin, C., engraver."
+    "Fer, Nicolas de, 1646-1720",
+    "Inselin, C., engraver"
   ],
-  "dc_description_s": "Colored outline; place name index in upper right corner. From Átlas curieux or Cartes et descriptions. \"67\" or \"69\" handwritten in upper right corner. Index with place names in upper right corner of map. Possibly the first map to show the discoveries of Father Kino. \"C. Inselin Sculps\" 1 map: col.; 22 x 33 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Colored outline; place name index in upper right corner. From Átlas curieux or Cartes et descriptions. \"67\" or \"69\" handwritten in upper right corner. Index with place names in upper right corner of map. Possibly the first map to show the discoveries of Father Kino. \"C. Inselin Sculps\" 1 map: col.; 22 x 33 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279840/39015091185903\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279840\"}",
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "layer_modified_dt": "2023-02-03T21:17:28Z",
   "dc_language_sm": [
     "eng"
   ],

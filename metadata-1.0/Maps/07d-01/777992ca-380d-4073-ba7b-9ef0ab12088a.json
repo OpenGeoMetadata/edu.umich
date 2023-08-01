@@ -5,16 +5,16 @@
   "dc_title_s": "University of Michigan, Ann Arbor",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "777992ca-380d-4073-ba7b-9ef0ab12088a",
+  "solr_geom": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
   "solr_year_i": "1950",
   "dc_description_s": "1 map ; 32 x 43 cm.|Oriented with north to the lower left.|Buildings shown pictorially.|Includes index of buildings.|\"Printed with permission of University Information Service.\"|Blue ink on yellow paper.|Advertisement for Follett's Michigan Book Store on verso.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003126883/39015091887870\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003126883\"}",
   "dct_spatial_sm": [
-    "University of Michigan,  Michigan",
+    "Michigan--University of Michigan",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:26:36Z",
   "dc_language_sm": [
     "eng"
   ],

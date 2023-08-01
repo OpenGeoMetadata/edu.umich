@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-150.57,8.48,78.87,-57.27)",
   "solr_year_i": "1772",
   "dc_creator_sm": [
-    "Anville, Jean Baptiste Bourguignon d', 1697-1782.,Sayer, Robert, 1725-1794."
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782",
+    "Sayer, Robert, 1725-1794"
   ],
-  "dc_description_s": "Hand colored. Relief shown pictorially. Prime meridian: Ferro. Includes text, chart of possessions, and inset \"The supplements to North America containing the countries adjoining Baffins & Hudsons bays.\" Includes articles 4-9, 17, 18 and 20 of the Treaty. map: hand col.; 104 x 120 cm on 2 sheets 53 x 122 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Hand colored. Relief shown pictorially. Prime meridian: Ferro. Includes text, chart of possessions, and inset \"The supplements to North America containing the countries adjoining Baffins & Hudsons bays.\" Includes articles 4-9, 17, 18 and 20 of the Treaty. map: hand col.; 104 x 120 cm on 2 sheets 53 x 122 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003277633/39015091197353\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003277633\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:23Z",
+  "layer_modified_dt": "2023-02-03T21:16:04Z",
   "dc_language_sm": [
     "eng"
   ],

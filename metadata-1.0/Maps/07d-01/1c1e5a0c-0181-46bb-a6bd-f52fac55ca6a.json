@@ -5,6 +5,7 @@
   "dc_title_s": "Seat of War in Virginia",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "1c1e5a0c-0181-46bb-a6bd-f52fac55ca6a",
+  "solr_geom": "ENVELOPE(-81.1435,-76.9687,39.9562,37.4881)",
   "solr_year_i": "1862",
   "dc_description_s": "1 map : col. ; 71 x 52 cm. fold. to 16 x 9 cm.|Longitude west from Washington [D.C.]|Relief shown by hachures.|Includes decorative flower band border around the map.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:24:55Z",
   "dc_language_sm": [
     "eng"
   ],

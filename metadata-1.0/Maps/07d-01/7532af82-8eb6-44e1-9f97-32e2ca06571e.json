@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-93.57,-80.68,47.55,41.48)",
   "solr_year_i": "1882",
   "dc_creator_sm": [
-    "Cram, George Franklin, 1841-1928."
+    "Cram, George Franklin, 1841-1928"
   ],
-  "dc_description_s": "Relief shown pictorially. Prime meridians: Greenwich and Washington. Pages 54-55 from Cram's Unrivaled Family Atlas of the World. 1 map: color; 30 x 47 cm on sheet 35 x 54 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Prime meridians: Greenwich and Washington. Pages 54-55 from Cram's Unrivaled Family Atlas of the World. 1 map: color; 30 x 47 cm on sheet 35 x 54 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:26Z",
+  "layer_modified_dt": "2023-02-03T21:22:48Z",
   "dc_language_sm": [
     "eng"
   ],

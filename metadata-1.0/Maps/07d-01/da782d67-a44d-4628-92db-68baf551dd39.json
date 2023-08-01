@@ -10,15 +10,14 @@
   "dc_creator_sm": [
     "Elwood & Co. Stationers, Detroit"
   ],
-  "dc_description_s": "Map shows Pittsfield Township, Michigan. Property owners and location of map are handwritten on a printed template. \"Presented to the Washtenaw Co. Pioneer Society by L.G. Risdon, May 20th 1885\" written on verso of map. 1 map; 31 x 31 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Map shows Pittsfield Township, Michigan. Property owners and location of map are handwritten on a printed template. \"Presented to the Washtenaw Co. Pioneer Society by L.G. Risdon, May 20th 1885\" written on verso of map. 1 map; 31 x 31 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013529149/39015091197478_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013529149\"}",
   "dct_spatial_sm": [
-    "Pittsfield Township, Michigan",
+    "Michigan--Pittsfield Township",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:53Z",
+  "layer_modified_dt": "2023-02-03T21:23:32Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -12,8 +12,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "J.W. Powell",
-    "Smithsonian Institution. Bureau of American Ethnology."
+    "Powell, John Wesley, 1834-1902",
+    "Smithsonian Institution. Bureau of American Ethnology"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -28,7 +28,8 @@
   ],
   "dcat_keyword_sm": [
     "Indians of North America Languages Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -43,7 +44,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-168.9,-0.8,84.0,32.3)",
+  "locn_geometry": "POLYGON((-168.9 84.0, -0.8 84.0, -0.8 32.3, -168.9 32.3, -168.9 84.0))",
   "dcat_bbox": "ENVELOPE(-168.9,-0.8,84.0,32.3)",
   "dcat_centroid": "58.15,-84.85000000000001",
   "pcdm_memberOf_sm": [
@@ -53,7 +54,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -64,6 +68,6 @@
     "003286845",
     "39015091196751"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

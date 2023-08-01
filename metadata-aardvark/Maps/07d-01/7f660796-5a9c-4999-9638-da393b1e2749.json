@@ -1,20 +1,22 @@
 {
   "dct_title_s": "Afrique; par J.B. Poirson.",
   "dct_description_sm": [
-    "1 map: col.; 20 x 24 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "1 map: col.; 20 x 24 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Poirson, J. B. (Jean Baptiste), 1760-1831.,Tardieu, Jean Baptiste Pierre, 1746-1816, engraver."
+    "Poirson, J. B. (Jean Baptiste), 1760-1831",
+    "Tardieu, Jean Baptiste Pierre, 1746-1816, engraver."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1809"
@@ -28,7 +30,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-27.12,64.92,38.42,-35)",
+  "locn_geometry": "POLYGON((-27.12 38.42, 64.92 38.42, 64.92 -35, -27.12 -35, -27.12 38.42))",
   "dcat_bbox": "ENVELOPE(-27.12,64.92,38.42,-35)",
   "dcat_centroid": "1.7100000000000009,18.9",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004063430/39015091915945\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004063430\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "7f660796-5a9c-4999-9638-da393b1e2749"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:39Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

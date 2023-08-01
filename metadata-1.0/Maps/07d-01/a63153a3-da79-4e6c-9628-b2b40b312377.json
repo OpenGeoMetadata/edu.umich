@@ -8,19 +8,23 @@
   "solr_geom": "ENVELOPE(-84.13,-83.54,42.43,42.07)",
   "solr_year_i": "1844",
   "dc_creator_sm": [
-    "Higgins, Sylvester W.,Douglas, Columbus C., 1812-1874.,Hubbard, Bela, 1814-1896.,Houghton, Douglass, 1809-1845.,Stone, William James, 1798-1865."
+    "Douglas, Columbus C., 1812-1874",
+    "Higgins, Sylvester W.",
+    "Houghton, Douglass, 1809-1845",
+    "Hubbard, Bela, 1814-1896",
+    "Stone, William James, 1798-1865"
   ],
-  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington and Greenwich. Shows locations of railroads, villages, post offices, saw mills, flour mills, roads and contains a description of some soils and surface features. \"W. J. Stone sc. Washn. City.\" Includes a profile of the Central Railroad. 1 map: hand col.; 42 x 55 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington and Greenwich. Shows locations of railroads, villages, post offices, saw mills, flour mills, roads and contains a description of some soils and surface features. \"W. J. Stone sc. Washn. City.\" Includes a profile of the Central Railroad. 1 map: hand col.; 42 x 55 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005041410/39015091184757\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005041410\"}",
   "dct_spatial_sm": [
-    "Washtenaw County, Michigan",
+    "Michigan--Washtenaw County",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:36Z",
+  "layer_modified_dt": "2023-02-03T21:21:46Z",
   "dc_language_sm": [
     "eng"
   ],

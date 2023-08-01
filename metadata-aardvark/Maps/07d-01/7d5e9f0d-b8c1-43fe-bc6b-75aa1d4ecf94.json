@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "Lake Huron"
   ],
-  "locn_geometry": "ENVELOPE(-84.8,-78.63,47.08,44.98)",
+  "locn_geometry": "POLYGON((-84.8 47.08, -78.63 47.08, -78.63 44.98, -84.8 44.98, -84.8 47.08))",
   "dcat_bbox": "ENVELOPE(-84.8,-78.63,47.08,44.98)",
   "dcat_centroid": "46.03,-81.715",
   "pcdm_memberOf_sm": [
@@ -33,6 +33,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -43,6 +49,6 @@
     "003285690",
     "39015091883598_0001"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:47Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

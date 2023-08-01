@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Lotharingiae et Utriusque Alsatiae: in ditiones minores divisarum tractibusque insertis et finitimis circumscriptarum, novissima nitidissima et accuratissima; delineatio per Theodorum Danckerts cum privilegio.",
   "dct_description_sm": [
-    "Relief shown pictorially. Has royal arms of Alsace and Lorraine. 1 map; 48 x 56 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Has royal arms of Alsace and Lorraine. 1 map; 48 x 56 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1696?"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "France"
   ],
-  "locn_geometry": "ENVELOPE(4.98,8.95,49.8,47.45)",
+  "locn_geometry": "POLYGON((4.98 49.8, 8.95 49.8, 8.95 47.45, 4.98 47.45, 4.98 49.8))",
   "dcat_bbox": "ENVELOPE(4.98,8.95,49.8,47.45)",
   "dcat_centroid": "48.625,6.965",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281169/39015091193923_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281169\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "e2704509-2f4a-4755-a983-2a7e6dca9b8b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

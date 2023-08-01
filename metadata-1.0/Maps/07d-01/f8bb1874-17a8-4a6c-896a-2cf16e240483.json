@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-121.55,-107.17,35.97,21.13)",
   "solr_year_i": "1597",
   "dc_creator_sm": [
-    "Wytfliet, Corneille.,Bogard, Jean, -approximately 1634.,Dahl, James, former owner."
+    "Bogard, Jean, -approximately 1634",
+    "Dahl, James, former owner",
+    "Wytfliet, Corneille"
   ],
-  "dc_description_s": "Relief shown pictorially. North oriented to the left of the map. Shows drainage and settlements pictorially. 1 map; 22 x 27 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. North oriented to the left of the map. Shows drainage and settlements pictorially. 1 map; 22 x 27 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012845729/39015095390541\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012845729\"}",
   "dct_spatial_sm": [
     "California"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:37Z",
+  "layer_modified_dt": "2023-02-03T21:19:14Z",
   "dc_language_sm": [
     "eng"
   ],

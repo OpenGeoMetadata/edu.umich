@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Sō, Mōkan."
   ],
-  "dc_description_s": "Mounted cover title. Copperplate print. In Japanese. Relief shown by hachures. Includes 1 inset map of Hiroshima-shi, distance chart, and diagrammatic chart of distances between postal stations by rail. Includes legend. 1 map: col.; 71 x 71 cm., folded in cover 19 x 13 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Mounted cover title. Copperplate print. In Japanese. Relief shown by hachures. Includes 1 inset map of Hiroshima-shi, distance chart, and diagrammatic chart of distances between postal stations by rail. Includes legend. 1 map: col.; 71 x 71 cm., folded in cover 19 x 13 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887730/39015091921331_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887730\"}",
   "dct_spatial_sm": [
-    "Hiroshima Prefecture, Hiroshima, Japan",
+    "Hiroshima-- Japan--Hiroshima Prefecture",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:38Z",
+  "layer_modified_dt": "2023-02-03T21:19:31Z",
   "dc_language_sm": [
     "eng"
   ],

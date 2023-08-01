@@ -5,20 +5,20 @@
   "dc_title_s": "University of Michigan campus Ann Arbor, Michigan",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "d6d0ce69-8b08-4eaa-8448-4df8b70afefb",
+  "solr_geom": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
   "solr_year_i": "1963",
   "dc_creator_sm": [
-    "Wahr's University Bookstore."
+    "Wahr's University Bookstore"
   ],
   "dc_description_s": "1 map ; 33 x 28 cm|Includes index of buildings.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003283618/39015095401694\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003283618\"}",
   "dct_spatial_sm": [
-    "University of Michigan, Ann Arbor, Michigan",
-    "Ann Arbor, Michigan",
+    "Ann Arbor-- Michigan--University of Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:26:36Z",
   "dc_language_sm": [
     "eng"
   ],

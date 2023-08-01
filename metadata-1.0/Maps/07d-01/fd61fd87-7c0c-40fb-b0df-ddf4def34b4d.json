@@ -5,12 +5,12 @@
   "dc_title_s": "Hydrological basin of the Upper Mississippi River",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "fd61fd87-7c0c-40fb-b0df-ddf4def34b4d",
-  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_geom": "ENVELOPE(-102.71,-88.34,48.34,38.05)",
   "solr_year_i": "1843",
   "dc_creator_sm": [
+    "Abert, John James, 1788-1863",
     "Emory, William H. (William Hemsley), 1811-1887 http://id.loc.gov/authorities/names/n87872571 http://viaf.org/viaf/79256034",
-    "Frémont, John Charles, 1813-1890 http://id.loc.gov/authorities/names/n50025411",
-    "Abert, John James, 1788-1863 http://id.loc.gov/authorities/names/nr92005908 http://viaf.org/viaf/26924826"
+    "Frémont, John Charles, 1813-1890 http://id.loc.gov/authorities/names/n50025411"
   ],
   "dc_description_s": "1 map ; 93 x 78 cm|Relief shown by hachures.",
   "dc_format_s": "JPEG",
@@ -18,7 +18,7 @@
   "dct_spatial_sm": [
     "Mississippi River"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:12Z",
+  "layer_modified_dt": "2023-06-23T18:47:30Z",
   "dc_language_sm": [
     "eng"
   ],

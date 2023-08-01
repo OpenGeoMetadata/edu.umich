@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Map of the state of Michigan from the best authorities and most recent surveys compiled & drawn by S.N. Gaston.",
   "dct_description_sm": [
-    "Negative photostat. Greenwich and Washington prime meridians. Includes \"description of Michigan\" listings position, history, climate, internal improvements, geology and mineralogy, and animals. Includes a statistial table of Michigan. Lists surveyors and civil engineers. Shows surveyed counties. Shows major cities and towns. 1 map on six sheets; 104 x 114 cm, sheets 52 x 38 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Negative photostat. Greenwich and Washington prime meridians. Includes \"description of Michigan\" listings position, history, climate, internal improvements, geology and mineralogy, and animals. Includes a statistial table of Michigan. Lists surveyors and civil engineers. Shows surveyed counties. Shows major cities and towns. 1 map on six sheets; 104 x 114 cm, sheets 52 x 38 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.5,-82.2,47.5,41.67)",
+  "locn_geometry": "POLYGON((-90.5 47.5, -82.2 47.5, -82.2 41.67, -90.5 41.67, -90.5 47.5))",
   "dcat_bbox": "ENVELOPE(-90.5,-82.2,47.5,41.67)",
   "dcat_centroid": "44.585,-86.35",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000080674/39015091898778_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000080674\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "062ba63a-c02e-48db-af46-da93232923af"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:00Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,13 +1,13 @@
 {
   "dct_title_s": "A map of Wisconsin: with lines showing the remarkable effect of Lake Michigan in elevating the mean temperature of January and depressing that of July; by I.A. Lapham LL.D.",
   "dct_description_sm": [
-    "1 map: col.; 28 x 26 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "1 map: col.; 28 x 26 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Lapham, Increase Allen, 1811-1875."
+    "Lapham, Increase Allen, 1811-1875"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Climate maps",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1865"
@@ -29,7 +30,7 @@
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-93,-86,47,42)",
+  "locn_geometry": "POLYGON((-93 47, -86 47, -86 42, -93 42, -93 47))",
   "dcat_bbox": "ENVELOPE(-93,-86,47,42)",
   "dcat_centroid": "44.5,-89.5",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002569136/39015095388818\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002569136\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "d5b6d0c1-571d-4305-a3fc-4f3d3a9ab3cf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

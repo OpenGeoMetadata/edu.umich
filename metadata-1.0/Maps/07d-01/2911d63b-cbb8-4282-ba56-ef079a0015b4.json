@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-93.67,-58.95,54.34,35.92)",
   "solr_year_i": "1719",
   "dc_creator_sm": [
-    "Chatelain, Henri Abraham.",
-    "Chatelain, Henri Abraham. Atlas historique."
+    "Chatelain, Henri Abraham",
+    "Chatelain, Henri Abraham. Atlas historique"
   ],
   "dc_description_s": "1 map ; 27 x 31 cm., on sheet 46 x 51 cm.|Prime meridian: [Ferro]|Text, listing Indian tribes, natural resources, and trade good values, surrounds map.|From: Atlas historique, Tom. VI, between p. 90-91. [Amsterdam : Chatelain, 1715-1720?]|Chatelain copy of Lahontan's 1703 map of Canada.",
   "dc_format_s": "JPEG",
@@ -17,8 +17,7 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:44Z",
+  "layer_modified_dt": "2023-02-03T21:17:24Z",
   "dc_language_sm": [
     "fre"
   ],

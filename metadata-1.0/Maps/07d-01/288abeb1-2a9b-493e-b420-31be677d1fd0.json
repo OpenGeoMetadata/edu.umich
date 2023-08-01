@@ -5,10 +5,11 @@
   "dc_title_s": "Partie orientale de la Nouvelle France ou du Canada avec l'Isle de Terre-Neuve et de Nouvelle Escosse, Acadie et Nouv. Angleterre avec Fleuve de St. Laurence",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "288abeb1-2a9b-493e-b420-31be677d1fd0",
+  "solr_geom": "ENVELOPE(-67.85,-51.57,51.92,42.23)",
   "solr_year_i": "1756",
   "dc_creator_sm": [
-    "Seutter, Matthaeus, 1678-1756.",
-    "Lotter, Tobias Conrad, 1717-1777."
+    "Lotter, Tobias Conrad, 1717-1777",
+    "Seutter, Matthaeus, 1678-1756"
   ],
   "dc_description_s": "1 map : hand col. ; 56 x 48 cm.|Relief shown pictorially.|Includes decorative cartouche and ill. of ships.",
   "dc_format_s": "JPEG",
@@ -16,7 +17,7 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:47Z",
+  "layer_modified_dt": "2023-02-03T21:23:14Z",
   "dc_language_sm": [
     "fre"
   ],

@@ -8,9 +8,10 @@
   "solr_geom": "ENVELOPE(-114.9,-108.9,37.17,31.2)",
   "solr_year_i": "1888",
   "dc_creator_sm": [
-    "Rand McNally and Company.,Dahl, James, former owner."
+    "Dahl, James, former owner",
+    "Rand McNally and Company"
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights. Prime meridians: Greenwich and Washington. Shows roads, railroads, county and township divisions. Listed on verso and accompanying sheet: Arizona railroads; Arizona counties, lakes, mountains, reservations, rivers, towns, etc.; Nevada railroads; Nevada counties, lakes, rivers and towns. Sheets numbered 289-292. 1 map: hand col.; 47 x 32 cm. Includes index sheet. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures and spot heights. Prime meridians: Greenwich and Washington. Shows roads, railroads, county and township divisions. Listed on verso and accompanying sheet: Arizona railroads; Arizona counties, lakes, mountains, reservations, rivers, towns, etc.; Nevada railroads; Nevada counties, lakes, rivers and towns. Sheets numbered 289-292. 1 map: hand col.; 47 x 32 cm. Includes index sheet.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +20,7 @@
   "dct_spatial_sm": [
     "Arizona"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:36Z",
+  "layer_modified_dt": "2023-02-03T21:24:15Z",
   "dc_language_sm": [
     "eng"
   ],

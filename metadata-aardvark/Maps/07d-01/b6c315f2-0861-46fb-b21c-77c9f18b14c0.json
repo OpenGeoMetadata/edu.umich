@@ -1,7 +1,7 @@
 {
   "dct_title_s": "New railway and commercial map of Ontario compiled and drawn by S.R.G. Penson.",
   "dct_description_sm": [
-    "Inset: The north-west part of Ontario. Shows township and county boundaries. 1 map: col., mounted on cloth; 69 x 108 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Inset: The north-west part of Ontario. Shows township and county boundaries. 1 map: col., mounted on cloth; 69 x 108 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -22,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1887"
@@ -35,9 +36,9 @@
     "[1887 TO 1887]"
   ],
   "dct_spatial_sm": [
-    "Ontario, Canada"
+    "Canada--Ontario"
   ],
-  "locn_geometry": "ENVELOPE(-85,-74,47,42)",
+  "locn_geometry": "POLYGON((-85 47, -74 47, -74 42, -85 42, -85 47))",
   "dcat_bbox": "ENVELOPE(-85,-74,47,42)",
   "dcat_centroid": "44.5,-79.5",
   "pcdm_memberOf_sm": [
@@ -46,6 +47,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001291793/39015091883622_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001291793\"}",
@@ -53,6 +60,6 @@
   "dct_identifier_sm": [
     "b6c315f2-0861-46fb-b21c-77c9f18b14c0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

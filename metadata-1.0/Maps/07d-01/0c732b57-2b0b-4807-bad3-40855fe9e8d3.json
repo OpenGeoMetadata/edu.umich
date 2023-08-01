@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-85,-54,56,29)",
   "solr_year_i": "1731",
   "dc_creator_sm": [
-    "Moll, Herman, -1732.,Bowles, Thomas, -1767.,Bowles, John, 1701-1779."
+    "Bowles, John, 1701-1779",
+    "Bowles, Thomas, -1767",
+    "Moll, Herman, -1732"
   ],
-  "dc_description_s": "Relief shown pictorially. Prime meridian: London. Imprint date from Henry Stevens and Roland Tree's Comparative cartography, item 55c. Includes descriptive text. Insets: A view of ye industry of ye beavers of Canada ... the cataract of Niagara ... -- A draught of ye town and harbour of Charles-town -- A map of the principal part of North America -- A map of the improved part of Carolina with the settlements &c -- South part of Carolina and the east part of Florida ... 1 map: hand col.; 100 x 60 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Prime meridian: London. Imprint date from Henry Stevens and Roland Tree's Comparative cartography, item 55c. Includes descriptive text. Insets: A view of ye industry of ye beavers of Canada ... the cataract of Niagara ... -- A draught of ye town and harbour of Charles-town -- A map of the principal part of North America -- A map of the improved part of Carolina with the settlements &c -- South part of Carolina and the east part of Florida ... 1 map: hand col.; 100 x 60 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001543033/39015091185838\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001543033\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:23Z",
+  "layer_modified_dt": "2023-02-03T21:16:05Z",
   "dc_language_sm": [
     "eng"
   ],

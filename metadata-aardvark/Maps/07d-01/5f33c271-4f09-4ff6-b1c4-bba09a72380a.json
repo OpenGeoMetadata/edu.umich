@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Geological map of Michigan; by Alexander Winchell.; Geil's map of Michigan",
   "dct_description_sm": [
-    "Entered according to act of Congress in the year 1865 by Samuel Geil... Includes \"Epitome of the geology of Michigan,\" population table, and inset of Isle Royale. 1 map: col.; 44 x 43 cm., folded in cover 14 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Entered according to act of Congress in the year 1865 by Samuel Geil... Includes \"Epitome of the geology of Michigan,\" population table, and inset of Isle Royale. 1 map: col.; 44 x 43 cm., folded in cover 14 x 10 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Winchell, Alexander, 1824-1891.,Geil, Samuel."
+    "Geil, Samuel",
+    "Winchell, Alexander, 1824-1891"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -22,7 +23,8 @@
   "dcat_keyword_sm": [
     "Geology",
     "Railroads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1869"
@@ -36,7 +38,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.52,-82.4,48.22,41.5)",
+  "locn_geometry": "POLYGON((-90.52 48.22, -82.4 48.22, -82.4 41.5, -90.52 41.5, -90.52 48.22))",
   "dcat_bbox": "ENVELOPE(-90.52,-82.4,48.22,41.5)",
   "dcat_centroid": "44.86,-86.46000000000001",
   "pcdm_memberOf_sm": [
@@ -45,6 +47,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005094791/39015091880628\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005094791\"}",
@@ -52,6 +60,6 @@
   "dct_identifier_sm": [
     "5f33c271-4f09-4ff6-b1c4-bba09a72380a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:39Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

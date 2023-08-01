@@ -5,6 +5,7 @@
   "dc_title_s": "White Star Line",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "af11c558-ad94-4fb9-8997-6e222a25bc45",
+  "solr_geom": "ENVELOPE(-92.256,-76.0731,49.0839,41.4378)",
   "solr_year_i": "1910",
   "dc_description_s": "1 map : col. ; 19 x 9 cm|Shows the White Star Line route from Toledo to Port Huron.",
   "dc_format_s": "JPEG",
@@ -12,8 +13,7 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:26:51Z",
   "dc_language_sm": [
     "eng"
   ],

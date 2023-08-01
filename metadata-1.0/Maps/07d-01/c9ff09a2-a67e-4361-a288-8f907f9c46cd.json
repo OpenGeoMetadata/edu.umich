@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-68.33,-59.28,51.23,43.25)",
   "solr_year_i": "1779",
   "dc_creator_sm": [
-    "Sartine, Antoine de, comte d'Alby, 1729-1801."
+    "Sartine, Antoine de, comte d'Alby, 1729-1801"
   ],
   "dc_description_s": "map ; 25 x 39 cm on sheet 66 x 47 cm|Relief shown by hachures. Depths shown by soundings.|\"Longitude occidentale du méridien de Paris.\"|\"334\" located above upper right corner of border.|\"N. 2.C.\" located below lower left corner of border.|\"No. 1.C. et 2.C. ensemble prix trois livres.\" located below lower right corner of border.|Insets: Plan du port de la Heve à la côte meridionale de l'Acadie.--Plan du Port Rochelois à la côte méridionale de l'Acadie.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Saint John Harbour"
   ],
-  "layer_modified_dt": "2021-07-14T22:11:45Z",
+  "layer_modified_dt": "2023-02-03T21:23:34Z",
   "dc_language_sm": [
     "fre"
   ],

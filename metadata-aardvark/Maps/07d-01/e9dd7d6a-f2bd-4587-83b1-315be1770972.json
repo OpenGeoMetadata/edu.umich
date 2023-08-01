@@ -1,20 +1,21 @@
 {
   "dct_title_s": "A map of Chinese Tartary, with Corea; By Samuel Dunn, mathematician.",
   "dct_description_sm": [
-    "This map is no. 30 in his A new atlas for the mundane system... London, Printed for Robert Sayer, 1788. Relief shown pictorially. 1 map: hand col.; 30 x 43 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is no. 30 in his A new atlas for the mundane system... London, Printed for Robert Sayer, 1788. Relief shown pictorially. 1 map: hand col.; 30 x 43 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Dunn, Samuel, -1794."
+    "Dunn, Samuel, -1794"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1786"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Eastern Asia"
   ],
-  "locn_geometry": "ENVELOPE(103.7,144.98,55,29.97)",
+  "locn_geometry": "POLYGON((103.7 55, 144.98 55, 144.98 29.97, 103.7 29.97, 103.7 55))",
   "dcat_bbox": "ENVELOPE(103.7,144.98,55,29.97)",
   "dcat_centroid": "42.485,124.34",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281415/39015091916554\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281415\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "e9dd7d6a-f2bd-4587-83b1-315be1770972"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:03Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

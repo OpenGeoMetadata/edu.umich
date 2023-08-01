@@ -8,15 +8,18 @@
   "solr_geom": "ENVELOPE(-4.77,-3.07,53.44,52.71)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Vignaud, Henry, 1830-1922, former owner.,Llwyd, Humphrey, 1527-1568, cartographer."
+    "Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe",
+    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe",
+    "Llwyd, Humphrey, 1527-1568",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
-  "dc_description_s": "Relief shown pictorially. Includes illustrations of a sea monster in ocean and fruit around the title cartouche. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 54x 44 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of a sea monster in ocean and fruit around the title cartouche. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 54x 44 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010349131/39015091191810_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010349131\"}",
   "dct_spatial_sm": [
-    "Wales, United Kingdom"
+    "United Kingdom--Wales"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:28Z",
+  "layer_modified_dt": "2023-02-03T21:17:14Z",
   "dc_language_sm": [
     "eng"
   ],

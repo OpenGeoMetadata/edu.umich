@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Geological map of Keweenaw Point, Lake Superior.",
   "dct_description_sm": [
-    "1 map: col.; 34 x 56 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "1 map: col.; 34 x 56 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jackson, Charles T. (Charles Thomas), 1805-1880."
+    "Jackson, Charles T. (Charles Thomas), 1805-1880"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Geology",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1847"
@@ -29,7 +30,7 @@
   "gbl_dateRange_drsim": [
     "[1847 TO 1847]"
   ],
-  "locn_geometry": "ENVELOPE(-88.65,-87.68,47.48,47.08)",
+  "locn_geometry": "POLYGON((-88.65 47.48, -87.68 47.48, -87.68 47.08, -88.65 47.08, -88.65 47.48))",
   "dcat_bbox": "ENVELOPE(-88.65,-87.68,47.48,47.08)",
   "dcat_centroid": "47.28,-88.165",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287269/39015091881212\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287269\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "1f5ff111-f2e9-4ccb-b081-8e6da0a2d39a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,21 +5,21 @@
   "dc_title_s": "Lorraine",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "0d8f60d0-1183-40ff-89df-2a997236fd81",
+  "solr_geom": "ENVELOPE(5.3166,8.2632,49.5193,47.8519)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Vignaud, Henry, 1830-1922, former owner.",
-    "Jansson, Jan, 1588-1664. Appendix Atlas."
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "dc_description_s": "1 map ; 45 x 55 cm|Relief shown pictorially.|Title cartouche includes a face and vines of fruit.|This state was published in atlases by Jan Jansson in 1630, 1631-33, and 1632.|From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012525581/39015091191935_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012525581\"}",
   "dct_spatial_sm": [
-    "Lorraine,  Grand Est,  France",
-    "Grand Est,  France",
+    "France-- Grand Est--Lorraine",
+    " France--Grand Est",
     "France"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:12:00Z",
+  "layer_modified_dt": "2023-06-29T18:48:54Z",
   "dc_language_sm": [
     "lat"
   ],

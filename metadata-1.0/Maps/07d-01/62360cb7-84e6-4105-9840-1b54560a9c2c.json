@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-94,-74,53,33)",
   "solr_year_i": "1688",
   "dc_creator_sm": [
-    "Du Tralage, Jean Nicolas, -1699.,Nolin, Jean Baptiste, 1648-1708.,Coronelli, Vincenzo, 1650-1718."
+    "Coronelli, Vincenzo, 1650-1718",
+    "Du Tralage, Jean Nicolas, -1699",
+    "Nolin, Jean Baptiste, 1648-1708"
   ],
-  "dc_description_s": "Relief shown pictorially. 1 map: hand col.; 43 x 58 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. 1 map: hand col.; 43 x 58 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003279617/39015091185762\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003279617\"}",
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "layer_modified_dt": "2023-02-03T21:23:14Z",
   "dc_language_sm": [
     "eng"
   ],

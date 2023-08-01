@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Map of Michigan.",
   "dct_description_sm": [
-    "Cover title: Indexed map of Michigan. Index title page: Page's indexed township map of Michigan, showing location of all railroad stations, post-offices, and villages in the state. Insets at same scale: Isle Royale -- [west part of the Upper Peninsula]. 1 map: col.; 62 x 41 cm., folded in cover 16 x 9 cm.  index (11 p.; 15 cm.) This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Cover title: Indexed map of Michigan. Index title page: Page's indexed township map of Michigan, showing location of all railroad stations, post-offices, and villages in the state. Insets at same scale: Isle Royale -- [west part of the Upper Peninsula]. 1 map: col.; 62 x 41 cm., folded in cover 16 x 9 cm.  index (11 p.; 15 cm.)"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,7 +17,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1881, ©1880"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-88.05,-82.28,47.43,41.5)",
+  "locn_geometry": "POLYGON((-88.05 47.43, -82.28 47.43, -82.28 41.5, -88.05 41.5, -88.05 47.43))",
   "dcat_bbox": "ENVELOPE(-88.05,-82.28,47.43,41.5)",
   "dcat_centroid": "44.465,-85.16499999999999",
   "pcdm_memberOf_sm": [
@@ -40,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002606716/39015091880057\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002606716\"}",
@@ -47,6 +54,6 @@
   "dct_identifier_sm": [
     "657354db-3fe2-4062-898d-91ec27e2386d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

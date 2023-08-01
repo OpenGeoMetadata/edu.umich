@@ -1,20 +1,22 @@
 {
   "dct_title_s": "Pictaviæ Ducatus descriptio, vulgo le Pais de Poictou.; Pictavia Ducatus descriptio vulgo le Pais de Poictou",
   "dct_description_sm": [
-    "Relief shown pictorially. Illustrations include two cherubs and a barrell of wine and grapes framing the scale cartouche, ships on the ocean, and the French coat of arms in the upper right corner of the map. Does not match any states listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 35 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Illustrations include two cherubs and a barrell of wine and grapes framing the scale cartouche, ships on the ocean, and the French coat of arms in the upper right corner of the map. Does not match any states listed in Van der Krogt. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 35 x 49 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1636"
@@ -28,7 +30,7 @@
   "dct_spatial_sm": [
     "France"
   ],
-  "locn_geometry": "ENVELOPE(-2.63,0.44,47.43,45.63)",
+  "locn_geometry": "POLYGON((-2.63 47.43, 0.44 47.43, 0.44 45.63, -2.63 45.63, -2.63 47.43))",
   "dcat_bbox": "ENVELOPE(-2.63,0.44,47.43,45.63)",
   "dcat_centroid": "46.53,-1.095",
   "pcdm_memberOf_sm": [
@@ -37,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005549335/39015091191414_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005549335\"}",
@@ -44,6 +52,6 @@
   "dct_identifier_sm": [
     "536d873a-a169-4bbb-90d6-93daff8ff68e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

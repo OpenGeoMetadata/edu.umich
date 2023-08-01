@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "O. C. Simonds & Co."
   ],
-  "dc_description_s": "Shows vegetation pictorially. Contour interval 5 ft. Photocopy mounted on cloth. 1 map; 83 x 62 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows vegetation pictorially. Contour interval 5 ft. Photocopy mounted on cloth. 1 map; 83 x 62 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000524479/39015049936696\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000524479\"}",
   "dct_spatial_sm": [
-    "University of Michigan Nichols Arboretum, Michigan",
+    "Michigan--University of Michigan Nichols Arboretum",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "layer_modified_dt": "2023-02-03T21:26:24Z",
   "dc_language_sm": [
     "eng"
   ],

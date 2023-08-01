@@ -31,7 +31,9 @@
     "Railway mail service New England Maps.",
     "Postal service United States Maps.",
     "Postal service New England Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1866"
@@ -46,6 +48,9 @@
   "dct_spatial_sm": [
     "New England"
   ],
+  "locn_geometry": "POLYGON((-72.5416 45.289, -69.795 45.289, -69.795 41.1524, -72.5416 41.1524, -72.5416 45.289))",
+  "dcat_bbox": "ENVELOPE(-72.5416,-69.795,45.289,41.1524)",
+  "dcat_centroid": "43.2207,-71.1683",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,7 +58,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -64,6 +72,6 @@
     "003279703",
     "39015091910458"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -14,7 +14,7 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
@@ -22,7 +22,9 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -35,9 +37,12 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Andalusia,  Spain",
+    "Spain--Andalusia",
     "Spain"
   ],
+  "locn_geometry": "POLYGON((-7.5382 38.704, -1.6275 38.704, -1.6275 36.0327, -7.5382 36.0327, -7.5382 38.704))",
+  "dcat_bbox": "ENVELOPE(-7.5382,-1.6275,38.704,36.0327)",
+  "dcat_centroid": "37.36835,-4.58285",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,7 +50,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -56,6 +64,6 @@
     "003281269",
     "39015091191653_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:35:51Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,16 +5,16 @@
   "dc_title_s": "Kairyō Yokohama meisai zenzu",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "6f356135-34c0-4889-8d08-9a31a9eacdc7",
+  "solr_geom": "ENVELOPE(139.464781,139.776935,35.592738,35.312501)",
   "solr_year_i": "1887",
   "dc_description_s": "1 map : color ; 34 x 68 cm, folded to 17 x 10 cm|English title should read: Plan of Yokohama.|Copperplate print.|In Japanese and English.|Oriented with north to the lower right.|Relief shown pictorially.|Includes 2 insets, lists of block and bridge names, and distance charts.|Shows views of tourist attractions.|05 Engraved by Shimura Senkyō.|05 Engraved by 志村千郷.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002457622/39015091920309_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002457622\"}",
   "dct_spatial_sm": [
-    "Yokohama-shi, Kanagawa, Japan",
+    "Japan-- Kanagawa--Yokohama-shi",
     "Japan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-07-14T22:11:58Z",
+  "layer_modified_dt": "2023-02-03T21:20:08Z",
   "dc_language_sm": [
     "jpn"
   ],

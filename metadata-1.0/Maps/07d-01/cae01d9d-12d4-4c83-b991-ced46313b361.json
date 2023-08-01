@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-124,-118,51,49)",
   "solr_year_i": "1867",
   "dc_creator_sm": [
-    "Barlow, Robert, 1813-1883.,Richardson, James (Geologist),Geological Survey of Canada."
+    "Barlow, Robert, 1813-1883",
+    "Geological Survey of Canada",
+    "Richardson, James (Geologist)"
   ],
-  "dc_description_s": "Greenwich prime meridian. Relief shown by hachures and spot heights. Includes 3 profiles. 1 map: col.; 77 x 88 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Greenwich prime meridian. Relief shown by hachures and spot heights. Includes 3 profiles. 1 map: col.; 77 x 88 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002564188/39015091911167\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002564188\"}",
   "dct_spatial_sm": [
-    "Vancouver Island, British Columbia, Canada"
+    "British Columbia-- Canada--Vancouver Island"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "layer_modified_dt": "2023-02-03T21:20:44Z",
   "dc_language_sm": [
     "eng"
   ],

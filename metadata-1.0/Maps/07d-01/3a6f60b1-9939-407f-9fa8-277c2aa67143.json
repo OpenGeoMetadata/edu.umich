@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(104.58,108,22.72,19.78)",
   "solr_year_i": "1885",
   "dc_creator_sm": [
-    "France. Armée. Service géographique."
+    "France. Armée. Service géographique"
   ],
-  "dc_description_s": "Relief shown pictorially. 1 map: col.; 59 x 72 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. 1 map: col.; 59 x 72 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282028/39015091916646\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282028\"}",
   "dct_spatial_sm": [
-    "Tonkin, Tuyên Quang, Vietnam",
+    "Tuyên Quang-- Vietnam--Tonkin",
     "Vietnam"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:30Z",
+  "layer_modified_dt": "2023-02-03T21:17:23Z",
   "dc_language_sm": [
     "eng"
   ],

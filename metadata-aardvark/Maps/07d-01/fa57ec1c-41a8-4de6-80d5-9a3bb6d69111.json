@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Rakuchū Rakugai machimachi kona taisei Kyō saiken ezu.",
   "dct_description_sm": [
-    "Mounted cover title. Wood block print. Oriented with north at the top. In Japanese. Relief shown pictorially. Includes distance chart. Includes text and legend pasted on upper left corner. 1 map: col.; 88 x 57 cm., folded in cover 21 x 16 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Mounted cover title. Wood block print. Oriented with north at the top. In Japanese. Relief shown pictorially. Includes distance chart. Includes text and legend pasted on upper left corner. 1 map: col.; 88 x 57 cm., folded in cover 21 x 16 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "Genji 1 1864"
@@ -26,10 +27,10 @@
     "[1864 TO 1864]"
   ],
   "dct_spatial_sm": [
-    "Kyoto, Kyoto, Japan",
+    "Japan-- Kyoto--Kyoto",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(135.71,135.79,35.05,34.95)",
+  "locn_geometry": "POLYGON((135.71 35.05, 135.79 35.05, 135.79 34.95, 135.71 34.95, 135.71 35.05))",
   "dcat_bbox": "ENVELOPE(135.71,135.79,35.05,34.95)",
   "dcat_centroid": "35.0,135.75",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002460148/39015091921554_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002460148\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "fa57ec1c-41a8-4de6-80d5-9a3bb6d69111"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

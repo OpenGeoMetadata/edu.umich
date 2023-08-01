@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Sketch of the fort at Michilimackinac; Perks. Magra.; Title in margin: Magra map.",
   "dct_description_sm": [
-    "Relief shown by hachures and shading. Facsimile. \"From the original in the Clements library.\" Reproduced from ms. original dated 1766? Oriented with north to the bottom. Includes index of buildings. 1 map: col.; 20 x 23 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures and shading. Facsimile. \"From the original in the Clements library.\" Reproduced from ms. original dated 1766? Oriented with north to the bottom. Includes index of buildings. 1 map: col.; 20 x 23 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,10 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1938"
@@ -26,16 +29,22 @@
     "[1938 TO 1938]"
   ],
   "dct_spatial_sm": [
-    "Fort Michilimackinac Historical Marker, Michigan"
+    "Michigan--Fort Michilimackinac Historical Marker"
   ],
-  "locn_geometry": "ENVELOPE(-84.7299,-84.73,45.7801,45.78)",
-  "dcat_bbox": "ENVELOPE(-84.7299,-84.73,45.7801,45.78)",
-  "dcat_centroid": "45.78005,-84.72995",
+  "locn_geometry": "POLYGON((-84.629488 45.858727, -84.606721 45.858727, -84.606721 45.846397, -84.629488 45.846397, -84.629488 45.858727))",
+  "dcat_bbox": "ENVELOPE(-84.629488,-84.606721,45.858727,45.846397)",
+  "dcat_centroid": "45.852562000000006,-84.61810449999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -44,6 +53,6 @@
   "dct_identifier_sm": [
     "c7a35f2a-2d47-4f6d-9ace-f584cf1b845d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:18Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

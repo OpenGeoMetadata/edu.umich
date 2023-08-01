@@ -1,20 +1,23 @@
 {
   "dct_title_s": "[Map of Northern Ireland].; Ultonia",
   "dct_description_sm": [
-    "Relief shown pictorially. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 50 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 50 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Vignaud, Henry, 1830-1922, former owner.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe."
+    "Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe",
+    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -26,9 +29,9 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Northern Ireland, United Kingdom"
+    "United Kingdom--Northern Ireland"
   ],
-  "locn_geometry": "ENVELOPE(-10.48,-4.92,55.35,53.23)",
+  "locn_geometry": "POLYGON((-10.48 55.35, -4.92 55.35, -4.92 53.23, -10.48 53.23, -10.48 55.35))",
   "dcat_bbox": "ENVELOPE(-10.48,-4.92,55.35,53.23)",
   "dcat_centroid": "54.29,-7.7",
   "pcdm_memberOf_sm": [
@@ -37,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012444204/39015091193915_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012444204\"}",
@@ -44,6 +53,6 @@
   "dct_identifier_sm": [
     "1c574087-0c8a-4e08-9720-b53291bad695"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:17Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

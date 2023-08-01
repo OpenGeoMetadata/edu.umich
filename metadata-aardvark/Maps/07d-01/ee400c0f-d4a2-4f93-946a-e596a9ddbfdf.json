@@ -1,7 +1,7 @@
 {
   "dct_title_s": "[Plan des terreins appartenant aux francais autour de Fort de Pontchartrain].",
   "dct_description_sm": [
-    "Negative photostatic copy of a 1912 copy from the Burton Historical Collection, Detroit, Michigan. Burton call no. 977.4 D4 F77H [1707?]. MiU copy varies slightly from ill. in Dunnigan. \"True copy of plan in the Dominion Archives, Ottawa, Nicole R. Trudeau, 31 March, 1912.\" Dominion Archives copy may be a manuscript copy of the original at the Center des Archives d'outre mer, Aix-en-Provence, Archives nationales, France. Shows lands near Fort Pontchartrain allotted to French settlers of Detroit, with names of some noted on properties. Shows relationship of village and lands of Huron Indians to those of French settlers. 1 map: photostat; 43 x 57 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Negative photostatic copy of a 1912 copy from the Burton Historical Collection, Detroit, Michigan. Burton call no. 977.4 D4 F77H [1707?]. MiU copy varies slightly from ill. in Dunnigan. \"True copy of plan in the Dominion Archives, Ottawa, Nicole R. Trudeau, 31 March, 1912.\" Dominion Archives copy may be a manuscript copy of the original at the Center des Archives d'outre mer, Aix-en-Provence, Archives nationales, France. Shows lands near Fort Pontchartrain allotted to French settlers of Detroit, with names of some noted on properties. Shows relationship of village and lands of Huron Indians to those of French settlers. 1 map: photostat; 43 x 57 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Landowners",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1731"
@@ -27,10 +28,10 @@
     "[1731 TO 1731]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.12,-83.07,42.32,42.27)",
+  "locn_geometry": "POLYGON((-83.12 42.32, -83.07 42.32, -83.07 42.27, -83.12 42.27, -83.12 42.32))",
   "dcat_bbox": "ENVELOPE(-83.12,-83.07,42.32,42.27)",
   "dcat_centroid": "42.295,-83.095",
   "pcdm_memberOf_sm": [
@@ -39,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003287189/39015091200140\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003287189\"}",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "ee400c0f-d4a2-4f93-946a-e596a9ddbfdf"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,11 +5,12 @@
   "dc_title_s": "State of Ohio",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "a962f404-7d14-4290-b66a-e7e544789d2f",
+  "solr_geom": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
   "solr_year_i": "1878",
   "dc_creator_sm": [
-    "Roeser, C. (Charles), compiler.",
-    "Dinsmore, A. F., drawer.",
-    "Bien, Julius, 1826-1909, lithographer."
+    "Bien, Julius, 1826-1909",
+    "Dinsmore, A. F.",
+    "Roeser, C. (Charles), compiler."
   ],
   "dc_description_s": "1 map : color ; 63 x 72 cm|Shows county boundaries, cities and villages, railroads, and canals.|\"J. A. Williamson, Commissioner.\"|Prime meridians: Greenwich and Washington.",
   "dc_format_s": "JPEG",
@@ -20,7 +21,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:51Z",
+  "layer_modified_dt": "2023-02-03T21:25:52Z",
   "dc_language_sm": [
     "eng"
   ],

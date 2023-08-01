@@ -5,10 +5,11 @@
   "dc_title_s": "Map of parts of the Districts of Nipissing and Algoma exhibiting the country around Sudbury and eastward to the Ottawa River",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "5da69612-3f2a-4047-b808-9dd2e387d3f9",
+  "solr_geom": "ENVELOPE(-95.16,-74.32,56.86,41.68)",
   "solr_year_i": "1892",
   "dc_creator_sm": [
-    "Ottawa. Geological Survey Department, surveyor.",
-    "Copp Clark Company, publisher."
+    "Copp Clark Company",
+    "Ottawa. Geological Survey Department, surveyor."
   ],
   "dc_description_s": "1 map ; 67 x 121 cm|Colors indicate the geological composition. Map also shows townships, rivers, lakes, railroad lines, Indian reserves, and other points of interest.",
   "dc_format_s": "JPEG",
@@ -17,12 +18,11 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013681258/39015091883481_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013681258\"}",
   "dct_spatial_sm": [
-    "Ontario,  Canada",
+    "Canada--Ontario",
     "Canada",
     "Canada"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:21:21Z",
   "dc_language_sm": [
     "eng"
   ],

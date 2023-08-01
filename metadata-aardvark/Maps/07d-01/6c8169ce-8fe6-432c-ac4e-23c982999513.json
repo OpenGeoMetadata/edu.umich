@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Carte de la Guinee contenant les Isles du Cap Verd, le Senegal, la cote de Guinee proprement dite, les royaumes de Loango, Congo, Angola et Benguela.",
   "dct_description_sm": [
-    "Inset: Cote d'Or par le Sr. D'Anville. Map 42 from Vol. 2 of Atlas Universel by P. Santini. 1 map: col.; 43 x 57 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Inset: Cote d'Or par le Sr. D'Anville. Map 42 from Vol. 2 of Atlas Universel by P. Santini. 1 map: col.; 43 x 57 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Bonne, Rigobert, 1727-1794."
+    "Bonne, Rigobert, 1727-1794"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1779"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-26.35,20.05,18.55,-18.2)",
+  "locn_geometry": "POLYGON((-26.35 18.55, 20.05 18.55, 20.05 -18.2, -26.35 -18.2, -26.35 18.55))",
   "dcat_bbox": "ENVELOPE(-26.35,20.05,18.55,-18.2)",
   "dcat_centroid": "0.1750000000000007,-3.1500000000000004",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281494/39015091915887\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281494\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "6c8169ce-8fe6-432c-ac4e-23c982999513"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

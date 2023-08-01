@@ -5,17 +5,17 @@
   "dc_title_s": "Welcome to the University of Michigan.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "1bf064a8-3c63-4401-b6c7-b4a19fa28020",
+  "solr_geom": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
   "solr_year_i": "1958",
   "dc_description_s": "5 maps on 1 sheet : col. ; sheet 44 x 59 cm., folded to 22 x 10 cm.|Panel title.|North oriented to upper right.|Includes text and building index.|Text and ill. on verso.|Shows Undergraduate Library under construction (ca. 1958).",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009771641/39015095417161_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009771641\"}",
   "dct_spatial_sm": [
-    "University of Michigan, Ann Arbor, Michigan",
-    "Ann Arbor, Michigan",
+    "Ann Arbor-- Michigan--University of Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:26:47Z",
   "dc_language_sm": [
     "eng"
   ],

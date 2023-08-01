@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(2,2.99,49.22,48.69)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Guillotiere, François.,Vignaud, Henry, 1830-1922, former owner. Composite Atlas of France."
+    "Guillotiere, François",
+    "Vignaud, Henry, 1830-1922"
   ],
-  "dc_description_s": "Relief shown pictorially. Possibly from Le Clerc's 1622 edition of \"Theatre Géographique du Royaume de France\" or Tavernier's 1632 edition of \"Theatre geographique du royaume de France.\" From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 32 x 45 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Possibly from Le Clerc's 1622 edition of \"Theatre Géographique du Royaume de France\" or Tavernier's 1632 edition of \"Theatre geographique du royaume de France.\" From the Composite Atlas of France, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 32 x 45 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282087/39015091193865_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282087\"}",
   "dct_spatial_sm": [
-    "Île-de-France, France",
+    "France--Île-de-France",
     "France"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "layer_modified_dt": "2023-02-03T21:20:32Z",
   "dc_language_sm": [
     "eng"
   ],

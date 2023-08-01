@@ -20,7 +20,9 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -33,10 +35,13 @@
     "[1884 TO 1884]"
   ],
   "dct_spatial_sm": [
-    "Quebec,  Canada",
+    "Canada--Quebec",
     "Canada",
     "Canada"
   ],
+  "locn_geometry": "POLYGON((-79.76 62.58, -57.11 62.58, -57.11 44.99, -79.76 44.99, -79.76 62.58))",
+  "dcat_bbox": "ENVELOPE(-79.76,-57.11,62.58,44.99)",
+  "dcat_centroid": "53.785,-68.435",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,7 +49,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -55,6 +63,6 @@
     "013698043",
     "39015091910037_0001"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

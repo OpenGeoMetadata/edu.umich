@@ -14,7 +14,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Nicholson, W.L. http://viaf.org/viaf/224512355"
+    "Nicholson, W. L."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -28,7 +28,9 @@
   ],
   "dcat_keyword_sm": [
     "Railroads Virginia Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1862"
@@ -43,6 +45,9 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
+  "locn_geometry": "POLYGON((-82.644739 40.638801, -77.719519 40.638801, -77.719519 37.201483, -82.644739 37.201483, -82.644739 40.638801))",
+  "dcat_bbox": "ENVELOPE(-82.644739,-77.719519,40.638801,37.201483)",
+  "dcat_centroid": "38.920142,-80.182129",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,7 +55,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -61,6 +69,6 @@
     "003287914",
     "39015091910391"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:48Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

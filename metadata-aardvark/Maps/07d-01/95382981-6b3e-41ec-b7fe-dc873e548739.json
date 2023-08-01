@@ -15,7 +15,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Templeux, Damien, Sieur de Fresnoy, d.c. 1620.",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
@@ -27,7 +27,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -40,10 +42,13 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    " Île-de-France,  France",
-    "Île-de-France,  France",
+    "France--Île-de-France",
+    " France--Île-de-France",
     "France"
   ],
+  "locn_geometry": "POLYGON((1.446244 49.241431, 3.559221 49.241431, 3.559221 48.120146, 1.446244 48.120146, 1.446244 49.241431))",
+  "dcat_bbox": "ENVELOPE(1.446244,3.559221,49.241431,48.120146)",
+  "dcat_centroid": "48.6807885,2.5027325",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,7 +56,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -62,6 +70,6 @@
     "012638391",
     "39015091191349_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:38:17Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

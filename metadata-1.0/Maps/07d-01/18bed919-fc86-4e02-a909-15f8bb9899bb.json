@@ -14,10 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280519/39015091910987\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280519\"}",
   "dct_spatial_sm": [
-    "Manitoba,  Canada",
+    "Canada--Manitoba",
     "Canada"
   ],
-  "layer_modified_dt": "2021-07-06T20:25:05Z",
+  "layer_modified_dt": "2023-02-03T21:21:21Z",
   "dc_language_sm": [
     "eng"
   ],

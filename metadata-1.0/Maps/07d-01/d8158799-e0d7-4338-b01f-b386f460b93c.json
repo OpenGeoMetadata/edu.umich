@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(2.224122,2.46976,48.902156,48.815575)",
   "solr_year_i": "1694",
   "dc_creator_sm": [
-    "Fer, Nicolas de, 1646-1720.,Jouvin, Albert, active 1672."
+    "Fer, Nicolas de, 1646-1720",
+    "Jouvin, Albert, active 1672"
   ],
-  "dc_description_s": "Includes table alphabetique, description, dedication to the Dauphin, decorative cartouches with ill. of buildings and allegorical figures, and inset of Plan des Cazernes. 1 map; 54 x 69 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes table alphabetique, description, dedication to the Dauphin, decorative cartouches with ill. of buildings and allegorical figures, and inset of Plan des Cazernes. 1 map; 54 x 69 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011349270/39015091186521\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011349270\"}",
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "layer_modified_dt": "2021-05-10T14:56:46Z",
+  "layer_modified_dt": "2023-02-03T21:23:33Z",
   "dc_language_sm": [
     "eng"
   ],

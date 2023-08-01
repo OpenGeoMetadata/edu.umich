@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Plan of the city of Ann Arbor: Washtenaw co. Mich.; John F. Geil.",
   "dct_description_sm": [
-    "Shows property ownership. 1 map: color; 29 x 32 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows property ownership. 1 map: color; 29 x 32 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geil, John F., cartographer.,Geil, John F., cartographer.,Geil, Samuel, publisher."
+    "Geil, John F., cartographer",
+    "Geil, Samuel, publisher"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -19,7 +20,8 @@
   "dcat_keyword_sm": [
     "Real property",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1864"
@@ -32,10 +34,10 @@
     "[1864 TO 1864]"
   ],
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.76,-83.72,42.3,42.27)",
+  "locn_geometry": "POLYGON((-83.76 42.3, -83.72 42.3, -83.72 42.27, -83.76 42.27, -83.76 42.3))",
   "dcat_bbox": "ENVELOPE(-83.76,-83.72,42.3,42.27)",
   "dcat_centroid": "42.285,-83.74000000000001",
   "pcdm_memberOf_sm": [
@@ -44,6 +46,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013494634/39015091198302\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013494634\"}",
@@ -51,6 +59,6 @@
   "dct_identifier_sm": [
     "9ec5f071-2ec3-4671-85ac-21c76b37912c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:06Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

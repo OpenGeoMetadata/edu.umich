@@ -10,13 +10,13 @@
   "dc_creator_sm": [
     "Hay, John Ogilvy."
   ],
-  "dc_description_s": "Relief shown by hachures. 1 map: col.; 69 x 64 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. 1 map: col.; 69 x 64 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282377/39015091916570\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282377\"}",
   "dct_spatial_sm": [
     "Myanmar [Burma]"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:48Z",
   "dc_language_sm": [
     "eng"
   ],

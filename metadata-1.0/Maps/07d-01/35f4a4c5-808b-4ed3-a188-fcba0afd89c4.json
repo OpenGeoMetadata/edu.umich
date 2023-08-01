@@ -10,15 +10,14 @@
   "dc_creator_sm": [
     "Ram, Joannes de."
   ],
-  "dc_description_s": "Includes index, illus. and portraits of William III and Mary II. Includes panoramic view from the south of London. 1 map; 49 x 58 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes index, illus. and portraits of William III and Mary II. Includes panoramic view from the south of London. 1 map; 49 x 58 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005103471/39015060933689\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005103471\"}",
   "dct_spatial_sm": [
-    "London, England, United Kingdom",
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:42Z",
+  "layer_modified_dt": "2023-02-03T21:20:35Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-80.63,-79.28,45.77,45.5)",
   "solr_year_i": "1853",
   "dc_creator_sm": [
-    "Geological Survey of Canada."
+    "Geological Survey of Canada"
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights. G. Matthews, Lith., Montreal. 1 map on var. sheets; sheets 63 x 95 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures and spot heights. G. Matthews, Lith., Montreal. 1 map on var. sheets; sheets 63 x 95 cm. or smaller.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004914768/39015091888316\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004914768\"}",
   "dct_spatial_sm": [
-    "Magnetawan River, Ontario, Canada",
-    "Ontario, Canada"
+    "Canada-- Ontario--Magnetawan River",
+    "Canada--Ontario"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:59Z",
+  "layer_modified_dt": "2023-02-03T21:26:24Z",
   "dc_language_sm": [
     "eng"
   ],

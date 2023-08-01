@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Nouveau plan de Paris fortifié",
   "dct_description_sm": [
-    "Includes Table of \"Nomenclature des Rues, Bureaux Principaux & Suite des Passages\". Fortifications and some streets colored. 1 map: hand col., mounted on cloth; 58 x 45 cm, folded to 5 x 10 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes Table of \"Nomenclature des Rues, Bureaux Principaux & Suite des Passages\". Fortifications and some streets colored. 1 map: hand col., mounted on cloth; 58 x 45 cm, folded to 5 x 10 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -16,7 +16,10 @@
   "dcat_keyword_sm": [
     "Forts",
     "Fortification",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1851"
@@ -28,17 +31,23 @@
     "[1851 TO 1851]"
   ],
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France--Ãle-de-France--Paris",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(2.3301,2.33,48.8701,38.87)",
-  "dcat_bbox": "ENVELOPE(2.3301,2.33,48.8701,38.87)",
-  "dcat_centroid": "43.87005,2.33005",
+  "locn_geometry": "POLYGON((2.252457 48.895441, 2.43071 48.895441, 2.43071 48.812852, 2.252457 48.812852, 2.252457 48.895441))",
+  "dcat_bbox": "ENVELOPE(2.252457,2.43071,48.895441,48.812852)",
+  "dcat_centroid": "48.8541465,2.3415835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -47,6 +56,6 @@
   "dct_identifier_sm": [
     "380212b8-db97-4904-b977-f418b82c37cd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:37Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

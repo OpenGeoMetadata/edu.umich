@@ -5,20 +5,21 @@
   "dc_title_s": "Navarra regnum",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "9de23c1e-0825-41d8-b7e2-5a12a6c54cab",
+  "solr_geom": "ENVELOPE(-2.56859,-0.263506,43.518885,42.059161)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "dc_description_s": "1 map : 38 x 48 cm.|Relief shown pictorially.|Oriented with north to the right.|Includes decorative cartouche with soldiers and noble men.|Five coats of arms on the map.|This state was published in the Novus Atlas by Jan Jansson in 1680.|From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012218682/39015091192149_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012218682\"}",
   "dct_spatial_sm": [
-    "Navarre,  Navarre,  Spain",
-    "Navarre,  Spain",
+    "Navarre-- Spain--Navarre",
+    " Spain--Navarre",
     "Spain"
   ],
-  "layer_modified_dt": "2021-07-14T22:12:00Z",
+  "layer_modified_dt": "2023-06-29T19:03:57Z",
   "dc_language_sm": [
     "lat"
   ],

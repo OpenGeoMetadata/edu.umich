@@ -14,7 +14,9 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1919"
@@ -27,9 +29,12 @@
     "[1919 TO 1919]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-83.288 42.4503, -82.9104 42.4503, -82.9104 42.2552, -83.288 42.2552, -83.288 42.4503))",
+  "dcat_bbox": "ENVELOPE(-83.288,-82.9104,42.4503,42.2552)",
+  "dcat_centroid": "42.35275,-83.0992",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -37,7 +42,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -46,6 +54,6 @@
   "dct_identifier_sm": [
     "5727b046-d706-4630-8c79-7a363f0f26fc"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

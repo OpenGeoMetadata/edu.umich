@@ -8,15 +8,18 @@
   "solr_geom": "ENVELOPE(-115,-94,44,38)",
   "solr_year_i": "1850",
   "dc_creator_sm": [
-    "Stansbury, Howard, 1806-1863.,Gunnison, J. W. (John Williams), 1812-1853.,Preuss, Charles, 1803-1854.,United States. Army. Corps of Engineers."
+    "Gunnison, J. W. (John Williams), 1812-1853",
+    "Preuss, Charles, 1803-1854",
+    "Stansbury, Howard, 1806-1863",
+    "United States. Army. Corps of Engineers"
   ],
-  "dc_description_s": "Relief shown by hachures. Outline color. 1 map: hand col., dissected into 18 sections and mounted on linen; 71 x 174 cm, folded to 25 x 29 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Outline color. 1 map: hand col., dissected into 18 sections and mounted on linen; 71 x 174 cm, folded to 25 x 29 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003060822/39015091905789_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003060822\"}",
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "layer_modified_dt": "2023-02-03T21:20:45Z",
   "dc_language_sm": [
     "eng"
   ],

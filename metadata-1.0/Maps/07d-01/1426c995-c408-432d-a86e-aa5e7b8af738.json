@@ -8,17 +8,17 @@
   "solr_geom": "ENVELOPE(-77.18,-77.17,38.51,38.5)",
   "solr_year_i": "1861",
   "dc_creator_sm": [
-    "Warder & Catlett.,Alexander, Samuel."
+    "Alexander, Samuel",
+    "Warder & Catlett"
   ],
-  "dc_description_s": "Relief shown by hachures. Shows disposition and movement of troops at the First Battle of Bull Run. \"Lith. of Hoyer & Ludwig. Richmond, Va.\" 1 map: mounted on cloth; 37 x 28 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Shows disposition and movement of troops at the First Battle of Bull Run. \"Lith. of Hoyer & Ludwig. Richmond, Va.\" 1 map: mounted on cloth; 37 x 28 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081809/39015091898232\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081809\"}",
   "dct_spatial_sm": [
-    "Bull Run, Virginia",
+    "Virginia--Bull Run",
     "Virginia"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-09T00:37:48Z",
+  "layer_modified_dt": "2023-02-03T21:21:32Z",
   "dc_language_sm": [
     "eng"
   ],

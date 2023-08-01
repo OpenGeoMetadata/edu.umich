@@ -8,16 +8,15 @@
   "solr_geom": "ENVELOPE(32.65,71.08,50.68,22.4)",
   "solr_year_i": "1720",
   "dc_creator_sm": [
-    "Homann, Johann Baptist, 1663-1724."
+    "Homann, Johann Baptist, 1663-1724"
   ],
-  "dc_description_s": "Map no. 83 from vol. 1 of \"Atlas novus terrarum orbis,\" by J.B. Homann. Also in \"Atlas Maior\" by R. Ottens. Decorative cartouche and illustration. 1 map: hand col.; 47 X 56 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Map no. 83 from vol. 1 of \"Atlas novus terrarum orbis,\" by J.B. Homann. Also in \"Atlas Maior\" by R. Ottens. Decorative cartouche and illustration. 1 map: hand col.; 47 X 56 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003282650/39015091916489\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003282650\"}",
   "dct_spatial_sm": [
     "Iran"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:38Z",
+  "layer_modified_dt": "2023-02-03T21:19:49Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,17 +8,30 @@
   "solr_geom": "ENVELOPE(-82.92,-82.4,42.7,42.28)",
   "solr_year_i": "1867",
   "dc_creator_sm": [
-    "U.S. Lake Survey, issuing body.,Raynolds, W. F. (William Franklin), 1820-1894, surveyor.,Comstock, C. B. (Cyrus Ballou), 1831-1910.,Farquhar, F. U. (Francis Ulric),Gregory, James F. (James Fingal), 1843-1897.,Livermore, W. R. (William Roscoe), 1843-1919.,Wisner, G. Y.,Flint, Anthony Ray, 1924-,Green, B. D.,Chaffee, O. N.,Mayer, J. R.,Molitor, Albert.,Lamson, A. C.,Towar, F. M.,Molitor, E.,United States. War Department. Corps of Engineers."
+    "Chaffee, O. N. (Engineer)",
+    "Comstock, C. B. (Cyrus Ballou), 1831-1910",
+    "Farquhar, F. U. (Francis Ulric)",
+    "Flint, Anthony Ray, 1924-",
+    "Green, B. D. (Surveyor)",
+    "Gregory, James F. (James Fingal), 1843-1897",
+    "Lamson, A. C.",
+    "Livermore, W. R. (William Roscoe), 1843-1919",
+    "Mayer, J. R. (John R.)",
+    "Molitor, Albert",
+    "Raynolds, W. F. (William Franklin), 1820-1894, surveyor",
+    "Towar, F. M.",
+    "U.S. Lake Survey, issuing body",
+    "United States. War Department. Corps of Engineers",
+    "Wisner, G. Y."
   ],
-  "dc_description_s": "Depths shown by soundings and gradient tints. Also shows lighthouses, composition of lake bottom, and shoreline land use and buildings. Includes: notes, sailing directions, and water table. \"Made in obedience to acts of Congress and orders from Headquarters of the Corps of Engineers, War Department.\" Variant of: Karpinski, L.C. Bib. of the printed maps of Michigan, 964. Without \"Sheet No. 4\" and \"(Plate 5).\" 1 map; 94 x 87 cm, on sheet 104 x 92 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Depths shown by soundings and gradient tints. Also shows lighthouses, composition of lake bottom, and shoreline land use and buildings. Includes: notes, sailing directions, and water table. \"Made in obedience to acts of Congress and orders from Headquarters of the Corps of Engineers, War Department.\" Variant of: Karpinski, L.C. Bib. of the printed maps of Michigan, 964. Without \"Sheet No. 4\" and \"(Plate 5).\" 1 map; 94 x 87 cm, on sheet 104 x 92 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013670570/39015091881303\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013670570\"}",
   "dct_spatial_sm": [
     "Lake Saint Clair",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-08T19:42:17Z",
+  "layer_modified_dt": "2023-02-03T21:17:29Z",
   "dc_language_sm": [
     "eng"
   ],

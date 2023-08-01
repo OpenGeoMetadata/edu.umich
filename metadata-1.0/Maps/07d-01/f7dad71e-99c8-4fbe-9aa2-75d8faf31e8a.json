@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-37,95,47,-38)",
   "solr_year_i": "1740",
   "dc_creator_sm": [
-    "L'Isle, Guillaume de, 1675-1726.,Académie royale des sciences (France),R. & J. Ottens."
+    "Académie royale des sciences (France)",
+    "L'Isle, Guillaume de, 1675-1726",
+    "R. & J. Ottens"
   ],
-  "dc_description_s": "Shows part of Brazil and Island of Madagascar. Relief shown pictorially. \"Dresseé sur les observations de Mrs. de l'Academie Royale des Sciences, et quelques autres; & sur les Memoires les plus recens ... chéz R. & L. Ottens, geographes dans le Kalverstraat au Carte du Monde.\" Cartouche in upper right-hand corner. 1 map: hand col.; 44 x 57 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows part of Brazil and Island of Madagascar. Relief shown pictorially. \"Dresseé sur les observations de Mrs. de l'Academie Royale des Sciences, et quelques autres; & sur les Memoires les plus recens ... chéz R. & L. Ottens, geographes dans le Kalverstraat au Carte du Monde.\" Cartouche in upper right-hand corner. 1 map: hand col.; 44 x 57 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081524/39015091887284\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081524\"}",
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:40Z",
+  "layer_modified_dt": "2023-02-03T21:20:18Z",
   "dc_language_sm": [
     "eng"
   ],

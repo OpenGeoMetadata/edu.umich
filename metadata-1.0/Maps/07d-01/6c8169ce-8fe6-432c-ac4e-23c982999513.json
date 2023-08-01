@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-26.35,20.05,18.55,-18.2)",
   "solr_year_i": "1779",
   "dc_creator_sm": [
-    "Bonne, Rigobert, 1727-1794."
+    "Bonne, Rigobert, 1727-1794"
   ],
-  "dc_description_s": "Inset: Cote d'Or par le Sr. D'Anville. Map 42 from Vol. 2 of Atlas Universel by P. Santini. 1 map: col.; 43 x 57 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Inset: Cote d'Or par le Sr. D'Anville. Map 42 from Vol. 2 of Atlas Universel by P. Santini. 1 map: col.; 43 x 57 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281494/39015091915887\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281494\"}",
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "layer_modified_dt": "2023-02-03T21:17:20Z",
   "dc_language_sm": [
     "eng"
   ],

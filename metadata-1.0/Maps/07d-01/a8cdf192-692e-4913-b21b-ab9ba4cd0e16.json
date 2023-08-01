@@ -5,10 +5,10 @@
   "dc_title_s": "A Literary Map of the United States : Books that Sharpen Perception of the American Scene",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "a8cdf192-692e-4913-b21b-ab9ba4cd0e16",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1957",
   "dc_creator_sm": [
-    "Collins, Muriel.",
-    "Collins, Jim."
+    "Collins, Jim, 1947-"
   ],
   "dc_description_s": "1 map : col. ; 50 x 75 cm|Pictorial map.",
   "dc_format_s": "JPEG",
@@ -19,8 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:16:01Z",
   "dc_language_sm": [
     "eng"
   ],

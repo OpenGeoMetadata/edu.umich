@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Hotchkiss & Mercer: Bay City, Michigan.; [Map of the Saginaw River].",
   "dct_description_sm": [
-    "The maps shows the location of saw mills, salt wells, and solar works. Also includes chart showing with distances between locations and the quanity of lumber, salt, saves, and shingles shipped in 1864. Includes colorful text across map. Much of this text is cut off in the Clark verison. Portions of the text appear to read \"[Hot]chkiss & M[ercer] Bay City, Michigan [?]ers in and inspect[?]...[Comme]rical Brok[erage].\" Publisher information is cut off on the bottom left corner. 1 map; 56 x 28 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "The maps shows the location of saw mills, salt wells, and solar works. Also includes chart showing with distances between locations and the quanity of lumber, salt, saves, and shingles shipped in 1864. Includes colorful text across map. Much of this text is cut off in the Clark verison. Portions of the text appear to read \"[Hot]chkiss & M[ercer] Bay City, Michigan [?]ers in and inspect[?]...[Comme]rical Brok[erage].\" Publisher information is cut off on the bottom left corner. 1 map; 56 x 28 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Hotchkiss & Mercer.,Hotchkiss, George Woodward, 1831-"
+    "Hotchkiss, George Woodward, 1831-",
+    "Hotchkiss & Mercer"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -19,7 +20,8 @@
   "dcat_keyword_sm": [
     "Industries",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1864"
@@ -32,10 +34,10 @@
     "[1864 TO 1864]"
   ],
   "dct_spatial_sm": [
-    "Saginaw River, Michigan",
+    "Michigan--Saginaw River",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.064758,-83.742678,43.667158,43.353659)",
+  "locn_geometry": "POLYGON((-84.064758 43.667158, -83.742678 43.667158, -83.742678 43.353659, -84.064758 43.353659, -84.064758 43.667158))",
   "dcat_bbox": "ENVELOPE(-84.064758,-83.742678,43.667158,43.353659)",
   "dcat_centroid": "43.5104085,-83.903718",
   "pcdm_memberOf_sm": [
@@ -44,6 +46,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013681039/39015091881329\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013681039\"}",
@@ -51,6 +59,6 @@
   "dct_identifier_sm": [
     "b2bda7b4-247c-4534-ad04-a0cd601b66ae"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:39Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

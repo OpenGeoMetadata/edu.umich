@@ -1,7 +1,7 @@
 {
   "dct_title_s": "A new map of London and its environs, 1830.",
   "dct_description_sm": [
-    "Accompanied by index: consulting index to Cook's new plan of London, Westminster, and the borough of Southwark, with improvements to the present time. 1 map: dissected and mounted on canvas; 41 x 75 cm., folded in cover 16 cm.  1 booklet (6 leaves; 14 cm) This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Accompanied by index: consulting index to Cook's new plan of London, Westminster, and the borough of Southwark, with improvements to the present time. 1 map: dissected and mounted on canvas; 41 x 75 cm., folded in cover 16 cm.  1 booklet (6 leaves; 14 cm)"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1830"
@@ -26,10 +27,10 @@
     "[1830 TO 1830]"
   ],
   "dct_spatial_sm": [
-    "London, England, United Kingdom",
-    "United Kingdom"
+    "England--London",
+    "England"
   ],
-  "locn_geometry": "ENVELOPE(-0.18,0.01,51.54,51.48)",
+  "locn_geometry": "POLYGON((-0.18 51.54, 0.01 51.54, 0.01 51.48, -0.18 51.48, -0.18 51.54))",
   "dcat_bbox": "ENVELOPE(-0.18,0.01,51.54,51.48)",
   "dcat_centroid": "51.51,-0.08499999999999999",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-009357181/39015091186844\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:009357181\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "4bcf807d-06e2-4ad5-bfd9-6248c0b50628"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

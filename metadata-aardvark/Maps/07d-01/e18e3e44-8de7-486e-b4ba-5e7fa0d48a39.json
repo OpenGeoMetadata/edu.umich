@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Morenci: compiled & drawn expressly for the Lenawee County atlas.",
   "dct_description_sm": [
-    "Cadastral map showing some land ownership. From George B. Cadwell & Co. Atlas of Lenawee County, Michigan. [Adrian, Mich.?]: George B. Cadwell Co., 1893. 1 map: hand col.; 68 x 91 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Cadastral map showing some land ownership. From George B. Cadwell & Co. Atlas of Lenawee County, Michigan. [Adrian, Mich.?]: George B. Cadwell Co., 1893. 1 map: hand col.; 68 x 91 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "George B. Cadwell & Co.,George B. Cadwell & Co. Atlas of Lenawee County, Michigan."
+    "George B. Cadwell & Co.",
+    "George B. Cadwell & Co. Atlas of Lenawee County, Michigan."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -15,7 +16,10 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1893"
@@ -27,17 +31,23 @@
     "[1893 TO 1893]"
   ],
   "dct_spatial_sm": [
-    "Morenci, Michigan",
+    "Michigan--Morenci",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.2199,-84.22,41.7201,41.72)",
-  "dcat_bbox": "ENVELOPE(-84.2199,-84.22,41.7201,41.72)",
-  "dcat_centroid": "41.72005,-84.21995",
+  "locn_geometry": "POLYGON((-84.233843 41.735813, -84.199962 41.735813, -84.199962 41.710646, -84.233843 41.710646, -84.233843 41.735813))",
+  "dcat_bbox": "ENVELOPE(-84.233843,-84.199962,41.735813,41.710646)",
+  "dcat_centroid": "41.7232295,-84.2169025",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -46,6 +56,6 @@
   "dct_identifier_sm": [
     "e18e3e44-8de7-486e-b4ba-5e7fa0d48a39"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:23Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-94,-78,47,38)",
   "solr_year_i": "1898",
   "dc_creator_sm": [
-    "Ann Arbor Railroad Company http://id.loc.gov/authorities/names/n92044044 http://viaf.org/viaf/140862819"
+    "Ann Arbor Railroad Company"
   ],
   "dc_description_s": "1 map : hand col. ; 39 x 56 cm|Shows railroads between Buffalo and Minneapolis, and from Duluth to Cincinnati.",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:17Z",
+  "layer_modified_dt": "2023-02-03T21:21:27Z",
   "dc_language_sm": [
     "eng"
   ],

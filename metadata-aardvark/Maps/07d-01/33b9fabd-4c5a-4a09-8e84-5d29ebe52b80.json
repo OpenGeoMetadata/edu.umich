@@ -1,20 +1,23 @@
 {
   "dct_title_s": "Gallia: Nova Galliae descriptio multis in locis de integro emendata simulquae effigies principum, praecipuas Gallorum urbés ac habitus exhibens; excudebat Ioannes Ianssonius Anno 1627.",
   "dct_description_sm": [
-    "Relief shown pictorially. Border contains views of cities and images of regional costumes. The title cartouche includes the french coat of arms and the date of original publication date of 1627. 1 map; 47 x 56 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Border contains views of cities and images of regional costumes. The title cartouche includes the french coat of arms and the date of original publication date of 1627. 1 map; 47 x 56 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix. 1630.,Vignaud, Henry, 1830-1922, former owner."
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1630"
@@ -28,7 +31,7 @@
   "dct_spatial_sm": [
     "France"
   ],
-  "locn_geometry": "ENVELOPE(-5.13,12.83,53.02,41.55)",
+  "locn_geometry": "POLYGON((-5.13 53.02, 12.83 53.02, 12.83 41.55, -5.13 41.55, -5.13 53.02))",
   "dcat_bbox": "ENVELOPE(-5.13,12.83,53.02,41.55)",
   "dcat_centroid": "47.285,3.85",
   "pcdm_memberOf_sm": [
@@ -37,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284861/39015091191596_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284861\"}",
@@ -44,6 +53,6 @@
   "dct_identifier_sm": [
     "33b9fabd-4c5a-4a09-8e84-5d29ebe52b80"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:08Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

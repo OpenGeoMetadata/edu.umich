@@ -5,9 +5,10 @@
   "dc_title_s": "[Map of the United States east of the Mississipi River]",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "9fdf7dc2-7af1-4b67-b7ff-f5727c55902e",
+  "solr_geom": "ENVELOPE(-94.08,-74.81,39.34,24.32)",
   "solr_year_i": "1776",
   "dc_creator_sm": [
-    "Jefferson, Thomas, 1743-1826."
+    "Jefferson, Thomas, 1743-1826"
   ],
   "dc_description_s": "1 map ; 18 x 24 cm|Manuscript map.|Pen and ink map showing Thomas Jefferson's initial proposal for the division of lands between the Appalachian Mountains and the Mississippi River into new states.|Negative photostat.",
   "dc_format_s": "JPEG",
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:21:43Z",
   "dc_language_sm": [
     "eng"
   ],

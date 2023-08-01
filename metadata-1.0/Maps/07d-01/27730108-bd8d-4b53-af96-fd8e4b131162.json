@@ -8,9 +8,10 @@
   "solr_geom": "ENVELOPE(-5.53,9.55,51.55,41.9)",
   "solr_year_i": "1878",
   "dc_creator_sm": [
-    "Andriveau-Goujon, E.,Potiquet, Alfred."
+    "Andriveau-Goujon, E. (Eugène), 1832-1897",
+    "Potiquet, Alfred."
   ],
-  "dc_description_s": "Relief shown by hachures and spot heights. Includes inset maps of Paris and Corsica. \"Les chemins de fer par Alfred Potiquet\". 1 map: mounted in folder; 30 x 35 in. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures and spot heights. Includes inset maps of Paris and Corsica. \"Les chemins de fer par Alfred Potiquet\". 1 map: mounted in folder; 30 x 35 in.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +20,7 @@
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:36Z",
+  "layer_modified_dt": "2023-02-03T21:17:25Z",
   "dc_language_sm": [
     "eng"
   ],

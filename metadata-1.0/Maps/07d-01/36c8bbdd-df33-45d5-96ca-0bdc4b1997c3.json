@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(7,53,0,-36)",
   "solr_year_i": "1855",
   "dc_creator_sm": [
-    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+    "Colton, G. Woolworth (George Woolworth), 1827-1901"
   ],
-  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington, D.C. No. 36 in Colton, G.W. \"Atlas of the world\", v.2, 1856. 1 map: col.; 29 x 36 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington, D.C. No. 36 in Colton, G.W. \"Atlas of the world\", v.2, 1856. 1 map: col.; 29 x 36 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280920/39015091916141\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280920\"}",
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:25Z",
+  "layer_modified_dt": "2023-02-03T21:16:14Z",
   "dc_language_sm": [
     "eng"
   ],

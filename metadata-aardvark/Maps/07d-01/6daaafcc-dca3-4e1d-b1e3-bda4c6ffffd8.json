@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Flamm's new map of Baltimore, 1894",
   "dct_description_sm": [
-    "Includes street index. 1 map: 71 x 74 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes street index. 1 map: 71 x 74 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,10 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -26,17 +29,23 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "Baltimore, Maryland",
+    "Maryland--Baltimore",
     "Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-76.6299,-76.63,39.3001,39.3)",
-  "dcat_bbox": "ENVELOPE(-76.6299,-76.63,39.3001,39.3)",
-  "dcat_centroid": "39.30005,-76.62995000000001",
+  "locn_geometry": "POLYGON((-76.711298 39.371999, -76.555667 39.371999, -76.555667 39.250807, -76.711298 39.250807, -76.711298 39.371999))",
+  "dcat_bbox": "ENVELOPE(-76.711298,-76.555667,39.371999,39.250807)",
+  "dcat_centroid": "39.311403,-76.6334825",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -45,6 +54,6 @@
   "dct_identifier_sm": [
     "6daaafcc-dca3-4e1d-b1e3-bda4c6ffffd8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:43Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,6 +5,7 @@
   "dc_title_s": "University of Michigan: Campus in 1933",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "a77fad1d-9778-434e-bb6c-0ff696825686",
+  "solr_geom": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
   "solr_year_i": "1933",
   "dc_description_s": "1 view; 37 x 55 cm.|Bird's-eye view.|North oriented toward lower left.|Accompanied by \"Key to perspective map\".",
   "dc_format_s": "JPEG",
@@ -13,11 +14,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000076586/39015091888753_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000076586\"}",
   "dct_spatial_sm": [
-    "Ann Arbor,  Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:26:36Z",
   "dc_language_sm": [
     "eng"
   ],

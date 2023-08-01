@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-105,98.15,74.45,-1.02)",
   "solr_year_i": "1781",
   "dc_creator_sm": [
-    "Lotter, Tobias Conrad, 1717-1777.,Mann, T. A."
+    "Lotter, Tobias Conrad, 1717-1777",
+    "Mann, T. A."
   ],
-  "dc_description_s": "Shows North Pacific and surrounding coastlines with tracks of various Spanish, Russian, and English voyages. Explanatory text at bottom is signed T.A. Mann, 1781. 1 map: col.; 36 x 50 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows North Pacific and surrounding coastlines with tracks of various Spanish, Russian, and English voyages. Explanatory text at bottom is signed T.A. Mann, 1781. 1 map: col.; 36 x 50 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-007933417/39015091198112\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:007933417\"}",
   "dct_spatial_sm": [
     "Pacific Ocean"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:29Z",
+  "layer_modified_dt": "2023-02-03T21:17:21Z",
   "dc_language_sm": [
     "eng"
   ],

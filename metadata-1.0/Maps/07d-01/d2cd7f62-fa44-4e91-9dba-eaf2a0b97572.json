@@ -10,15 +10,14 @@
   "dc_creator_sm": [
     "Tomble, Fremont J., land office manager."
   ],
-  "dc_description_s": "Includes written descriptions of Bay City and Bay County. 1 map; 48 x 34 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes written descriptions of Bay City and Bay County. 1 map; 48 x 34 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013711646/39015091898794\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013711646\"}",
   "dct_spatial_sm": [
-    "Bay County, Michigan",
+    "Michigan--Bay County",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "layer_modified_dt": "2023-02-03T21:16:43Z",
   "dc_language_sm": [
     "eng"
   ],

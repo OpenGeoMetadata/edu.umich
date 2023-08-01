@@ -17,7 +17,8 @@
   ],
   "dcat_keyword_sm": [
     "Real property Michigan Saint Joseph Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "202212bbox"
   ],
   "dct_issued_s": "185-?",
   "gbl_indexYear_im": [
@@ -27,9 +28,12 @@
     "[1850 TO 1859]"
   ],
   "dct_spatial_sm": [
-    "Saint Joseph,  Michigan",
+    "Michigan--Saint Joseph",
     "Michigan"
   ],
+  "locn_geometry": "POLYGON((-86.484492 42.113691, -86.475061 42.113691, -86.475061 42.105796, -86.484492 42.105796, -86.484492 42.113691))",
+  "dcat_bbox": "ENVELOPE(-86.484492,-86.475061,42.113691,42.105796)",
+  "dcat_centroid": "42.1097435,-86.4797765",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -37,7 +41,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -48,6 +55,6 @@
     "005427293",
     "39015091897135"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

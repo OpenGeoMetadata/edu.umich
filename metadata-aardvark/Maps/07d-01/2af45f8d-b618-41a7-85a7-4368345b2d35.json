@@ -1,24 +1,27 @@
 {
   "dct_title_s": "Tableau du monde actuel ou planisphère terrestre: indiquant les itinéraires des plus célèbres navigateurs, l'époque des principales découvertes géographiques et la déclinaison approximative de l'aiguille aimantée entre les deux poles magnétiques du monde.",
   "dct_description_sm": [
-    "Relief shown by hachures and pictorially. Prime meridian: Paris. Mercator Projection. From his \"Atlas spheroidal & universel de geographie\". Shows magnetic declination and routes of explorers. 1 map: col.; 47 x 67 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures and pictorially. Prime meridian: Paris. Mercator Projection. From his \"Atlas spheroidal & universel de geographie\". Shows magnetic declination and routes of explorers. 1 map: col.; 47 x 67 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Garnier, F.A."
+    "Garnier, F. A., 1803-1863."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "gbl_resourceType_sm": [
-    "Geological maps"
+    "Geological maps",
+    "World maps"
   ],
   "dcat_keyword_sm": [
     "Geomagnetism",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1860"
@@ -32,14 +35,20 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,80,-75)",
-  "dcat_bbox": "ENVELOPE(-180,180,80,-75)",
-  "dcat_centroid": "2.5,0.0",
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -48,6 +57,6 @@
   "dct_identifier_sm": [
     "2af45f8d-b618-41a7-85a7-4368345b2d35"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:49Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

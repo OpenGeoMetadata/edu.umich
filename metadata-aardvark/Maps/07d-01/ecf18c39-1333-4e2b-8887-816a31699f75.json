@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Map of the British Empire and its official and commercial relations.",
   "dct_description_sm": [
-    "Includes list of the possessions, protectorates and spheres of influence appertaining to the British Empire. Shows British owned steamship lines, naval bases, transcontinental railways and coaling stations. 1 map: col.; 43 x 66 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes list of the possessions, protectorates and spheres of influence appertaining to the British Empire. Shows British owned steamship lines, naval bases, transcontinental railways and coaling stations. 1 map: col.; 43 x 66 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -13,12 +13,17 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dct_subject_sm": [
     "Railroads"
   ],
   "dcat_keyword_sm": [
     "Colonies",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1892"
@@ -32,14 +37,20 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,80,-79)",
-  "dcat_bbox": "ENVELOPE(-180,180,80,-79)",
-  "dcat_centroid": "0.5,0.0",
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -48,6 +59,6 @@
   "dct_identifier_sm": [
     "ecf18c39-1333-4e2b-8887-816a31699f75"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:38Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,15 +10,14 @@
   "dc_creator_sm": [
     "Migeon, J."
   ],
-  "dc_description_s": "Includes ill. of the Fontaine Saint-Michel. 1 map: hand col., dissected and mounted on linen; 41 x 51 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Includes ill. of the Fontaine Saint-Michel. 1 map: hand col., dissected and mounted on linen; 41 x 51 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006776128/39015091186281\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006776128\"}",
   "dct_spatial_sm": [
-    "Paris, Île-de-France, France",
+    "France-- Île-de-France--Paris",
     "France"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:51Z",
+  "layer_modified_dt": "2023-02-03T21:22:57Z",
   "dc_language_sm": [
     "eng"
   ],

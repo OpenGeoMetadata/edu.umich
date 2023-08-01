@@ -1,7 +1,7 @@
 {
   "dct_title_s": "City of Ann Arbor, Washtenaw County, Michigan; surveyed & published by S. Pettibone.",
   "dct_description_sm": [
-    "Relief shown by hachures. Map shows six city wards, township sections, lot boundaries, buildings and other cultural features, and sections of land annexed by the city. Chronological list of additions provided. 1 map: photostatic copy; 102 x 82 cm. on 4 sheets 65 x 46 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Map shows six city wards, township sections, lot boundaries, buildings and other cultural features, and sections of land annexed by the city. Chronological list of additions provided. 1 map: photostatic copy; 102 x 82 cm. on 4 sheets 65 x 46 cm. or smaller."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1870"
@@ -26,10 +27,10 @@
     "[1870 TO 1870]"
   ],
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.76,-83.73,42.3,42.27)",
+  "locn_geometry": "POLYGON((-83.76 42.3, -83.73 42.3, -83.73 42.27, -83.76 42.27, -83.76 42.3))",
   "dcat_bbox": "ENVELOPE(-83.76,-83.73,42.3,42.27)",
   "dcat_centroid": "42.285,-83.745",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000524468/39015091198187\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000524468\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "7be042b3-9556-4f68-ba7c-7d8674efded3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

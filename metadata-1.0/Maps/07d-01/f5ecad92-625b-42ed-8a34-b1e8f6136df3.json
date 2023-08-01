@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(3.87,142.08,78.67,5.77)",
   "solr_year_i": "1674",
   "dc_creator_sm": [
-    "Sanson, Nicolas, 1600-1667."
+    "Sanson, Nicolas, 1600-1667"
   ],
-  "dc_description_s": "Relief shown pictorially. Shows California as an island. Decorative cartouche. 1 map: hand col.; 52 x 86 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Shows California as an island. Decorative cartouche. 1 map: hand col.; 52 x 86 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004154347/39015091199656\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004154347\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:26Z",
+  "layer_modified_dt": "2023-02-03T21:16:21Z",
   "dc_language_sm": [
     "eng"
   ],

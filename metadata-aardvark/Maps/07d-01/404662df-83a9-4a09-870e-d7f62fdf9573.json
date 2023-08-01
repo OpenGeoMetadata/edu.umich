@@ -1,20 +1,24 @@
 {
   "dct_title_s": "Map of Washtenaw County, Michigan from actual surveys by G. R. Bechler & E. Wenig.",
   "dct_description_sm": [
-    "Shows property ownership. \"Engraved by B. Matthias.\" Insets: Chelsea--Saline--Ann Arbor--Ypsilanti--Manchester--Milan--Dexter. Includes business directories, subscribers' names for insets, and 13 vignettes. With vignette of \"Barn of Genl. A. Williams, Lima Centre\" at lower left. Includes revised land ownership in Lima Township. 1 map: col.; 111 x 120 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows property ownership. \"Engraved by B. Matthias.\" Insets: Chelsea--Saline--Ann Arbor--Ypsilanti--Manchester--Milan--Dexter. Includes business directories, subscribers' names for insets, and 13 vignettes. With vignette of \"Barn of Genl. A. Williams, Lima Centre\" at lower left. Includes revised land ownership in Lima Township. 1 map: col.; 111 x 120 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Bechler, Gustavus R.,Wenig, E.,Matthias, Benjamin I.,Bechler, Wenig & Company."
+    "Bechler, Gustavus R.",
+    "Bechler & Wenig",
+    "Matthias, Benjamin I.",
+    "Wenig, E."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -26,10 +30,10 @@
     "[1856 TO 1856]"
   ],
   "dct_spatial_sm": [
-    "Washtenaw County, Michigan",
+    "Michigan--Washtenaw County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.13,-83.54,42.43,42.07)",
+  "locn_geometry": "POLYGON((-84.13 42.43, -83.54 42.43, -83.54 42.07, -84.13 42.07, -84.13 42.43))",
   "dcat_bbox": "ENVELOPE(-84.13,-83.54,42.43,42.07)",
   "dcat_centroid": "42.25,-83.83500000000001",
   "pcdm_memberOf_sm": [
@@ -38,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002745875/39015091184773_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002745875\"}",
@@ -45,6 +55,6 @@
   "dct_identifier_sm": [
     "404662df-83a9-4a09-870e-d7f62fdf9573"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

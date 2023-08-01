@@ -1,13 +1,13 @@
 {
   "dct_title_s": "Situations plan von der Gegend zwischen Dresden und Pillnitz.",
   "dct_description_sm": [
-    "In lower right below border: T. E. D. Topographic map showing battle information for 1778, 1782, 1788, 1802 some in ms. additions. Relief shown by hachures. 1 map: col.; 24 x 32 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "In lower right below border: T. E. D. Topographic map showing battle information for 1778, 1782, 1788, 1802 some in ms. additions. Relief shown by hachures. 1 map: col.; 24 x 32 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "unknown"
+    "[creator not identified]"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1790 and 1799"
@@ -31,10 +32,10 @@
     "[1790 TO 1790]"
   ],
   "dct_spatial_sm": [
-    "Dresden, Saxony, Germany",
+    "Germany-- Saxony--Dresden",
     "Germany"
   ],
-  "locn_geometry": "ENVELOPE(13.73,13.83,51.07,51)",
+  "locn_geometry": "POLYGON((13.73 51.07, 13.83 51.07, 13.83 51, 13.73 51, 13.73 51.07))",
   "dcat_bbox": "ENVELOPE(13.73,13.83,51.07,51)",
   "dcat_centroid": "51.035,13.780000000000001",
   "pcdm_memberOf_sm": [
@@ -43,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004068433/39015091185853\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004068433\"}",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "18ab61e1-189f-4b2a-a75e-6b2a02ea0ac8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:59Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

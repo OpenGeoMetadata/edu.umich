@@ -8,9 +8,9 @@
   "solr_geom": "ENVELOPE(-106,-70,47,30)",
   "solr_year_i": "1901",
   "dc_creator_sm": [
-    "National Railway Publication Company."
+    "National Railway Publication Company"
   ],
-  "dc_description_s": "Relief shown by hachures. Greenwich prime meridian. Insets: [Western extension of map] -- Part of Massachusetts, Rhode Island &c. (Enlarged Scale). On verso: Ill., advertisements, tables, map of Michigan and \"Map of short route to Florida, Cuba and West Indies.\" 1 map; 61 x 91 cm, folded to 24 x 16 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. Greenwich prime meridian. Insets: [Western extension of map] -- Part of Massachusetts, Rhode Island &c. (Enlarged Scale). On verso: Ill., advertisements, tables, map of Michigan and \"Map of short route to Florida, Cuba and West Indies.\" 1 map; 61 x 91 cm, folded to 24 x 16 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:24Z",
+  "layer_modified_dt": "2023-02-03T21:24:14Z",
   "dc_language_sm": [
     "eng"
   ],

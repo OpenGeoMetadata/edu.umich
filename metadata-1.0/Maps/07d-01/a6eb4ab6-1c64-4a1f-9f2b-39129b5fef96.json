@@ -5,15 +5,16 @@
   "dc_title_s": "City of Saint Joseph, Berrien County, Michigan.",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "a6eb4ab6-1c64-4a1f-9f2b-39129b5fef96",
+  "solr_geom": "ENVELOPE(-86.484492,-86.475061,42.113691,42.105796)",
   "solr_year_i": "1850",
   "dc_description_s": "1 map ; 43 x 56 cm., folded to 14 x 8 cm.|Includes inset on North St. Joseph and St. Joseph.|Shows plat of the city and locations of public buildings and churches.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005427293/39015091897135\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005427293\"}",
   "dct_spatial_sm": [
-    "Saint Joseph,  Michigan",
+    "Michigan--Saint Joseph",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:17:35Z",
   "dc_language_sm": [
     "eng"
   ],

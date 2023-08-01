@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Carte contenant le Duché de Limbourg et partie du dioecese de Liege; par M. van Medtman.",
   "dct_description_sm": [
-    "Relief shown by hachures. 1 map: dissected and mounted on linen; 114 x 118 cm., folding to 20 x 17 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. 1 map: dissected and mounted on linen; 114 x 118 cm., folding to 20 x 17 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1748"
@@ -29,7 +30,7 @@
     "Belgium",
     "Belgium"
   ],
-  "locn_geometry": "ENVELOPE(3.95,6.1,51.72,50.45)",
+  "locn_geometry": "POLYGON((3.95 51.72, 6.1 51.72, 6.1 50.45, 3.95 50.45, 3.95 51.72))",
   "dcat_bbox": "ENVELOPE(3.95,6.1,51.72,50.45)",
   "dcat_centroid": "51.085,5.025",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005842590/39015049960324_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005842590\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "dad0b617-bceb-4937-9735-832bb76ddd1c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

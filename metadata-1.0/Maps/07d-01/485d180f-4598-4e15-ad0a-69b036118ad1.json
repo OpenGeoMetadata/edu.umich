@@ -8,16 +8,17 @@
   "solr_geom": "ENVELOPE(-119.08,-118.17,37.25,36.25)",
   "solr_year_i": "2003",
   "dc_creator_sm": [
-    "Geological Survey (U.S.),United States. National Park Service."
+    "Geological Survey (U.S.)",
+    "United States. National Park Service"
   ],
-  "dc_description_s": "Relief shown by shading and spot heights. Map generated using 63 USGS indexed 7.5 quadrangles. \"Produced and distributed to Depository libraries by the Geological Survey on USGS Shipping list no.: 2004-01-TQ.\" 1 map: col.; 97 x 68 cm., on sheet 104 x 73 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by shading and spot heights. Map generated using 63 USGS indexed 7.5 quadrangles. \"Produced and distributed to Depository libraries by the Geological Survey on USGS Shipping list no.: 2004-01-TQ.\" 1 map: col.; 97 x 68 cm., on sheet 104 x 73 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005137104/39015091898539\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005137104\"}",
   "dct_spatial_sm": [
-    "Sequoia National Park, California",
+    "California--Sequoia National Park",
     "California"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:56Z",
+  "layer_modified_dt": "2023-02-03T21:24:57Z",
   "dc_language_sm": [
     "eng"
   ],

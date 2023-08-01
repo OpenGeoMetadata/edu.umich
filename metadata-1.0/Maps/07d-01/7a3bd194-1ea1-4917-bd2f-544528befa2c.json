@@ -10,14 +10,14 @@
   "dc_creator_sm": [
     "Miyagi, Keiten."
   ],
-  "dc_description_s": "Mounted cover title. Copperplate print. In Japanese. Oriented with north to the upper right. 6 sheets joined. Relief shown by hachures. Includes address chart of banks, inset of Yokohama and legend. 1 map: col.; 83 x 96 cm., folded in cover 19 x 13 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Mounted cover title. Copperplate print. In Japanese. Oriented with north to the upper right. 6 sheets joined. Relief shown by hachures. Includes address chart of banks, inset of Yokohama and legend. 1 map: col.; 83 x 96 cm., folded in cover 19 x 13 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000887739/39015091921695_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000887739\"}",
   "dct_spatial_sm": [
-    "Tokyo, Tokyo, Japan",
+    "Japan-- Tokyo--Tokyo",
     "Japan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:48Z",
+  "layer_modified_dt": "2023-02-03T21:22:15Z",
   "dc_language_sm": [
     "eng"
   ],

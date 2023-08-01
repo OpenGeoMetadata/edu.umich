@@ -8,9 +8,12 @@
   "solr_geom": "ENVELOPE(-90.4,-82.07,48.82,41.5)",
   "solr_year_i": "1888",
   "dc_creator_sm": [
-    "Dinsmore, A. F.,Stockslager, S.M.,Mayo, Geo. U. (George U.),United States. General Land Office."
+    "Dinsmore, A. F.",
+    "Mayo, Geo. U. (George U.)",
+    "Stockslager, S.M.",
+    "United States. General Land Office"
   ],
-  "dc_description_s": "Department of Interior, General Land Office, Hon. S.M. Stockslager, Commissioner. \"Compiled from the official records of the General Land Office and other sources under the supervision of Geo. U. Mayo, Civil Engineer-Chief of Draughting Division G.L.O.\". Shows counties. Shows major cities and towns. Shows railroads. 1 map: col.; 80 x 69 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Department of Interior, General Land Office, Hon. S.M. Stockslager, Commissioner. \"Compiled from the official records of the General Land Office and other sources under the supervision of Geo. U. Mayo, Civil Engineer-Chief of Draughting Division G.L.O.\". Shows counties. Shows major cities and towns. Shows railroads. 1 map: col.; 80 x 69 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,7 +22,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:39Z",
+  "layer_modified_dt": "2023-02-03T21:25:22Z",
   "dc_language_sm": [
     "eng"
   ],

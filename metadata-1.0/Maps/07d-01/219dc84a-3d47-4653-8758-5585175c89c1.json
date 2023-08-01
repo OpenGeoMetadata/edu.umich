@@ -5,9 +5,10 @@
   "dc_title_s": "The century Atlas. Ohio Southern Part",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "219dc84a-3d47-4653-8758-5585175c89c1",
+  "solr_geom": "ENVELOPE(-84.8539,-80.5033,40.4014,38.656)",
   "solr_year_i": "1897",
   "dc_creator_sm": [
-    "Matthews-Northrup Company."
+    "Matthews-Northrup Company"
   ],
   "dc_description_s": "1 map : color ; 25 x 37 cm|\"Copyright ... by the Century Co.\"|Prime meridian: Greenwich.|Insets: Cincinnati and vicinity -- Cleveland and vicinity.|Atlas plate number in upper margin: No. 18.|Shows the county boundaries, with all towns, villages and railroad lines, as well as in the immediately adjacent parts of bordering states.",
   "dc_format_s": "JPEG",
@@ -18,8 +19,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:26:07Z",
   "dc_language_sm": [
     "eng"
   ],

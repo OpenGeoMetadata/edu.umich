@@ -16,8 +16,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Martin, E. B.",
-    "Colorado-Henkle Collection. IDeKN"
+    "Colorado-Henkle Collection. IDeKN",
+    "Martin, Ebenezer (Engraver)"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -25,7 +25,8 @@
   ],
   "dcat_keyword_sm": [
     "Lead mines and mining Wisconsin Maps.",
-    "Lead mines and mining Illinois Maps."
+    "Lead mines and mining Illinois Maps.",
+    "2022-creator-sprint"
   ],
   "dct_issued_s": "1829",
   "gbl_indexYear_im": [
@@ -37,7 +38,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-91.21,-89.07,43.55,41.41)",
+  "locn_geometry": "POLYGON((-91.21 43.55, -89.07 43.55, -89.07 41.41, -91.21 41.41, -91.21 43.55))",
   "dcat_bbox": "ENVELOPE(-91.21,-89.07,43.55,41.41)",
   "dcat_centroid": "42.48,-90.13999999999999",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -55,6 +62,6 @@
     "003279017",
     "39015091905730"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

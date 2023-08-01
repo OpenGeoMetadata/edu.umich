@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Nouvelle carte de l'Afrique: avec des remarques et des tables pour trouver sans peine les differents peuples de cette partie du monde par les renvois alphabetiques suivant les plus nouvelles observations de messieurs de l'Academie des sciences.",
   "dct_description_sm": [
-    "Relief shown pictorially. Prime meridian: Ferro. Includes tables and notes. Pencilled attribution on verso: Chatelain, 1719. MiU \"Tom.1. No.4.\" 1 map: hand col.; 44 x 46 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Prime meridian: Ferro. Includes tables and notes. Pencilled attribution on verso: Chatelain, 1719. MiU \"Tom.1. No.4.\" 1 map: hand col.; 44 x 46 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Chatelain, Henri Abraham.,Gueudeville, Nicolas, approximately 1654-approximately 1721."
+    "Chatelain, Henri Abraham",
+    "Gueudeville, Nicolas, approximately 1654-approximately 1721"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -17,7 +18,8 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1719"
@@ -32,7 +34,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-25.383911,63.8085939,37.5359,-47.1313489)",
+  "locn_geometry": "POLYGON((-25.383911 37.5359, 63.8085939 37.5359, 63.8085939 -47.1313489, -25.383911 -47.1313489, -25.383911 37.5359))",
   "dcat_bbox": "ENVELOPE(-25.383911,63.8085939,37.5359,-47.1313489)",
   "dcat_centroid": "-4.7977244500000005,19.212341449999997",
   "pcdm_memberOf_sm": [
@@ -41,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003438639/39015091193642\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003438639\"}",
@@ -48,6 +56,6 @@
   "dct_identifier_sm": [
     "7197e10c-f80b-4691-b409-e05733c3f72c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

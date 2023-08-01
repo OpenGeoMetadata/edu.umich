@@ -8,9 +8,10 @@
   "solr_geom": "ENVELOPE(-90.52,-82.4,48.22,41.43)",
   "solr_year_i": "1873",
   "dc_creator_sm": [
-    "Farmer, John, 1798-1859.,Silas Farmer & Co."
+    "Farmer, John, 1798-1859",
+    "Silas Farmer & Co."
   ],
-  "dc_description_s": "Cover title: Framer's rail road & township map of Michigan with chart of the lakes. Shows steamship routes. Twonship and range lines shown. Includes text and tables. 1 map: hand col.; on sheet 80 x 62 cm., folded in cover 16 x 11 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Cover title: Framer's rail road & township map of Michigan with chart of the lakes. Shows steamship routes. Twonship and range lines shown. Includes text and tables. 1 map: hand col.; on sheet 80 x 62 cm., folded in cover 16 x 11 cm.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,8 +20,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-08T17:18:35Z",
+  "layer_modified_dt": "2023-02-03T21:18:30Z",
   "dc_language_sm": [
     "eng"
   ],

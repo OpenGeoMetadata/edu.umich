@@ -14,7 +14,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Matthews-Northrup Company."
+    "Matthews-Northrup Company"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -25,7 +25,10 @@
   ],
   "dcat_keyword_sm": [
     "Discoveries in geography Maps.",
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -38,8 +41,11 @@
     "[1897 TO 1897]"
   ],
   "dct_spatial_sm": [
-    "Arctic"
+    "Arctic Regions"
   ],
+  "locn_geometry": "ENVELOPE(-180,180,90,45.08)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,45.08)",
+  "dcat_centroid": "67.53999999999999,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,7 +53,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -58,6 +67,6 @@
     "003279076",
     "39015091195639_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:44Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

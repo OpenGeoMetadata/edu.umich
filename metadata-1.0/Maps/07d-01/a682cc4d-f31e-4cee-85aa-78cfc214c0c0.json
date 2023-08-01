@@ -5,6 +5,7 @@
   "dc_title_s": "Map of the city of Ann Arbor, Michigan showing University of Michigan public buildings, schools and factories",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "a682cc4d-f31e-4cee-85aa-78cfc214c0c0",
+  "solr_geom": "ENVELOPE(-83.799572,-83.675807,42.323889,42.222668)",
   "solr_year_i": "1907",
   "dc_creator_sm": [
     "Gould, Harold D."
@@ -13,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002211234/39015091184591\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002211234\"}",
   "dct_spatial_sm": [
-    "Ann Arbor, Michigan",
+    "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-27T14:44:18Z",
+  "layer_modified_dt": "2023-02-03T21:21:29Z",
   "dc_language_sm": [
     "eng"
   ],

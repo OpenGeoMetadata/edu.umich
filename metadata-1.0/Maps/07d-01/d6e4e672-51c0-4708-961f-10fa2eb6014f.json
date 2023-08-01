@@ -8,18 +8,18 @@
   "solr_geom": "ENVELOPE(-83.57,-82.88,42.38,41.33)",
   "solr_year_i": "1825",
   "dc_creator_sm": [
-    "Farmer, John, 1798-1859.",
-    "Edwards, A.,Vance, S.",
-    "Judd, Philu E."
+    "Edwards, Abraham, 1781-1860",
+    "Farmer, John, 1798-1859",
+    "Judd, Philu E.",
+    "Vance, S."
   ],
-  "dc_description_s": "Prime meridian: Washington. Oriented with north toward the upper right. 1 map: photocopy; 21 x 79 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Prime meridian: Washington. Oriented with north toward the upper right. 1 map: photocopy; 21 x 79 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002881891/39015091880966\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002881891\"}",
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:46Z",
+  "layer_modified_dt": "2023-02-03T21:21:44Z",
   "dc_language_sm": [
     "eng"
   ],

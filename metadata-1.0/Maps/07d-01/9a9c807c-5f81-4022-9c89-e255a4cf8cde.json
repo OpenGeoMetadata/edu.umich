@@ -11,10 +11,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003283741/39015095410620_0001\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003283741\"}",
   "dct_spatial_sm": [
-    "Charlevoix County, Michigan",
+    "Michigan--Charlevoix County",
     "Michigan"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:08Z",
+  "layer_modified_dt": "2023-02-03T21:17:29Z",
   "dc_language_sm": [
     "eng"
   ],

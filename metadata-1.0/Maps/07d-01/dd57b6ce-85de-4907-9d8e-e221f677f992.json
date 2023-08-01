@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-169.55,2.73,56.9,-56.53)",
   "solr_year_i": "1717",
   "dc_creator_sm": [
-    "Fer, Nicolas de, 1646-1720."
+    "Fer, Nicolas de, 1646-1720"
   ],
-  "dc_description_s": "Relief shown pictorially. \"Dressee et dediee a nosseigneurs les enfans de France, par leur tres humble et tres obeissant serviteur de Fer. geog. de mgr. le Dauphin.\" Title and dedication in decorative cartouches. 1 map: hand col.; 23 x 32 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. \"Dressee et dediee a nosseigneurs les enfans de France, par leur tres humble et tres obeissant serviteur de Fer. geog. de mgr. le Dauphin.\" Title and dedication in decorative cartouches. 1 map: hand col.; 23 x 32 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-008781196/39015091197320\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:008781196\"}",
   "dct_spatial_sm": [
     "Americas"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:41Z",
+  "layer_modified_dt": "2023-02-03T21:20:20Z",
   "dc_language_sm": [
     "eng"
   ],

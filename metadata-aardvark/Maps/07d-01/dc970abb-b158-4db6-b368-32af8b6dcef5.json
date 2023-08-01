@@ -11,8 +11,8 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Ottens, J. (Josua), 1704-1765.",
-    "Ottens, R. (Reinier), 1698-1750."
+    "Ottens, J. (Josua), 1704-1765",
+    "Ottens, R. (Reinier), 1698-1750"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -23,7 +23,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads United States Maps.",
-    "Shipping United States Maps."
+    "Shipping United States Maps.",
+    "2022-creator-sprint"
   ],
   "dct_issued_s": "1756",
   "gbl_indexYear_im": [
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Americas"
   ],
-  "locn_geometry": "ENVELOPE(-126.15,-6.88,79.98,4.83)",
+  "locn_geometry": "POLYGON((-126.15 79.98, -6.88 79.98, -6.88 4.83, -126.15 4.83, -126.15 79.98))",
   "dcat_bbox": "ENVELOPE(-126.15,-6.88,79.98,4.83)",
   "dcat_centroid": "42.405,-66.515",
   "pcdm_memberOf_sm": [
@@ -43,6 +44,12 @@
   ],
   "dct_isPartOf_sm": [
     "07d-01"
+  ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -53,6 +60,6 @@
     "003284856",
     "39015091195472_01"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:25Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

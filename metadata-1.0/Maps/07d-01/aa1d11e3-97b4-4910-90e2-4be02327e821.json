@@ -8,16 +8,15 @@
   "solr_geom": "ENVELOPE(127.98,142.15,41.87,29.97)",
   "solr_year_i": "1791",
   "dc_creator_sm": [
-    "Nagakubo, Sekisui, 1717-1801."
+    "Nagakubo, Sekisui, 1717-1801"
   ],
-  "dc_description_s": "Shows administrative divisions (provinces, counties, capitals of fiefs), roads, historical places, and temples. Also shows distances between ports. Cover title. Originally engraved on wood block in An'ei 4 [i.e., 1775], with title: Shinkoku Nihon yochi rotei zenzu. Wood block print. Printed on Japanese paper. Oriented with north toward the upper right. Relief shown pictorially. Includes explanatory notes. 1 map: col.; on sheet 85 x 133 cm., folded in covers 29 x 17 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows administrative divisions (provinces, counties, capitals of fiefs), roads, historical places, and temples. Also shows distances between ports. Cover title. Originally engraved on wood block in An'ei 4 [i.e., 1775], with title: Shinkoku Nihon yochi rotei zenzu. Wood block print. Printed on Japanese paper. Oriented with north toward the upper right. Relief shown pictorially. Includes explanatory notes. 1 map: col.; on sheet 85 x 133 cm., folded in covers 29 x 17 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003102831/39015091921570_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003102831\"}",
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:39Z",
+  "layer_modified_dt": "2023-02-03T21:20:08Z",
   "dc_language_sm": [
     "eng"
   ],

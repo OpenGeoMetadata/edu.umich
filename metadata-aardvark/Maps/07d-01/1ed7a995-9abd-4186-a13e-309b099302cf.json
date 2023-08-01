@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Map of Michigan and Wisconsin for the eclectic geographies by Russell Hinman.",
   "dct_description_sm": [
-    "Washington and Greenwich prime meridians. Shows major cities and towns. Shows counties in Michigan and Wisconsin. Inset maps: Map of Isle Royale Co., Mich. -- The vicinity of Milwaukee. -- The Vicinity of Detroit, Mich., and Detroit River. 1 map: col., mounted on cloth; 27 x 45 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Washington and Greenwich prime meridians. Shows major cities and towns. Shows counties in Michigan and Wisconsin. Inset maps: Map of Isle Royale Co., Mich. -- The vicinity of Milwaukee. -- The Vicinity of Detroit, Mich., and Detroit River. 1 map: col., mounted on cloth; 27 x 45 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-93.07,-79.53,47.65,41.5)",
+  "locn_geometry": "POLYGON((-93.07 47.65, -79.53 47.65, -79.53 41.5, -93.07 41.5, -93.07 47.65))",
   "dcat_bbox": "ENVELOPE(-93.07,-79.53,47.65,41.5)",
   "dcat_centroid": "44.575,-86.3",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081015/39015091880156\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081015\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "1ed7a995-9abd-4186-a13e-309b099302cf"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

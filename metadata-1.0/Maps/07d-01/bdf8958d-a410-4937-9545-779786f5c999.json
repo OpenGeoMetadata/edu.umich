@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(94.78,136.22,20.2,-16.02)",
   "solr_year_i": "1750",
   "dc_creator_sm": [
-    "Robert de Vaugondy, Didier, 1723-1786."
+    "Robert de Vaugondy, Didier, 1723-1786"
   ],
-  "dc_description_s": "Relief shown pictorially. 1 map: hand col.; 47 x 58 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. 1 map: hand col.; 47 x 58 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004060251/39015091916695_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004060251\"}",
   "dct_spatial_sm": [
     "South Eastern Asia"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:27Z",
+  "layer_modified_dt": "2023-02-03T21:16:25Z",
   "dc_language_sm": [
     "eng"
   ],

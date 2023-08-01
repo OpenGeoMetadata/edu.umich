@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Yokohama yokuran no shinkei; Hashimoto Gyokuransai zukaku; Ōizumi Kanegorō chōkō.; Title from text: Yokohama ichiran no shinkei",
   "dct_description_sm": [
-    "Author's name on map is Hashimoto Gyokuransai. Birds-eye view. Relief, buildings and ships shown pictorially. Oriented with north to the upper left. Includes text. Printed on 10 sections joined. Inset: railroad bridge in detail. 1 view: hand col.; 63 x 210 cm., folded in covers 24 x 19 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Author's name on map is Hashimoto Gyokuransai. Birds-eye view. Relief, buildings and ships shown pictorially. Oriented with north to the upper left. Includes text. Printed on 10 sections joined. Inset: railroad bridge in detail. 1 view: hand col.; 63 x 210 cm., folded in covers 24 x 19 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Utagawa, Sadahide, 1807-1873.,Ōizumi, Kanegorō."
+    "Ōizumi, Kanegorō.",
+    "Utagawa, Sadahide, 1807-1873"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -20,7 +21,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "Meiji 4 1871"
@@ -32,10 +34,10 @@
     "[1871 TO 1871]"
   ],
   "dct_spatial_sm": [
-    "Yokohama-shi, Kanagawa, Japan",
+    "Japan-- Kanagawa--Yokohama-shi",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(139.63,139.99,35.53,35.31)",
+  "locn_geometry": "POLYGON((139.63 35.53, 139.99 35.53, 139.99 35.31, 139.63 35.31, 139.63 35.53))",
   "dcat_bbox": "ENVELOPE(139.63,139.99,35.53,35.31)",
   "dcat_centroid": "35.42,139.81",
   "pcdm_memberOf_sm": [
@@ -44,6 +46,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003101173/39015091920291_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003101173\"}",
@@ -51,6 +59,6 @@
   "dct_identifier_sm": [
     "611d19b9-c380-4ea1-8a90-6816e335b95c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:14Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

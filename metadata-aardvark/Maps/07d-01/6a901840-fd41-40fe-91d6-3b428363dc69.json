@@ -1,20 +1,24 @@
 {
   "dct_title_s": "Scotia regnum; Amstelodami, Apud Ioannem Ianssonium.; Scotia regnvm",
   "dct_description_sm": [
-    "Relief shown pictorially. Inset map of Orcades Insvlae in upper right corner, 11 x 7 cm. Title cartouche is topped with the Scottish coat of arms (a lion), flanked by two unicorns. There are two flags and a lion wearing a helmet with a cross on it and holding a sword and a scepter. Beneath the title are two sheep with fish tails. There are ships in the ocean, and another coat of arms above the title cartouche. This state was published in atlases by Jan Jansson and Henricus Hondius in 1636, 1637, and 1680. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 37 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Inset map of Orcades Insvlae in upper right corner, 11 x 7 cm. Title cartouche is topped with the Scottish coat of arms (a lion), flanked by two unicorns. There are two flags and a lion wearing a helmet with a cross on it and holding a sword and a scepter. Beneath the title are two sheep with fish tails. There are ships in the ocean, and another coat of arms above the title cartouche. This state was published in atlases by Jan Jansson and Henricus Hondius in 1636, 1637, and 1680. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map: 37 x 48 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe.,Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe.,Vignaud, Henry, 1830-1922, former owner."
+    "Hondius, Hendrik, 1597-1651. Appendix Atlas of the British Isles and Northern Europe",
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles and Northern Europe",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -26,9 +30,9 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Scotland, United Kingdom"
+    "United Kingdom--Scotland"
   ],
-  "locn_geometry": "ENVELOPE(-8,-0.72,60.85,54.78)",
+  "locn_geometry": "POLYGON((-8 60.85, -0.72 60.85, -0.72 54.78, -8 54.78, -8 60.85))",
   "dcat_bbox": "ENVELOPE(-8,-0.72,60.85,54.78)",
   "dcat_centroid": "57.815,-4.36",
   "pcdm_memberOf_sm": [
@@ -37,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-010348286/39015091192016_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:010348286\"}",
@@ -44,6 +54,6 @@
   "dct_identifier_sm": [
     "6a901840-fd41-40fe-91d6-3b428363dc69"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:22Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

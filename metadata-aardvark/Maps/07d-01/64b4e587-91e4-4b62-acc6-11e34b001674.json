@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Post's Addition to Ypsilanti; Surveyed and platted by C. S. Woodard.",
   "dct_description_sm": [
-    "Shows Post's Addition subdivison to the City of Ypsilanti, Michigan. Official notarized record of the addition. Surveyed and platted January, 1875 by C. S. Woodard. 1 map: 44 x 49 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows Post's Addition subdivison to the City of Ypsilanti, Michigan. Official notarized record of the addition. Surveyed and platted January, 1875 by C. S. Woodard. 1 map: 44 x 49 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +15,10 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "BBoxVerified",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1875"
@@ -27,10 +30,10 @@
     "[1875 TO 1875]"
   ],
   "dct_spatial_sm": [
-    "Ypsilanti, Michigan",
+    "Michigan--Ypsilanti",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.6199,-83.62,42.2301,42.23)",
+  "locn_geometry": "POLYGON((-83.6199 42.2301, -83.62 42.2301, -83.62 42.23, -83.6199 42.23, -83.6199 42.2301))",
   "dcat_bbox": "ENVELOPE(-83.6199,-83.62,42.2301,42.23)",
   "dcat_centroid": "42.23005,-83.61995",
   "pcdm_memberOf_sm": [
@@ -39,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-006492042/39015091897192\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:006492042\"}",
@@ -46,6 +55,6 @@
   "dct_identifier_sm": [
     "64b4e587-91e4-4b62-acc6-11e34b001674"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:37Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

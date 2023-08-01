@@ -8,15 +8,18 @@
   "solr_geom": "ENVELOPE(-122,-118,51.25,49)",
   "solr_year_i": "1888",
   "dc_creator_sm": [
-    "Marion, Israel.,Dawson, George Mercer, 1849-1901.,Bowman, Amos, -1894.,Geological Survey of Canada."
+    "Bowman, Amos, -1894",
+    "Dawson, George Mercer, 1849-1901",
+    "Geological Survey of Canada",
+    "Marion, Israel"
   ],
-  "dc_description_s": "Relief shown by hachures. \"The Burland Lithographic Co. Montreal.\" 1 map: col.; 58 x 51 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by hachures. \"The Burland Lithographic Co. Montreal.\" 1 map: col.; 58 x 51 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000861435/39015091911043\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000861435\"}",
   "dct_spatial_sm": [
-    "British Columbia, Canada"
+    "Canada--British Columbia"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:43Z",
+  "layer_modified_dt": "2023-02-03T21:20:45Z",
   "dc_language_sm": [
     "eng"
   ],

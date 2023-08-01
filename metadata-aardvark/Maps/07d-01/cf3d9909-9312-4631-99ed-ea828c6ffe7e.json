@@ -1,20 +1,23 @@
 {
   "dct_title_s": "Lorraine: vers le midy.",
   "dct_description_sm": [
-    "Relief shown pictorially. Title cartouche includes a face and vines of fruit. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 36 x 49 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Title cartouche includes a face and vines of fruit. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 36 x 49 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Vignaud, Henry, 1830-1922, former owner.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630."
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1630"
@@ -26,10 +29,10 @@
     "[1630 TO 1630]"
   ],
   "dct_spatial_sm": [
-    "Lorraine, FR.B2, France",
+    "FR.B2-- France--Lorraine",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(5.66,7.21,48.7,47.76)",
+  "locn_geometry": "POLYGON((5.66 48.7, 7.21 48.7, 7.21 47.76, 5.66 47.76, 5.66 48.7))",
   "dcat_bbox": "ENVELOPE(5.66,7.21,48.7,47.76)",
   "dcat_centroid": "48.230000000000004,6.4350000000000005",
   "pcdm_memberOf_sm": [
@@ -38,6 +41,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012525588/39015091192479_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012525588\"}",
@@ -45,6 +54,6 @@
   "dct_identifier_sm": [
     "cf3d9909-9312-4631-99ed-ea828c6ffe7e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

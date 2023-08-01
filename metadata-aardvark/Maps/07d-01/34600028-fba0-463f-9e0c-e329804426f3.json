@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Genkon kaisei Ōsaka shigai meisai zenzu zen; Hōryū Jōjun cho.",
   "dct_description_sm": [
-    "Mounted cover title. Title on map: Ōsaka shigai meisai zenzu. Copperplate print. In Japanese. 2 sheets joined. Relief shown by hachures. Includes 5 insets, distance chart, address chart, timetable of trains, and legend. 1 map: col.; 46 x 70 cm, folded in cover 16 x 10 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Mounted cover title. Title on map: Ōsaka shigai meisai zenzu. Copperplate print. In Japanese. 2 sheets joined. Relief shown by hachures. Includes 5 insets, distance chart, address chart, timetable of trains, and legend. 1 map: col.; 46 x 70 cm, folded in cover 16 x 10 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Hōryū, Jōjun."
+    "Hōryū Jōjun"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "Meiji 20 1887"
@@ -26,10 +27,10 @@
     "[1887 TO 1887]"
   ],
   "dct_spatial_sm": [
-    "Osaka, Ōsaka, Japan",
+    "Japan-- Ōsaka--Osaka",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(135.43,135.57,34.7,34.47)",
+  "locn_geometry": "POLYGON((135.43 34.7, 135.57 34.7, 135.57 34.47, 135.43 34.47, 135.43 34.7))",
   "dcat_bbox": "ENVELOPE(135.43,135.57,34.7,34.47)",
   "dcat_centroid": "34.585,135.5",
   "pcdm_memberOf_sm": [
@@ -38,6 +39,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002457623/39015091921588_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002457623\"}",
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "34600028-fba0-463f-9e0c-e329804426f3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

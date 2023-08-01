@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Topographical plan of the river Bonnechere & s.w. branch of the Madawaska with a sketch of the headwaters of the Ottonabee by A. Murray Esqr.",
   "dct_description_sm": [
-    "Relief shown by hachures and spot heights. G. Matthews, Lith., Montreal. 1 map on 4 sheets; sheets 63 x 95 cm. or smaller. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures and spot heights. G. Matthews, Lith., Montreal. 1 map on 4 sheets; sheets 63 x 95 cm. or smaller."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Geological Survey of Canada."
+    "Geological Survey of Canada"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1853"
@@ -26,9 +27,9 @@
     "[1853 TO 1853]"
   ],
   "dct_spatial_sm": [
-    "Bonnechere River, Ontario, Canada"
+    "Canada-- Ontario--Bonnechere River"
   ],
-  "locn_geometry": "ENVELOPE(-78.82,-76.53,45.67,44.73)",
+  "locn_geometry": "POLYGON((-78.82 45.67, -76.53 45.67, -76.53 44.73, -78.82 44.73, -78.82 45.67))",
   "dcat_bbox": "ENVELOPE(-78.82,-76.53,45.67,44.73)",
   "dcat_centroid": "45.2,-77.675",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004914970/39015091888266\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004914970\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "d32cfc53-7365-4e8c-8cda-2984b6a4ee94"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:39Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,15 +8,16 @@
   "solr_geom": "ENVELOPE(-109.5,-107,43,41.75)",
   "solr_year_i": "1877",
   "dc_creator_sm": [
-    "Geological and Geographical Survey of the Territories (U.S.),Hayden, F. V. (Ferdinand Vandeveer), 1829-1887."
+    "Geological and Geographical Survey of the Territories (U.S.)",
+    "Hayden, F. V. (Ferdinand Vandeveer), 1829-1887"
   ],
-  "dc_description_s": "Shows drainage, road, etc. Relief by shown by contours (interval 200') and spot heights. From: its Report, 12th, 1878, v. 12:2, atlas. 1 map; 56 x 83 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows drainage, road, etc. Relief by shown by contours (interval 200') and spot heights. From: its Report, 12th, 1878, v. 12:2, atlas. 1 map; 56 x 83 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002568158/39015091904527\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002568158\"}",
   "dct_spatial_sm": [
     "Wyoming"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:52Z",
+  "layer_modified_dt": "2023-02-03T21:23:11Z",
   "dc_language_sm": [
     "eng"
   ],

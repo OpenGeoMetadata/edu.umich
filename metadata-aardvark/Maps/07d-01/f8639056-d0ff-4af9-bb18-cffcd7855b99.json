@@ -1,7 +1,7 @@
 {
   "dct_title_s": "From W. C. Sauer's atlas of Detroit; compiled and drawn from official records and private surveys by W. C. Sauer.; Detroit",
   "dct_description_sm": [
-    "Shows parcels, some building footprints, street numbers and original ribbon farm property boundaries along riverfront. Shows the area from Woodward Avenue west to Eighth Street, and north to Howard Street. MiU copy 1 accession no. 138393, encapsulated in mylar. 1 map: col.; 47 x 77 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows parcels, some building footprints, street numbers and original ribbon farm property boundaries along riverfront. Shows the area from Woodward Avenue west to Eighth Street, and north to Howard Street. MiU copy 1 accession no. 138393, encapsulated in mylar. 1 map: col.; 47 x 77 cm."
   ],
   "dct_language_sm": [
     "eng"
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1893"
@@ -27,10 +28,10 @@
     "[1893 TO 1893]"
   ],
   "dct_spatial_sm": [
-    "Detroit, Michigan",
+    "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-83.06,-83.04,42.33,42.32)",
+  "locn_geometry": "POLYGON((-83.06 42.33, -83.04 42.33, -83.04 42.32, -83.06 42.32, -83.06 42.33))",
   "dcat_bbox": "ENVELOPE(-83.06,-83.04,42.33,42.32)",
   "dcat_centroid": "42.325,-83.05000000000001",
   "pcdm_memberOf_sm": [
@@ -39,6 +40,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-011192720/39015091200629\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:011192720\"}",
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "f8639056-d0ff-4af9-bb18-cffcd7855b99"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

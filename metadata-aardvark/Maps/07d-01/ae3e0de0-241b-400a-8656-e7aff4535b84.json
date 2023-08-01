@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Carte du Mexique et de la Floride des terres angloises et des Isles Antilles du cours et des environs de la Rivière de la Mississipi. Dressée sur un grand nombre de mémoires principalem. sur ceux de Mrs. d'Iberville et le Sueur; Guillaume Del'Isle.",
   "dct_description_sm": [
-    "Relief shown pictorially. Prime meridian: [Ferro]. \"Se trouvé a Amsterdam chez L. Renard Libraire prez de la Bourse.\" 1 map; 48 x 65 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Prime meridian: [Ferro]. \"Se trouvé a Amsterdam chez L. Renard Libraire prez de la Bourse.\" 1 map; 48 x 65 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "L'Isle, Guillaume de, 1675-1726."
+    "L'Isle, Guillaume de, 1675-1726"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1703"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-130.08,-59.94,49.92,7)",
+  "locn_geometry": "POLYGON((-130.08 49.92, -59.94 49.92, -59.94 7, -130.08 7, -130.08 49.92))",
   "dcat_bbox": "ENVELOPE(-130.08,-59.94,49.92,7)",
   "dcat_centroid": "28.46,-95.01",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003883239/39015091197304\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003883239\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "ae3e0de0-241b-400a-8656-e7aff4535b84"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

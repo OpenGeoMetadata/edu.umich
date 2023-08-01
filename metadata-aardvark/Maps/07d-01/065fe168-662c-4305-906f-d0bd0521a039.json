@@ -12,10 +12,10 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Heinze, M. A, draftsman.",
-    "Leeseman, F., draftsman.",
+    "Burton, Clarence Monroe, 1853-1932, original owner.",
     "Collot, Georges-Henri-Victor, 1750-1805, patron.",
-    "Burton, Clarence Monroe, 1853-1932, original owner."
+    "Heinze, M. A, draftsman.",
+    "Leeseman, F., draftsman."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -26,7 +26,9 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1798"
@@ -39,10 +41,13 @@
     "[1796 TO 1798]"
   ],
   "dct_spatial_sm": [
-    "Fort Erie,  Ontario,  Canada",
-    "Ontario,  Canada",
+    "Canada-- Ontario--Fort Erie",
+    " Canada--Ontario",
     "Canada"
   ],
+  "locn_geometry": "POLYGON((-79.122551 42.984056, -78.905951 42.984056, -78.905951 42.831998, -79.122551 42.831998, -79.122551 42.984056))",
+  "dcat_bbox": "ENVELOPE(-79.122551,-78.905951,42.984056,42.831998)",
+  "dcat_centroid": "42.908027000000004,-79.014251",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -50,7 +55,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -61,6 +69,6 @@
     "013490813",
     "39015060935973"
   ],
-  "gbl_mdModified_dt": "2022-06-24T02:43:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -1,20 +1,29 @@
 {
   "dct_title_s": "Mappemonde à l'usage i'instr. on du roy; par Guillaume Delisle et Philippe Bauche et de l'Académie des Sciences. Revue et augmentée des n. les découvertes par Dézauche en 1800.",
   "dct_description_sm": [
-    "Relief shown pictorially. Shows the world as a double hemisphere, including national boundaries, major cities, and routes of exploration. Illustration of illuminated face above map from which banner with title and clouds emanate. Prime meridian: Ferro. \"A Paris, chez Dezauche géographe, successeur des srs. De Lisle et Phil Buache. Rue des Noyers.\" Includes note below map regarding the depiction of Captain Cook's voyages which are shown on the map. 1 map: hand col.; 33 x 64 cm. on sheet 58 x 80 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown pictorially. Shows the world as a double hemisphere, including national boundaries, major cities, and routes of exploration. Illustration of illuminated face above map from which banner with title and clouds emanate. Prime meridian: Ferro. \"A Paris, chez Dezauche géographe, successeur des srs. De Lisle et Phil Buache. Rue des Noyers.\" Includes note below map regarding the depiction of Captain Cook's voyages which are shown on the map. 1 map: hand col.; 33 x 64 cm. on sheet 58 x 80 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "L'Isle, Guillaume de, 1675-1726.,Dezauche, Jean Claude, fl. 1770-1824.,Buache, Philippe, 1700-1773.,Académie des sciences (France)"
+    "Académie des sciences (France)",
+    "Buache, Philippe, 1700-1773",
+    "Dezauche, Jean Claude, fl. 1770-1824",
+    "L'Isle, Guillaume de, 1675-1726"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1800"
@@ -26,7 +35,7 @@
     "[1800 TO 1800]"
   ],
   "dct_spatial_sm": [
-    "Earth"
+    "World"
   ],
   "locn_geometry": "ENVELOPE(-180,180,90,-90)",
   "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
@@ -37,6 +46,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005143913/39015091183528\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005143913\"}",
@@ -44,6 +59,6 @@
   "dct_identifier_sm": [
     "6e21206c-c681-4ac6-b261-84f6f3ecd5e2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:57Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -5,9 +5,10 @@
   "dc_title_s": "Geological map of the United States",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "fb77dd5a-cf29-403e-a68d-c52fe6366046",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1872",
   "dc_creator_sm": [
-    "Blake, William P. (William Phipps), 1826-1910."
+    "Blake, William P. (William Phipps), 1826-1910"
   ],
   "dc_description_s": "1 map : col. ; 55 x 85 cm|\"Accompanying the report of Rossiter W. Raymond, United States Commissioner of Mining Statistics.\"|The Base is the Military Map of the United States by permission of the Chief Engineer.",
   "dc_format_s": "JPEG",
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:55Z",
+  "layer_modified_dt": "2023-02-03T21:19:04Z",
   "dc_language_sm": [
     "eng"
   ],

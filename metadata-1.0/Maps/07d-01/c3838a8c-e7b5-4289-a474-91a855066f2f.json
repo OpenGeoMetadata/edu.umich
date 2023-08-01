@@ -8,8 +8,8 @@
   "solr_geom": "ENVELOPE(-127,-64,50,21)",
   "solr_year_i": "1878",
   "dc_creator_sm": [
-    "Powell, John Wesley, 1834-1902.",
-    "Geographical and Geological Survey of the Rocky Mountain Region (U.S.)"
+    "Geographical and Geological Survey of the Rocky Mountain Region (U.S.)",
+    "Powell, John Wesley, 1834-1902"
   ],
   "dc_description_s": "1 map : col., mounted on cloth ; 49 x 71 cm|\"Julius Bien, Lithographer.\"|\"The base chart was engraved for the Statistical Atlas of the United States.\"|\"To accompany report on the lands of the arid region of the U.S.\"|\"For explanation see chapter on \"Land Grants in aid of Internal Improvements.\"",
   "dc_format_s": "JPEG",
@@ -20,7 +20,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:21Z",
+  "layer_modified_dt": "2023-02-03T21:21:43Z",
   "dc_language_sm": [
     "eng"
   ],

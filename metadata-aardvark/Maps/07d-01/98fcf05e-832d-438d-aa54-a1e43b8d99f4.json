@@ -8,8 +8,8 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bowen, James L.",
     "Alexander, Samuel",
+    "Bowen, James L.",
     "Warder & Catlett"
   ],
   "schema_provider_s": "University of Michigan",
@@ -23,7 +23,8 @@
     "American Civil War",
     "Battle of Bull Run",
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -36,10 +37,10 @@
     "[1861 TO 1861]"
   ],
   "dct_spatial_sm": [
-    "Manassas, Virginia",
+    "Virginia--Manassas",
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.485475,-77.468879,38.812857,38.80054)",
+  "locn_geometry": "POLYGON((-77.485475 38.812857, -77.468879 38.812857, -77.468879 38.80054, -77.485475 38.80054, -77.485475 38.812857))",
   "dcat_bbox": "ENVELOPE(-77.485475,-77.468879,38.812857,38.80054)",
   "dcat_centroid": "38.806698499999996,-77.477177",
   "pcdm_memberOf_sm": [
@@ -49,7 +50,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -58,6 +62,6 @@
   "dct_identifier_sm": [
     "98fcf05e-832d-438d-aa54-a1e43b8d99f4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

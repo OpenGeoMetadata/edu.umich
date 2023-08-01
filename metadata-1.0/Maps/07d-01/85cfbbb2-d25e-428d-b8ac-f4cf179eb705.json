@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-125.15,-66.65,49.58,24.85)",
   "solr_year_i": "1882",
   "dc_creator_sm": [
-    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+    "Colton, G. Woolworth (George Woolworth), 1827-1901"
   ],
   "dc_description_s": "1 map : col. ; 20 x 32 cm|G.W. Colton, son of Cartographer Joseph Hutchins Colton (1800-1873)",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2021-05-08T17:18:21Z",
+  "layer_modified_dt": "2023-02-03T21:26:12Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,6 +5,7 @@
   "dc_title_s": "A new map for travelers through the United States of America showing the railroads, canals & stage roads : with the distances",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "69e3d99c-e8ed-490e-bbd4-768e4ee1f90b",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1846",
   "dc_description_s": "1 map : col., encapsulated in Mylar ; 51 x 66 cm|Surrounded by decorative border.|Washington prime meridian.|Insets: Railroad & canal routes from Albany to Buffalo -- Map showing the rail roads between the cities of New York, Boston & Albany, and the Hudson R. from N. York to Albany -- Railroad route from New York to Philadelphia -- Railroad route from Philadelphia to Washington -- Map or Oregon, Northern California, Santa Fé & c.",
   "dc_format_s": "JPEG",
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:53Z",
+  "layer_modified_dt": "2023-02-03T21:16:06Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,15 +8,18 @@
   "solr_geom": "ENVELOPE(2.38,21.43,54.88,45.55)",
   "solr_year_i": "1634",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Visscher, Claes Jansz., 1586 or 1587-1652, cartographer.,Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630.,Vignaud, Henry, 1830-1922, former owner."
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Atlantis Maioris Appendix, 1630",
+    "Vignaud, Henry, 1830-1922, former owner.",
+    "Visscher, Claes Jansz., 1586 or 1587-1652"
   ],
-  "dc_description_s": "Relief shown pictorially. Border of map includes views of cities, costumes, and arms of German principalities. Illustrations include cherubs with fruit and a chalice around the title cartouche and ships on the ocean. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 34 x 46 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Border of map includes views of cities, costumes, and arms of German principalities. Illustrations include cherubs with fruit and a chalice around the title cartouche and ships on the ocean. From \"Atlantis maioris appendix\", Johannes Janssonius, 1630. 1 map; 34 x 46 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284807/39015091194111_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284807\"}",
   "dct_spatial_sm": [
     "Germany"
   ],
-  "layer_modified_dt": "2021-05-08T16:42:05Z",
+  "layer_modified_dt": "2023-02-03T21:19:08Z",
   "dc_language_sm": [
     "eng"
   ],

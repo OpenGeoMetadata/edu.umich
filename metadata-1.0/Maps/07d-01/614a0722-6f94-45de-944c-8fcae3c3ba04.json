@@ -5,7 +5,7 @@
   "dc_title_s": "Map of Connecticut [map] / prepared by the U.S. Geological Survey ; in cooperation with the State of Connecticut",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "614a0722-6f94-45de-944c-8fcae3c3ba04",
-  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_geom": "ENVELOPE(-73.727775 ,-71.786994,42.050587,40.980144 )",
   "solr_year_i": "1893",
   "dc_description_s": "1 map, 2 sheets : col.; 108 x 68 cm.|Datum is mean sea level.|Contour interval 100 feet.",
   "dc_format_s": "JPEG",
@@ -13,7 +13,7 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:15Z",
+  "layer_modified_dt": "2023-02-03T21:20:56Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(31.58,48.38,59.75,44.37)",
   "solr_year_i": "1636",
   "dc_creator_sm": [
-    "Massa, Isaac, 1587-1635.,Jansson, Jan, 1588-1664. Appendix Atlas.,Vignaud, Henry, 1830-1922, former owner."
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
+    "Massa, Isaac, 1587-1635",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
-  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships in the Black Sea and the title cartouche includes stylized faces and Russian figures. Includes pictorial representations of animals and peoples Cartouche in upper left corner reads \"D. Isaaco Massa Equiti Nobilissimo, et RegiaeSuecorum Maiestatis Delegato Amplissimo. D.D. Joannes Janssonius.\" This state was published in atlases by Jan Jansson in 1636 and 1637. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 38 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Includes illustrations of ships in the Black Sea and the title cartouche includes stylized faces and Russian figures. Includes pictorial representations of animals and peoples Cartouche in upper left corner reads \"D. Isaaco Massa Equiti Nobilissimo, et RegiaeSuecorum Maiestatis Delegato Amplissimo. D.D. Joannes Janssonius.\" This state was published in atlases by Jan Jansson in 1636 and 1637. From the Jansson Appendix Atlas 1636-1680, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 38 x 48 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003283854/39015091192271_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003283854\"}",
   "dct_spatial_sm": [
     "Russia"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:49Z",
+  "layer_modified_dt": "2023-02-03T21:22:31Z",
   "dc_language_sm": [
     "eng"
   ],

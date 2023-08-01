@@ -8,15 +8,18 @@
   "solr_geom": "ENVELOPE(0.7,1.48,51.26,50.89)",
   "solr_year_i": "1801",
   "dc_creator_sm": [
-    "Great Britain. Board of Ordnance.,Faden, William, 1749-1836, publisher.,Foot, T. (Thomas), engraver.,Mudge, William, 1762-1820."
+    "Faden, William, 1749-1836, publisher",
+    "Foot, T. (Thomas), engraver",
+    "Great Britain. Board of Ordnance",
+    "Mudge, William, 1762-1820"
   ],
-  "dc_description_s": "Greenwich meridian. Relief shown by hachures. \"Tho. Foot Engraver\". Dedicated to Charles, Marquis Cornwallis. Note pasted on each sheet: \"Sold by W. Faden Geographer to His Majesty and to His Royal Highness the Prince of Wales.\" 1 map: dissected and mounted on linen; 120 x 174 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Greenwich meridian. Relief shown by hachures. \"Tho. Foot Engraver\". Dedicated to Charles, Marquis Cornwallis. Note pasted on each sheet: \"Sold by W. Faden Geographer to His Majesty and to His Royal Highness the Prince of Wales.\" 1 map: dissected and mounted on linen; 120 x 174 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005286202/39015060933671\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005286202\"}",
   "dct_spatial_sm": [
     "United Kingdom"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:36Z",
+  "layer_modified_dt": "2023-02-03T21:18:47Z",
   "dc_language_sm": [
     "eng"
   ],

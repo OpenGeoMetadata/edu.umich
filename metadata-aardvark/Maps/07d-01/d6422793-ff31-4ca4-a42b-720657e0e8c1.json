@@ -15,7 +15,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
@@ -23,7 +23,11 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox",
+    "BBoxButFlagged",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
@@ -36,10 +40,13 @@
     "[1630 TO 1639]"
   ],
   "dct_spatial_sm": [
-    "Quercy,  Occitania,  France",
-    "Occitania,  France",
+    "France--Occitania--Quercy",
+    " France--Occitania",
     "France"
   ],
+  "locn_geometry": "POLYGON((1.232354 44.555643, 1.630608 44.555643, 1.630608 44.372363, 1.232354 44.372363, 1.232354 44.555643))",
+  "dcat_bbox": "ENVELOPE(1.232354,1.630608,44.555643,44.372363)",
+  "dcat_centroid": "44.464003000000005,1.431481",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,7 +54,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -58,6 +68,6 @@
     "007933934",
     "39015091191919_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:39:40Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

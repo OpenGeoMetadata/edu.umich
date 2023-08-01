@@ -8,15 +8,20 @@
   "solr_geom": "ENVELOPE(18.08,24.07,55.73,53.57)",
   "solr_year_i": "1630",
   "dc_creator_sm": [
-    "Jansson, Jan, 1588-1664.,Henneberger, Kaspar.,Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles.,Rogiers, Salomon, engraver.,Hamersveldt, Everard Symonsz, 1591-1653, engraver.,Vignaud, Henry, 1830-1922, former owner."
+    "Hamersveldt, Everard Symonsz, 1591-1653, engraver",
+    "Henneberger, Kaspar",
+    "Jansson, Jan, 1588-1664",
+    "Jansson, Jan, 1588-1664. Appendix Atlas of the British Isles",
+    "Rogiers, Salomon, engraver",
+    "Vignaud, Henry, 1830-1922, former owner."
   ],
-  "dc_description_s": "Relief shown pictorially. The title cartouche contains coat of arms of Ducal Prussia. Includes illustrations of ships on the ocean. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 48 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. The title cartouche contains coat of arms of Ducal Prussia. Includes illustrations of ships on the ocean. Does not match any states listed in Van der Krogt. From the Appendix Atlas of the British Isles and Northern Europe, title created to represent a unique collection within the Clark Library, University of Michigan. 1 map; 37 x 48 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003284876/39015091192123_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003284876\"}",
   "dct_spatial_sm": [
-    "East Prussia, Poland"
+    "Poland--East Prussia"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:55Z",
+  "layer_modified_dt": "2023-02-03T21:24:06Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,17 +8,20 @@
   "solr_geom": "ENVELOPE(-88.79,-87.57,47.52,47.11)",
   "solr_year_i": "1849",
   "dc_creator_sm": [
-    "Foster, J. W. (John Wells), 1815-1873.,Whitney, J. D. (Josiah Dwight), 1819-1896.,Hill, S. W. (Samuel Worth), 1815-1889.,Schlatter, Wm. (William),P.S. Duval & Co."
+    "Foster, J. W. (John Wells), 1815-1873",
+    "Hill, S. W. (Samuel Worth), 1815-1889",
+    "P.S. Duval & Co.",
+    "Schlatter, Wm. (William)",
+    "Whitney, J. D. (Josiah Dwight), 1819-1896"
   ],
-  "dc_description_s": "Relief shown by spot heights and hachures; depths shown by soundings. Shows mineral lands, mines, and furnaces. Appears in: Jackson, Charles T. Report of the geological and mineralogical survey of the mineral lands of the United States in the state of Michigan. Washington, 1849. between p. 624 and 625. 1 map: hand col.; 28 x 56 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown by spot heights and hachures; depths shown by soundings. Shows mineral lands, mines, and furnaces. Appears in: Jackson, Charles T. Report of the geological and mineralogical survey of the mineral lands of the United States in the state of Michigan. Washington, 1849. between p. 624 and 625. 1 map: hand col.; 28 x 56 cm.",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280251/39015091881220\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280251\"}",
   "dct_spatial_sm": [
-    "Keweenaw Peninsula, Michigan",
+    "Michigan--Keweenaw Peninsula",
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-07T19:06:37Z",
+  "layer_modified_dt": "2023-02-03T21:19:02Z",
   "dc_language_sm": [
     "eng"
   ],

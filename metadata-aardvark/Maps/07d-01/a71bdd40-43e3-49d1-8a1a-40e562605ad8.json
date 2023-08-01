@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Colorado Geo. H. Adams & Son.",
   "dct_description_sm": [
-    "Relief shown by hachures and spot heights. Greenwich and Washington prime meridians. Shows towns, counties, railroads and natural features. Index on verso. 1 map: col., encapsulated in Mylar; 39 x 55 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures and spot heights. Greenwich and Washington prime meridians. Shows towns, counties, railroads and natural features. Index on verso. 1 map: col., encapsulated in Mylar; 39 x 55 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -17,7 +17,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1884"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Colorado"
   ],
-  "locn_geometry": "ENVELOPE(-109,-102,41,37)",
+  "locn_geometry": "POLYGON((-109 41, -102 41, -102 37, -109 37, -109 41))",
   "dcat_bbox": "ENVELOPE(-109,-102,41,37)",
   "dcat_centroid": "39.0,-105.5",
   "pcdm_memberOf_sm": [
@@ -41,6 +42,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002607372/39015095389113\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002607372\"}",
@@ -48,6 +55,6 @@
   "dct_identifier_sm": [
     "a71bdd40-43e3-49d1-8a1a-40e562605ad8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:38Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

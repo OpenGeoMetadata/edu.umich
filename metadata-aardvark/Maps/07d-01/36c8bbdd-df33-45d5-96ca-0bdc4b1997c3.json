@@ -1,20 +1,21 @@
 {
   "dct_title_s": "Africa: southern sheet.",
   "dct_description_sm": [
-    "Relief shown by hachures. Prime meridian: Washington, D.C. No. 36 in Colton, G.W. \"Atlas of the world\", v.2, 1856. 1 map: col.; 29 x 36 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Relief shown by hachures. Prime meridian: Washington, D.C. No. 36 in Colton, G.W. \"Atlas of the world\", v.2, 1856. 1 map: col.; 29 x 36 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+    "Colton, G. Woolworth (George Woolworth), 1827-1901"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1855"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(7,53,0,-36)",
+  "locn_geometry": "POLYGON((7 0, 53 0, 53 -36, 7 -36, 7 0))",
   "dcat_bbox": "ENVELOPE(7,53,0,-36)",
   "dcat_centroid": "-18.0,30.0",
   "pcdm_memberOf_sm": [
@@ -37,6 +38,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003280920/39015091916141\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003280920\"}",
@@ -44,6 +51,6 @@
   "dct_identifier_sm": [
     "36c8bbdd-df33-45d5-96ca-0bdc4b1997c3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

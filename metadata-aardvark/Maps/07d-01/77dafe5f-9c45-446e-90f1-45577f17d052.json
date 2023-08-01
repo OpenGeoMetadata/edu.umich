@@ -1,13 +1,16 @@
 {
   "dct_title_s": "Map of the Menominee iron district and adjacent territory by Chas. E. Wright; F. H. Brotherton, W. F. Brotherton, topographical assistants; Mathews & Longyear, draughtmen.",
   "dct_description_sm": [
-    "Shows geology and mines. Appears in: Michigan. Commissioner of Mineral Statistics. Annual report...for 1880. Lansing, 1881. Includes \"Geological cross section A. B. of Menominee and Pine River series.\" 1 map: col.; 56 x 66 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Shows geology and mines. Appears in: Michigan. Commissioner of Mineral Statistics. Annual report...for 1880. Lansing, 1881. Includes \"Geological cross section A. B. of Menominee and Pine River series.\" 1 map: col.; 56 x 66 cm"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Wright, Charles E., 1843-1888.,Brotherton, F. H. (Frank Hubert),Brotherton, W. F. (Wilson Fenner),Mathews & Longyear.,Milwaukee Lith. & Engr. Co."
+    "Brotherton, F. H. (Frank Hubert)",
+    "Mathews & Longyear.",
+    "Milwaukee Lith. & Engr. Co.",
+    "Wright, Charles E., 1843-1888"
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Geology",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1879"
@@ -30,10 +34,10 @@
     "[1879 TO 1879]"
   ],
   "dct_spatial_sm": [
-    "Iron Mountain, Michigan",
+    "Michigan--Iron Mountain",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-89.07,-87.47,46.07,45.08)",
+  "locn_geometry": "POLYGON((-89.07 46.07, -87.47 46.07, -87.47 45.08, -89.07 45.08, -89.07 46.07))",
   "dcat_bbox": "ENVELOPE(-89.07,-87.47,46.07,45.08)",
   "dcat_centroid": "45.575,-88.27",
   "pcdm_memberOf_sm": [
@@ -42,6 +46,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002881929/39015091898992\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002881929\"}",
@@ -49,6 +59,6 @@
   "dct_identifier_sm": [
     "77dafe5f-9c45-446e-90f1-45577f17d052"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:25Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

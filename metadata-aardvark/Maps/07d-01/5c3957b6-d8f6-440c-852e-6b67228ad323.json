@@ -14,7 +14,7 @@
     "lat"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
@@ -25,7 +25,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "approximately 1680"
@@ -38,10 +40,13 @@
     "[1680 TO 1680]"
   ],
   "dct_spatial_sm": [
-    "Catalonia,  Catalonia,  Spain",
-    "Catalonia,  Spain",
+    "Catalonia-- Spain--Catalonia",
+    " Spain--Catalonia",
     "Spain"
   ],
+  "locn_geometry": "POLYGON((0.5189 42.8432, 3.3314 42.8432, 3.3314 41.2674, 0.5189 41.2674, 0.5189 42.8432))",
+  "dcat_bbox": "ENVELOPE(0.5189,3.3314,42.8432,41.2674)",
+  "dcat_centroid": "42.0553,1.92515",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,7 +54,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -60,6 +68,6 @@
     "003281302",
     "39015091191786_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:22Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

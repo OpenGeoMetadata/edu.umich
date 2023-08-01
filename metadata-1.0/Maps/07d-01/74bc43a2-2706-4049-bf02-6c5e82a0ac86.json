@@ -5,6 +5,7 @@
   "dc_title_s": "ABC Pathfinder Railway Guide Map",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "74bc43a2-2706-4049-bf02-6c5e82a0ac86",
+  "solr_geom": "ENVELOPE(-79.5238,-63.7035,49.2882,38.6155)",
   "solr_year_i": "1880",
   "dc_description_s": "1 map : col. ; 64 x 57 cm.|Insets of White Mts., Mount Desert, Nova Scotia and Boston.",
   "dc_format_s": "JPEG",
@@ -15,8 +16,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:56Z",
+  "layer_modified_dt": "2023-02-03T21:16:10Z",
   "dc_language_sm": [
     "eng"
   ],

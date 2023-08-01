@@ -1,13 +1,14 @@
 {
   "dct_title_s": "Railroad map of Michigan prepared for the Commissioner of Railroads by Henry S. Stebbins.",
   "dct_description_sm": [
-    "Prime meridian: Washington. Appears in Michigan Railroad Commission. Tenth annual report. 1882. Inset: [Western Upper Peninsula] 1 map: hand col.; 96 x 73 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Prime meridian: Washington. Appears in Michigan Railroad Commission. Tenth annual report. 1882. Inset: [Western Upper Peninsula] 1 map: hand col.; 96 x 73 cm."
   ],
   "dct_language_sm": [
     "eng"
   ],
   "dct_creator_sm": [
-    "Stebbins, Henry S.,Michigan Railroad Commission."
+    "Michigan Railroad Commission",
+    "Stebbins, Henry S."
   ],
   "schema_provider_s": "University of Michigan",
   "gbl_resourceClass_sm": [
@@ -18,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Clark Library Map Collections"
+    "Clark Library Map Collections",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1882"
@@ -32,7 +34,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-90.42,-82.4,47.5,41.55)",
+  "locn_geometry": "POLYGON((-90.42 47.5, -82.4 47.5, -82.4 41.55, -90.42 41.55, -90.42 47.5))",
   "dcat_bbox": "ENVELOPE(-90.42,-82.4,47.5,41.55)",
   "dcat_centroid": "44.525,-86.41",
   "pcdm_memberOf_sm": [
@@ -41,6 +43,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003514649/39015091881089\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003514649\"}",
@@ -48,6 +56,6 @@
   "dct_identifier_sm": [
     "40e254a2-aa4b-4ca8-9ca1-e7bcd30ab740"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

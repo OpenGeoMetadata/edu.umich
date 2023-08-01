@@ -1,7 +1,7 @@
 {
   "dct_title_s": "Bay County: land map from Bay County land office, Bay City Michigan.",
   "dct_description_sm": [
-    "Includes written descriptions of Bay City and Bay County. 1 map; 48 x 34 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "Includes written descriptions of Bay City and Bay County. 1 map; 48 x 34 cm"
   ],
   "dct_language_sm": [
     "eng"
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Clark Library Map Collections",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -31,10 +32,10 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Bay County, Michigan",
+    "Michigan--Bay County",
     "Michigan"
   ],
-  "locn_geometry": "ENVELOPE(-84.2,-83.67,44,43.45)",
+  "locn_geometry": "POLYGON((-84.2 44, -83.67 44, -83.67 43.45, -84.2 43.45, -84.2 44))",
   "dcat_bbox": "ENVELOPE(-84.2,-83.67,44,43.45)",
   "dcat_centroid": "43.725,-83.935",
   "pcdm_memberOf_sm": [
@@ -43,6 +44,12 @@
   "dct_isPartOf_sm": [
     "07d-01"
   ],
+  "dct_rights_sm": [
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
+  ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013711646/39015091898794\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013711646\"}",
@@ -50,6 +57,6 @@
   "dct_identifier_sm": [
     "d2cd7f62-fa44-4e91-9dba-eaf2a0b97572"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:54Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

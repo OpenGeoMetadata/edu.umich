@@ -5,7 +5,11 @@
   "dc_title_s": "Folklore Music Map of the United States",
   "dct_provenance_s": "University of Michigan",
   "layer_slug_s": "7cb9ba43-8d6c-4048-8f8a-02648d4e6f1f",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1946",
+  "dc_creator_sm": [
+    "Lawrence, Dorothea Dix, 1899-1979"
+  ],
   "dc_description_s": "1 map. col. 74 x 55 cm.|Pictorial map with illustrated border.|Map has \"Explanation to illustrations and music on map.\"|Includes il. of musical instruments and Zuni Indian symbols and colors representing the notes of the musical scale.",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
@@ -15,8 +19,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-27T14:35:54Z",
+  "layer_modified_dt": "2023-02-03T21:18:36Z",
   "dc_language_sm": [
     "eng"
   ],

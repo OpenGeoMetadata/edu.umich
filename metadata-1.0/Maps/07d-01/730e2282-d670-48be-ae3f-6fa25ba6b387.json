@@ -8,9 +8,13 @@
   "solr_geom": "ENVELOPE(-90.48,-88.95,46.95,46.07)",
   "solr_year_i": "1887",
   "dc_creator_sm": [
-    "Longyear, John Munro, 1850-1922, compiler.,Allis, Edward P. (Edward Phelps), 1824-1889, publisher.,Merrell, H. B. (Harvey B.), publisher.,Case, J. M. (Julian M.), -1890, compiler.,Beck & Pauli, lithographer."
+    "Allis, Edward P. (Edward Phelps),1824-1889",
+    "Beck & Pauli, lithographer.",
+    "Case, J. M. (Julian M.), -1890, compiler",
+    "Longyear, John Munro, 1850-1922, compiler",
+    "Merrell, H. B. (Harvey B.), publisher"
   ],
-  "dc_description_s": "Shows lands of Allis & Merrell in green, and of Case & Longyear in red. Also shows mines and mineral explorations, iron ranges, existing and projected railroads, wagon roads, and supply roads. Relief shown by hachures. \"Supplement to the Mining, real estate & manufacturing reporter, Milwaukee, Wis., June 4th, 1887\" --Upper margin. \"Copyright applied for by Edw. P. Allis, Milwaukee, Wis.\" 1 map: color; 50 x 62 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Shows lands of Allis & Merrell in green, and of Case & Longyear in red. Also shows mines and mineral explorations, iron ranges, existing and projected railroads, wagon roads, and supply roads. Relief shown by hachures. \"Supplement to the Mining, real estate & manufacturing reporter, Milwaukee, Wis., June 4th, 1887\" --Upper margin. \"Copyright applied for by Edw. P. Allis, Milwaukee, Wis.\" 1 map: color; 50 x 62 cm",
   "dc_format_s": "JPEG",
   "dc_subject_sm": [
     "Railroads"
@@ -19,8 +23,7 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2021-05-08T17:18:34Z",
+  "layer_modified_dt": "2023-02-03T21:21:35Z",
   "dc_language_sm": [
     "eng"
   ],

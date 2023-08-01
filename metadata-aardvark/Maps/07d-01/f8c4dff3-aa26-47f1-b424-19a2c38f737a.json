@@ -14,7 +14,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Jansson, Jan, 1588-1664. Appendix Atlas.",
+    "Jansson, Jan, 1588-1664. Appendix Atlas",
     "Vignaud, Henry, 1830-1922, former owner."
   ],
   "schema_provider_s": "University of Michigan",
@@ -25,7 +25,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-2021-05"
+    "sprint-2021-05",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "between 1636 and 1637"
@@ -38,10 +40,13 @@
     "[1636 TO 1637]"
   ],
   "dct_spatial_sm": [
-    "Champagne-Ardenne,  Grand-Est,  France",
-    "Grand-Est,  France",
+    "France-- Grand-Est--Champagne-Ardenne",
+    " France--Grand-Est",
     "France"
   ],
+  "locn_geometry": "POLYGON((6.26085 48.434717, 6.354233 48.434717, 6.354233 48.389653, 6.26085 48.389653, 6.26085 48.434717))",
+  "dcat_bbox": "ENVELOPE(6.26085,6.354233,48.434717,48.389653)",
+  "dcat_centroid": "48.412185,6.307541499999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,7 +54,10 @@
     "07d-01"
   ],
   "dct_rights_sm": [
-    "This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library."
+    "This map is in the public domain."
+  ],
+  "dct_rightsHolder_sm": [
+    "Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library. https://www.lib.umich.edu/about-us/policies/copyright-policy"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
@@ -60,6 +68,6 @@
     "004205228",
     "39015091191315_01"
   ],
-  "gbl_mdModified_dt": "2022-02-27T01:36:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

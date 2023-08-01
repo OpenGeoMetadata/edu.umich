@@ -8,15 +8,17 @@
   "solr_geom": "ENVELOPE(-120,-50,54,5)",
   "solr_year_i": "1768",
   "dc_creator_sm": [
-    "Bowen, Emanuel, 1693 or 1694-1767.,Gibson, John.,Sayer, Robert, 1725-1794."
+    "Bowen, Emanuel, 1693 or 1694-1767",
+    "Gibson, J. (John), active 1750-1792",
+    "Sayer, Robert, 1725-1794"
   ],
-  "dc_description_s": "Relief shown pictorially. Ferro and London prime meridians. London, printed for Robt. Sayer opposite Fetter Lane, Fleet Street. Includes notes and text of Articles 4-7, 9, 17-18 and 20 of the treaty. Insets: A particular map of Baffin and Hudson's Bay -- The passage by land to California ... 1 map on 4 sheets; 98 x 114 cm, sheets 55 x 72 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_description_s": "Relief shown pictorially. Ferro and London prime meridians. London, printed for Robt. Sayer opposite Fetter Lane, Fleet Street. Includes notes and text of Articles 4-7, 9, 17-18 and 20 of the treaty. Insets: A particular map of Baffin and Hudson's Bay -- The passage by land to California ... 1 map on 4 sheets; 98 x 114 cm, sheets 55 x 72 cm",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002907526/39015091186067\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002907526\"}",
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2021-05-07T19:06:26Z",
+  "layer_modified_dt": "2023-02-03T21:16:21Z",
   "dc_language_sm": [
     "eng"
   ],
