@@ -17,13 +17,12 @@
     "Thematic maps"
   ],
   "dct_subject_sm": [
-    "County boundaries",
+    "Counties",
+    "Boundaries",
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Railroads",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Railroads"
   ],
   "dct_temporal_sm": [
     "approximately 1887"
@@ -38,8 +37,8 @@
   "dct_spatial_sm": [
     "Canada--Ontario"
   ],
-  "locn_geometry": "POLYGON((-85 47, -74 47, -74 42, -85 42, -85 47))",
-  "dcat_bbox": "ENVELOPE(-85,-74,47,42)",
+  "locn_geometry": "POLYGON((-85.000 47.000, -74.000 47.000, -74.000 42.000, -85.000 42.000, -85.000 47.000))",
+  "dcat_bbox": "ENVELOPE(-85.000,-74.000,47.000,42.000)",
   "dcat_centroid": "44.5,-79.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -60,6 +59,5 @@
   "dct_identifier_sm": [
     "b6c315f2-0861-46fb-b21c-77c9f18b14c0"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

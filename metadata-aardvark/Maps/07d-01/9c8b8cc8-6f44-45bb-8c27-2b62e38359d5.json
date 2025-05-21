@@ -26,10 +26,7 @@
   "dcat_keyword_sm": [
     "Railroads East (U.S.) Maps.",
     "Coal mines and mining East (U.S.) Maps.",
-    "Geology Michigan Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Geology Michigan Maps."
   ],
   "dct_temporal_sm": [
     "1887"
@@ -68,6 +65,5 @@
     "002644260",
     "39015091910318"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

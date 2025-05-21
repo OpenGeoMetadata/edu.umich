@@ -28,9 +28,7 @@
     "Pictorial maps"
   ],
   "dcat_keyword_sm": [
-    "Early maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint"
+    "Early maps."
   ],
   "dct_temporal_sm": [
     "1776"
@@ -45,9 +43,9 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "locn_geometry": "POLYGON((139.066 35.6729, 139.4585 35.6729, 139.4585 35.4745, 139.066 35.4745, 139.066 35.6729))",
-  "dcat_bbox": "ENVELOPE(139.066,139.4585,35.6729,35.4745)",
-  "dcat_centroid": "35.5737,139.26225",
+  "locn_geometry": "POLYGON((139.066 35.673, 139.458 35.673, 139.458 35.474, 139.066 35.474, 139.066 35.673))",
+  "dcat_bbox": "ENVELOPE(139.066,139.458,35.673,35.474)",
+  "dcat_centroid": "35.573499999999996,139.262",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -69,6 +67,5 @@
     "003100438",
     "39015091920606_01"
   ],
-  "gbl_mdModified_dt": "2023-02-28T04:15:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

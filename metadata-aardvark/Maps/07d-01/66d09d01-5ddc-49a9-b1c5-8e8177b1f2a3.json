@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1897"
   ],
@@ -29,8 +25,8 @@
   "dct_spatial_sm": [
     "South Eastern Asia"
   ],
-  "locn_geometry": "POLYGON((88.1 23, 137.25 23, 137.25 -15, 88.1 -15, 88.1 23))",
-  "dcat_bbox": "ENVELOPE(88.1,137.25,23,-15)",
+  "locn_geometry": "POLYGON((88.100 23.000, 137.250 23.000, 137.250 -15.000, 88.100 -15.000, 88.100 23.000))",
+  "dcat_bbox": "ENVELOPE(88.100,137.250,23.000,-15.000)",
   "dcat_centroid": "4.0,112.675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,6 +47,5 @@
   "dct_identifier_sm": [
     "66d09d01-5ddc-49a9-b1c5-8e8177b1f2a3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

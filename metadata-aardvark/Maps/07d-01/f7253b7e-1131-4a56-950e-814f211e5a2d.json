@@ -14,11 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1897"
   ],
@@ -32,9 +27,9 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-86.842 45.8478, -82.1228 45.8478, -82.1228 41.6961, -86.842 41.6961, -86.842 45.8478))",
-  "dcat_bbox": "ENVELOPE(-86.842,-82.1228,45.8478,41.6961)",
-  "dcat_centroid": "43.771950000000004,-84.4824",
+  "locn_geometry": "POLYGON((-86.842 45.848, -82.123 45.848, -82.123 41.696, -86.842 41.696, -86.842 45.848))",
+  "dcat_bbox": "ENVELOPE(-86.842,-82.123,45.848,41.696)",
+  "dcat_centroid": "43.772,-84.4825",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +49,5 @@
   "dct_identifier_sm": [
     "f7253b7e-1131-4a56-950e-814f211e5a2d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

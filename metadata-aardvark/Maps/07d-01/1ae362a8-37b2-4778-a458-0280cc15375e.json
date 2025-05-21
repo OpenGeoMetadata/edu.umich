@@ -18,9 +18,7 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Geology",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1877"
@@ -34,8 +32,8 @@
   "dct_spatial_sm": [
     "Canada--British Columbia"
   ],
-  "locn_geometry": "POLYGON((-122 51.25, -118 51.25, -118 49, -122 49, -122 51.25))",
-  "dcat_bbox": "ENVELOPE(-122,-118,51.25,49)",
+  "locn_geometry": "POLYGON((-122.000 51.250, -118.000 51.250, -118.000 49.000, -122.000 49.000, -122.000 51.250))",
+  "dcat_bbox": "ENVELOPE(-122.000,-118.000,51.250,49.000)",
   "dcat_centroid": "50.125,-120.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "1ae362a8-37b2-4778-a458-0280cc15375e"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

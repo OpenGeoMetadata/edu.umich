@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1922"
   ],
@@ -57,6 +53,5 @@
     "003286687",
     "39015091883531"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

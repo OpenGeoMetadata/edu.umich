@@ -19,9 +19,7 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Geology",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1876"
@@ -57,6 +55,5 @@
   "dct_identifier_sm": [
     "8ecc6a8e-060b-412b-9ef2-e4f3023c8032"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

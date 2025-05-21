@@ -14,11 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1907"
   ],
@@ -33,9 +28,9 @@
     "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.799572 42.323889, -83.675807 42.323889, -83.675807 42.222668, -83.799572 42.222668, -83.799572 42.323889))",
-  "dcat_bbox": "ENVELOPE(-83.799572,-83.675807,42.323889,42.222668)",
-  "dcat_centroid": "42.2732785,-83.7376895",
+  "locn_geometry": "POLYGON((-83.800 42.324, -83.676 42.324, -83.676 42.223, -83.800 42.223, -83.800 42.324))",
+  "dcat_bbox": "ENVELOPE(-83.800,-83.676,42.324,42.223)",
+  "dcat_centroid": "42.2735,-83.738",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +50,5 @@
   "dct_identifier_sm": [
     "a682cc4d-f31e-4cee-85aa-78cfc214c0c0"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

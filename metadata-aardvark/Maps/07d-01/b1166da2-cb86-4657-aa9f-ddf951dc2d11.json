@@ -16,11 +16,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1873?"
   ],
@@ -35,8 +30,8 @@
     "England--London",
     "England"
   ],
-  "locn_geometry": "POLYGON((-0.19 51.56, 0 51.56, 0 51.47, -0.19 51.47, -0.19 51.56))",
-  "dcat_bbox": "ENVELOPE(-0.19,0,51.56,51.47)",
+  "locn_geometry": "POLYGON((-0.190 51.560, 0.000 51.560, 0.000 51.470, -0.190 51.470, -0.190 51.560))",
+  "dcat_bbox": "ENVELOPE(-0.190,0.000,51.560,51.470)",
   "dcat_centroid": "51.515,-0.095",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +52,5 @@
   "dct_identifier_sm": [
     "b1166da2-cb86-4657-aa9f-ddf951dc2d11"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

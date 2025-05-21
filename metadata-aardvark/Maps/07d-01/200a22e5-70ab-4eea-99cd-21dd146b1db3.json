@@ -18,10 +18,7 @@
   "dcat_keyword_sm": [
     "Harbors",
     "Rivers",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "FixedBBoxes"
   ],
   "dct_temporal_sm": [
     "1835"
@@ -36,9 +33,9 @@
     "Michigan--Galien River",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-86.756604 41.808789, -86.730225 41.808789, -86.730225 41.793936, -86.756604 41.793936, -86.756604 41.808789))",
-  "dcat_bbox": "ENVELOPE(-86.756604,-86.730225,41.808789,41.793936)",
-  "dcat_centroid": "41.801362499999996,-86.7434145",
+  "locn_geometry": "POLYGON((-86.757 41.809, -86.730 41.809, -86.730 41.794, -86.757 41.794, -86.757 41.809))",
+  "dcat_bbox": "ENVELOPE(-86.757,-86.730,41.809,41.794)",
+  "dcat_centroid": "41.8015,-86.74350000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +55,5 @@
   "dct_identifier_sm": [
     "200a22e5-70ab-4eea-99cd-21dd146b1db3"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

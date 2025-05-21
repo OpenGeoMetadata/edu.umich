@@ -19,9 +19,7 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Great Fire, Chicago, Ill., 1871.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Great Fire, Chicago, Ill., 1871."
   ],
   "dct_temporal_sm": [
     "1871"
@@ -37,9 +35,9 @@
     "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-87.807751 42.09251, -87.524081 42.09251, -87.524081 41.644531, -87.807751 41.644531, -87.807751 42.09251))",
-  "dcat_bbox": "ENVELOPE(-87.807751,-87.524081,42.09251,41.644531)",
-  "dcat_centroid": "41.8685205,-87.665916",
+  "locn_geometry": "POLYGON((-87.808 42.093, -87.524 42.093, -87.524 41.645, -87.808 41.645, -87.808 42.093))",
+  "dcat_bbox": "ENVELOPE(-87.808,-87.524,42.093,41.645)",
+  "dcat_centroid": "41.869,-87.666",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -61,6 +59,5 @@
     "000082565",
     "39015091899214"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

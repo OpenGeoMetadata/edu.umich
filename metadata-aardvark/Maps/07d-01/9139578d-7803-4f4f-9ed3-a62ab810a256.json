@@ -18,9 +18,7 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Food supply United States Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Food supply United States Maps."
   ],
   "dct_temporal_sm": [
     "1932"
@@ -59,6 +57,5 @@
     "003289100",
     "39015091916158"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

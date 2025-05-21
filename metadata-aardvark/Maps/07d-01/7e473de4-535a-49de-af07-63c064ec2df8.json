@@ -16,9 +16,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Public lands",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Public lands"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -32,8 +30,8 @@
   "dct_spatial_sm": [
     "Washington--Washington State"
   ],
-  "locn_geometry": "POLYGON((-48 49, -40 49, -40 46, -48 46, -48 49))",
-  "dcat_bbox": "ENVELOPE(-48,-40,49,46)",
+  "locn_geometry": "POLYGON((-48.000 49.000, -40.000 49.000, -40.000 46.000, -48.000 46.000, -48.000 49.000))",
+  "dcat_bbox": "ENVELOPE(-48.000,-40.000,49.000,46.000)",
   "dcat_centroid": "47.5,-44.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,6 +52,5 @@
   "dct_identifier_sm": [
     "7e473de4-535a-49de-af07-63c064ec2df8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

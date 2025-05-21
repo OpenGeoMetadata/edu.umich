@@ -15,11 +15,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1893"
@@ -34,9 +30,9 @@
     "Michigan--Morenci",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-84.233843 41.735813, -84.199962 41.735813, -84.199962 41.710646, -84.233843 41.710646, -84.233843 41.735813))",
-  "dcat_bbox": "ENVELOPE(-84.233843,-84.199962,41.735813,41.710646)",
-  "dcat_centroid": "41.7232295,-84.2169025",
+  "locn_geometry": "POLYGON((-84.234 41.736, -84.200 41.736, -84.200 41.711, -84.234 41.711, -84.234 41.736))",
+  "dcat_bbox": "ENVELOPE(-84.234,-84.200,41.736,41.711)",
+  "dcat_centroid": "41.7235,-84.217",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +52,5 @@
   "dct_identifier_sm": [
     "e18e3e44-8de7-486e-b4ba-5e7fa0d48a39"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

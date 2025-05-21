@@ -15,9 +15,7 @@
   ],
   "dcat_keyword_sm": [
     "American Indians",
-    "Indian Territory maps",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Indian Territory maps"
   ],
   "dct_temporal_sm": [
     "between 1830 and 1839"
@@ -32,8 +30,8 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-107 46, -91 46, -91 34, -107 34, -107 46))",
-  "dcat_bbox": "ENVELOPE(-107,-91,46,34)",
+  "locn_geometry": "POLYGON((-107.000 46.000, -91.000 46.000, -91.000 34.000, -107.000 34.000, -107.000 46.000))",
+  "dcat_bbox": "ENVELOPE(-107.000,-91.000,46.000,34.000)",
   "dcat_centroid": "40.0,-99.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,6 +52,5 @@
   "dct_identifier_sm": [
     "17428fe2-d6d7-4d56-a0f0-92f4272b81d2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

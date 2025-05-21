@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1886"
   ],
@@ -31,9 +27,9 @@
     "New York--Hudson",
     "New York--New York State"
   ],
-  "locn_geometry": "POLYGON((-73.808974 42.263473, -73.768079 42.263473, -73.768079 42.239187, -73.808974 42.239187, -73.808974 42.263473))",
-  "dcat_bbox": "ENVELOPE(-73.808974,-73.768079,42.263473,42.239187)",
-  "dcat_centroid": "42.251329999999996,-73.7885265",
+  "locn_geometry": "POLYGON((-73.809 42.263, -73.768 42.263, -73.768 42.239, -73.809 42.239, -73.809 42.263))",
+  "dcat_bbox": "ENVELOPE(-73.809,-73.768,42.263,42.239)",
+  "dcat_centroid": "42.251,-73.7885",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "ef669b53-2097-4783-a029-c7c20576712c"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,8 +20,7 @@
     "Geology",
     "Wwells",
     "Artesian wells",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Clark Library Map Collections"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -36,8 +35,8 @@
     "Michigan--Wayne County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.57 42.45, -82.83 42.45, -82.83 42, -83.57 42, -83.57 42.45))",
-  "dcat_bbox": "ENVELOPE(-83.57,-82.83,42.45,42)",
+  "locn_geometry": "POLYGON((-83.570 42.450, -82.830 42.450, -82.830 42.000, -83.570 42.000, -83.570 42.450))",
+  "dcat_bbox": "ENVELOPE(-83.570,-82.830,42.450,42.000)",
   "dcat_centroid": "42.225,-83.19999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -58,6 +57,5 @@
   "dct_identifier_sm": [
     "9caba133-bfbe-4890-b566-d99684183cf0"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

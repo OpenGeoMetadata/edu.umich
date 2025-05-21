@@ -21,9 +21,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -38,8 +36,8 @@
   "dct_spatial_sm": [
     "Florida"
   ],
-  "locn_geometry": "POLYGON((-88 30.75, -85 30.75, -85 29.5, -88 29.5, -88 30.75))",
-  "dcat_bbox": "ENVELOPE(-88,-85,30.75,29.5)",
+  "locn_geometry": "POLYGON((-88.000 30.750, -85.000 30.750, -85.000 29.500, -88.000 29.500, -88.000 30.750))",
+  "dcat_bbox": "ENVELOPE(-88.000,-85.000,30.750,29.500)",
   "dcat_centroid": "30.125,-86.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -60,6 +58,5 @@
   "dct_identifier_sm": [
     "db91722f-eec4-4593-ae26-7691af9ee083"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

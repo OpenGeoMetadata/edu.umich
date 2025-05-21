@@ -17,10 +17,7 @@
     "Manuscript maps"
   ],
   "dcat_keyword_sm": [
-    "Canals",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Canals"
   ],
   "dct_temporal_sm": [
     "Approximately 1837"
@@ -36,9 +33,9 @@
     "Michigan--Clinton Township",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-82.973317 42.630506, -82.855706 42.630506, -82.855706 42.539331, -82.973317 42.539331, -82.973317 42.630506))",
-  "dcat_bbox": "ENVELOPE(-82.973317,-82.855706,42.630506,42.539331)",
-  "dcat_centroid": "42.5849185,-82.9145115",
+  "locn_geometry": "POLYGON((-82.973 42.631, -82.856 42.631, -82.856 42.539, -82.973 42.539, -82.973 42.631))",
+  "dcat_bbox": "ENVELOPE(-82.973,-82.856,42.631,42.539)",
+  "dcat_centroid": "42.585,-82.9145",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +55,5 @@
   "dct_identifier_sm": [
     "85fa07f3-2a5c-45ad-876c-35f7d2913e45"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

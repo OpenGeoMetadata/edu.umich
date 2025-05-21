@@ -14,12 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "1754"
   ],
@@ -33,9 +27,9 @@
     "France--Ãle-de-France--Ile de la Cite",
     "France"
   ],
-  "locn_geometry": "POLYGON((2.33918 48.858094, 2.353051 48.858094, 2.353051 48.851182, 2.33918 48.851182, 2.33918 48.858094))",
-  "dcat_bbox": "ENVELOPE(2.33918,2.353051,48.858094,48.851182)",
-  "dcat_centroid": "48.854638,2.3461155",
+  "locn_geometry": "POLYGON((2.339 48.858, 2.353 48.858, 2.353 48.851, 2.339 48.851, 2.339 48.858))",
+  "dcat_bbox": "ENVELOPE(2.339,2.353,48.858,48.851)",
+  "dcat_centroid": "48.8545,2.346",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +49,5 @@
   "dct_identifier_sm": [
     "b61be2d6-0484-4321-8398-0b49ef53f2c1"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

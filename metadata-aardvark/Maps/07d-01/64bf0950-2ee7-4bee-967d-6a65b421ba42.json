@@ -25,10 +25,7 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Geology United States Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Geology United States Maps."
   ],
   "dct_temporal_sm": [
     "approximately 1893"
@@ -67,6 +64,5 @@
     "000887464",
     "39015091195258"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

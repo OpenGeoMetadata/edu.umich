@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Guidebooks",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Guidebooks"
   ],
   "dct_temporal_sm": [
     "1872"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "dd1673d9-b5da-4337-835f-188a80881e23"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

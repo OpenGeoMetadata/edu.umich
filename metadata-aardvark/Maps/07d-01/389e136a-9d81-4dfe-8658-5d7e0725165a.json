@@ -15,9 +15,7 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Pictorial maps",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Pictorial maps"
   ],
   "dct_temporal_sm": [
     "Kanpō 1 1741"
@@ -54,6 +52,5 @@
   "dct_identifier_sm": [
     "389e136a-9d81-4dfe-8658-5d7e0725165a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -18,10 +18,6 @@
   "gbl_resourceType_sm": [
     "Pictorial maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1930 and 1939"
   ],
@@ -59,6 +55,5 @@
     "003287878",
     "39015091887508"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

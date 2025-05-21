@@ -15,11 +15,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1892"
@@ -34,9 +30,9 @@
     "Michigan--Hudson",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-84.388234 41.881355, -84.314077 41.881355, -84.314077 41.828165, -84.388234 41.828165, -84.388234 41.881355))",
-  "dcat_bbox": "ENVELOPE(-84.388234,-84.314077,41.881355,41.828165)",
-  "dcat_centroid": "41.85476,-84.3511555",
+  "locn_geometry": "POLYGON((-84.388 41.881, -84.314 41.881, -84.314 41.828, -84.388 41.828, -84.388 41.881))",
+  "dcat_bbox": "ENVELOPE(-84.388,-84.314,41.881,41.828)",
+  "dcat_centroid": "41.8545,-84.351",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +52,5 @@
   "dct_identifier_sm": [
     "135e7926-330d-489d-8c15-9f30a16a8ec7"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

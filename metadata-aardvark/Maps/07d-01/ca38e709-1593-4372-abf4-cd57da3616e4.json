@@ -17,9 +17,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Railroads",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Railroads"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -33,8 +31,8 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-106 47, -70 47, -70 30, -106 30, -106 47))",
-  "dcat_bbox": "ENVELOPE(-106,-70,47,30)",
+  "locn_geometry": "POLYGON((-106.000 47.000, -70.000 47.000, -70.000 30.000, -106.000 30.000, -106.000 47.000))",
+  "dcat_bbox": "ENVELOPE(-106.000,-70.000,47.000,30.000)",
   "dcat_centroid": "38.5,-88.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +53,5 @@
   "dct_identifier_sm": [
     "ca38e709-1593-4372-abf4-cd57da3616e4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

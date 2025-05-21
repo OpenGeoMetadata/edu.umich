@@ -16,10 +16,7 @@
   "dcat_keyword_sm": [
     "Forts",
     "Fortification",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "FixedBBoxes"
   ],
   "dct_temporal_sm": [
     "1851"
@@ -34,9 +31,9 @@
     "France--Ãle-de-France--Paris",
     "France"
   ],
-  "locn_geometry": "POLYGON((2.252457 48.895441, 2.43071 48.895441, 2.43071 48.812852, 2.252457 48.812852, 2.252457 48.895441))",
-  "dcat_bbox": "ENVELOPE(2.252457,2.43071,48.895441,48.812852)",
-  "dcat_centroid": "48.8541465,2.3415835",
+  "locn_geometry": "POLYGON((2.252 48.895, 2.431 48.895, 2.431 48.813, 2.252 48.813, 2.252 48.895))",
+  "dcat_bbox": "ENVELOPE(2.252,2.431,48.895,48.813)",
+  "dcat_centroid": "48.854,2.3415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +53,5 @@
   "dct_identifier_sm": [
     "380212b8-db97-4904-b977-f418b82c37cd"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

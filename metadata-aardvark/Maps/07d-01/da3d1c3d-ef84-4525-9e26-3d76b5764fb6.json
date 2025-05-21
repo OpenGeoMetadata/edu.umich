@@ -20,10 +20,7 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Atlantic States Maps Early works to 1800.",
-    "sprint-2021-05",
-    "202212bbox",
-    "-180TO180"
+    "Atlantic States Maps Early works to 1800."
   ],
   "dct_temporal_sm": [
     "between 1853 and 1855"
@@ -38,9 +35,9 @@
   "dct_spatial_sm": [
     "Arctic Regions"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,45.87)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,45.87)",
-  "dcat_centroid": "67.935,0.0",
+  "locn_geometry": "POLYGON((-179.99 89.99, 179.99 89.99, 179.99 45.87, -179.99 45.87, -179.99 89.99))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,89.99,45.87)",
+  "dcat_centroid": "67.92999999999999,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -62,6 +59,5 @@
     "005401346",
     "39015091195597"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

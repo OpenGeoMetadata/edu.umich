@@ -32,8 +32,8 @@
     "Canada",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-124 64, -74 64, -74 46, -124 46, -124 64))",
-  "dcat_bbox": "ENVELOPE(-124,-74,64,46)",
+  "locn_geometry": "POLYGON((-124.000 64.000, -74.000 64.000, -74.000 46.000, -124.000 46.000, -124.000 64.000))",
+  "dcat_bbox": "ENVELOPE(-124.000,-74.000,64.000,46.000)",
   "dcat_centroid": "55.0,-99.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,6 +56,5 @@
     "003287871",
     "39015091911308_0001"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

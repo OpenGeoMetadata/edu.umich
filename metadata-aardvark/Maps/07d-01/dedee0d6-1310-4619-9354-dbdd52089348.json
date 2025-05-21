@@ -22,9 +22,7 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Steamboats",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Steamboats"
   ],
   "dct_temporal_sm": [
     "1873"
@@ -61,6 +59,5 @@
   "dct_identifier_sm": [
     "dedee0d6-1310-4619-9354-dbdd52089348"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

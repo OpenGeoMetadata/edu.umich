@@ -14,10 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1845"
   ],
@@ -30,8 +26,8 @@
   "dct_spatial_sm": [
     "North Carolina"
   ],
-  "locn_geometry": "POLYGON((-84.33 38, -75.17 38, -75.17 33, -84.33 33, -84.33 38))",
-  "dcat_bbox": "ENVELOPE(-84.33,-75.17,38,33)",
+  "locn_geometry": "POLYGON((-84.330 38.000, -75.170 38.000, -75.170 33.000, -84.330 33.000, -84.330 38.000))",
+  "dcat_bbox": "ENVELOPE(-84.330,-75.170,38.000,33.000)",
   "dcat_centroid": "35.5,-79.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +48,5 @@
   "dct_identifier_sm": [
     "9f5157b1-2da1-4c01-90d3-b88d6f7587c8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,10 +25,7 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Indians of North America Oklahoma Claims Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Indians of North America Oklahoma Claims Maps."
   ],
   "dct_temporal_sm": [
     "between 1780 and 1795"
@@ -67,6 +64,5 @@
     "003287908",
     "39015091910300"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

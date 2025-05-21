@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Climate maps",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Climate maps"
   ],
   "dct_temporal_sm": [
     "1865"
@@ -30,8 +28,8 @@
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "POLYGON((-93 47, -86 47, -86 42, -93 42, -93 47))",
-  "dcat_bbox": "ENVELOPE(-93,-86,47,42)",
+  "locn_geometry": "POLYGON((-93.000 47.000, -86.000 47.000, -86.000 42.000, -93.000 42.000, -93.000 47.000))",
+  "dcat_bbox": "ENVELOPE(-93.000,-86.000,47.000,42.000)",
   "dcat_centroid": "44.5,-89.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +50,5 @@
   "dct_identifier_sm": [
     "d5b6d0c1-571d-4305-a3fc-4f3d3a9ab3cf"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

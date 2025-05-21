@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Discovery and exploration",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Discovery and exploration"
   ],
   "dct_temporal_sm": [
     "1855-6"
@@ -30,8 +28,8 @@
   "dct_spatial_sm": [
     "California"
   ],
-  "locn_geometry": "POLYGON((-124 43, -112 43, -112 32, -124 32, -124 43))",
-  "dcat_bbox": "ENVELOPE(-124,-112,43,32)",
+  "locn_geometry": "POLYGON((-124.000 43.000, -112.000 43.000, -112.000 32.000, -124.000 32.000, -124.000 43.000))",
+  "dcat_bbox": "ENVELOPE(-124.000,-112.000,43.000,32.000)",
   "dcat_centroid": "37.5,-118.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +50,5 @@
   "dct_identifier_sm": [
     "4b909572-8355-4547-95d9-301b4d3c7a9c"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

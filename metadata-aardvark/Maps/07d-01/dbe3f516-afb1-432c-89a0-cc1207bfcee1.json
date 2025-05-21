@@ -24,11 +24,11 @@
   ],
   "dct_spatial_sm": [
     "Canada-- Ontario--Windsor",
-    " Canada--Ontario",
+    "Canada--Ontario",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-83.06 42.33, -83 42.33, -83 42.29, -83.06 42.29, -83.06 42.33))",
-  "dcat_bbox": "ENVELOPE(-83.06,-83,42.33,42.29)",
+  "locn_geometry": "POLYGON((-83.060 42.330, -83.000 42.330, -83.000 42.290, -83.060 42.290, -83.060 42.330))",
+  "dcat_bbox": "ENVELOPE(-83.060,-83.000,42.330,42.290)",
   "dcat_centroid": "42.31,-83.03",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,6 +51,5 @@
     "003282751",
     "39015091910912"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

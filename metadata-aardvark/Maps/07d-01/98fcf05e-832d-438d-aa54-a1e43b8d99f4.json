@@ -21,10 +21,7 @@
   ],
   "dcat_keyword_sm": [
     "American Civil War",
-    "Battle of Bull Run",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Battle of Bull Run"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -40,9 +37,9 @@
     "Virginia--Manassas",
     "Virginia"
   ],
-  "locn_geometry": "POLYGON((-77.485475 38.812857, -77.468879 38.812857, -77.468879 38.80054, -77.485475 38.80054, -77.485475 38.812857))",
-  "dcat_bbox": "ENVELOPE(-77.485475,-77.468879,38.812857,38.80054)",
-  "dcat_centroid": "38.806698499999996,-77.477177",
+  "locn_geometry": "POLYGON((-77.485 38.813, -77.469 38.813, -77.469 38.801, -77.485 38.801, -77.485 38.813))",
+  "dcat_bbox": "ENVELOPE(-77.485,-77.469,38.813,38.801)",
+  "dcat_centroid": "38.807,-77.477",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -62,6 +59,5 @@
   "dct_identifier_sm": [
     "98fcf05e-832d-438d-aa54-a1e43b8d99f4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -24,9 +24,9 @@
   ],
   "dct_subject_sm": [
     "Indigenous people",
-    "American Indians",
+    "Indians of North America",
     "Indian reservations",
-    "Languages and cultures"
+    "Languages and culture"
   ],
   "dcat_keyword_sm": [
     "Indian reservations United States Maps.",
@@ -35,9 +35,7 @@
     "Indians of North America Industries Maps.",
     "Public lands United States Maps.",
     "Indian reservations United States Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "sprint-2021-05"
   ],
   "dct_temporal_sm": [
     "1971"
@@ -76,6 +74,5 @@
     "003283889",
     "39015091916240_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

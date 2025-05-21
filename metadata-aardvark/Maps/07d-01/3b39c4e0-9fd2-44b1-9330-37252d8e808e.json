@@ -17,11 +17,6 @@
     "Early maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1632 and 1650"
   ],
@@ -35,8 +30,8 @@
   "dct_spatial_sm": [
     "Palestine"
   ],
-  "locn_geometry": "POLYGON((30 34, 38 34, 38 29, 30 29, 30 34))",
-  "dcat_bbox": "ENVELOPE(30,38,34,29)",
+  "locn_geometry": "POLYGON((30.000 34.000, 38.000 34.000, 38.000 29.000, 30.000 29.000, 30.000 34.000))",
+  "dcat_bbox": "ENVELOPE(30.000,38.000,34.000,29.000)",
   "dcat_centroid": "31.5,34.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +52,5 @@
   "dct_identifier_sm": [
     "3b39c4e0-9fd2-44b1-9330-37252d8e808e"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

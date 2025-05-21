@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1899"
   ],
@@ -35,8 +30,8 @@
     "Michigan--Bay County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-84.2 44, -83.67 44, -83.67 43.45, -84.2 43.45, -84.2 44))",
-  "dcat_bbox": "ENVELOPE(-84.2,-83.67,44,43.45)",
+  "locn_geometry": "POLYGON((-84.200 44.000, -83.670 44.000, -83.670 43.450, -84.200 43.450, -84.200 44.000))",
+  "dcat_bbox": "ENVELOPE(-84.200,-83.670,44.000,43.450)",
   "dcat_centroid": "43.725,-83.935",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +52,5 @@
   "dct_identifier_sm": [
     "d2cd7f62-fa44-4e91-9dba-eaf2a0b97572"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

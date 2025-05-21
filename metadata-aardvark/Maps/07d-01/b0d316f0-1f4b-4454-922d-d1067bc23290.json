@@ -17,9 +17,7 @@
     "Road maps"
   ],
   "dcat_keyword_sm": [
-    "Roads",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1819?"
@@ -55,6 +53,5 @@
   "dct_identifier_sm": [
     "b0d316f0-1f4b-4454-922d-d1067bc23290"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

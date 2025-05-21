@@ -22,10 +22,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
-  ],
   "dct_issued_s": "1636",
   "gbl_indexYear_im": [
     "1636"
@@ -35,7 +31,7 @@
   ],
   "dct_spatial_sm": [
     "France-- Occitania--Languedoc",
-    " France--Occitania",
+    "France--Occitania",
     "France"
   ],
   "locn_geometry": "POLYGON((1.22 45.78, 4.87 45.78, 4.87 43.68, 1.22 43.68, 1.22 45.78))",
@@ -62,6 +58,5 @@
     "004077743",
     "39015091191901_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

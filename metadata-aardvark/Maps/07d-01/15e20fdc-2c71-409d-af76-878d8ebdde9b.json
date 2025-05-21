@@ -20,10 +20,7 @@
   "dcat_keyword_sm": [
     "Mines",
     "Mining",
-    "Copper mines",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Copper mines"
   ],
   "dct_temporal_sm": [
     "1905"
@@ -39,9 +36,9 @@
     "Michigan--Keweenaw Peninsula",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-89.216121 47.48346, -87.708248 47.48346, -87.708248 46.797834, -89.216121 46.797834, -89.216121 47.48346))",
-  "dcat_bbox": "ENVELOPE(-89.216121,-87.708248,47.48346,46.797834)",
-  "dcat_centroid": "47.140647,-88.4621845",
+  "locn_geometry": "POLYGON((-89.216 47.483, -87.708 47.483, -87.708 46.798, -89.216 46.798, -89.216 47.483))",
+  "dcat_bbox": "ENVELOPE(-89.216,-87.708,47.483,46.798)",
+  "dcat_centroid": "47.1405,-88.46199999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -61,6 +58,5 @@
   "dct_identifier_sm": [
     "15e20fdc-2c71-409d-af76-878d8ebdde9b"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

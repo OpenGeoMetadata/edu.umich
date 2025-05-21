@@ -17,10 +17,7 @@
     "Manuscript maps"
   ],
   "dcat_keyword_sm": [
-    "Canals",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Canals"
   ],
   "dct_temporal_sm": [
     "Approximately 1837"
@@ -36,9 +33,9 @@
     "Michigan--Mount Clemens",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-82.901619 42.617894, -82.856771 42.617894, -82.856771 42.578203, -82.901619 42.578203, -82.901619 42.617894))",
-  "dcat_bbox": "ENVELOPE(-82.901619,-82.856771,42.617894,42.578203)",
-  "dcat_centroid": "42.598048500000004,-82.879195",
+  "locn_geometry": "POLYGON((-82.902 42.618, -82.857 42.618, -82.857 42.578, -82.902 42.578, -82.902 42.618))",
+  "dcat_bbox": "ENVELOPE(-82.902,-82.857,42.618,42.578)",
+  "dcat_centroid": "42.598,-82.87950000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +55,5 @@
   "dct_identifier_sm": [
     "3b6b19ec-ef6c-4441-ba2e-20253fbf97fc"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -27,10 +27,7 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Explorations and surveys",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Explorations and surveys"
   ],
   "dct_temporal_sm": [
     "1855"
@@ -45,8 +42,8 @@
   "dct_spatial_sm": [
     "California"
   ],
-  "locn_geometry": "POLYGON((-123.67 42, -119.5 42, -119.5 38.58, -123.67 38.58, -123.67 42))",
-  "dcat_bbox": "ENVELOPE(-123.67,-119.5,42,38.58)",
+  "locn_geometry": "POLYGON((-123.670 42.000, -119.500 42.000, -119.500 38.580, -123.670 38.580, -123.670 42.000))",
+  "dcat_bbox": "ENVELOPE(-123.670,-119.500,42.000,38.580)",
   "dcat_centroid": "40.29,-121.58500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -67,6 +64,5 @@
   "dct_identifier_sm": [
     "01a620ba-2c07-46ca-b388-d6be6b9035a4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

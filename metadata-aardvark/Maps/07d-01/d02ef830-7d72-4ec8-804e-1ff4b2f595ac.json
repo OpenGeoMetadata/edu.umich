@@ -25,11 +25,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -42,12 +37,12 @@
   ],
   "dct_spatial_sm": [
     "Galicia-- Spain--Galicia",
-    " Spain--Galicia",
+    "Spain--Galicia",
     "Spain"
   ],
-  "locn_geometry": "POLYGON((-9.3015 43.7904, -6.734 43.7904, -6.734 41.8074, -9.3015 41.8074, -9.3015 43.7904))",
-  "dcat_bbox": "ENVELOPE(-9.3015,-6.734,43.7904,41.8074)",
-  "dcat_centroid": "42.7989,-8.01775",
+  "locn_geometry": "POLYGON((-9.302 43.790, -6.734 43.790, -6.734 41.807, -9.302 41.807, -9.302 43.790))",
+  "dcat_bbox": "ENVELOPE(-9.302,-6.734,43.790,41.807)",
+  "dcat_centroid": "42.798500000000004,-8.018",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -69,6 +64,5 @@
     "003539044",
     "39015091192461_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

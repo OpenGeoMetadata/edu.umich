@@ -21,10 +21,7 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Shipping maps",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "-180TO180"
+    "Shipping maps"
   ],
   "dct_temporal_sm": [
     "1868"
@@ -38,8 +35,8 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "locn_geometry": "POLYGON((-179.99 89.99, 179.99 89.99, 179.99 -89.99, -179.99 -89.99, -179.99 89.99))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,89.99,-89.99)",
   "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -60,6 +57,5 @@
   "dct_identifier_sm": [
     "2e239714-e34b-49cd-8c72-1a8584726729"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

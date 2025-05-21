@@ -20,10 +20,6 @@
     "Pictorial maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1960"
   ],
@@ -38,9 +34,9 @@
     "Michigan--Mackinac County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-85.865353 46.245683, -84.114123 46.245683, -84.114123 45.718115, -85.865353 45.718115, -85.865353 46.245683))",
-  "dcat_bbox": "ENVELOPE(-85.865353,-84.114123,46.245683,45.718115)",
-  "dcat_centroid": "45.981899,-84.989738",
+  "locn_geometry": "POLYGON((-85.865 46.246, -84.114 46.246, -84.114 45.718, -85.865 45.718, -85.865 46.246))",
+  "dcat_bbox": "ENVELOPE(-85.865,-84.114,46.246,45.718)",
+  "dcat_centroid": "45.982,-84.98949999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -62,6 +58,5 @@
     "005389334",
     "39015091887862"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

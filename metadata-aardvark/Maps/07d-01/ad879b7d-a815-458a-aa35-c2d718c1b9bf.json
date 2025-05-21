@@ -18,9 +18,7 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Geology",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1852"
@@ -35,8 +33,8 @@
     "Michigan--Lake Superior",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-92.17 49, -82.5 49, -82.5 45.5, -92.17 45.5, -92.17 49))",
-  "dcat_bbox": "ENVELOPE(-92.17,-82.5,49,45.5)",
+  "locn_geometry": "POLYGON((-92.170 49.000, -82.500 49.000, -82.500 45.500, -92.170 45.500, -92.170 49.000))",
+  "dcat_bbox": "ENVELOPE(-92.170,-82.500,49.000,45.500)",
   "dcat_centroid": "47.25,-87.33500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +55,5 @@
   "dct_identifier_sm": [
     "ad879b7d-a815-458a-aa35-c2d718c1b9bf"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

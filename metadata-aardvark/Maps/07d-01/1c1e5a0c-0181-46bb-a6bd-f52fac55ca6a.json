@@ -21,9 +21,7 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "Nautical charts New York (State) Dunkirk Harbor.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Nautical charts New York (State) Dunkirk Harbor."
   ],
   "dct_temporal_sm": [
     "1862"
@@ -38,9 +36,9 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "POLYGON((-81.1435 39.9562, -76.9687 39.9562, -76.9687 37.4881, -81.1435 37.4881, -81.1435 39.9562))",
-  "dcat_bbox": "ENVELOPE(-81.1435,-76.9687,39.9562,37.4881)",
-  "dcat_centroid": "38.72215,-79.0561",
+  "locn_geometry": "POLYGON((-81.144 39.956, -76.969 39.956, -76.969 37.488, -81.144 37.488, -81.144 39.956))",
+  "dcat_bbox": "ENVELOPE(-81.144,-76.969,39.956,37.488)",
+  "dcat_centroid": "38.722,-79.0565",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -62,6 +60,5 @@
     "003279358",
     "39015091910409_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

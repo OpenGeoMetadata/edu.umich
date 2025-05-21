@@ -21,8 +21,7 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early maps Facsimiles.",
-    "2022-creator-sprint"
+    "Early maps Facsimiles."
   ],
   "dct_issued_s": "1883",
   "gbl_indexYear_im": [
@@ -34,8 +33,8 @@
   "dct_spatial_sm": [
     "Lake Superior"
   ],
-  "locn_geometry": "POLYGON((-93 80, -83 80, -83 43, -93 43, -93 80))",
-  "dcat_bbox": "ENVELOPE(-93,-83,80,43)",
+  "locn_geometry": "POLYGON((-93.000 80.000, -83.000 80.000, -83.000 43.000, -93.000 43.000, -93.000 80.000))",
+  "dcat_bbox": "ENVELOPE(-93.000,-83.000,80.000,43.000)",
   "dcat_centroid": "61.5,-88.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -58,6 +57,5 @@
     "000861982",
     "39015091196967"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

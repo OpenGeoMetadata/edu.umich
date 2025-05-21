@@ -17,10 +17,6 @@
     "Military maps",
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1790 and 1799"
   ],
@@ -35,8 +31,8 @@
     "Germany-- Saxony--Dresden",
     "Germany"
   ],
-  "locn_geometry": "POLYGON((13.73 51.07, 13.83 51.07, 13.83 51, 13.73 51, 13.73 51.07))",
-  "dcat_bbox": "ENVELOPE(13.73,13.83,51.07,51)",
+  "locn_geometry": "POLYGON((13.730 51.070, 13.830 51.070, 13.830 51.000, 13.730 51.000, 13.730 51.070))",
+  "dcat_bbox": "ENVELOPE(13.730,13.830,51.070,51.000)",
   "dcat_centroid": "51.035,13.780000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +53,5 @@
   "dct_identifier_sm": [
     "18ab61e1-189f-4b2a-a75e-6b2a02ea0ac8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

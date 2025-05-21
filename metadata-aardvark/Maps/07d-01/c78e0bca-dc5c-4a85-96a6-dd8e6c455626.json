@@ -33,10 +33,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Folk music United States Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Folk music United States Maps."
   ],
   "dct_temporal_sm": [
     "1854"
@@ -75,6 +72,5 @@
     "000080388",
     "39015091195118"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

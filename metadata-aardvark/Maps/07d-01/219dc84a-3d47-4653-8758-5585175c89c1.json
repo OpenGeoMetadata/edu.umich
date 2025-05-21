@@ -31,10 +31,7 @@
     "Railroads Ohio Maps.",
     "Administrative and political divisions. fast (OCoLC)fst00796826",
     "Railroads. fast (OCoLC)fst01088711",
-    "Real property Michigan Saginaw Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Real property Michigan Saginaw Maps."
   ],
   "dct_temporal_sm": [
     "1897"
@@ -49,9 +46,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.8539 40.4014, -80.5033 40.4014, -80.5033 38.656, -84.8539 38.656, -84.8539 40.4014))",
-  "dcat_bbox": "ENVELOPE(-84.8539,-80.5033,40.4014,38.656)",
-  "dcat_centroid": "39.5287,-82.67859999999999",
+  "locn_geometry": "POLYGON((-84.854 40.401, -80.503 40.401, -80.503 38.656, -84.854 38.656, -84.854 40.401))",
+  "dcat_bbox": "ENVELOPE(-84.854,-80.503,40.401,38.656)",
+  "dcat_centroid": "39.5285,-82.6785",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -73,6 +70,5 @@
     "013681864",
     "39015091905433"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

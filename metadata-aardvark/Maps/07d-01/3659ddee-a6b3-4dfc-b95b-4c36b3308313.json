@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "Septr. 29, 1777"
   ],
@@ -30,10 +26,11 @@
     "[1777 TO 1777]"
   ],
   "dct_spatial_sm": [
-    "Caribbean"
+    "Caribbean",
+    "Gulf of Mexico"
   ],
-  "locn_geometry": "POLYGON((-99.98 31.01, -59.94 31.01, -59.94 7, -99.98 7, -99.98 31.01))",
-  "dcat_bbox": "ENVELOPE(-99.98,-59.94,31.01,7)",
+  "locn_geometry": "POLYGON((-99.980 31.010, -59.940 31.010, -59.940 7.000, -99.980 7.000, -99.980 31.010))",
+  "dcat_bbox": "ENVELOPE(-99.980,-59.940,31.010,7.000)",
   "dcat_centroid": "19.005000000000003,-79.96000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,6 +51,5 @@
   "dct_identifier_sm": [
     "3659ddee-a6b3-4dfc-b95b-4c36b3308313"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

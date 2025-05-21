@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Fires",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Fires"
   ],
   "dct_temporal_sm": [
     "approximately 1666"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "8e14c82a-5f93-4573-8a3e-e154f2cb7f32"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

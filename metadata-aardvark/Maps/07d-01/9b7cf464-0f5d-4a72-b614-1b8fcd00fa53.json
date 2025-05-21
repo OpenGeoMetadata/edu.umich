@@ -17,9 +17,7 @@
   ],
   "dcat_keyword_sm": [
     "Cartouches",
-    "Volcanoes",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Volcanoes"
   ],
   "dct_temporal_sm": [
     "1746"
@@ -55,6 +53,5 @@
   "dct_identifier_sm": [
     "9b7cf464-0f5d-4a72-b614-1b8fcd00fa53"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

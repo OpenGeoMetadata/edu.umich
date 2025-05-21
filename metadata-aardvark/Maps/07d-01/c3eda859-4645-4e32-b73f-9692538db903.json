@@ -18,9 +18,7 @@
   ],
   "dcat_keyword_sm": [
     "Forests",
-    "Forestry",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Forestry"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -34,8 +32,8 @@
   "dct_spatial_sm": [
     "Washington--Washington State"
   ],
-  "locn_geometry": "POLYGON((-124.5 49, -121.5 49, -121.5 45.5, -124.5 45.5, -124.5 49))",
-  "dcat_bbox": "ENVELOPE(-124.5,-121.5,49,45.5)",
+  "locn_geometry": "POLYGON((-124.500 49.000, -121.500 49.000, -121.500 45.500, -124.500 45.500, -124.500 49.000))",
+  "dcat_bbox": "ENVELOPE(-124.500,-121.500,49.000,45.500)",
   "dcat_centroid": "47.25,-123.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "c3eda859-4645-4e32-b73f-9692538db903"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

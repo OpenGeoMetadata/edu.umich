@@ -27,11 +27,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -46,9 +41,9 @@
     "Germany--Rhine River",
     "Germany"
   ],
-  "locn_geometry": "POLYGON((4.041 52.003, 10.7446 52.003, 10.7446 45.3698, 4.041 45.3698, 4.041 52.003))",
-  "dcat_bbox": "ENVELOPE(4.041,10.7446,52.003,45.3698)",
-  "dcat_centroid": "48.6864,7.3928",
+  "locn_geometry": "POLYGON((4.041 52.003, 10.745 52.003, 10.745 45.370, 4.041 45.370, 4.041 52.003))",
+  "dcat_bbox": "ENVELOPE(4.041,10.745,52.003,45.370)",
+  "dcat_centroid": "48.686499999999995,7.393",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -70,6 +65,5 @@
     "003282760",
     "39015091197916_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

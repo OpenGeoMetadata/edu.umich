@@ -20,13 +20,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -42,9 +35,9 @@
     "France",
     "France"
   ],
-  "locn_geometry": "POLYGON((0.6494 48.1513, 2.4761 48.1513, 2.4761 46.9632, 0.6494 46.9632, 0.6494 48.1513))",
-  "dcat_bbox": "ENVELOPE(0.6494,2.4761,48.1513,46.9632)",
-  "dcat_centroid": "47.557249999999996,1.56275",
+  "locn_geometry": "POLYGON((0.649 48.151, 2.476 48.151, 2.476 46.963, 0.649 46.963, 0.649 48.151))",
+  "dcat_bbox": "ENVELOPE(0.649,2.476,48.151,46.963)",
+  "dcat_centroid": "47.557,1.5625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -66,6 +59,5 @@
     "004202558",
     "39015091191240_01"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

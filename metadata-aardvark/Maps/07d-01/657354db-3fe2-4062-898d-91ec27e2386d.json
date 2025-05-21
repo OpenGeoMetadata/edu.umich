@@ -16,10 +16,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1881, ©1880"
   ],
@@ -54,6 +50,5 @@
   "dct_identifier_sm": [
     "657354db-3fe2-4062-898d-91ec27e2386d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,11 +20,7 @@
     "Thematic maps\n"
   ],
   "dct_subject_sm": [
-    "Texas political divisions"
-  ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "202212bbox"
+    "Administrative and political divisions"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -39,9 +35,9 @@
   "dct_spatial_sm": [
     "Texas"
   ],
-  "locn_geometry": "POLYGON((-106.645646 36.500704, -93.508292 36.500704, -93.508292 25.837377, -106.645646 25.837377, -106.645646 36.500704))",
-  "dcat_bbox": "ENVELOPE(-106.645646,-93.508292,36.500704,25.837377)",
-  "dcat_centroid": "31.1690405,-100.07696899999999",
+  "locn_geometry": "POLYGON((-106.646 36.501, -93.508 36.501, -93.508 25.837, -106.646 25.837, -106.646 36.501))",
+  "dcat_bbox": "ENVELOPE(-106.646,-93.508,36.501,25.837)",
+  "dcat_centroid": "31.168999999999997,-100.077",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +59,5 @@
     "003285774",
     "39015091905714"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

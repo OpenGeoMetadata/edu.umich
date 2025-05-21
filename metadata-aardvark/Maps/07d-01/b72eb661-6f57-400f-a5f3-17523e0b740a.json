@@ -20,9 +20,7 @@
   ],
   "dcat_keyword_sm": [
     "Military bases",
-    "Trails",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Trails"
   ],
   "dct_temporal_sm": [
     "1876"
@@ -58,6 +56,5 @@
   "dct_identifier_sm": [
     "b72eb661-6f57-400f-a5f3-17523e0b740a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

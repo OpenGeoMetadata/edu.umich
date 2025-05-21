@@ -15,10 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1800 and 1899"
   ],
@@ -32,8 +28,8 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "locn_geometry": "POLYGON((-5 60, 45 60, 45 30, -5 30, -5 60))",
-  "dcat_bbox": "ENVELOPE(-5,45,60,30)",
+  "locn_geometry": "POLYGON((-5.000 60.000, 45.000 60.000, 45.000 30.000, -5.000 30.000, -5.000 60.000))",
+  "dcat_bbox": "ENVELOPE(-5.000,45.000,60.000,30.000)",
   "dcat_centroid": "45.0,20.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,6 +50,5 @@
   "dct_identifier_sm": [
     "7bd7a1c0-378c-49a8-8edf-c98b95ce282b"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

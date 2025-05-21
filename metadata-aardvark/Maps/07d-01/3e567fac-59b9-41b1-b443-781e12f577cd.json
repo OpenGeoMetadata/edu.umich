@@ -17,9 +17,7 @@
   ],
   "dcat_keyword_sm": [
     "Ethnology",
-    "American Indians",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "American Indians"
   ],
   "dct_temporal_sm": [
     "1876"
@@ -33,8 +31,8 @@
   "dct_spatial_sm": [
     "Washington--Washington State"
   ],
-  "locn_geometry": "POLYGON((-125 49, -121 49, -121 45, -125 45, -125 49))",
-  "dcat_bbox": "ENVELOPE(-125,-121,49,45)",
+  "locn_geometry": "POLYGON((-125.000 49.000, -121.000 49.000, -121.000 45.000, -125.000 45.000, -125.000 49.000))",
+  "dcat_bbox": "ENVELOPE(-125.000,-121.000,49.000,45.000)",
   "dcat_centroid": "47.0,-123.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +53,5 @@
   "dct_identifier_sm": [
     "3e567fac-59b9-41b1-b443-781e12f577cd"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

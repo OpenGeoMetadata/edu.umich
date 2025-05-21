@@ -17,12 +17,6 @@
   "gbl_resourceType_sm": [
     "Aerial views"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "1880"
   ],
@@ -36,9 +30,9 @@
     "Michigan--Ludington",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-86.469668 43.974518, -86.415658 43.974518, -86.415658 43.932254, -86.469668 43.932254, -86.469668 43.974518))",
-  "dcat_bbox": "ENVELOPE(-86.469668,-86.415658,43.974518,43.932254)",
-  "dcat_centroid": "43.953386,-86.442663",
+  "locn_geometry": "POLYGON((-86.470 43.975, -86.416 43.975, -86.416 43.932, -86.470 43.932, -86.470 43.975))",
+  "dcat_bbox": "ENVELOPE(-86.470,-86.416,43.975,43.932)",
+  "dcat_centroid": "43.953500000000005,-86.443",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +52,5 @@
   "dct_identifier_sm": [
     "58acc3a8-a0b4-4dbc-8682-589a832aa466"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

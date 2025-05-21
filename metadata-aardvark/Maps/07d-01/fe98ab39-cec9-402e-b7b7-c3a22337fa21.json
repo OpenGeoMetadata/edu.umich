@@ -16,9 +16,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Historical geography",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Historical geography"
   ],
   "dct_temporal_sm": [
     "1680?"
@@ -51,6 +49,5 @@
   "dct_identifier_sm": [
     "fe98ab39-cec9-402e-b7b7-c3a22337fa21"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

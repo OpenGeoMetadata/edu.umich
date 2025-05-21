@@ -17,9 +17,7 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Land use",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Land use"
   ],
   "dct_temporal_sm": [
     "Shōtoku 2 1712"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "f767c119-2ea0-4bb3-9f94-bf91a4b339e8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

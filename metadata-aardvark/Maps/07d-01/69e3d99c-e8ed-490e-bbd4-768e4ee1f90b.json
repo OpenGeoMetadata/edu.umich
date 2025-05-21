@@ -23,10 +23,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1846 and 1849"
   ],
@@ -64,6 +60,5 @@
     "000077415",
     "39015091195092"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

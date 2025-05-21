@@ -26,11 +26,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -43,12 +38,12 @@
   ],
   "dct_spatial_sm": [
     "France-- Normandy--Seine-Maritime",
-    " France--Normandy",
+    "France--Normandy",
     "France"
   ],
-  "locn_geometry": "POLYGON((0.06577 50.075807, 1.790771 50.075807, 1.790771 49.250671, 0.06577 49.250671, 0.06577 50.075807))",
-  "dcat_bbox": "ENVELOPE(0.06577,1.790771,50.075807,49.250671)",
-  "dcat_centroid": "49.663239,0.9282705",
+  "locn_geometry": "POLYGON((0.066 50.076, 1.791 50.076, 1.791 49.251, 0.066 49.251, 0.066 50.076))",
+  "dcat_bbox": "ENVELOPE(0.066,1.791,50.076,49.251)",
+  "dcat_centroid": "49.6635,0.9285",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -70,6 +65,5 @@
     "004259592",
     "39015091191166_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

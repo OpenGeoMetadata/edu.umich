@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "City planning",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "City planning"
   ],
   "dct_temporal_sm": [
     "1920"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "ce0c51f6-7055-476f-9627-fa95be6019aa"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

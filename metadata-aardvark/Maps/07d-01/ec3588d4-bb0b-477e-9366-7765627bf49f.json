@@ -27,10 +27,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Railroads Virginia Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Railroads Virginia Maps."
   ],
   "dct_temporal_sm": [
     "1862"
@@ -45,9 +42,9 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "locn_geometry": "POLYGON((-82.644739 40.638801, -77.719519 40.638801, -77.719519 37.201483, -82.644739 37.201483, -82.644739 40.638801))",
-  "dcat_bbox": "ENVELOPE(-82.644739,-77.719519,40.638801,37.201483)",
-  "dcat_centroid": "38.920142,-80.182129",
+  "locn_geometry": "POLYGON((-82.645 40.639, -77.720 40.639, -77.720 37.201, -82.645 37.201, -82.645 40.639))",
+  "dcat_bbox": "ENVELOPE(-82.645,-77.720,40.639,37.201)",
+  "dcat_centroid": "38.92,-80.1825",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -69,6 +66,5 @@
     "003287914",
     "39015091910391"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

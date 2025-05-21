@@ -17,11 +17,7 @@
   ],
   "dcat_keyword_sm": [
     "Harbors",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "FixedBBoxes"
   ],
   "dct_temporal_sm": [
     "approximately 1856"
@@ -37,9 +33,9 @@
     "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-87.628033 41.898214, -87.599206 41.898214, -87.599206 41.880263, -87.628033 41.880263, -87.628033 41.898214))",
-  "dcat_bbox": "ENVELOPE(-87.628033,-87.599206,41.898214,41.880263)",
-  "dcat_centroid": "41.889238500000005,-87.6136195",
+  "locn_geometry": "POLYGON((-87.628 41.898, -87.599 41.898, -87.599 41.880, -87.628 41.880, -87.628 41.898))",
+  "dcat_bbox": "ENVELOPE(-87.628,-87.599,41.898,41.880)",
+  "dcat_centroid": "41.889,-87.6135",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,6 +55,5 @@
   "dct_identifier_sm": [
     "54d83a56-4c40-411e-bf44-fd84781223f0"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

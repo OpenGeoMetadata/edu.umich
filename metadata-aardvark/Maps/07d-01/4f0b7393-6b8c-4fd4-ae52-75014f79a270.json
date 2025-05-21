@@ -14,12 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "Bunkyū 3 1863"
   ],
@@ -33,9 +27,9 @@
     "Japan--Kyoto--Kyoto",
     "Japan"
   ],
-  "locn_geometry": "POLYGON((135.667004 35.070493, 135.795835 35.070493, 135.795835 34.874619, 135.667004 34.874619, 135.667004 35.070493))",
-  "dcat_bbox": "ENVELOPE(135.667004,135.795835,35.070493,34.874619)",
-  "dcat_centroid": "34.972556,135.73141950000002",
+  "locn_geometry": "POLYGON((135.667 35.070, 135.796 35.070, 135.796 34.875, 135.667 34.875, 135.667 35.070))",
+  "dcat_bbox": "ENVELOPE(135.667,135.796,35.070,34.875)",
+  "dcat_centroid": "34.9725,135.73149999999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +49,5 @@
   "dct_identifier_sm": [
     "4f0b7393-6b8c-4fd4-ae52-75014f79a270"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

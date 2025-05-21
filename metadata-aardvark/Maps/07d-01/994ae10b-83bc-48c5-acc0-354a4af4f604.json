@@ -17,12 +17,6 @@
   "gbl_resourceType_sm": [
     "Aerial views"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "1889"
   ],
@@ -37,9 +31,9 @@
     "Washington--Tacoma",
     "Washington--Washington State"
   ],
-  "locn_geometry": "POLYGON((-122.562265 47.318977, -122.34815 47.318977, -122.34815 47.166811, -122.562265 47.166811, -122.562265 47.318977))",
-  "dcat_bbox": "ENVELOPE(-122.562265,-122.34815,47.318977,47.166811)",
-  "dcat_centroid": "47.242894,-122.4552075",
+  "locn_geometry": "POLYGON((-122.562 47.319, -122.348 47.319, -122.348 47.167, -122.562 47.167, -122.562 47.319))",
+  "dcat_bbox": "ENVELOPE(-122.562,-122.348,47.319,47.167)",
+  "dcat_centroid": "47.243,-122.455",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,6 +53,5 @@
   "dct_identifier_sm": [
     "994ae10b-83bc-48c5-acc0-354a4af4f604"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

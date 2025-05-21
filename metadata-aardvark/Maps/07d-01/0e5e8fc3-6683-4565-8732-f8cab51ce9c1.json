@@ -14,12 +14,9 @@
     "Maps"
   ],
   "dct_subject_sm": [
-    "County boundaries",
+    "Counties",
+    "Boundaries",
     "Railroads"
-  ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -33,8 +30,8 @@
   "dct_spatial_sm": [
     "New York--New York State"
   ],
-  "locn_geometry": "POLYGON((-79 45, -74 45, -74 41, -79 41, -79 45))",
-  "dcat_bbox": "ENVELOPE(-79,-74,45,41)",
+  "locn_geometry": "POLYGON((-79.000 45.000, -74.000 45.000, -74.000 41.000, -79.000 41.000, -79.000 45.000))",
+  "dcat_bbox": "ENVELOPE(-79.000,-74.000,45.000,41.000)",
   "dcat_centroid": "43.0,-76.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +52,5 @@
   "dct_identifier_sm": [
     "0e5e8fc3-6683-4565-8732-f8cab51ce9c1"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

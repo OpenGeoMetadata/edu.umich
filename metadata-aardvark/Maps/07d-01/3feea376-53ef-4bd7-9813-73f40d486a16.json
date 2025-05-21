@@ -16,10 +16,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "Meiji 11 1878"
   ],
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "3feea376-53ef-4bd7-9813-73f40d486a16"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

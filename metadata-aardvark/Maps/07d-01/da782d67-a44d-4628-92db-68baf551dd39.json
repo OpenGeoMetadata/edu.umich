@@ -17,10 +17,7 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -58,6 +55,5 @@
   "dct_identifier_sm": [
     "da782d67-a44d-4628-92db-68baf551dd39"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

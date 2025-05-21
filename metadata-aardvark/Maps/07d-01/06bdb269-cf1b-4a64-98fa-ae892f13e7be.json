@@ -18,9 +18,7 @@
   ],
   "dcat_keyword_sm": [
     "Administrative and political divisions",
-    "Colonialization",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Colonialization"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "06bdb269-cf1b-4a64-98fa-ae892f13e7be"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

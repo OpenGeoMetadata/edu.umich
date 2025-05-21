@@ -20,10 +20,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Geology",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Geology"
   ],
   "dct_temporal_sm": [
     "between 1850 and 1900"
@@ -60,6 +57,5 @@
   "dct_identifier_sm": [
     "e2d5f1e9-da48-4855-a1af-64be71b3f6ec"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -24,10 +24,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1680"
   ],
@@ -40,11 +36,11 @@
   ],
   "dct_spatial_sm": [
     "France-- Hauts-de-France--Artois",
-    " France--Hauts-de-France",
+    "France--Hauts-de-France",
     "France"
   ],
-  "locn_geometry": "POLYGON(( -4.77 50.92, 8.21 50.92, 8.21 43.03,  -4.77 43.03,  -4.77 50.92))",
-  "dcat_bbox": "ENVELOPE( -4.77,8.21,50.92,43.03)",
+  "locn_geometry": "POLYGON((-4.770 50.920, 8.210 50.920, 8.210 43.030, -4.770 43.030, -4.770 50.920))",
+  "dcat_bbox": "ENVELOPE(-4.770,8.210,50.920,43.030)",
   "dcat_centroid": "46.975,1.7200000000000006",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -67,6 +63,5 @@
     "004074047",
     "39015091191158_01"
   ],
-  "gbl_mdModified_dt": "2023-02-28T04:15:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

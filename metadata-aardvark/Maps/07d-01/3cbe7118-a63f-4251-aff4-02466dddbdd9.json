@@ -17,10 +17,6 @@
   "dcat_theme_sm": [
     "Oceans"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1781"
   ],
@@ -33,8 +29,8 @@
   "dct_spatial_sm": [
     "Pacific Ocean"
   ],
-  "locn_geometry": "POLYGON((-105 74.45, 98.15 74.45, 98.15 -1.02, -105 -1.02, -105 74.45))",
-  "dcat_bbox": "ENVELOPE(-105,98.15,74.45,-1.02)",
+  "locn_geometry": "POLYGON((-105.000 74.450, 98.150 74.450, 98.150 -1.020, -105.000 -1.020, -105.000 74.450))",
+  "dcat_bbox": "ENVELOPE(-105.000,98.150,74.450,-1.020)",
   "dcat_centroid": "36.715,-3.424999999999997",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "3cbe7118-a63f-4251-aff4-02466dddbdd9"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

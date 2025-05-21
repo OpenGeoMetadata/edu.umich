@@ -21,8 +21,7 @@
     "Administrative and political divisions",
     "Election districts",
     "Street-railroads",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Clark Library Map Collections"
   ],
   "dct_temporal_sm": [
     "c1895"
@@ -59,6 +58,5 @@
   "dct_identifier_sm": [
     "d7e10658-5d4d-477a-98c2-db8b8dbfec13"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

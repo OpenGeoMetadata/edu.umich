@@ -13,11 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1897"
   ],
@@ -53,6 +48,5 @@
   "dct_identifier_sm": [
     "6424cb17-c8da-48b3-944d-2f5ce8cbab14"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

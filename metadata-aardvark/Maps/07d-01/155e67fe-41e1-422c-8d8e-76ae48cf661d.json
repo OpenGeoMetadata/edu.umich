@@ -24,7 +24,7 @@
   ],
   "dct_subject_sm": [
     "Indigenous people",
-    "American Indians",
+    "Indians of North America",
     "Indian reservations",
     "Colonization"
   ],
@@ -32,10 +32,7 @@
     "Indian reservations United States Maps.",
     "Literary landmarks United States Maps.",
     "Literary landmarks Canada Maps.",
-    "Literary landmarks Mexico Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Literary landmarks Mexico Maps."
   ],
   "dct_temporal_sm": [
     "1985"
@@ -74,6 +71,5 @@
     "001956892",
     "39015016336854"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

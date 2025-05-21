@@ -15,10 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1831"
   ],
@@ -31,8 +27,8 @@
   "dct_spatial_sm": [
     "New York--New York"
   ],
-  "locn_geometry": "POLYGON((-81 45, -71 45, -71 40, -81 40, -81 45))",
-  "dcat_bbox": "ENVELOPE(-81,-71,45,40)",
+  "locn_geometry": "POLYGON((-81.000 45.000, -71.000 45.000, -71.000 40.000, -81.000 40.000, -81.000 45.000))",
+  "dcat_bbox": "ENVELOPE(-81.000,-71.000,45.000,40.000)",
   "dcat_centroid": "42.5,-76.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "8689bce2-88a5-4d7c-a9a5-4c0e48a7f5e7"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

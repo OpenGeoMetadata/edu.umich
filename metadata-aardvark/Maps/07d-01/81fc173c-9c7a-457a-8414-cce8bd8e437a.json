@@ -14,10 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1849"
   ],
@@ -52,6 +48,5 @@
   "dct_identifier_sm": [
     "81fc173c-9c7a-457a-8414-cce8bd8e437a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

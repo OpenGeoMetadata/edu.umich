@@ -20,11 +20,6 @@
   "dct_subject_sm": [
     "Real property"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1916"
   ],
@@ -39,9 +34,9 @@
     "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.799572 42.323889, -83.675807 42.323889, -83.675807 42.222668, -83.799572 42.222668, -83.799572 42.323889))",
-  "dcat_bbox": "ENVELOPE(-83.799572,-83.675807,42.323889,42.222668)",
-  "dcat_centroid": "42.2732785,-83.7376895",
+  "locn_geometry": "POLYGON((-83.800 42.324, -83.676 42.324, -83.676 42.223, -83.800 42.223, -83.800 42.324))",
+  "dcat_bbox": "ENVELOPE(-83.800,-83.676,42.324,42.223)",
+  "dcat_centroid": "42.2735,-83.738",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -65,6 +60,5 @@
   "dct_identifier_sm": [
     "a40c112a-e108-4045-b4cb-869ac8b6969d"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

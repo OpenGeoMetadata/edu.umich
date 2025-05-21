@@ -30,11 +30,6 @@
   "gbl_resourceType_sm": [
     "Nautical charts"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1867 and 1887"
   ],
@@ -71,6 +66,5 @@
   "dct_identifier_sm": [
     "953d521a-e8f7-4b0a-b9bd-4305a3795916"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

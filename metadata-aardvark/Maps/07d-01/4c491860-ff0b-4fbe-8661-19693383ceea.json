@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Administrative and political divisions",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Administrative and political divisions"
   ],
   "dct_temporal_sm": [
     "1843"
@@ -52,6 +50,5 @@
   "dct_identifier_sm": [
     "4c491860-ff0b-4fbe-8661-19693383ceea"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -16,9 +16,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real property Michigan Saint Joseph Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Real property Michigan Saint Joseph Maps."
   ],
   "dct_issued_s": "185-?",
   "gbl_indexYear_im": [
@@ -31,9 +29,9 @@
     "Michigan--Saint Joseph",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-86.484492 42.113691, -86.475061 42.113691, -86.475061 42.105796, -86.484492 42.105796, -86.484492 42.113691))",
-  "dcat_bbox": "ENVELOPE(-86.484492,-86.475061,42.113691,42.105796)",
-  "dcat_centroid": "42.1097435,-86.4797765",
+  "locn_geometry": "POLYGON((-86.48 42.111, -86.47 42.111, -86.47 42.11, -86.48 42.11, -86.48 42.111))",
+  "dcat_bbox": "ENVELOPE(-86.48,-86.47,42.111,42.11)",
+  "dcat_centroid": "42.1105,-86.475",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +53,5 @@
     "005427293",
     "39015091897135"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -15,11 +15,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1869"
@@ -34,9 +30,9 @@
     "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.784897 42.315709, -83.697693 42.315709, -83.697693 42.252718, -83.784897 42.252718, -83.784897 42.315709))",
-  "dcat_bbox": "ENVELOPE(-83.784897,-83.697693,42.315709,42.252718)",
-  "dcat_centroid": "42.2842135,-83.74129500000001",
+  "locn_geometry": "POLYGON((-83.785 42.316, -83.698 42.316, -83.698 42.253, -83.785 42.253, -83.785 42.316))",
+  "dcat_bbox": "ENVELOPE(-83.785,-83.698,42.316,42.253)",
+  "dcat_centroid": "42.2845,-83.7415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +52,5 @@
   "dct_identifier_sm": [
     "c0b81609-f233-4004-a5de-6e86ebdace1e"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

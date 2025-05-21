@@ -15,9 +15,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Inland navigation",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Inland navigation"
   ],
   "dct_temporal_sm": [
     "1825"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "a730db5b-2a2d-46bd-8bf4-0d0b3c7bd2cc"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

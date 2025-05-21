@@ -17,9 +17,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Rivers",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Rivers"
   ],
   "dct_temporal_sm": [
     "1630"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "55087db7-e813-4618-b553-ca9a2e7432fc"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

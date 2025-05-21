@@ -15,9 +15,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Administrative and political divisions",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Administrative and political divisions"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -31,8 +29,8 @@
   "dct_spatial_sm": [
     "Canada--British Columbia"
   ],
-  "locn_geometry": "POLYGON((-141 61, -111 61, -111 48, -141 48, -141 61))",
-  "dcat_bbox": "ENVELOPE(-141,-111,61,48)",
+  "locn_geometry": "POLYGON((-141.000 61.000, -111.000 61.000, -111.000 48.000, -141.000 48.000, -141.000 61.000))",
+  "dcat_bbox": "ENVELOPE(-141.000,-111.000,61.000,48.000)",
   "dcat_centroid": "54.5,-126.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "d33c5267-3839-41fb-8a90-79f5081ddebf"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1757"
   ],
@@ -29,9 +25,9 @@
   "dct_spatial_sm": [
     "France-- Île-de-France--Quartier latin"
   ],
-  "locn_geometry": "POLYGON((2.337688 48.854336, 2.354406 48.854336, 2.354406 48.843146, 2.337688 48.843146, 2.337688 48.854336))",
-  "dcat_bbox": "ENVELOPE(2.337688,2.354406,48.854336,48.843146)",
-  "dcat_centroid": "48.848741000000004,2.346047",
+  "locn_geometry": "POLYGON((2.338 48.854, 2.354 48.854, 2.354 48.843, 2.338 48.843, 2.338 48.854))",
+  "dcat_bbox": "ENVELOPE(2.338,2.354,48.854,48.843)",
+  "dcat_centroid": "48.8485,2.346",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,6 +47,5 @@
   "dct_identifier_sm": [
     "ec3e347f-2d21-4bbe-9e54-99856a724111"
   ],
-  "gbl_mdModified_dt": "2023-06-29T19:30:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

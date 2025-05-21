@@ -27,10 +27,7 @@
   ],
   "dcat_keyword_sm": [
     "Working class England London Maps.",
-    "Poor England London Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Poor England London Maps."
   ],
   "dct_temporal_sm": [
     "between 1600 and 1680"
@@ -46,9 +43,9 @@
     "Spain--Balearic Islands",
     "Spain"
   ],
-  "locn_geometry": "POLYGON((1.157274 40.094587, 4.328026 40.094587, 4.328026 38.64045, 1.157274 38.64045, 1.157274 40.094587))",
-  "dcat_bbox": "ENVELOPE(1.157274,4.328026,40.094587,38.64045)",
-  "dcat_centroid": "39.3675185,2.7426500000000003",
+  "locn_geometry": "POLYGON((1.157 40.095, 4.328 40.095, 4.328 38.640, 1.157 38.640, 1.157 40.095))",
+  "dcat_bbox": "ENVELOPE(1.157,4.328,40.095,38.640)",
+  "dcat_centroid": "39.3675,2.7425",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -70,6 +67,5 @@
     "003284865",
     "39015091191638_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

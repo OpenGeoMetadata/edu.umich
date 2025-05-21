@@ -16,10 +16,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1712"
   ],
@@ -33,8 +29,8 @@
   "dct_spatial_sm": [
     "Southern Africa"
   ],
-  "locn_geometry": "POLYGON((5 2, 55 2, 55 -35, 5 -35, 5 2))",
-  "dcat_bbox": "ENVELOPE(5,55,2,-35)",
+  "locn_geometry": "POLYGON((5.000 2.000, 55.000 2.000, 55.000 -35.000, 5.000 -35.000, 5.000 2.000))",
+  "dcat_bbox": "ENVELOPE(5.000,55.000,2.000,-35.000)",
   "dcat_centroid": "-16.5,30.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "3c7de89e-1a5b-477b-a793-74af40a4cb1e"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

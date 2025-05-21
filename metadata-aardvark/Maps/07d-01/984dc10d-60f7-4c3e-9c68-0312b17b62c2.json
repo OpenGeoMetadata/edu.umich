@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Postal service",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Postal service"
   ],
   "dct_temporal_sm": [
     "1909"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "984dc10d-60f7-4c3e-9c68-0312b17b62c2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

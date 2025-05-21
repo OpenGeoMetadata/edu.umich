@@ -21,9 +21,7 @@
   ],
   "dcat_keyword_sm": [
     "Geology",
-    "Marquette Iron Range",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Marquette Iron Range"
   ],
   "dct_temporal_sm": [
     "1881"
@@ -60,6 +58,5 @@
   "dct_identifier_sm": [
     "14a9b577-ad84-47c8-a283-f2991253e553"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

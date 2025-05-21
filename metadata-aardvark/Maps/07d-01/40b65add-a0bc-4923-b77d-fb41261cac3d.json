@@ -14,10 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1881"
   ],
@@ -30,8 +26,8 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-115 37, -103 37, -103 31, -115 31, -115 37))",
-  "dcat_bbox": "ENVELOPE(-115,-103,37,31)",
+  "locn_geometry": "POLYGON((-115.000 37.000, -103.000 37.000, -103.000 31.000, -115.000 31.000, -115.000 37.000))",
+  "dcat_bbox": "ENVELOPE(-115.000,-103.000,37.000,31.000)",
   "dcat_centroid": "34.0,-109.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +48,5 @@
   "dct_identifier_sm": [
     "40b65add-a0bc-4923-b77d-fb41261cac3d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

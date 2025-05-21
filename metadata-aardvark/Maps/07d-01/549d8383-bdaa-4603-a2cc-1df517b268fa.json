@@ -14,12 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Polar regions",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023",
-    "-180TO180"
+    "Polar regions"
   ],
   "dct_temporal_sm": [
     "1888"
@@ -33,8 +28,8 @@
   "dct_spatial_sm": [
     "Arctic Regions"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,85,58.48)",
-  "dcat_bbox": "ENVELOPE(-180,180,85,58.48)",
+  "locn_geometry": "POLYGON((-179.99 85.00, 179.99 85.00, 179.99 58.48, -179.99 58.48, -179.99 85.00))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,85.00,58.48)",
   "dcat_centroid": "71.74,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +50,5 @@
   "dct_identifier_sm": [
     "549d8383-bdaa-4603-a2cc-1df517b268fa"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

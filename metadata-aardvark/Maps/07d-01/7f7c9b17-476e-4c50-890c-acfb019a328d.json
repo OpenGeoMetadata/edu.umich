@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Ships",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Ships"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -31,8 +29,8 @@
     "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.09 42.35, -83 42.35, -83 42.3, -83.09 42.3, -83.09 42.35))",
-  "dcat_bbox": "ENVELOPE(-83.09,-83,42.35,42.3)",
+  "locn_geometry": "POLYGON((-83.090 42.350, -83.000 42.350, -83.000 42.300, -83.090 42.300, -83.090 42.350))",
+  "dcat_bbox": "ENVELOPE(-83.090,-83.000,42.350,42.300)",
   "dcat_centroid": "42.325,-83.045",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "7f7c9b17-476e-4c50-890c-acfb019a328d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

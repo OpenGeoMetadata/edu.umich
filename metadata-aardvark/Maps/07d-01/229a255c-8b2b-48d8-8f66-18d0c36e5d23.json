@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "169-?"
   ],
@@ -27,10 +23,11 @@
     "[1690 TO 1699]"
   ],
   "dct_spatial_sm": [
-    "North America"
+    "North America",
+    "Gulf of Mexico"
   ],
-  "locn_geometry": "POLYGON((-100 70, -75 70, -75 22, -100 22, -100 70))",
-  "dcat_bbox": "ENVELOPE(-100,-75,70,22)",
+  "locn_geometry": "POLYGON((-100.000 70.000, -75.000 70.000, -75.000 22.000, -100.000 22.000, -100.000 70.000))",
+  "dcat_bbox": "ENVELOPE(-100.000,-75.000,70.000,22.000)",
   "dcat_centroid": "46.0,-87.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,6 +48,5 @@
   "dct_identifier_sm": [
     "229a255c-8b2b-48d8-8f66-18d0c36e5d23"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

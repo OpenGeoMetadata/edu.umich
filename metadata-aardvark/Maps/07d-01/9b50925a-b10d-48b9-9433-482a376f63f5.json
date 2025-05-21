@@ -18,10 +18,7 @@
     "World maps"
   ],
   "dcat_keyword_sm": [
-    "Geology",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "-180TO180"
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1853"
@@ -35,8 +32,8 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "locn_geometry": "POLYGON((-179.99 89.99, 179.99 89.99, 179.99 -89.99, -179.99 -89.99, -179.99 89.99))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,89.99,-89.99)",
   "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +54,5 @@
   "dct_identifier_sm": [
     "9b50925a-b10d-48b9-9433-482a376f63f5"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

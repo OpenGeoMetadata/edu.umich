@@ -31,8 +31,7 @@
     "Mining",
     "Mineral resources",
     "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "sprint-mar2020"
   ],
   "dct_temporal_sm": [
     "1887"
@@ -69,6 +68,5 @@
   "dct_identifier_sm": [
     "730e2282-d670-48be-ae3f-6fa25ba6b387"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

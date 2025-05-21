@@ -20,9 +20,7 @@
     "Pictorial maps"
   ],
   "dcat_keyword_sm": [
-    "Buildings Michigan Ann Arbor.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Buildings Michigan Ann Arbor."
   ],
   "dct_temporal_sm": [
     "between 1971 and 1979"
@@ -39,9 +37,9 @@
     "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.7411551178 42.2787366489, -83.7354581058 42.2787366489, -83.7354581058 42.2745849068, -83.7411551178 42.2745849068, -83.7411551178 42.2787366489))",
-  "dcat_bbox": "ENVELOPE(-83.7411551178,-83.7354581058,42.2787366489,42.2745849068)",
-  "dcat_centroid": "42.27666077785,-83.7383066118",
+  "locn_geometry": "POLYGON((-83.741 42.279, -83.735 42.279, -83.735 42.275, -83.741 42.275, -83.741 42.279))",
+  "dcat_bbox": "ENVELOPE(-83.741,-83.735,42.279,42.275)",
+  "dcat_centroid": "42.277,-83.738",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +61,5 @@
     "012198555",
     "39015091885841"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

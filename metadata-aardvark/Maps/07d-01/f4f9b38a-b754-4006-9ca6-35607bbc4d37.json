@@ -13,12 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "Apr. 20th, 1871"
   ],
@@ -32,9 +26,9 @@
     "New York--Central Park",
     "New York--New York State"
   ],
-  "locn_geometry": "POLYGON((-73.981408 40.800314, -73.949606 40.800314, -73.949606 40.764745, -73.981408 40.764745, -73.981408 40.800314))",
-  "dcat_bbox": "ENVELOPE(-73.981408,-73.949606,40.800314,40.764745)",
-  "dcat_centroid": "40.782529499999995,-73.965507",
+  "locn_geometry": "POLYGON((-73.981 40.800, -73.950 40.800, -73.950 40.765, -73.981 40.765, -73.981 40.800))",
+  "dcat_bbox": "ENVELOPE(-73.981,-73.950,40.800,40.765)",
+  "dcat_centroid": "40.7825,-73.96549999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +48,5 @@
   "dct_identifier_sm": [
     "f4f9b38a-b754-4006-9ca6-35607bbc4d37"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -24,10 +24,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "",
-    "2022-creator-sprint"
-  ],
   "dct_issued_s": "Tenmei 7 1787",
   "gbl_indexYear_im": [
     "1787"
@@ -62,6 +58,5 @@
     "003109976",
     "39015091920556_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

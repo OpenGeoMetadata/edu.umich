@@ -25,8 +25,7 @@
     "Mines",
     "Mining",
     "Coal mines",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Clark Library Map Collections"
   ],
   "dct_temporal_sm": [
     "1889"
@@ -63,6 +62,5 @@
   "dct_identifier_sm": [
     "b15e1bd8-fc18-4d23-912e-f7328a08994b"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

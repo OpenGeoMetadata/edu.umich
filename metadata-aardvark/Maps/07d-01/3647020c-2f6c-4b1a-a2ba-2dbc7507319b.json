@@ -17,11 +17,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "Appoximately 1709"
   ],
@@ -57,6 +52,5 @@
   "dct_identifier_sm": [
     "3647020c-2f6c-4b1a-a2ba-2dbc7507319b"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

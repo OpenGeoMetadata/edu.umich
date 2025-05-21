@@ -23,9 +23,7 @@
     "Land use",
     "Schools",
     "School districts",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Clark Library Map Collections"
   ],
   "dct_temporal_sm": [
     "1880"
@@ -63,6 +61,5 @@
   "dct_identifier_sm": [
     "0de794de-72d5-483f-860e-f7768bd6deb0"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -21,10 +21,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Geology New York (State) Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Geology New York (State) Maps."
   ],
   "dct_temporal_sm": [
     "between 1795 and 1867"
@@ -39,9 +36,9 @@
   "dct_spatial_sm": [
     "New York"
   ],
-  "locn_geometry": "POLYGON((-74.258843 40.91763, -73.700233 40.91763, -73.700233 40.476578, -74.258843 40.476578, -74.258843 40.91763))",
-  "dcat_bbox": "ENVELOPE(-74.258843,-73.700233,40.91763,40.476578)",
-  "dcat_centroid": "40.697104,-73.97953799999999",
+  "locn_geometry": "POLYGON((-74.259 40.918, -73.700 40.918, -73.700 40.477, -74.259 40.477, -74.259 40.918))",
+  "dcat_bbox": "ENVELOPE(-74.259,-73.700,40.918,40.477)",
+  "dcat_centroid": "40.6975,-73.9795",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +60,5 @@
     "008501380",
     "39015091910748"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

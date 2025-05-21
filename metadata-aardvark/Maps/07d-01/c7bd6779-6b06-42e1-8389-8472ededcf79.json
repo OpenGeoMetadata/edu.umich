@@ -21,9 +21,7 @@
   ],
   "dcat_keyword_sm": [
     "Subways New York (State) New York Maps.",
-    "Railroads New York (State) New York Commuting traffic Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Railroads New York (State) New York Commuting traffic Maps."
   ],
   "dct_temporal_sm": [
     "1910"
@@ -39,9 +37,9 @@
     "New York--New York City",
     "New York"
   ],
-  "locn_geometry": "POLYGON((-74.047196 40.882012, -73.906769 40.882012, -73.906769 40.679654, -74.047196 40.679654, -74.047196 40.882012))",
-  "dcat_bbox": "ENVELOPE(-74.047196,-73.906769,40.882012,40.679654)",
-  "dcat_centroid": "40.780833,-73.97698249999999",
+  "locn_geometry": "POLYGON((-74.047 40.882, -73.907 40.882, -73.907 40.680, -74.047 40.680, -74.047 40.882))",
+  "dcat_bbox": "ENVELOPE(-74.047,-73.907,40.882,40.680)",
+  "dcat_centroid": "40.781,-73.977",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +61,5 @@
     "004014312",
     "39015091194855"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -21,9 +21,7 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Explorations and surveys",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Explorations and surveys"
   ],
   "dct_temporal_sm": [
     "1858"
@@ -37,8 +35,8 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-126 50, -86 50, -86 22, -126 22, -126 50))",
-  "dcat_bbox": "ENVELOPE(-126,-86,50,22)",
+  "locn_geometry": "POLYGON((-126.000 50.000, -86.000 50.000, -86.000 22.000, -126.000 22.000, -126.000 50.000))",
+  "dcat_bbox": "ENVELOPE(-126.000,-86.000,50.000,22.000)",
   "dcat_centroid": "36.0,-106.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -59,6 +57,5 @@
   "dct_identifier_sm": [
     "63e6b432-b268-4e40-96cd-b5320b48a676"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

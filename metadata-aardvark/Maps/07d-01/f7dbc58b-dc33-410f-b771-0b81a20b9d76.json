@@ -18,10 +18,6 @@
     "Pictorial maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1944"
   ],
@@ -34,12 +30,12 @@
   ],
   "dct_spatial_sm": [
     "Canada-- Ontario--Simcoe County",
-    " Canada--Ontario",
+    "Canada--Ontario",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-80.51594 44.941816, -79.08206 44.941816, -79.08206 43.951406, -80.51594 43.951406, -80.51594 44.941816))",
-  "dcat_bbox": "ENVELOPE(-80.51594,-79.08206,44.941816,43.951406)",
-  "dcat_centroid": "44.446611000000004,-79.799",
+  "locn_geometry": "POLYGON((-80.516 44.942, -79.082 44.942, -79.082 43.951, -80.516 43.951, -80.516 44.942))",
+  "dcat_bbox": "ENVELOPE(-80.516,-79.082,44.942,43.951)",
+  "dcat_centroid": "44.4465,-79.799",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -61,6 +57,5 @@
     "003287671",
     "39015091887912"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

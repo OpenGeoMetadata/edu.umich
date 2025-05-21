@@ -21,9 +21,7 @@
     "Road maps"
   ],
   "dcat_keyword_sm": [
-    "Roads",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Roads"
   ],
   "dct_temporal_sm": [
     "1825"
@@ -37,8 +35,8 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-87.75 42.4, -83 42.4, -83 41.5, -87.75 41.5, -87.75 42.4))",
-  "dcat_bbox": "ENVELOPE(-87.75,-83,42.4,41.5)",
+  "locn_geometry": "POLYGON((-87.750 42.400, -83.000 42.400, -83.000 41.500, -87.750 41.500, -87.750 42.400))",
+  "dcat_bbox": "ENVELOPE(-87.750,-83.000,42.400,41.500)",
   "dcat_centroid": "41.95,-85.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -59,6 +57,5 @@
   "dct_identifier_sm": [
     "13bb56f3-bde9-4ae6-89ac-dab412119bc4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

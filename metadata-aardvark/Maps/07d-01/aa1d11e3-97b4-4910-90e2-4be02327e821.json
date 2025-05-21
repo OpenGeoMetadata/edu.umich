@@ -18,9 +18,7 @@
   ],
   "dcat_keyword_sm": [
     "Administrative and political divisions",
-    "Roads",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Roads"
   ],
   "dct_temporal_sm": [
     "Kansei 3 1791"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "aa1d11e3-97b4-4910-90e2-4be02327e821"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

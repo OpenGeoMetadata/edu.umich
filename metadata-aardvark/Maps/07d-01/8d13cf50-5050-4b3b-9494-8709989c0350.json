@@ -15,9 +15,7 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Landowners",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Landowners"
   ],
   "dct_temporal_sm": [
     "1915"
@@ -54,6 +52,5 @@
   "dct_identifier_sm": [
     "8d13cf50-5050-4b3b-9494-8709989c0350"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

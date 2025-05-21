@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1636"
   ],
@@ -33,8 +29,8 @@
     "France-- Pays de la Loire--Anjou",
     "France"
   ],
-  "locn_geometry": "POLYGON((-1.5 47.83, 1 47.83, 1 46.5, -1.5 46.5, -1.5 47.83))",
-  "dcat_bbox": "ENVELOPE(-1.5,1,47.83,46.5)",
+  "locn_geometry": "POLYGON((-1.500 47.830, 1.000 47.830, 1.000 46.500, -1.500 46.500, -1.500 47.830))",
+  "dcat_bbox": "ENVELOPE(-1.500,1.000,47.830,46.500)",
   "dcat_centroid": "47.165,-0.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "cdc3bd83-eea6-4dc4-b7ab-3194900f535f"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

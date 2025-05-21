@@ -27,10 +27,7 @@
   "dcat_keyword_sm": [
     "American literature Maps.",
     "Literary landmarks United States Maps.",
-    "Food supply United States Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Food supply United States Maps."
   ],
   "dct_temporal_sm": [
     "1939"
@@ -69,6 +66,5 @@
     "000887611",
     "39015091887920"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

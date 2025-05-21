@@ -13,11 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1874"
   ],
@@ -31,8 +26,8 @@
   "dct_spatial_sm": [
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-87.7 47, -82.35 47, -82.35 41.4, -87.7 41.4, -87.7 47))",
-  "dcat_bbox": "ENVELOPE(-87.7,-82.35,47,41.4)",
+  "locn_geometry": "POLYGON((-87.700 47.000, -82.350 47.000, -82.350 41.400, -87.700 41.400, -87.700 47.000))",
+  "dcat_bbox": "ENVELOPE(-87.700,-82.350,47.000,41.400)",
   "dcat_centroid": "44.2,-85.025",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +48,5 @@
   "dct_identifier_sm": [
     "04faa65b-7de6-4607-bcd8-02789c6604af"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

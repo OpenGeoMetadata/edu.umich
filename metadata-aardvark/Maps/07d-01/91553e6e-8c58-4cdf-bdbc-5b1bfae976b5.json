@@ -21,11 +21,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -40,9 +35,9 @@
     "Spain--Andalusia",
     "Spain"
   ],
-  "locn_geometry": "POLYGON((-7.5382 38.704, -1.6275 38.704, -1.6275 36.0327, -7.5382 36.0327, -7.5382 38.704))",
-  "dcat_bbox": "ENVELOPE(-7.5382,-1.6275,38.704,36.0327)",
-  "dcat_centroid": "37.36835,-4.58285",
+  "locn_geometry": "POLYGON((-7.538 38.704, -1.627 38.704, -1.627 36.033, -7.538 36.033, -7.538 38.704))",
+  "dcat_bbox": "ENVELOPE(-7.538,-1.627,38.704,36.033)",
+  "dcat_centroid": "37.3685,-4.5825000000000005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -64,6 +59,5 @@
     "003281269",
     "39015091191653_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

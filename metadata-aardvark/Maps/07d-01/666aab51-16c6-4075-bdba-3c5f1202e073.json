@@ -15,10 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1838"
   ],
@@ -32,8 +28,8 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-85 41.97, -80.35 41.97, -80.35 38.27, -85 38.27, -85 41.97))",
-  "dcat_bbox": "ENVELOPE(-85,-80.35,41.97,38.27)",
+  "locn_geometry": "POLYGON((-85.000 41.970, -80.350 41.970, -80.350 38.270, -85.000 38.270, -85.000 41.970))",
+  "dcat_bbox": "ENVELOPE(-85.000,-80.350,41.970,38.270)",
   "dcat_centroid": "40.120000000000005,-82.675",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,6 +50,5 @@
   "dct_identifier_sm": [
     "666aab51-16c6-4075-bdba-3c5f1202e073"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1708"
   ],
@@ -30,9 +26,9 @@
     "Belgium-- Wallonia--Mons",
     "Belgium"
   ],
-  "locn_geometry": "POLYGON((3.85478 50.513811, 4.085104 50.513811, 4.085104 50.377753, 3.85478 50.377753, 3.85478 50.513811))",
-  "dcat_bbox": "ENVELOPE(3.85478,4.085104,50.513811,50.377753)",
-  "dcat_centroid": "50.445781999999994,3.969942",
+  "locn_geometry": "POLYGON((3.855 50.514, 4.085 50.514, 4.085 50.378, 3.855 50.378, 3.855 50.514))",
+  "dcat_bbox": "ENVELOPE(3.855,4.085,50.514,50.378)",
+  "dcat_centroid": "50.446,3.9699999999999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,6 +48,5 @@
   "dct_identifier_sm": [
     "6e238992-730c-466c-85d2-d831bfd43936"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

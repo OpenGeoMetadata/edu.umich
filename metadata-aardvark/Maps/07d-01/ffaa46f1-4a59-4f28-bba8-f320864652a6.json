@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Landowners",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Landowners"
   ],
   "dct_temporal_sm": [
     "1847"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "ffaa46f1-4a59-4f28-bba8-f320864652a6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,8 +25,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Historical markers California Maps.",
-    "2022-creator-sprint"
+    "Historical markers California Maps."
   ],
   "dct_issued_s": "1847",
   "gbl_indexYear_im": [
@@ -38,8 +37,8 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "POLYGON((-122.85 39, -93 39, -93 30, -122.85 30, -122.85 39))",
-  "dcat_bbox": "ENVELOPE(-122.85,-93,39,30)",
+  "locn_geometry": "POLYGON((-122.850 39.000, -93.000 39.000, -93.000 30.000, -122.850 30.000, -122.850 39.000))",
+  "dcat_bbox": "ENVELOPE(-122.850,-93.000,39.000,30.000)",
   "dcat_centroid": "34.5,-107.925",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -62,6 +61,5 @@
     "003279588",
     "39015091905607_0001"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

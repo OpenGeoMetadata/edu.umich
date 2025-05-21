@@ -17,11 +17,7 @@
   ],
   "dcat_keyword_sm": [
     "Harbors",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "FixedBBoxes"
   ],
   "dct_temporal_sm": [
     "1856"
@@ -37,9 +33,9 @@
     "Wisconsin--Sheboygan Bay",
     "Wisconsin"
   ],
-  "locn_geometry": "POLYGON((-87.760945 43.780463, -87.684728 43.780463, -87.684728 43.72456, -87.760945 43.72456, -87.760945 43.780463))",
-  "dcat_bbox": "ENVELOPE(-87.760945,-87.684728,43.780463,43.72456)",
-  "dcat_centroid": "43.7525115,-87.7228365",
+  "locn_geometry": "POLYGON((-87.761 43.780, -87.685 43.780, -87.685 43.725, -87.761 43.725, -87.761 43.780))",
+  "dcat_bbox": "ENVELOPE(-87.761,-87.685,43.780,43.725)",
+  "dcat_centroid": "43.7525,-87.723",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,6 +55,5 @@
   "dct_identifier_sm": [
     "e38905ff-cc78-4c78-a9e7-3f2c8a90fb2c"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

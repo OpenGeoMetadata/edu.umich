@@ -19,10 +19,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1877"
   ],
@@ -35,8 +31,8 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "locn_geometry": "POLYGON((-12.5 39.17, -5 39.17, -5 36.33, -12.5 36.33, -12.5 39.17))",
-  "dcat_bbox": "ENVELOPE(-12.5,-5,39.17,36.33)",
+  "locn_geometry": "POLYGON((-12.500 39.170, -5.000 39.170, -5.000 36.330, -12.500 36.330, -12.500 39.170))",
+  "dcat_bbox": "ENVELOPE(-12.500,-5.000,39.170,36.330)",
   "dcat_centroid": "37.75,-8.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +53,5 @@
   "dct_identifier_sm": [
     "94fcef12-5540-437b-a61a-4ddffc2e2104"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

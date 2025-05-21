@@ -25,10 +25,7 @@
     "Butterfly map.",
     "Shipping Maps.",
     "Steamboat lines Maps.",
-    "World maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "World maps."
   ],
   "dct_temporal_sm": [
     "approximately 1913"
@@ -44,9 +41,9 @@
     "California--Port of San Francisco",
     "California"
   ],
-  "locn_geometry": "POLYGON((-123.173825 37.929811, -122.281479 37.929811, -122.281479 37.640314, -123.173825 37.640314, -123.173825 37.929811))",
-  "dcat_bbox": "ENVELOPE(-123.173825,-122.281479,37.929811,37.640314)",
-  "dcat_centroid": "37.785062499999995,-122.727652",
+  "locn_geometry": "POLYGON((-123.174 37.930, -122.281 37.930, -122.281 37.640, -123.174 37.640, -123.174 37.930))",
+  "dcat_bbox": "ENVELOPE(-123.174,-122.281,37.930,37.640)",
+  "dcat_centroid": "37.785,-122.7275",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -68,6 +65,5 @@
     "003608693",
     "39015095414390_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

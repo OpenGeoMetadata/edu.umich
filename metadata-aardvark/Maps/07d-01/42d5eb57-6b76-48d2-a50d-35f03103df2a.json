@@ -18,10 +18,7 @@
     "Geological cross-sections"
   ],
   "dcat_keyword_sm": [
-    "Inland navigation",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Inland navigation"
   ],
   "dct_temporal_sm": [
     "Approximately 1895"
@@ -36,9 +33,9 @@
   "dct_spatial_sm": [
     "Great Lakes"
   ],
-  "locn_geometry": "POLYGON((-92.256 49.0839, -76.0731 49.0839, -76.0731 41.4378, -92.256 41.4378, -92.256 49.0839))",
-  "dcat_bbox": "ENVELOPE(-92.256,-76.0731,49.0839,41.4378)",
-  "dcat_centroid": "45.260850000000005,-84.16454999999999",
+  "locn_geometry": "POLYGON((-92.256 49.084, -76.073 49.084, -76.073 41.438, -92.256 41.438, -92.256 49.084))",
+  "dcat_bbox": "ENVELOPE(-92.256,-76.073,49.084,41.438)",
+  "dcat_centroid": "45.261,-84.1645",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +55,5 @@
   "dct_identifier_sm": [
     "42d5eb57-6b76-48d2-a50d-35f03103df2a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -27,10 +27,7 @@
   "dcat_keyword_sm": [
     "Geology Michigan Maps.",
     "Maps shelf.",
-    "Geology Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Geology Maps."
   ],
   "dct_temporal_sm": [
     "1863"
@@ -46,9 +43,9 @@
     "Michigan--Keweenaw Peninsula",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-88.502756 47.502898, -87.555185 47.502898, -87.555185 47.183255, -88.502756 47.183255, -88.502756 47.502898))",
-  "dcat_bbox": "ENVELOPE(-88.502756,-87.555185,47.502898,47.183255)",
-  "dcat_centroid": "47.3430765,-88.0289705",
+  "locn_geometry": "POLYGON((-88.503 47.503, -87.555 47.503, -87.555 47.183, -88.503 47.183, -88.503 47.503))",
+  "dcat_bbox": "ENVELOPE(-88.503,-87.555,47.503,47.183)",
+  "dcat_centroid": "47.343,-88.029",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -70,6 +67,5 @@
     "013915415",
     "39015091898836_0001"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

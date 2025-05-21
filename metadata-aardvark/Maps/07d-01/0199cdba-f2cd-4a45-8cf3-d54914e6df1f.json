@@ -15,9 +15,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Land use",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Land use"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -31,8 +29,8 @@
   "dct_spatial_sm": [
     "Canada--Alberta"
   ],
-  "locn_geometry": "POLYGON((-115.25 51.5, -110.75 51.5, -110.75 49, -115.25 49, -115.25 51.5))",
-  "dcat_bbox": "ENVELOPE(-115.25,-110.75,51.5,49)",
+  "locn_geometry": "POLYGON((-115.250 51.500, -110.750 51.500, -110.750 49.000, -115.250 49.000, -115.250 51.500))",
+  "dcat_bbox": "ENVELOPE(-115.250,-110.750,51.500,49.000)",
   "dcat_centroid": "50.25,-113.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "0199cdba-f2cd-4a45-8cf3-d54914e6df1f"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

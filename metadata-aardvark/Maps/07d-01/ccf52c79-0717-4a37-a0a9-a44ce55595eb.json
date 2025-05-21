@@ -21,11 +21,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -40,9 +35,9 @@
     "France--Bourgogne-Franche-Comté",
     "France"
   ],
-  "locn_geometry": "POLYGON((2.8445 48.4001, 7.1433 48.4001, 7.1433 46.156, 2.8445 46.156, 2.8445 48.4001))",
-  "dcat_bbox": "ENVELOPE(2.8445,7.1433,48.4001,46.156)",
-  "dcat_centroid": "47.27805,4.9939",
+  "locn_geometry": "POLYGON((2.845 48.400, 7.143 48.400, 7.143 46.156, 2.845 46.156, 2.845 48.400))",
+  "dcat_bbox": "ENVELOPE(2.845,7.143,48.400,46.156)",
+  "dcat_centroid": "47.278,4.994",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -64,6 +59,5 @@
     "004076025",
     "39015091191216_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

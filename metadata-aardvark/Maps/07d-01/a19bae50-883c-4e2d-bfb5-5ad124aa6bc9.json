@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1894"
   ],
@@ -29,8 +25,8 @@
   "dct_spatial_sm": [
     "D.C.-- Washington--Washington DC"
   ],
-  "locn_geometry": "POLYGON((-77.18 39, -76.9 39, -76.9 38.78, -77.18 38.78, -77.18 39))",
-  "dcat_bbox": "ENVELOPE(-77.18,-76.9,39,38.78)",
+  "locn_geometry": "POLYGON((-77.180 39.000, -76.900 39.000, -76.900 38.780, -77.180 38.780, -77.180 39.000))",
+  "dcat_bbox": "ENVELOPE(-77.180,-76.900,39.000,38.780)",
   "dcat_centroid": "38.89,-77.04",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,6 +47,5 @@
   "dct_identifier_sm": [
     "a19bae50-883c-4e2d-bfb5-5ad124aa6bc9"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

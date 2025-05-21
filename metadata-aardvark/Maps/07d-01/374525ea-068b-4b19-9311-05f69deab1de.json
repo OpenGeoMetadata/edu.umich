@@ -21,11 +21,6 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1892-1893"
   ],
@@ -40,9 +35,9 @@
     "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-87.662738 41.914597, -87.594417 41.914597, -87.594417 41.840465, -87.662738 41.840465, -87.662738 41.914597))",
-  "dcat_bbox": "ENVELOPE(-87.662738,-87.594417,41.914597,41.840465)",
-  "dcat_centroid": "41.877531000000005,-87.6285775",
+  "locn_geometry": "POLYGON((-87.663 41.915, -87.594 41.915, -87.594 41.840, -87.663 41.840, -87.663 41.915))",
+  "dcat_bbox": "ENVELOPE(-87.663,-87.594,41.915,41.840)",
+  "dcat_centroid": "41.8775,-87.6285",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -64,6 +59,5 @@
     "004053936",
     "39015091899461_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

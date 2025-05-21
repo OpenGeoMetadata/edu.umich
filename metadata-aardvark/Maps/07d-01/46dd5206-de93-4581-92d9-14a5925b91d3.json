@@ -24,10 +24,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1631 and 1637"
   ],
@@ -40,12 +36,12 @@
   ],
   "dct_spatial_sm": [
     "Bourgogne-Franche-Comté-- France--Nivernais",
-    " France--Bourgogne-Franche-Comté",
+    "France--Bourgogne-Franche-Comté",
     "France"
   ],
-  "locn_geometry": "POLYGON((4.041119 49.383787, 4.098831 49.383787, 4.098831 49.324898, 4.041119 49.324898, 4.041119 49.383787))",
-  "dcat_bbox": "ENVELOPE(4.041119,4.098831,49.383787,49.324898)",
-  "dcat_centroid": "49.3543425,4.0699749999999995",
+  "locn_geometry": "POLYGON((4.041 49.384, 4.099 49.384, 4.099 49.325, 4.041 49.325, 4.041 49.384))",
+  "dcat_bbox": "ENVELOPE(4.041,4.099,49.384,49.325)",
+  "dcat_centroid": "49.3545,4.07",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,6 +63,5 @@
     "004076015",
     "39015091191539_01"
   ],
-  "gbl_mdModified_dt": "2023-02-28T04:15:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

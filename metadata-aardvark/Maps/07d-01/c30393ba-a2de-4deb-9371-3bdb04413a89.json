@@ -15,12 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "1833"
   ],
@@ -34,9 +28,9 @@
     "Germany--Saxony--Dresden",
     "Germany"
   ],
-  "locn_geometry": "POLYGON((13.704002 51.077641, 13.779533 51.077641, 13.779533 51.035345, 13.704002 51.035345, 13.704002 51.077641))",
-  "dcat_bbox": "ENVELOPE(13.704002,13.779533,51.077641,51.035345)",
-  "dcat_centroid": "51.056493,13.7417675",
+  "locn_geometry": "POLYGON((13.704 51.078, 13.780 51.078, 13.780 51.035, 13.704 51.035, 13.704 51.078))",
+  "dcat_bbox": "ENVELOPE(13.704,13.780,51.078,51.035)",
+  "dcat_centroid": "51.0565,13.742",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +50,5 @@
   "dct_identifier_sm": [
     "c30393ba-a2de-4deb-9371-3bdb04413a89"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

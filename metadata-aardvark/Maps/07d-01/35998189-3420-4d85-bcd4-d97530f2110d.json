@@ -16,10 +16,7 @@
   "dcat_keyword_sm": [
     "Sewers",
     "Sewerage",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "FixedBBoxes"
   ],
   "dct_temporal_sm": [
     "1857"
@@ -34,9 +31,9 @@
     "New York--New York",
     "New York--New York State"
   ],
-  "locn_geometry": "POLYGON((-74.023614 40.783351, -73.939446 40.783351, -73.939446 40.699807, -74.023614 40.699807, -74.023614 40.783351))",
-  "dcat_bbox": "ENVELOPE(-74.023614,-73.939446,40.783351,40.699807)",
-  "dcat_centroid": "40.741579,-73.98152999999999",
+  "locn_geometry": "POLYGON((-74.024 40.783, -73.939 40.783, -73.939 40.700, -74.024 40.700, -74.024 40.783))",
+  "dcat_bbox": "ENVELOPE(-74.024,-73.939,40.783,40.700)",
+  "dcat_centroid": "40.7415,-73.9815",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +53,5 @@
   "dct_identifier_sm": [
     "35998189-3420-4d85-bcd4-d97530f2110d"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

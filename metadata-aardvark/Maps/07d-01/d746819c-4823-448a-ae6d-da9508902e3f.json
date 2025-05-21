@@ -16,11 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1856"
   ],
@@ -35,8 +30,8 @@
     "France-- Île-de-France--Paris",
     "France"
   ],
-  "locn_geometry": "POLYGON((2.08 49, 2.53 49, 2.53 48.75, 2.08 48.75, 2.08 49))",
-  "dcat_bbox": "ENVELOPE(2.08,2.53,49,48.75)",
+  "locn_geometry": "POLYGON((2.080 49.000, 2.530 49.000, 2.530 48.750, 2.080 48.750, 2.080 49.000))",
+  "dcat_bbox": "ENVELOPE(2.080,2.530,49.000,48.750)",
   "dcat_centroid": "48.875,2.3049999999999997",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +52,5 @@
   "dct_identifier_sm": [
     "d746819c-4823-448a-ae6d-da9508902e3f"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

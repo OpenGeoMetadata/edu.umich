@@ -21,9 +21,7 @@
     "Tourist maps"
   ],
   "dcat_keyword_sm": [
-    "Geology United States Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Geology United States Maps."
   ],
   "dct_temporal_sm": [
     "1946"
@@ -39,9 +37,9 @@
     "Hawaii--Oahu",
     "Hawaii"
   ],
-  "locn_geometry": "POLYGON((-158.098419 21.521483, -157.968643 21.521483, -157.968643 21.465899, -158.098419 21.465899, -158.098419 21.521483))",
-  "dcat_bbox": "ENVELOPE(-158.098419,-157.968643,21.521483,21.465899)",
-  "dcat_centroid": "21.493691,-158.03353099999998",
+  "locn_geometry": "POLYGON((-158.098 21.521, -157.969 21.521, -157.969 21.466, -158.098 21.466, -158.098 21.521))",
+  "dcat_bbox": "ENVELOPE(-158.098,-157.969,21.521,21.466)",
+  "dcat_centroid": "21.4935,-158.0335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +61,5 @@
     "003288808",
     "39015091887946"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

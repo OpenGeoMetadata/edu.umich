@@ -25,11 +25,6 @@
     "Cadastral maps",
     "Topographic maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1798"
   ],
@@ -42,12 +37,12 @@
   ],
   "dct_spatial_sm": [
     "Canada-- Ontario--Fort Erie",
-    " Canada--Ontario",
+    "Canada--Ontario",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-79.122551 42.984056, -78.905951 42.984056, -78.905951 42.831998, -79.122551 42.831998, -79.122551 42.984056))",
-  "dcat_bbox": "ENVELOPE(-79.122551,-78.905951,42.984056,42.831998)",
-  "dcat_centroid": "42.908027000000004,-79.014251",
+  "locn_geometry": "POLYGON((-79.123 42.984, -78.906 42.984, -78.906 42.832, -79.123 42.832, -79.123 42.984))",
+  "dcat_bbox": "ENVELOPE(-79.123,-78.906,42.984,42.832)",
+  "dcat_centroid": "42.908,-79.0145",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -69,6 +64,5 @@
     "013490813",
     "39015060935973"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,11 +20,6 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1864"
   ],
@@ -60,6 +55,5 @@
   "dct_identifier_sm": [
     "3bb31551-a779-4bb5-824e-0a7757d4ecaf"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

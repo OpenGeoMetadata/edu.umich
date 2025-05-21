@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1854"
@@ -53,6 +51,5 @@
   "dct_identifier_sm": [
     "2ef98959-3a5a-4359-8e86-577310a40491"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

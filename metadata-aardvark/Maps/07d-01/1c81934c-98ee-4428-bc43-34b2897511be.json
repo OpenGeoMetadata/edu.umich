@@ -16,10 +16,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1720 and 1729"
   ],
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "1c81934c-98ee-4428-bc43-34b2897511be"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

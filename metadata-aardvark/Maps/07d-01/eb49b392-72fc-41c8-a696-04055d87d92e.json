@@ -23,9 +23,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Landowners Michigan Washtenaw County (Mich.) Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Landowners Michigan Washtenaw County (Mich.) Maps."
   ],
   "dct_temporal_sm": [
     "1894"
@@ -41,9 +39,9 @@
     "Michigan--Washtenaw County",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-84.134066 42.435185, -83.539396 42.435185, -83.539396 42.071577, -84.134066 42.071577, -84.134066 42.435185))",
-  "dcat_bbox": "ENVELOPE(-84.134066,-83.539396,42.435185,42.071577)",
-  "dcat_centroid": "42.253381,-83.836731",
+  "locn_geometry": "POLYGON((-84.134 42.435, -83.539 42.435, -83.539 42.072, -84.134 42.072, -84.134 42.435))",
+  "dcat_bbox": "ENVELOPE(-84.134,-83.539,42.435,42.072)",
+  "dcat_centroid": "42.2535,-83.8365",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -65,6 +63,5 @@
     "013463095",
     "39015091184799_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

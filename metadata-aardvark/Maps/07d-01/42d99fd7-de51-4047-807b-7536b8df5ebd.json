@@ -22,9 +22,7 @@
     "Real property Maps, Manuscript Facsimiles.",
     "Real property Michigan Ypsilanti Maps, Manuscript Facsimiles.",
     "Manuscript maps Facsimiles.",
-    "Real property Michigan Ypsilanti Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Real property Michigan Ypsilanti Maps."
   ],
   "dct_temporal_sm": [
     "1825"
@@ -40,9 +38,9 @@
     "Michigan--Ypsilanti",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.652081 42.260874, -83.596428 42.260874, -83.596428 42.224184, -83.652081 42.224184, -83.652081 42.260874))",
-  "dcat_bbox": "ENVELOPE(-83.652081,-83.596428,42.260874,42.224184)",
-  "dcat_centroid": "42.242529000000005,-83.6242545",
+  "locn_geometry": "POLYGON((-83.652 42.261, -83.596 42.261, -83.596 42.224, -83.652 42.224, -83.652 42.261))",
+  "dcat_bbox": "ENVELOPE(-83.652,-83.596,42.261,42.224)",
+  "dcat_centroid": "42.2425,-83.624",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -64,6 +62,5 @@
     "013593342",
     "39015091897176"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

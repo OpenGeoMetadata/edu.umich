@@ -20,9 +20,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Postal service",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Postal service"
   ],
   "dct_temporal_sm": [
     "1871"
@@ -36,8 +34,8 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-93 47, -82 47, -82 41, -93 41, -93 47))",
-  "dcat_bbox": "ENVELOPE(-93,-82,47,41)",
+  "locn_geometry": "POLYGON((-93.000 47.000, -82.000 47.000, -82.000 41.000, -93.000 41.000, -93.000 47.000))",
+  "dcat_bbox": "ENVELOPE(-93.000,-82.000,47.000,41.000)",
   "dcat_centroid": "44.0,-87.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -58,6 +56,5 @@
   "dct_identifier_sm": [
     "3ff12731-32fd-41c5-9b30-a18f58202283"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

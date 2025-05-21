@@ -23,10 +23,7 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "Central business districts Michigan Detroit Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Central business districts Michigan Detroit Maps."
   ],
   "dct_temporal_sm": [
     "between 1950 and 1959"
@@ -42,9 +39,9 @@
     "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.288 42.4502, -82.9104 42.4502, -82.9104 42.2552, -83.288 42.2552, -83.288 42.4502))",
-  "dcat_bbox": "ENVELOPE(-83.288,-82.9104,42.4502,42.2552)",
-  "dcat_centroid": "42.3527,-83.0992",
+  "locn_geometry": "POLYGON((-83.288 42.450, -82.910 42.450, -82.910 42.255, -83.288 42.255, -83.288 42.450))",
+  "dcat_bbox": "ENVELOPE(-83.288,-82.910,42.450,42.255)",
+  "dcat_centroid": "42.352500000000006,-83.09899999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -66,6 +63,5 @@
     "007814506",
     "39015095416155"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

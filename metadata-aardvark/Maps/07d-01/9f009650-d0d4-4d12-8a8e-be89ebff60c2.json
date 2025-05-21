@@ -17,10 +17,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1886"
   ],
@@ -33,8 +29,8 @@
   "dct_spatial_sm": [
     "Florida"
   ],
-  "locn_geometry": "POLYGON((-85 30, -80 30, -80 25, -85 25, -85 30))",
-  "dcat_bbox": "ENVELOPE(-85,-80,30,25)",
+  "locn_geometry": "POLYGON((-85.000 30.000, -80.000 30.000, -80.000 25.000, -85.000 25.000, -85.000 30.000))",
+  "dcat_bbox": "ENVELOPE(-85.000,-80.000,30.000,25.000)",
   "dcat_centroid": "27.5,-82.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "9f009650-d0d4-4d12-8a8e-be89ebff60c2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

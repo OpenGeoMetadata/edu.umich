@@ -20,11 +20,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1869"
   ],
@@ -62,6 +57,5 @@
     "003283471",
     "39015091195134_0001"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

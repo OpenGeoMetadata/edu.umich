@@ -17,10 +17,7 @@
     "Cadastral maps"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "between 1910 and 1919"
@@ -35,9 +32,9 @@
     "Michigan--Detroit",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.0652215997 42.3625769872, -83.0591428772 42.3625769872, -83.0591428772 42.3572233, -83.0652215997 42.3572233, -83.0652215997 42.3625769872))",
-  "dcat_bbox": "ENVELOPE(-83.0652215997,-83.0591428772,42.3625769872,42.3572233)",
-  "dcat_centroid": "42.3599001436,-83.06218223844999",
+  "locn_geometry": "POLYGON((-83.06 42.361, -83.059 42.361, -83.059 42.36, -83.06 42.36, -83.06 42.361))",
+  "dcat_bbox": "ENVELOPE(-83.06,-83.059,42.361,42.36)",
+  "dcat_centroid": "42.3605,-83.0595",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +54,5 @@
   "dct_identifier_sm": [
     "b485e47e-25f7-487c-9456-dfe75752b7cc"
   ],
-  "gbl_mdModified_dt": "2023-06-30T17:35:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

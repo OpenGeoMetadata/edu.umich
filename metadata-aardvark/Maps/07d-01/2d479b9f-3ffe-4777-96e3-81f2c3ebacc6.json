@@ -19,8 +19,7 @@
   ],
   "dcat_keyword_sm": [
     "Geology United States Maps.",
-    "Geology United States Maps.",
-    "2022-creator-sprint"
+    "Geology United States Maps."
   ],
   "dct_issued_s": "1873",
   "gbl_indexYear_im": [
@@ -32,8 +31,8 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "POLYGON((-125 49, -66.88 49, -66.88 24.5, -125 24.5, -125 49))",
-  "dcat_bbox": "ENVELOPE(-125,-66.88,49,24.5)",
+  "locn_geometry": "POLYGON((-125.000 49.000, -66.880 49.000, -66.880 24.500, -125.000 24.500, -125.000 49.000))",
+  "dcat_bbox": "ENVELOPE(-125.000,-66.880,49.000,24.500)",
   "dcat_centroid": "36.75,-95.94",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,6 +55,5 @@
     "000861738",
     "39015091195217"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

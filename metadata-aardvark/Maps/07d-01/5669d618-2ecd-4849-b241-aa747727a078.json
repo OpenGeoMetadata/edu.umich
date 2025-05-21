@@ -15,10 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1831"
   ],
@@ -31,8 +27,8 @@
   "dct_spatial_sm": [
     "Iran"
   ],
-  "locn_geometry": "POLYGON((40 39, 61 39, 61 23, 40 23, 40 39))",
-  "dcat_bbox": "ENVELOPE(40,61,39,23)",
+  "locn_geometry": "POLYGON((40.000 39.000, 61.000 39.000, 61.000 23.000, 40.000 23.000, 40.000 39.000))",
+  "dcat_bbox": "ENVELOPE(40.000,61.000,39.000,23.000)",
   "dcat_centroid": "31.0,50.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "5669d618-2ecd-4849-b241-aa747727a078"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

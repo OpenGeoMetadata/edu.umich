@@ -17,9 +17,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Cities and towns",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Cities and towns"
   ],
   "dct_temporal_sm": [
     "1630"
@@ -55,6 +53,5 @@
   "dct_identifier_sm": [
     "723c3d79-b378-4b41-8fdc-cf7bbaa371ec"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

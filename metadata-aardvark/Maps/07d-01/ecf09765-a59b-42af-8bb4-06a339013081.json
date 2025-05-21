@@ -14,10 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1820"
   ],
@@ -30,8 +26,8 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "POLYGON((-71.02 48, 58.38 48, 58.38 -41.87, -71.02 -41.87, -71.02 48))",
-  "dcat_bbox": "ENVELOPE(-71.02,58.38,48,-41.87)",
+  "locn_geometry": "POLYGON((-71.020 48.000, 58.380 48.000, 58.380 -41.870, -71.020 -41.870, -71.020 48.000))",
+  "dcat_bbox": "ENVELOPE(-71.020,58.380,48.000,-41.870)",
   "dcat_centroid": "3.0650000000000013,-6.319999999999997",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +48,5 @@
   "dct_identifier_sm": [
     "ecf09765-a59b-42af-8bb4-06a339013081"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

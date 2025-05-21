@@ -16,10 +16,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1884"
   ],
@@ -33,8 +29,8 @@
   "dct_spatial_sm": [
     "Colorado"
   ],
-  "locn_geometry": "POLYGON((-109 41, -102 41, -102 37, -109 37, -109 41))",
-  "dcat_bbox": "ENVELOPE(-109,-102,41,37)",
+  "locn_geometry": "POLYGON((-109.000 41.000, -102.000 41.000, -102.000 37.000, -109.000 37.000, -109.000 41.000))",
+  "dcat_bbox": "ENVELOPE(-109.000,-102.000,41.000,37.000)",
   "dcat_centroid": "39.0,-105.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "a71bdd40-43e3-49d1-8a1a-40e562605ad8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

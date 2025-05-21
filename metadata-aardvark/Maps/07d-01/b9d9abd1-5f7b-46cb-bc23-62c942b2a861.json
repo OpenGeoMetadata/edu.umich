@@ -24,11 +24,7 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Discoveries in geography Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox",
-    "-180TO180"
+    "Discoveries in geography Maps."
   ],
   "dct_temporal_sm": [
     "1897"
@@ -43,9 +39,9 @@
   "dct_spatial_sm": [
     "Arctic Regions"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,45.08)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,45.08)",
-  "dcat_centroid": "67.53999999999999,0.0",
+  "locn_geometry": "POLYGON((-179.99 89.99, 179.99 89.99, 179.99 45.08, -179.99 45.08, -179.99 89.99))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,89.99,45.08)",
+  "dcat_centroid": "67.535,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,6 +63,5 @@
     "003279076",
     "39015091195639_01"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

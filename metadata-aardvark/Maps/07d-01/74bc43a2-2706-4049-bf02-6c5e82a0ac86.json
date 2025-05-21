@@ -27,8 +27,7 @@
     "Railway mail service New England Maps.",
     "Postal service United States Maps.",
     "Postal service New England Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "sprint-2021-05"
   ],
   "dct_temporal_sm": [
     "between 1880 and 1890"
@@ -43,9 +42,9 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "POLYGON((-79.5238 49.2882, -63.7035 49.2882, -63.7035 38.6155, -79.5238 38.6155, -79.5238 49.2882))",
-  "dcat_bbox": "ENVELOPE(-79.5238,-63.7035,49.2882,38.6155)",
-  "dcat_centroid": "43.95185,-71.61364999999999",
+  "locn_geometry": "POLYGON((-79.524 49.288, -63.703 49.288, -63.703 38.615, -79.524 38.615, -79.524 49.288))",
+  "dcat_bbox": "ENVELOPE(-79.524,-63.703,49.288,38.615)",
+  "dcat_centroid": "43.951499999999996,-71.6135",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,6 +66,5 @@
     "011236526",
     "39015091910441"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

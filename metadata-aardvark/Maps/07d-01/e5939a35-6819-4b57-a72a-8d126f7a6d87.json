@@ -24,10 +24,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -40,12 +36,12 @@
   ],
   "dct_spatial_sm": [
     "France-- Grand-Est--Champagne-Ardenne",
-    " France--Grand-Est",
+    "France--Grand-Est",
     "France"
   ],
-  "locn_geometry": "POLYGON((2.7917 50.0935, 6.4392 50.0935, 6.4392 47.5628, 2.7917 47.5628, 2.7917 50.0935))",
-  "dcat_bbox": "ENVELOPE(2.7917,6.4392,50.0935,47.5628)",
-  "dcat_centroid": "48.82815,4.61545",
+  "locn_geometry": "POLYGON((2.792 50.093, 6.439 50.093, 6.439 47.563, 2.792 47.563, 2.792 50.093))",
+  "dcat_bbox": "ENVELOPE(2.792,6.439,50.093,47.563)",
+  "dcat_centroid": "48.828,4.6155",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,6 +63,5 @@
     "004204103",
     "39015091192602_01"
   ],
-  "gbl_mdModified_dt": "2023-02-28T04:15:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

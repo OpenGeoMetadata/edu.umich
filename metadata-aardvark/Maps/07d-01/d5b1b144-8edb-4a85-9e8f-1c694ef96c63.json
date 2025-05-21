@@ -22,11 +22,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -41,9 +36,9 @@
     "France-- Normandy--Perche",
     "France"
   ],
-  "locn_geometry": "POLYGON((0.600629 48.43416, 0.790693 48.43416, 0.790693 48.28272, 0.600629 48.28272, 0.600629 48.43416))",
-  "dcat_bbox": "ENVELOPE(0.600629,0.790693,48.43416,48.28272)",
-  "dcat_centroid": "48.35844,0.695661",
+  "locn_geometry": "POLYGON((0.601 48.434, 0.791 48.434, 0.791 48.283, 0.601 48.283, 0.601 48.434))",
+  "dcat_bbox": "ENVELOPE(0.601,0.791,48.434,48.283)",
+  "dcat_centroid": "48.3585,0.696",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -65,6 +60,5 @@
     "004259593",
     "39015091191380_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

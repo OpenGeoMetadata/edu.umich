@@ -21,9 +21,7 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Central business districts Michigan Detroit Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Central business districts Michigan Detroit Maps."
   ],
   "dct_temporal_sm": [
     "1701"
@@ -39,9 +37,9 @@
     "Michigan--Fort Lernoult Historical Marker",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.058247 42.340229, -83.036232 42.340229, -83.036232 42.324459, -83.058247 42.324459, -83.058247 42.340229))",
-  "dcat_bbox": "ENVELOPE(-83.058247,-83.036232,42.340229,42.324459)",
-  "dcat_centroid": "42.332344,-83.04723949999999",
+  "locn_geometry": "POLYGON((-83.058 42.340, -83.036 42.340, -83.036 42.324, -83.058 42.324, -83.058 42.340))",
+  "dcat_bbox": "ENVELOPE(-83.058,-83.036,42.340,42.324)",
+  "dcat_centroid": "42.332,-83.047",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +61,5 @@
     "010381708",
     "39015060935981_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

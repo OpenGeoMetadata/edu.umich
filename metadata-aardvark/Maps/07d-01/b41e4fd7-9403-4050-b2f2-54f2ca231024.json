@@ -16,10 +16,6 @@
   "gbl_resourceType_sm": [
     "Aerial views"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1560-1570"
   ],
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "b41e4fd7-9403-4050-b2f2-54f2ca231024"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

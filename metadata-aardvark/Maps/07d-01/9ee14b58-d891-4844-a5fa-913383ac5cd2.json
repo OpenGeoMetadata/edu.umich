@@ -18,9 +18,7 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Geology",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -34,8 +32,8 @@
   "dct_spatial_sm": [
     "New York--New York State"
   ],
-  "locn_geometry": "POLYGON((-79.5 45, -72 45, -72 40.5, -79.5 40.5, -79.5 45))",
-  "dcat_bbox": "ENVELOPE(-79.5,-72,45,40.5)",
+  "locn_geometry": "POLYGON((-79.500 45.000, -72.000 45.000, -72.000 40.500, -79.500 40.500, -79.500 45.000))",
+  "dcat_bbox": "ENVELOPE(-79.500,-72.000,45.000,40.500)",
   "dcat_centroid": "42.75,-75.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "9ee14b58-d891-4844-a5fa-913383ac5cd2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

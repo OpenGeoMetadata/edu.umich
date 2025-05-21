@@ -24,10 +24,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-2021-05",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -43,9 +39,9 @@
     "France",
     "France"
   ],
-  "locn_geometry": "POLYGON((1.8577 46.4701, 4.066 46.4701, 4.066 45.215, 1.8577 45.215, 1.8577 46.4701))",
-  "dcat_bbox": "ENVELOPE(1.8577,4.066,46.4701,45.215)",
-  "dcat_centroid": "45.84255,2.96185",
+  "locn_geometry": "POLYGON((1.858 46.470, 4.066 46.470, 4.066 45.215, 1.858 45.215, 1.858 46.470))",
+  "dcat_bbox": "ENVELOPE(1.858,4.066,46.470,45.215)",
+  "dcat_centroid": "45.8425,2.9619999999999997",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,6 +63,5 @@
     "005549861",
     "39015091191505_01"
   ],
-  "gbl_mdModified_dt": "2023-02-28T04:15:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

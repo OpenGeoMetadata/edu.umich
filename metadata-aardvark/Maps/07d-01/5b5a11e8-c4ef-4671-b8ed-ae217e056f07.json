@@ -20,8 +20,7 @@
   ],
   "dcat_keyword_sm": [
     "Real property Ontario Maps.",
-    "Land tenure Ontario Maps.",
-    "2022-creator-sprint"
+    "Land tenure Ontario Maps."
   ],
   "dct_issued_s": "1883",
   "gbl_indexYear_im": [
@@ -57,6 +56,5 @@
     "005401353",
     "39015091195589"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -26,11 +26,7 @@
   ],
   "dcat_keyword_sm": [
     "Monuments France Paris.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "FixedBBoxes"
   ],
   "dct_temporal_sm": [
     "approximately 1636"
@@ -48,9 +44,9 @@
     "France--Bourbonnais",
     "France"
   ],
-  "locn_geometry": "POLYGON((2.3143 47.0277, 3.7453 47.0277, 3.7453 46.0663, 2.3143 46.0663, 2.3143 47.0277))",
-  "dcat_bbox": "ENVELOPE(2.3143,3.7453,47.0277,46.0663)",
-  "dcat_centroid": "46.547,3.0298",
+  "locn_geometry": "POLYGON((2.314 47.028, 3.745 47.028, 3.745 46.066, 2.314 46.066, 2.314 47.028))",
+  "dcat_bbox": "ENVELOPE(2.314,3.745,47.028,46.066)",
+  "dcat_centroid": "46.547,3.0295",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -72,6 +68,5 @@
     "004205230",
     "39015091191521_01"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

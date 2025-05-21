@@ -18,10 +18,7 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Railroads",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Railroads"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -58,6 +55,5 @@
   "dct_identifier_sm": [
     "1bc9daec-3bbe-486b-a191-c95b03879f94"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

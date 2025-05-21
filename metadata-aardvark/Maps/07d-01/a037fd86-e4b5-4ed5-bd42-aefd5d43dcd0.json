@@ -27,9 +27,7 @@
   "dcat_keyword_sm": [
     "Railroads United States Maps.",
     "Shipping United States Maps.",
-    "Bus lines United States Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Bus lines United States Maps."
   ],
   "dct_temporal_sm": [
     "between 1900 and 1980"
@@ -68,6 +66,5 @@
     "009613033",
     "39015091195381"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

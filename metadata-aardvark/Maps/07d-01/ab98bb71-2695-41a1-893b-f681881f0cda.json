@@ -14,11 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Botanical gardens",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "BBoxVerified",
-    "bboxSprintJune2023"
+    "Botanical gardens"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -33,9 +29,9 @@
     "Michigan--Ann Arbor",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.7399 42.2801, -83.74 42.2801, -83.74 42.28, -83.7399 42.28, -83.7399 42.2801))",
-  "dcat_bbox": "ENVELOPE(-83.7399,-83.74,42.2801,42.28)",
-  "dcat_centroid": "42.28005,-83.73995",
+  "locn_geometry": "POLYGON((-83.74 42.281, -83.739 42.281, -83.739 42.28, -83.74 42.28, -83.74 42.281))",
+  "dcat_bbox": "ENVELOPE(-83.74,-83.739,42.281,42.28)",
+  "dcat_centroid": "42.2805,-83.73949999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "ab98bb71-2695-41a1-893b-f681881f0cda"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

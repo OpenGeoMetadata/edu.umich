@@ -26,9 +26,7 @@
   ],
   "dcat_keyword_sm": [
     "Minerals Michigan Maps.",
-    "Minerals Wisconsin Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Minerals Wisconsin Maps."
   ],
   "dct_temporal_sm": [
     "1860"
@@ -43,9 +41,9 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "locn_geometry": "POLYGON((-92.2778 47.8736, -86.1364 47.8736, -86.1364 44.8029, -92.2778 44.8029, -92.2778 47.8736))",
-  "dcat_bbox": "ENVELOPE(-92.2778,-86.1364,47.8736,44.8029)",
-  "dcat_centroid": "46.33825,-89.2071",
+  "locn_geometry": "POLYGON((-92.278 47.874, -86.136 47.874, -86.136 44.803, -92.278 44.803, -92.278 47.874))",
+  "dcat_bbox": "ENVELOPE(-92.278,-86.136,47.874,44.803)",
+  "dcat_centroid": "46.338499999999996,-89.207",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -67,6 +65,5 @@
     "003557947",
     "39015091905383"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

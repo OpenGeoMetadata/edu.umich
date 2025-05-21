@@ -15,11 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1841"
   ],
@@ -33,8 +28,8 @@
   "dct_spatial_sm": [
     "Oregon--Pacific Northwest"
   ],
-  "locn_geometry": "POLYGON((-134 55, -102 55, -102 39, -134 39, -134 55))",
-  "dcat_bbox": "ENVELOPE(-134,-102,55,39)",
+  "locn_geometry": "POLYGON((-134.000 55.000, -102.000 55.000, -102.000 39.000, -134.000 39.000, -134.000 55.000))",
+  "dcat_bbox": "ENVELOPE(-134.000,-102.000,55.000,39.000)",
   "dcat_centroid": "47.0,-118.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -55,6 +50,5 @@
   "dct_identifier_sm": [
     "ee3aaab3-62df-4008-a369-d87e62875ac2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

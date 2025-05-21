@@ -26,10 +26,7 @@
   "dcat_keyword_sm": [
     "Mineral waters United States Maps.",
     "Springs United States Maps.",
-    "Geology United States Maps.",
-    "sprint-2021-05",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Geology United States Maps."
   ],
   "dct_temporal_sm": [
     "1892"
@@ -68,6 +65,5 @@
     "003047280",
     "39015091195183"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

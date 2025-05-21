@@ -19,9 +19,7 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Inland navigation",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Inland navigation"
   ],
   "dct_temporal_sm": [
     "1878"
@@ -57,6 +55,5 @@
   "dct_identifier_sm": [
     "27730108-bd8d-4b53-af96-fd8e4b131162"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

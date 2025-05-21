@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "Meiji 22 1889"
   ],
@@ -52,6 +48,5 @@
   "dct_identifier_sm": [
     "25d3736f-3380-418f-8666-181f14617c57"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

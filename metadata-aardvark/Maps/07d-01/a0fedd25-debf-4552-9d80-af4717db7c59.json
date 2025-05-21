@@ -18,11 +18,7 @@
     "Geological maps"
   ],
   "dcat_keyword_sm": [
-    "Geology",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Geology"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -36,9 +32,9 @@
   "dct_spatial_sm": [
     "Canada--Ontario"
   ],
-  "locn_geometry": "POLYGON((-95.5967 50.0047, -93.9668 50.0047, -93.9668 49.1586, -95.5967 49.1586, -95.5967 50.0047))",
-  "dcat_bbox": "ENVELOPE(-95.5967,-93.9668,50.0047,49.1586)",
-  "dcat_centroid": "49.581649999999996,-94.78175",
+  "locn_geometry": "POLYGON((-95.597 50.005, -93.967 50.005, -93.967 49.159, -95.597 49.159, -95.597 50.005))",
+  "dcat_bbox": "ENVELOPE(-95.597,-93.967,50.005,49.159)",
+  "dcat_centroid": "49.582,-94.782",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +54,5 @@
   "dct_identifier_sm": [
     "a0fedd25-debf-4552-9d80-af4717db7c59"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

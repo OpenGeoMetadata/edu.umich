@@ -14,11 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Real property",
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Real property"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -33,9 +29,9 @@
     "Michigan--Ypsilanti",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-83.652081 42.260874, -83.581305 42.260874, -83.581305 42.229657, -83.652081 42.229657, -83.652081 42.260874))",
-  "dcat_bbox": "ENVELOPE(-83.652081,-83.581305,42.260874,42.229657)",
-  "dcat_centroid": "42.2452655,-83.616693",
+  "locn_geometry": "POLYGON((-83.652 42.261, -83.581 42.261, -83.581 42.230, -83.652 42.230, -83.652 42.261))",
+  "dcat_bbox": "ENVELOPE(-83.652,-83.581,42.261,42.230)",
+  "dcat_centroid": "42.2455,-83.6165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +51,5 @@
   "dct_identifier_sm": [
     "872b48af-20af-4db5-9b50-454ca81d82b8"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

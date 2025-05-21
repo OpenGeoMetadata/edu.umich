@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -32,8 +28,8 @@
   "dct_spatial_sm": [
     "United Kingdom--Scotland"
   ],
-  "locn_geometry": "POLYGON((-8 60.85, -0.72 60.85, -0.72 54.78, -8 54.78, -8 60.85))",
-  "dcat_bbox": "ENVELOPE(-8,-0.72,60.85,54.78)",
+  "locn_geometry": "POLYGON((-8.000 60.850, -0.720 60.850, -0.720 54.780, -8.000 54.780, -8.000 60.850))",
+  "dcat_bbox": "ENVELOPE(-8.000,-0.720,60.850,54.780)",
   "dcat_centroid": "57.815,-4.36",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,6 +50,5 @@
   "dct_identifier_sm": [
     "6a901840-fd41-40fe-91d6-3b428363dc69"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

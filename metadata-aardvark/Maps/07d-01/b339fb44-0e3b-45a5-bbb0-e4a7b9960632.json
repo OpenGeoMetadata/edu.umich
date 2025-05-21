@@ -27,10 +27,7 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "Explorations and surveys",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Explorations and surveys"
   ],
   "dct_temporal_sm": [
     "1855"
@@ -67,6 +64,5 @@
   "dct_identifier_sm": [
     "b339fb44-0e3b-45a5-bbb0-e4a7b9960632"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

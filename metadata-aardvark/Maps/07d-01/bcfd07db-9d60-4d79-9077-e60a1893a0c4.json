@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1848"
   ],
@@ -29,8 +25,8 @@
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "locn_geometry": "POLYGON((-126 40, -75 40, -75 13, -126 13, -126 40))",
-  "dcat_bbox": "ENVELOPE(-126,-75,40,13)",
+  "locn_geometry": "POLYGON((-126.000 40.000, -75.000 40.000, -75.000 13.000, -126.000 13.000, -126.000 40.000))",
+  "dcat_bbox": "ENVELOPE(-126.000,-75.000,40.000,13.000)",
   "dcat_centroid": "26.5,-100.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -51,6 +47,5 @@
   "dct_identifier_sm": [
     "bcfd07db-9d60-4d79-9077-e60a1893a0c4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

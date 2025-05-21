@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1831"
   ],
@@ -32,8 +28,8 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "locn_geometry": "POLYGON((-90 39, -82 39, -82 35, -90 35, -90 39))",
-  "dcat_bbox": "ENVELOPE(-90,-82,39,35)",
+  "locn_geometry": "POLYGON((-90.000 39.000, -82.000 39.000, -82.000 35.000, -90.000 35.000, -90.000 39.000))",
+  "dcat_bbox": "ENVELOPE(-90.000,-82.000,39.000,35.000)",
   "dcat_centroid": "37.0,-86.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -54,6 +50,5 @@
   "dct_identifier_sm": [
     "ab0b3baa-bc24-4fe1-b3b4-3ce7dafb9fdc"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

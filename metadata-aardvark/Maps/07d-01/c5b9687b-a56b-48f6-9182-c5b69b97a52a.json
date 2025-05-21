@@ -14,10 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1887"
   ],
@@ -31,8 +27,8 @@
     "India-- Kashmir--Jammu and Kashmir",
     "India"
   ],
-  "locn_geometry": "POLYGON((-125 49, -116.5 49, -116.5 45, -125 45, -125 49))",
-  "dcat_bbox": "ENVELOPE(-125,-116.5,49,45)",
+  "locn_geometry": "POLYGON((-125.000 49.000, -116.500 49.000, -116.500 45.000, -125.000 45.000, -125.000 49.000))",
+  "dcat_bbox": "ENVELOPE(-125.000,-116.500,49.000,45.000)",
   "dcat_centroid": "47.0,-120.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "c5b9687b-a56b-48f6-9182-c5b69b97a52a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

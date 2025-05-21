@@ -18,10 +18,7 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Industries",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Industries"
   ],
   "dct_temporal_sm": [
     "1864"
@@ -37,9 +34,9 @@
     "Michigan--Saginaw River",
     "Michigan"
   ],
-  "locn_geometry": "POLYGON((-84.064758 43.667158, -83.742678 43.667158, -83.742678 43.353659, -84.064758 43.353659, -84.064758 43.667158))",
-  "dcat_bbox": "ENVELOPE(-84.064758,-83.742678,43.667158,43.353659)",
-  "dcat_centroid": "43.5104085,-83.903718",
+  "locn_geometry": "POLYGON((-84.065 43.667, -83.743 43.667, -83.743 43.354, -84.065 43.354, -84.065 43.667))",
+  "dcat_bbox": "ENVELOPE(-84.065,-83.743,43.667,43.354)",
+  "dcat_centroid": "43.5105,-83.904",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,6 +56,5 @@
   "dct_identifier_sm": [
     "b2bda7b4-247c-4534-ad04-a0cd601b66ae"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

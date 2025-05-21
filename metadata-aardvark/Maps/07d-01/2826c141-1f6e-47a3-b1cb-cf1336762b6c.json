@@ -15,10 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1755"
   ],
@@ -31,9 +27,9 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "POLYGON((-9.4043 83.970256, 171.7382803 83.970256, 171.7382803 5.4961, -9.4043 5.4961, -9.4043 83.970256))",
-  "dcat_bbox": "ENVELOPE(-9.4043,171.7382803,83.970256,5.4961)",
-  "dcat_centroid": "44.733178,81.16699015",
+  "locn_geometry": "POLYGON((-9.404 83.970, 171.738 83.970, 171.738 5.496, -9.404 5.496, -9.404 83.970))",
+  "dcat_bbox": "ENVELOPE(-9.404,171.738,83.970,5.496)",
+  "dcat_centroid": "44.733,81.167",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "2826c141-1f6e-47a3-b1cb-cf1336762b6c"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

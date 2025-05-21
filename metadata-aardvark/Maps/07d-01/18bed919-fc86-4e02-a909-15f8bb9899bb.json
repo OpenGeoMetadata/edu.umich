@@ -32,8 +32,8 @@
     "Canada--Manitoba",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-101.63 51.07, -94.87 51.07, -94.87 49, -101.63 49, -101.63 51.07))",
-  "dcat_bbox": "ENVELOPE(-101.63,-94.87,51.07,49)",
+  "locn_geometry": "POLYGON((-101.630 51.070, -94.870 51.070, -94.870 49.000, -101.630 49.000, -101.630 51.070))",
+  "dcat_bbox": "ENVELOPE(-101.630,-94.870,51.070,49.000)",
   "dcat_centroid": "50.035,-98.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -56,6 +56,5 @@
     "003280519",
     "39015091910987"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

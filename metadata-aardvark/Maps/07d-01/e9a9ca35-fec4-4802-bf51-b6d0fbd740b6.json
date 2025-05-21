@@ -24,9 +24,7 @@
     "National parks and reserves United States Maps.",
     "National parks and reserves Canada Maps.",
     "American literature Maps.",
-    "Literary landmarks United States Maps.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Literary landmarks United States Maps."
   ],
   "dct_temporal_sm": [
     "between 1950 and 1959"
@@ -65,6 +63,5 @@
     "002550360",
     "39015091916307"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

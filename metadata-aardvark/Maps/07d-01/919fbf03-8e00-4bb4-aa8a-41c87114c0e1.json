@@ -14,10 +14,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1630 and 1639"
   ],
@@ -31,8 +27,8 @@
     "Switzerland--Lake Geneva",
     "Switzerland"
   ],
-  "locn_geometry": "POLYGON((5.96 46.62, 6.94 46.62, 6.94 46, 5.96 46, 5.96 46.62))",
-  "dcat_bbox": "ENVELOPE(5.96,6.94,46.62,46)",
+  "locn_geometry": "POLYGON((5.960 46.620, 6.940 46.620, 6.940 46.000, 5.960 46.000, 5.960 46.620))",
+  "dcat_bbox": "ENVELOPE(5.960,6.940,46.620,46.000)",
   "dcat_centroid": "46.31,6.45",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "919fbf03-8e00-4bb4-aa8a-41c87114c0e1"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

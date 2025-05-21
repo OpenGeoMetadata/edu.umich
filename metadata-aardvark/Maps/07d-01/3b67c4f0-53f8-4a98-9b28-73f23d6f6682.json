@@ -17,9 +17,7 @@
   ],
   "dcat_keyword_sm": [
     "Real property",
-    "Land use",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Land use"
   ],
   "dct_temporal_sm": [
     "Hōei 7 1710?"
@@ -56,6 +54,5 @@
   "dct_identifier_sm": [
     "3b67c4f0-53f8-4a98-9b28-73f23d6f6682"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

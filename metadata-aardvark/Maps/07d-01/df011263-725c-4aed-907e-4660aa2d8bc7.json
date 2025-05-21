@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Indian reservations",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Indian reservations"
   ],
   "dct_temporal_sm": [
     "1867"
@@ -30,8 +28,8 @@
   "dct_spatial_sm": [
     "South Dakota"
   ],
-  "locn_geometry": "POLYGON((-106.5 50, -93.5 50, -93.5 38.5, -106.5 38.5, -106.5 50))",
-  "dcat_bbox": "ENVELOPE(-106.5,-93.5,50,38.5)",
+  "locn_geometry": "POLYGON((-106.500 50.000, -93.500 50.000, -93.500 38.500, -106.500 38.500, -106.500 50.000))",
+  "dcat_bbox": "ENVELOPE(-106.500,-93.500,50.000,38.500)",
   "dcat_centroid": "44.25,-100.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +50,5 @@
   "dct_identifier_sm": [
     "df011263-725c-4aed-907e-4660aa2d8bc7"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

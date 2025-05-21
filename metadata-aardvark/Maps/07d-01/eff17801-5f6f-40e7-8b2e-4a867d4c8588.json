@@ -15,10 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1831"
   ],
@@ -31,8 +27,8 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "locn_geometry": "POLYGON((-84 40, -75 40, -75 37, -84 37, -84 40))",
-  "dcat_bbox": "ENVELOPE(-84,-75,40,37)",
+  "locn_geometry": "POLYGON((-84.000 40.000, -75.000 40.000, -75.000 37.000, -84.000 37.000, -84.000 40.000))",
+  "dcat_bbox": "ENVELOPE(-84.000,-75.000,40.000,37.000)",
   "dcat_centroid": "38.5,-79.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "eff17801-5f6f-40e7-8b2e-4a867d4c8588"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,9 +20,7 @@
     "Pictorial maps"
   ],
   "dcat_keyword_sm": [
-    "Folklore United States Maps, Pictorial.",
-    "sprint-2021-05",
-    "202212bbox"
+    "Folklore United States Maps, Pictorial."
   ],
   "dct_temporal_sm": [
     "between 1900 and 1946"
@@ -61,6 +59,5 @@
     "003279964",
     "39015091916448_01"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

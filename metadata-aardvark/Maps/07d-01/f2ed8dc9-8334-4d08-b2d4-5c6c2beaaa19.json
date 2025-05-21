@@ -18,12 +18,6 @@
     "Early maps",
     "World maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint",
-    "202212bbox",
-    "-180TO180"
-  ],
   "dct_temporal_sm": [
     "between 1770 and 1779"
   ],
@@ -37,8 +31,8 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "locn_geometry": "POLYGON((-179.99 89.99, 179.99 89.99, 179.99 -89.99, -179.99 -89.99, -179.99 89.99))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,89.99,-89.99)",
   "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -59,6 +53,5 @@
   "dct_identifier_sm": [
     "f2ed8dc9-8334-4d08-b2d4-5c6c2beaaa19"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

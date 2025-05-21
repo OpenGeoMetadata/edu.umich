@@ -21,9 +21,7 @@
   ],
   "dcat_keyword_sm": [
     "Mines",
-    "Mining",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Mining"
   ],
   "dct_temporal_sm": [
     "1895"
@@ -38,8 +36,8 @@
     "British Columbia-- Canada--Kamloops",
     "Canada--British Columbia"
   ],
-  "locn_geometry": "POLYGON((-122 52, -119 52, -119 49, -122 49, -122 52))",
-  "dcat_bbox": "ENVELOPE(-122,-119,52,49)",
+  "locn_geometry": "POLYGON((-122.000 52.000, -119.000 52.000, -119.000 49.000, -122.000 49.000, -122.000 52.000))",
+  "dcat_bbox": "ENVELOPE(-122.000,-119.000,52.000,49.000)",
   "dcat_centroid": "50.5,-120.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -60,6 +58,5 @@
   "dct_identifier_sm": [
     "3a36a334-c792-462e-93f7-c152fbb67961"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

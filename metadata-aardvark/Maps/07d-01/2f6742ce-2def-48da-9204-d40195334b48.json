@@ -18,10 +18,6 @@
     "Pictorial maps",
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1570?"
   ],
@@ -35,8 +31,8 @@
   "dct_spatial_sm": [
     "Americas"
   ],
-  "locn_geometry": "POLYGON((-124.75 49, -32.87 49, -32.87 -55.7, -124.75 -55.7, -124.75 49))",
-  "dcat_bbox": "ENVELOPE(-124.75,-32.87,49,-55.7)",
+  "locn_geometry": "POLYGON((-124.750 49.000, -32.870 49.000, -32.870 -55.700, -124.750 -55.700, -124.750 49.000))",
+  "dcat_bbox": "ENVELOPE(-124.750,-32.870,49.000,-55.700)",
   "dcat_centroid": "-3.3500000000000014,-78.81",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -57,6 +53,5 @@
   "dct_identifier_sm": [
     "2f6742ce-2def-48da-9204-d40195334b48"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

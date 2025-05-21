@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Discovery and exploration",
-    "Clark Library Map Collections",
-    "2022-creator-sprint"
+    "Discovery and exploration"
   ],
   "dct_temporal_sm": [
     "1845"
@@ -30,8 +28,8 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-125 46, -94 46, -94 34, -125 34, -125 46))",
-  "dcat_bbox": "ENVELOPE(-125,-94,46,34)",
+  "locn_geometry": "POLYGON((-125.000 46.000, -94.000 46.000, -94.000 34.000, -125.000 34.000, -125.000 46.000))",
+  "dcat_bbox": "ENVELOPE(-125.000,-94.000,46.000,34.000)",
   "dcat_centroid": "40.0,-109.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +50,5 @@
   "dct_identifier_sm": [
     "afcbb8e5-7fd7-4290-a420-f2904122cc89"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

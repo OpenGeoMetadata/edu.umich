@@ -19,10 +19,7 @@
   ],
   "dcat_keyword_sm": [
     "American Civil War",
-    "Battle of Bull Run",
-    "Clark Library Map Collections",
-    "sprint-mar2020",
-    "2022-creator-sprint"
+    "Battle of Bull Run"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -60,6 +57,5 @@
   "dct_identifier_sm": [
     "1426c995-c408-432d-a86e-aa5e7b8af738"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }
